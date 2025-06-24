@@ -1,1 +1,1 @@
-export { scrapeUrl, ScrapedData } from './scraper'; 
+export { scrapeUrl, scrapeMenuUrl, extractMenuData, ScrapedData, MenuData } from './scraper'; 

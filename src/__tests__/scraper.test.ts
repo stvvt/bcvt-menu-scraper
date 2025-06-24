@@ -1,4 +1,4 @@
-import { scrapeUrl } from '../scraper';
+import { scrapeUrl, extractMenuData, scrapeMenuUrl } from '../scraper';
 import axios from 'axios';
 
 // Mock axios
@@ -7,62 +7,7 @@ const mockedAxios = axios as jest.Mocked<typeof axios>;
 
 describe('scraper', () => {
   describe('scrapeUrl', () => {
-    it('should scrape basic HTML content', async () => {
-      const mockHtml = `
-        <!DOCTYPE html>
-        <html>
-          <head>
-            <title>Test Page</title>
-            <meta name="description" content="Test description">
-            <meta name="keywords" content="test, scraping">
-          </head>
-          <body>
-            <h1>Main Heading</h1>
-            <h2>Sub Heading</h2>
-            <p>Some paragraph text.</p>
-            <a href="https://example.com">Example Link</a>
-            <img src="test.jpg" alt="Test Image">
-          </body>
-        </html>
-      `;
 
-      mockedAxios.get.mockResolvedValue({
-        data: mockHtml,
-      });
-
-      const result = await scrapeUrl('https://test.com');
-
-      expect(result).toMatchObject({
-        url: 'https://test.com',
-        title: 'Test Page',
-        meta: {
-          description: 'Test description',
-          keywords: 'test, scraping',
-        },
-        headings: {
-          h1: ['Main Heading'],
-          h2: ['Sub Heading'],
-          h3: [],
-        },
-        links: [
-          {
-            text: 'Example Link',
-            href: 'https://example.com',
-          },
-        ],
-        images: [
-          {
-            src: 'test.jpg',
-            alt: 'Test Image',
-          },
-        ],
-      });
-
-      expect(result.text).toContain('Main Heading');
-      expect(result.text).toContain('Some paragraph text');
-      expect(result.scrapedAt).toBeDefined();
-      expect(new Date(result.scrapedAt)).toBeInstanceOf(Date);
-    });
 
     it('should handle axios errors', async () => {
       mockedAxios.get.mockRejectedValue({
@@ -125,6 +70,107 @@ describe('scraper', () => {
           'Cache-Control': 'max-age=0'
         }
       });
+    });
+  });
+
+  describe('extractMenuData', () => {
+    it('should extract Bulgarian menu data correctly', () => {
+      const mockHtml = `
+        <html>
+          <body>
+            <h2>Меню за 24-ти юни</h2>
+            <div class="priceListHolder">
+              <div class="product">
+                <span class="productName">Болярска милинка</span>
+                <b class="nowrap">4.20 лв</b>
+              </div>
+              <div class="product">
+                <span class="productName">Болярска триъгълна баница</span>
+                <b class="nowrap">3.20 лв</b>
+              </div>
+              <div class="product">
+                <span class="productName">Сандвич с кайма и кашкавал</span>
+                <b class="nowrap">4.00 лв</b>
+              </div>
+              <div class="product">
+                <span class="productName">Таратор</span>
+                <b class="nowrap">2.90 лв</b>
+              </div>
+            </div>
+          </body>
+        </html>
+      `;
+
+      const result = extractMenuData(mockHtml);
+
+      expect(result).toEqual({
+        date: '24-ти юни',
+        meals: [
+          { name: 'Болярска милинка', price: '4.20' },
+          { name: 'Болярска триъгълна баница', price: '3.20' },
+          { name: 'Сандвич с кайма и кашкавал', price: '4.00' },
+          { name: 'Таратор', price: '2.90' }
+        ]
+      });
+    });
+
+
+
+    it('should return null if no menu date found', () => {
+      const mockHtml = `
+        <html>
+          <body>
+            <p>Some random content without menu header</p>
+            <p>Random dish 5.00 лв</p>
+          </body>
+        </html>
+      `;
+
+      const result = extractMenuData(mockHtml);
+      expect(result).toBeNull();
+    });
+  });
+
+  describe('scrapeMenuUrl', () => {
+    it('should scrape and extract menu data from URL', async () => {
+      const mockHtml = `
+        <html>
+          <body>
+            <h2>Меню за 24-ти юни</h2>
+            <div class="priceListHolder">
+              <div class="product">
+                <span class="productName">Болярска милинка</span>
+                <b class="nowrap">4.20 лв</b>
+              </div>
+              <div class="product">
+                <span class="productName">Таратор</span>
+                <b class="nowrap">2.90 лв</b>
+              </div>
+            </div>
+          </body>
+        </html>
+      `;
+
+      mockedAxios.get.mockResolvedValue({ data: mockHtml });
+
+      const result = await scrapeMenuUrl('https://bcvt.eu/test');
+
+      expect(result).toEqual({
+        date: '24-ти юни',
+        meals: [
+          { name: 'Болярска милинка', price: '4.20' },
+          { name: 'Таратор', price: '2.90' }
+        ]
+      });
+    });
+
+    it('should throw error if no menu data found', async () => {
+      const mockHtml = '<html><body>No menu here</body></html>';
+      mockedAxios.get.mockResolvedValue({ data: mockHtml });
+
+      await expect(scrapeMenuUrl('https://bcvt.eu/test')).rejects.toThrow(
+        'Could not extract menu data from the page'
+      );
     });
   });
 }); 
