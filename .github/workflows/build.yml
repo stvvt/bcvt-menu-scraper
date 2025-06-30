@@ -1,0 +1,42 @@
+name: Build TypeScript
+
+on:
+  push:
+    paths:
+      - 'src/**'
+      - 'package.json'
+      - 'yarn.lock'
+      - 'tsconfig.json'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: yarn install
+        
+      - name: Clean previous build
+        run: yarn clean
+        
+      - name: Build TypeScript
+        run: yarn build
+        
+      - name: Commit built artifacts
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/
+          git commit -m "Build: Update compiled JavaScript [skip ci]" || exit 0
+          git push
+
+permissions:
+  contents: write  # Required to commit built files 
