@@ -5,7 +5,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Build output
-# dist/ - Now committed by build action
+dist/
 build/
 
 # Coverage directory used by tools like istanbul

@@ -20,6 +20,14 @@ jobs:
       - name: Install production dependencies only
         run: yarn install --production
         
+      - name: Download latest build artifact
+        uses: dawidd6/action-download-artifact@v3
+        with:
+          name: built-app
+          path: dist/
+          workflow: build.yml
+          workflow_conclusion: success
+        
       - name: Run scraper script
         run: ./scrape.sh
         
@@ -36,4 +44,5 @@ jobs:
           git push
 
 permissions:
-  contents: write  # Required to push commits 
+  contents: write  # Required to push data commits
+  actions: read     # Required to download artifacts 

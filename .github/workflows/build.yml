@@ -30,13 +30,11 @@ jobs:
       - name: Build TypeScript
         run: yarn build
         
-      - name: Commit built artifacts
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add dist/
-          git commit -m "Build: Update compiled JavaScript [skip ci]" || exit 0
-          git push
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: built-app
+          path: dist/
 
 permissions:
-  contents: write  # Required to commit built files 
+  contents: read  # Only need read access now 
