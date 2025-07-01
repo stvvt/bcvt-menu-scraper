@@ -31,6 +31,7 @@ export interface MenuData {
   meals: Array<{
     name: string;
     price: string;
+    currency?: string;
   }>;
 }
 
@@ -53,7 +54,7 @@ export function extractMenuData(html: string): MenuData | null {
   }
 
   // Extract meals and prices using proper BCVT HTML selectors
-  const meals: Array<{ name: string; price: string }> = [];
+  const meals: MenuData['meals'] = [];
   
   // Find all products in the price list
   $('.priceListHolder .product').each((_, productElement) => {
@@ -67,12 +68,13 @@ export function extractMenuData(html: string): MenuData | null {
     const priceElement = $product.find('> b.nowrap');
     const priceText = priceElement.text().trim();
     
-    // Extract numeric price from text (e.g., "4.20 лв" -> "4.20")
-    const priceMatch = priceText.match(/(\d+\.\d+)/);
+    // Parse price and currency (e.g., "4.20 лв" -> price: "4.20", currency: "лв")
+    const priceMatch = priceText.match(/(\d+\.\d+)\s*(.+)/);
     
     if (name && priceMatch) {
       const price = priceMatch[1];
-      meals.push({ name, price });
+      const currency = priceMatch[2].trim();
+      meals.push({ name, price, currency });
     }
   });
 

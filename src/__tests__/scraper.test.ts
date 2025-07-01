@@ -106,10 +106,10 @@ describe('scraper', () => {
       expect(result).toEqual({
         date: '24-ти юни',
         meals: [
-          { name: 'Болярска милинка', price: '4.20' },
-          { name: 'Болярска триъгълна баница', price: '3.20' },
-          { name: 'Сандвич с кайма и кашкавал', price: '4.00' },
-          { name: 'Таратор', price: '2.90' }
+          { name: 'Болярска милинка', price: '4.20', currency: 'лв' },
+          { name: 'Болярска триъгълна баница', price: '3.20', currency: 'лв' },
+          { name: 'Сандвич с кайма и кашкавал', price: '4.00', currency: 'лв' },
+          { name: 'Таратор', price: '2.90', currency: 'лв' }
         ]
       });
     });
@@ -158,8 +158,8 @@ describe('scraper', () => {
       expect(result).toEqual({
         date: '24-ти юни',
         meals: [
-          { name: 'Болярска милинка', price: '4.20' },
-          { name: 'Таратор', price: '2.90' }
+          { name: 'Болярска милинка', price: '4.20', currency: 'лв' },
+          { name: 'Таратор', price: '2.90', currency: 'лв' }
         ]
       });
     });
