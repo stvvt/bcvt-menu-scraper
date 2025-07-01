@@ -2,7 +2,7 @@ name: Daily Menu Scraper
 
 on:
   schedule:
-    - cron: '0 11 * * 1-5'  # 11:00 AM, Monday-Friday
+    - cron: '13 9 * * 1-5'  # 11:13 AM EET (9:13 AM UTC), Monday-Friday
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
