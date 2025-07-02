@@ -1,3 +1,7 @@
+const dotenv = require('dotenv');
+
+dotenv.config({ path: '.env.local', debug: false });
+
 async function categorizeDish(dishName) {
   const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
@@ -10,7 +14,7 @@ async function categorizeDish(dishName) {
       messages: [
         {
           role: 'user',
-          content: `Категоризирай ястието "${dishName}" като едно от: супи, салати, десерти, предястия, основни ястие, гарнитури, напитки. Отговори с един вариант.`
+          content: `Категоризирай ястието "${dishName}" като едно от: закуски, супи, салати, десерти, предястия, основни ястия, гарнитури, напитки. Отговори с един вариант.`
         }
       ]
     })
