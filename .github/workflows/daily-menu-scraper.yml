@@ -29,6 +29,8 @@ jobs:
           workflow_conclusion: success
         
       - name: Run scraper script
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: ./scrape.sh
         
       - name: Get current date
