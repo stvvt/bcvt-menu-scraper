@@ -2,7 +2,7 @@ name: Daily Menu Scraper
 
 on:
   schedule:
-    - cron: '52 7 * * 1-5'  # 9:52 AM EET (10:52 AM EEST, 7:52 AM UTC), Monday-Friday
+    - cron: '52 6 * * 1-5'  # 8:52 AM EET (9:52 AM EEST, 6:52 AM UTC), Monday-Friday
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
@@ -41,7 +41,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add db/*.json merged.json
+          git add db/
           git commit -m "Menu data for ${{ steps.date.outputs.date }}" || exit 0
           git push
 
