@@ -8,7 +8,26 @@ if [ $# -eq 0 ]; then
   exit 1
 fi
 
-jq -s '
+# Create a temporary array to hold file content with filenames
+temp_json=$(mktemp)
+echo "[" > "$temp_json"
+
+first=true
+for file in "$@"; do
+  if [ "$first" = true ]; then
+    first=false
+  else
+    echo "," >> "$temp_json"
+  fi
+  
+  # Strip db/daily/ prefix and .json suffix from filename
+  basename_file=$(basename "$file" .json)
+  jq --arg filename "$basename_file" '. + {"filename": $filename}' "$file" >> "$temp_json"
+done
+
+echo "]" >> "$temp_json"
+
+jq '
   [
     . as $files |
     (
@@ -21,7 +40,8 @@ jq -s '
         [
           $files[] |
           {
-            "date": .date,
+            "dateText": .date,
+            "date": .filename,
             "price": (.meals[] | select(.name == $name) | .price)
           } |
           select(.price != null)
@@ -36,4 +56,7 @@ jq -s '
     } |
     select(.prices | length > 0)
   ]
-' "$@"
+' "$temp_json"
+
+# Clean up
+rm "$temp_json"
