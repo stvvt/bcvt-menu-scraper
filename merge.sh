@@ -42,12 +42,13 @@ jq '
           {
             "dateText": .date,
             "date": .filename,
-            "price": (.meals[] | select(.name == $name) | .price)
+            "price": (.meals[] | select(.name == $name) | .price),
+            "currency": (.meals[] | select(.name == $name) | .currency // "лв")
           } |
           select(.price != null)
         ] |
         reduce .[] as $item ([];
-          if length == 0 or .[-1].price != $item.price
+          if length == 0 or .[-1].price != $item.price or .[-1].currency != $item.currency
           then . + [$item]
           else .
           end
