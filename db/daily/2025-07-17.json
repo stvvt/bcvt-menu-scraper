@@ -1,0 +1,162 @@
+{
+  "date": "17-ти юли",
+  "meals": [
+    {
+      "name": "Болярска баница вита",
+      "price": "3.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1935007f-200.jpg",
+      "ean": "2003"
+    },
+    {
+      "name": "Бухти",
+      "price": "1.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f9eb212e-200.jpg",
+      "ean": "2023"
+    },
+    {
+      "name": "Сандвич със суджук и кашкавал",
+      "price": "5.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9467f787-200.jpg",
+      "ean": "2028"
+    },
+    {
+      "name": "Зелена салата с домати и краставици",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0f40f929-200.jpg",
+      "ean": "4048"
+    },
+    {
+      "name": "Салата домати с кашкавал и яйце",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3d4ba6a-200.jpg",
+      "ean": "4053"
+    },
+    {
+      "name": "Супа зелен боб",
+      "price": "2.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2c56229b-200.jpg",
+      "ean": "5011"
+    },
+    {
+      "name": "Таратор",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d92da2a5-200.jpg",
+      "ean": "5044"
+    },
+    {
+      "name": "Агнешка дроб сарма",
+      "price": "7.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e058cfaa-200.jpg",
+      "ean": "6252"
+    },
+    {
+      "name": "Бяла риба пане",
+      "price": "8.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b1e1db00-200.jpg",
+      "ean": "6106"
+    },
+    {
+      "name": "Задушени броколи",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d240e011-200.jpg",
+      "ean": "6291"
+    },
+    {
+      "name": "Паста карбонара",
+      "price": "6.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0ac9d665-200.jpg",
+      "ean": "6042"
+    },
+    {
+      "name": "Пилешка пържола запечена с моцарела и бекон",
+      "price": "8.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/014fc828-200.jpg",
+      "ean": "6259"
+    },
+    {
+      "name": "Пилешки хапки",
+      "price": "7.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Сьомга филе на плоча",
+      "price": "11.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f2cad42f-200.jpg",
+      "ean": "6530"
+    },
+    {
+      "name": "Бадемов крем",
+      "price": "3.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fefe4a0d-200.jpg",
+      "ean": "8062"
+    },
+    {
+      "name": "Гараш",
+      "price": "5.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8dd64211-200.jpg",
+      "ean": "8017"
+    },
+    {
+      "name": "Крем пъпеш с мента",
+      "price": "3.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Крем с фибри",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c38c47d9-200.jpg",
+      "ean": "8064"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Орехов крем",
+      "price": "3.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Портокалово реване",
+      "price": "2.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Червено кадифе",
+      "price": "4.20",
+      "currency": "лв"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Щрудел с халва и круша",
+      "price": "3.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Ягодова торта с крем с фибри",
+      "price": "4.90",
+      "currency": "лв"
+    }
+  ]
+}
