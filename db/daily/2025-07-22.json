@@ -1,0 +1,147 @@
+{
+  "date": "22-ри юли",
+  "meals": [
+    {
+      "name": "Болярска закуска рогче",
+      "price": "3.20",
+      "currency": "лв"
+    },
+    {
+      "name": "Болярска закуска с кренвирш",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3c900943-200.jpg",
+      "ean": "2004"
+    },
+    {
+      "name": "Тутманик с пълнозърнесто брашно",
+      "price": "2.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7ee6aabf-200.jpg",
+      "ean": "2022"
+    },
+    {
+      "name": "Салата варени картофи с лук и маслини",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/98b7a0b4-200.jpg",
+      "ean": "4078"
+    },
+    {
+      "name": "Салата гуакамоле",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fe7e183d-200.jpg",
+      "ean": "4086"
+    },
+    {
+      "name": "Салата зеле с моркови",
+      "price": "1.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5b1b7b7a-200.jpg",
+      "ean": "4014"
+    },
+    {
+      "name": "Крем супа от грах",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/65e75776-200.jpg",
+      "ean": "5018"
+    },
+    {
+      "name": "Пилешка супа",
+      "price": "4.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b4e09d46-200.jpg",
+      "ean": "5002"
+    },
+    {
+      "name": "Бяла риба пане",
+      "price": "8.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b1e1db00-200.jpg",
+      "ean": "6106"
+    },
+    {
+      "name": "Задушени зеленчуци в масло",
+      "price": "3.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f9c143c0-200.png",
+      "ean": "6088"
+    },
+    {
+      "name": "Лучена яхния",
+      "price": "4.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/49f4eb03-200.jpg",
+      "ean": "6130"
+    },
+    {
+      "name": "Парче пица Маргарита",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a29e8615-200.jpg",
+      "ean": "6390"
+    },
+    {
+      "name": "Пилешка пържола от бут на скара",
+      "price": "5.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f3812edd-200.jpg",
+      "ean": "6148"
+    },
+    {
+      "name": "Свински гърди на скара",
+      "price": "9.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d1280da4-200.jpg",
+      "ean": "6529"
+    },
+    {
+      "name": "Селски картофи",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/40204047-200.jpg",
+      "ean": "6535"
+    },
+    {
+      "name": "Скумрия на скара",
+      "price": "6.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c78d91aa-200.jpg",
+      "ean": "6055"
+    },
+    {
+      "name": "Сьомга филе на плоча",
+      "price": "11.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f2cad42f-200.jpg",
+      "ean": "6530"
+    },
+    {
+      "name": "Телешко кюфте на скара",
+      "price": "3.20",
+      "currency": "лв"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Студен чийзкейк с мента и сладко от портокали",
+      "price": "5.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Шоколадов мус",
+      "price": "3.10",
+      "currency": "лв"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв"
+    }
+  ]
+}
