@@ -53,6 +53,22 @@ jq '
           else .
           end
         )
+      ),
+      "images": (
+        [
+          $files[] |
+          {
+            "date": .filename,
+            "imageUrl": (.meals[] | select(.name == $name) | .imageUrl)
+          } |
+          select(.imageUrl != null)
+        ] |
+        reduce .[] as $item ([];
+          if length == 0 or .[-1].imageUrl != $item.imageUrl
+          then . + [$item]
+          else .
+          end
+        )
       )
     } |
     select(.prices | length > 0)
