@@ -1,0 +1,177 @@
+{
+  "date": "21-ви юли",
+  "meals": [
+    {
+      "name": "Сандвич с луканка и кашкавал",
+      "price": "4.70",
+      "currency": "лв"
+    },
+    {
+      "name": "Сандвич с моцарела и домат",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6195ed1f-200.jpg",
+      "ean": "2012"
+    },
+    {
+      "name": "Листна салата с моркови",
+      "price": "2.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fa9528f6-200.jpg",
+      "ean": "4040"
+    },
+    {
+      "name": "Салата домати с кашкавал и яйце",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3d4ba6a-200.jpg",
+      "ean": "4053"
+    },
+    {
+      "name": "Зеленчукова супа",
+      "price": "3.10",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ee189693-200.jpg",
+      "ean": "5030"
+    },
+    {
+      "name": "Таратор",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d92da2a5-200.jpg",
+      "ean": "5044"
+    },
+    {
+      "name": "Два вида ориз с киноа",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a74b3fd5-200.jpg",
+      "ean": "6406"
+    },
+    {
+      "name": "Картофени крокети с пушено пилешко филе",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0027df53-200.jpg",
+      "ean": "6044"
+    },
+    {
+      "name": "Кюфтета с доматен сос",
+      "price": "5.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e0060477-200.jpg",
+      "ean": "6011"
+    },
+    {
+      "name": "Пилешко кюфте на скара",
+      "price": "3.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Пилешко филе със сметана, царевица и гъби",
+      "price": "8.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3e8b8b80-200.jpg",
+      "ean": "6257"
+    },
+    {
+      "name": "Свински шницел",
+      "price": "6.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cec6d4e3-200.png",
+      "ean": "6010"
+    },
+    {
+      "name": "Спагети със зеленчуци",
+      "price": "3.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Яхния леща",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d41e919-200.jpg",
+      "ean": "6238"
+    },
+    {
+      "name": "Бадемов крем",
+      "price": "3.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fefe4a0d-200.jpg",
+      "ean": "8062"
+    },
+    {
+      "name": "Баклава със сушени плодове",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/711066e7-200.jpg",
+      "ean": "8124"
+    },
+    {
+      "name": "Гараш",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8dd64211-200.jpg",
+      "ean": "8017"
+    },
+    {
+      "name": "Грис халва",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ec691962-200.jpg",
+      "ean": "8073"
+    },
+    {
+      "name": "Крем карамел",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a82e6194-200.jpg",
+      "ean": "8004"
+    },
+    {
+      "name": "Крем пъпеш с мента",
+      "price": "3.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Орехов крем",
+      "price": "3.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Плодова торта",
+      "price": "4.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Портокалово реване",
+      "price": "2.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Червено кадифе",
+      "price": "4.20",
+      "currency": "лв"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Щрудел с халва и круша",
+      "price": "3.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Ягодова торта с крем с фибри",
+      "price": "4.90",
+      "currency": "лв"
+    }
+  ]
+}
