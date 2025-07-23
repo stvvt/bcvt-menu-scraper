@@ -130,7 +130,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/20f42055-200.jpg"
+      }
+    ]
   },
   {
     "name": "Болярска закуска рогче",
@@ -382,7 +387,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2681c5c7-200.jpg"
+      }
+    ]
   },
   {
     "name": "Грис халва",
@@ -611,7 +621,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e01f2154-200.jpg"
+      }
+    ]
   },
   {
     "name": "Зелена салата с домати и краставици",
@@ -640,7 +655,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3a9e7d62-200.jpg"
+      }
+    ]
   },
   {
     "name": "Зелена салата с маринована риба и сушен домат",
@@ -688,7 +708,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8955b1bd-200.jpg"
+      }
+    ]
   },
   {
     "name": "Зеленчукова супа",
@@ -787,7 +812,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ee7a52a2-200.jpg"
+      }
+    ]
   },
   {
     "name": "Катък с цедено мляко",
@@ -1339,6 +1369,18 @@
     "images": []
   },
   {
+    "name": "Огретен от тиквички с яйце и сирене",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Орехов крем",
     "prices": [
       {
@@ -1349,6 +1391,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Ориз с горски гъби",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/137c5d2f-200.jpg"
+      }
+    ]
   },
   {
     "name": "Ориз с гъби",
@@ -1827,7 +1886,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/17d842eb-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешко филе със сметана, царевица и гъби",
@@ -1904,7 +1968,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/18da5f1b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пуешко филе на плоча",
@@ -1928,7 +1997,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ae84d180-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пълнен картоф със спанак и кашкавал",
@@ -2001,6 +2075,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Пържено кюфте",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e0919a0d-200.jpg"
+      }
+    ]
   },
   {
     "name": "Рибена супа",
@@ -2396,6 +2487,18 @@
         "dateText": "01-ви юли",
         "date": "2025-07-01",
         "price": "8.40",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свински късчета с печен сос върху картофено пюре",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "7.50",
         "currency": "лв"
       }
     ],
@@ -2837,6 +2940,18 @@
         "dateText": "04-ти юли",
         "date": "2025-07-04",
         "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Торта Пистачо",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "5.20",
         "currency": "лв"
       }
     ],
