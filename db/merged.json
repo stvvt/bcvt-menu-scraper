@@ -188,7 +188,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/011b5e1e-200.jpg"
+      }
+    ]
   },
   {
     "name": "Болярска триъгълна баница",
@@ -421,7 +426,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1110e124-200.png"
+      }
+    ]
   },
   {
     "name": "Два вида ориз с киноа",
@@ -510,7 +520,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c37a0705-200.jpg"
+      }
+    ]
   },
   {
     "name": "Задушен ориз",
@@ -1309,6 +1324,23 @@
     "images": []
   },
   {
+    "name": "Мусака с кълцано пилешко месо",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5039f087-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Наденица с картофи на фурна",
     "prices": [
       {
@@ -1391,6 +1423,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Ориз по китайски със зеленчуци",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b5412cea-200.jpg"
+      }
+    ]
   },
   {
     "name": "Ориз с горски гъби",
@@ -1499,6 +1548,23 @@
     "images": []
   },
   {
+    "name": "Парче пица със сметана, гъби и шунка",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d1d81839-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Паста карбонара",
     "prices": [
       {
@@ -1600,6 +1666,23 @@
     "images": []
   },
   {
+    "name": "Печен свински джолан с моркови и картофи",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f65d73e1-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Печени картофи",
     "prices": [
       {
@@ -1609,7 +1692,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5aaa0c36-200.jpg"
+      }
+    ]
   },
   {
     "name": "Печени моркови с кимион",
@@ -1821,7 +1909,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bb44f9bd-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешко бутче с печен сос",
@@ -2029,6 +2122,18 @@
     "images": []
   },
   {
+    "name": "Пълнен патладжан с черен ориз и зеленчуци",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Пълнени тиквички с яйце и сирене",
     "prices": [
       {
@@ -2050,7 +2155,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/72a0fcca-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пълнени чушки с ориз и червена леща",
@@ -2309,7 +2419,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78fca265-200.jpg"
+      }
+    ]
   },
   {
     "name": "Сандвич с луканка и кашкавал",
@@ -2760,7 +2875,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0d378e0b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Супа от патешко месо",
@@ -2866,7 +2986,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2b40a60f-200.jpg"
+      }
+    ]
   },
   {
     "name": "Татарско кюфте с шунка и пушен кашкавал",
