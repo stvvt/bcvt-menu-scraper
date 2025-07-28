@@ -80,6 +80,23 @@
     "images": []
   },
   {
+    "name": "Бейби кебапче",
+    "prices": [
+      {
+        "dateText": "28-ти юли",
+        "date": "2025-07-28",
+        "price": "1.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/650c2258-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Бисквитена торта с маскарпоне и шоколад",
     "prices": [
       {
@@ -409,7 +426,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fde72dbe-200.jpg"
+      }
+    ]
   },
   {
     "name": "Гриловани зеленчуци",
@@ -811,6 +833,23 @@
     ]
   },
   {
+    "name": "Кавърма с телешко месо и яйце",
+    "prices": [
+      {
+        "dateText": "28-ти юли",
+        "date": "2025-07-28",
+        "price": "10.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e1a172f2-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Картофена крем супа",
     "prices": [
       {
@@ -821,6 +860,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Картофена супа",
+    "prices": [
+      {
+        "dateText": "28-ти юли",
+        "date": "2025-07-28",
+        "price": "2.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2441364a-200.jpg"
+      }
+    ]
   },
   {
     "name": "Картофена яхния",
@@ -1141,7 +1197,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fe5714d8-200.jpg"
+      }
+    ]
   },
   {
     "name": "Кюфте от патладжан",
@@ -1394,7 +1455,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/821f4adc-200.jpg"
+      }
+    ]
   },
   {
     "name": "Мусака",
@@ -1999,7 +2065,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c0614736-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешки шницел",
@@ -2315,7 +2386,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6e5961e2-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пържено кюфте",
@@ -2898,7 +2974,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d6e742f-200.jpg"
+      }
+    ]
   },
   {
     "name": "Скумрия на скара",
@@ -3327,7 +3408,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76ca929f-200.jpg"
+      }
+    ]
   },
   {
     "name": "Цветна салата с гриловано халуми",
