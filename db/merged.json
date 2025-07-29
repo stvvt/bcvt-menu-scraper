@@ -390,7 +390,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/afb0f256-200.jpg"
+      }
+    ]
   },
   {
     "name": "Гнездо",
@@ -511,7 +516,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9f58ba8e-200.jpg"
+      }
+    ]
   },
   {
     "name": "Домати с моцарела и босилково песто",
@@ -1086,7 +1096,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1d1a2fa-200.jpg"
+      }
+    ]
   },
   {
     "name": "Крем карамел",
@@ -1819,7 +1834,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/53adee83-200.jpg"
+      }
+    ]
   },
   {
     "name": "Печен кашкавал в кори",
@@ -2088,6 +2108,18 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bb44f9bd-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Пилешко бутче с гъбен сос",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Пилешко бутче с печен сос",
@@ -2411,6 +2443,18 @@
     ]
   },
   {
+    "name": "Пъстърва на скара",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "10.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Рибена супа",
     "prices": [
       {
@@ -2421,6 +2465,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Руло от пилешко филе пълнено с броколи и моркови",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "7.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9ca802c3-200.jpg"
+      }
+    ]
   },
   {
     "name": "Руло стефани",
@@ -2919,6 +2980,23 @@
     ]
   },
   {
+    "name": "Свинско с прясно зеле",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "6.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1f9fcb3b-200.png"
+      }
+    ]
+  },
+  {
     "name": "Свинско филе с гъбен сос",
     "prices": [
       {
@@ -3134,6 +3212,23 @@
     "images": []
   },
   {
+    "name": "Супа от телешко месо",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "6.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/80163c1d-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Супа топчета",
     "prices": [
       {
@@ -3257,6 +3352,23 @@
     "images": []
   },
   {
+    "name": "Телешко с грах",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "9.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6ba7b8f1-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Телешко с нахут, чушки и сини сливи",
     "prices": [
       {
@@ -3267,6 +3379,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Тиквички бюрек",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "2.30",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c25a456c-200.jpg"
+      }
+    ]
   },
   {
     "name": "Тиквички с ориз",
@@ -3619,6 +3748,23 @@
       {
         "date": "2025-07-21",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d41e919-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Яхния от коприва с ориз",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "4.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/03535521-200.jpg"
       }
     ]
   },

@@ -1,0 +1,177 @@
+{
+  "date": "29-ти юли",
+  "meals": [
+    {
+      "name": "Болярска закуска рогче",
+      "price": "3.20",
+      "currency": "лв"
+    },
+    {
+      "name": "Сандвич с кайма и кашкавал",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78fca265-200.jpg",
+      "ean": "2008"
+    },
+    {
+      "name": "Гръцка салата",
+      "price": "5.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1110e124-200.png",
+      "ean": "4022"
+    },
+    {
+      "name": "Патладжан с цедено мляко",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/53adee83-200.jpg",
+      "ean": "4062"
+    },
+    {
+      "name": "Супа от телешко месо",
+      "price": "6.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/80163c1d-200.jpg",
+      "ean": "5039"
+    },
+    {
+      "name": "Таратор",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d92da2a5-200.jpg",
+      "ean": "5044"
+    },
+    {
+      "name": "Бейби картофи",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fffcf440-200.jpg",
+      "ean": "6256"
+    },
+    {
+      "name": "Глазирани моркови",
+      "price": "2.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/afb0f256-200.jpg",
+      "ean": "6383"
+    },
+    {
+      "name": "Кашкавал пане",
+      "price": "5.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b8fa821b-200.jpg",
+      "ean": "6364"
+    },
+    {
+      "name": "Пилешко бутче с гъбен сос",
+      "price": "5.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Пъстърва на скара",
+      "price": "10.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Руло от пилешко филе пълнено с броколи и моркови",
+      "price": "7.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9ca802c3-200.jpg",
+      "ean": "6053"
+    },
+    {
+      "name": "Свинско с прясно зеле",
+      "price": "6.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1f9fcb3b-200.png",
+      "ean": "6084"
+    },
+    {
+      "name": "Телешко с грах",
+      "price": "9.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6ba7b8f1-200.jpg",
+      "ean": "6012"
+    },
+    {
+      "name": "Тиквички бюрек",
+      "price": "2.30",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c25a456c-200.jpg",
+      "ean": "6094"
+    },
+    {
+      "name": "Яхния от коприва с ориз",
+      "price": "4.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/03535521-200.jpg",
+      "ean": "6402"
+    },
+    {
+      "name": "Гараш",
+      "price": "5.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8dd64211-200.jpg",
+      "ean": "8017"
+    },
+    {
+      "name": "Диня",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9f58ba8e-200.jpg",
+      "ean": "8112"
+    },
+    {
+      "name": "Крем Тирамису",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1d1a2fa-200.jpg",
+      "ean": "8069"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Мляко с ориз",
+      "price": "2.20",
+      "currency": "лв"
+    },
+    {
+      "name": "Пъпеш с мед",
+      "price": "3.80",
+      "currency": "лв"
+    },
+    {
+      "name": "Сладкиш с праскови",
+      "price": "2.60",
+      "currency": "лв"
+    },
+    {
+      "name": "Студен чийзкейк с мента и сладко от портокали",
+      "price": "5.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Торта Парфе",
+      "price": "4.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Торта Пистачо",
+      "price": "5.20",
+      "currency": "лв"
+    },
+    {
+      "name": "Шоколадов мус",
+      "price": "3.10",
+      "currency": "лв"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв"
+    }
+  ]
+}
