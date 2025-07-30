@@ -1,0 +1,133 @@
+{
+  "date": "30-ти юли",
+  "meals": [
+    {
+      "name": "Болярска милинка",
+      "price": "4.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/011b5e1e-200.jpg",
+      "ean": "2050"
+    },
+    {
+      "name": "Чабата с бъркани яйца и бекон",
+      "price": "6.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d83c5a57-200.jpg",
+      "ean": "2025"
+    },
+    {
+      "name": "Домати с моцарела и босилково песто",
+      "price": "6.10",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a6c19764-200.jpg",
+      "ean": "4003"
+    },
+    {
+      "name": "Салата  краставици, чушка, маслини и кашкавал",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/15110d45-200.jpg",
+      "ean": "4075"
+    },
+    {
+      "name": "Зеленчукова крем супа",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3edc4dd4-200.jpg",
+      "ean": "5043"
+    },
+    {
+      "name": "Пилешка супа с гъби",
+      "price": "4.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Агнешко със спанак, гъби и ориз",
+      "price": "9.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78a8eb5b-200.jpg",
+      "ean": "6078"
+    },
+    {
+      "name": "Зеленчуково пюре",
+      "price": "2.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8179fe7-200.jpg",
+      "ean": "6241"
+    },
+    {
+      "name": "Паста Болонезе",
+      "price": "5.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Патладжан с доматен сос",
+      "price": "3.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Пиле Миланезе",
+      "price": "8.20",
+      "currency": "лв"
+    },
+    {
+      "name": "Свински гърди на скара",
+      "price": "9.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d1280da4-200.jpg",
+      "ean": "6529"
+    },
+    {
+      "name": "Свинско шишче на скара",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c0a034e-200.jpg",
+      "ean": "6077"
+    },
+    {
+      "name": "Тортила с печени зеленчуци и кашкавал",
+      "price": "5.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eea8a209-200.jpg",
+      "ean": "6382"
+    },
+    {
+      "name": "Хрупкаво свинско филе с шунка и кашкавал",
+      "price": "8.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Чушка бюрек",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/41baf0c5-200.jpg",
+      "ean": "6047"
+    },
+    {
+      "name": "Крем с фибри",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c38c47d9-200.jpg",
+      "ean": "8064"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76e90a39-200.jpg",
+      "ean": "8130"
+    },
+    {
+      "name": "Торта с ананас",
+      "price": "4.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fd282dc3-200.jpg",
+      "ean": "8014"
+    }
+  ]
+}
