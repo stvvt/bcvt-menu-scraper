@@ -1,0 +1,3944 @@
+[
+  {
+    "name": "Агнешка дроб сарма",
+    "prices": [
+      {
+        "dateText": "17-ти юли",
+        "date": "2025-07-17",
+        "price": "7.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e058cfaa-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Агнешко със спанак, гъби и ориз",
+    "prices": [
+      {
+        "dateText": "30-ти юли",
+        "date": "2025-07-30",
+        "price": "9.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78a8eb5b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Бадемов крем",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "3.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fefe4a0d-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Баклава със сушени плодове",
+    "prices": [
+      {
+        "dateText": "18-ти юли",
+        "date": "2025-07-18",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/711066e7-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Бейби картофи",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fffcf440-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Бейби картофи с копър и чесън",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Бейби кебапче",
+    "prices": [
+      {
+        "dateText": "28-ти юли",
+        "date": "2025-07-28",
+        "price": "1.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/650c2258-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Бисквитена торта с маскарпоне и шоколад",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "4.40",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Боб на фурна",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Боб с лютеница",
+    "prices": [
+      {
+        "dateText": "25-ти юли",
+        "date": "2025-07-25",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2ad094a7-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Болярска баница вита",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1935007f-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Болярска баница дълга",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/20f42055-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Болярска закуска рогче",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Болярска закуска с кренвирш",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "4.00",
+        "currency": "лв"
+      },
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-07-25",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3c900943-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Болярска закуска с наденица",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Болярска милинка",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/011b5e1e-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Болярска триъгълна баница",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Бургер с дърпано телешко",
+    "prices": [
+      {
+        "dateText": "18-ти юли",
+        "date": "2025-07-18",
+        "price": "11.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2f09dfaf-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Бухти",
+    "prices": [
+      {
+        "dateText": "17-ти юли",
+        "date": "2025-07-17",
+        "price": "1.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f9eb212e-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Бяла риба пане",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b1e1db00-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Ванилов пудинг",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ванилово реване",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "2.30",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Варени картофи с масло",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Вишнева торта",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ab9856a2-200.webp"
+      }
+    ]
+  },
+  {
+    "name": "Гараш",
+    "prices": [
+      {
+        "dateText": "15-ти юли",
+        "date": "2025-07-15",
+        "price": "5.00",
+        "currency": "лв"
+      },
+      {
+        "dateText": "21-ви юли",
+        "date": "2025-07-21",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8dd64211-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Гаспачо",
+    "prices": [
+      {
+        "dateText": "10-ти юли",
+        "date": "2025-07-10",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Глазирани моркови",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "2.60",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/afb0f256-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Гнездо",
+    "prices": [
+      {
+        "dateText": "09-ти юли",
+        "date": "2025-07-09",
+        "price": "7.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Градинска супа",
+    "prices": [
+      {
+        "dateText": "25-ти юли",
+        "date": "2025-07-25",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Грах яхния",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "3.30",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fde72dbe-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Гриловани зеленчуци",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2681c5c7-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Грис халва",
+    "prices": [
+      {
+        "dateText": "18-ти юли",
+        "date": "2025-07-18",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ec691962-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Гръцка салата",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1110e124-200.png"
+      }
+    ]
+  },
+  {
+    "name": "Два вида ориз с киноа",
+    "prices": [
+      {
+        "dateText": "21-ви юли",
+        "date": "2025-07-21",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a74b3fd5-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Диня",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9f58ba8e-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Домати с моцарела и босилково песто",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "6.10",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a6c19764-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Домашна бисквитена торта",
+    "prices": [
+      {
+        "dateText": "10-ти юли",
+        "date": "2025-07-10",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Домашно кюфте на скара",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Дубайски чийзкейк",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "5.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Европейска салата",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c37a0705-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Задушен ориз",
+    "prices": [
+      {
+        "dateText": "14-ти юли",
+        "date": "2025-07-14",
+        "price": "2.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Задушени броколи",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d240e011-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Задушени зеленчуци в масло",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f9c143c0-200.png"
+      }
+    ]
+  },
+  {
+    "name": "Запеканка от броколи с моцарела",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "6.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Запеканка от картофи с пилешко и гъби",
+    "prices": [
+      {
+        "dateText": "18-ти юли",
+        "date": "2025-07-18",
+        "price": "7.30",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/55c9593d-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Запеканка с броколи и картофи",
+    "prices": [
+      {
+        "dateText": "25-ти юли",
+        "date": "2025-07-25",
+        "price": "7.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/21e0a81e-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Запеканка с картоф, морков и гъби",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "5.10",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Запеканка с пилешко, гъби и пармезан",
+    "prices": [
+      {
+        "dateText": "10-ти юли",
+        "date": "2025-07-10",
+        "price": "7.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Зелен боб яхния",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e01f2154-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Зелена салата с домати и краставици",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0f40f929-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Зелена салата с киноа",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3a9e7d62-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Зелена салата с маринована риба и сушен домат",
+    "prices": [
+      {
+        "dateText": "15-ти юли",
+        "date": "2025-07-15",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Зелена салата със сушен домат и маслини",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Зеленчуков гювеч с нахут",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Зеленчуков шницел",
+    "prices": [
+      {
+        "dateText": "10-ти юли",
+        "date": "2025-07-10",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8955b1bd-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Зеленчукова крем супа",
+    "prices": [
+      {
+        "dateText": "30-ти юли",
+        "date": "2025-07-30",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3edc4dd4-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Зеленчукова супа",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "3.10",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ee189693-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Зеленчуково пюре",
+    "prices": [
+      {
+        "dateText": "25-ти юли",
+        "date": "2025-07-25",
+        "price": "2.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8179fe7-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Кавърма с телешко месо и яйце",
+    "prices": [
+      {
+        "dateText": "28-ти юли",
+        "date": "2025-07-28",
+        "price": "10.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e1a172f2-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Картофена крем супа",
+    "prices": [
+      {
+        "dateText": "15-ти юли",
+        "date": "2025-07-15",
+        "price": "2.70",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Картофена супа",
+    "prices": [
+      {
+        "dateText": "28-ти юли",
+        "date": "2025-07-28",
+        "price": "2.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2441364a-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Картофена яхния",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "3.30",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Картофени крокети с пушено пилешко филе",
+    "prices": [
+      {
+        "dateText": "21-ви юли",
+        "date": "2025-07-21",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0027df53-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Картофени кюфтета със сушен домат",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8ca387ea-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Картофено пюре",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Картофи соте",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "2.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ee7a52a2-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Катък с цедено мляко",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "4.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Кашкавал пане",
+    "prices": [
+      {
+        "dateText": "25-ти юли",
+        "date": "2025-07-25",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b8fa821b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Кашкавалка",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "4.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Кебапче",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "2.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1b6b470-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Козуначен мъфин с локум",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "0.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1573fd0-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Кокосов крем",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "3.60",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Кордон бльо",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "10.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Крем Брюле",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Крем Орео",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "3.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Крем Тирамису",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1d1a2fa-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Крем карамел",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a82e6194-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Крем пъпеш с мента",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Крем с фибри",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c38c47d9-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Крем с чия и бял шоколад",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "3.60",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Крем супа от грах",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/65e75776-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Крем супа от моркови с пушен пипер",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Крем супа от червена леща",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Кюфте",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "2.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fe5714d8-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Кюфте от патладжан",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "3.60",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Кюфтета по чирпански",
+    "prices": [
+      {
+        "dateText": "10-ти юли",
+        "date": "2025-07-10",
+        "price": "7.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Кюфтета с доматен сос",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "5.60",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e0060477-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Кюфтета със сос бешамел",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "5.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Лазаня с печени зеленчуци и моцарела",
+    "prices": [
+      {
+        "dateText": "16-ти юли",
+        "date": "2025-07-16",
+        "price": "7.40",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Лазаня със сос болонезе",
+    "prices": [
+      {
+        "dateText": "10-ти юли",
+        "date": "2025-07-10",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Лазаня със спанак и сирене",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Лимоново парфе",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "2.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Листна салата с моркови",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "2.60",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fa9528f6-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Лучена яхния",
+    "prices": [
+      {
+        "dateText": "22-ри юли",
+        "date": "2025-07-22",
+        "price": "4.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/49f4eb03-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Магданозена салата с чери домат",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Малинов крем",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Малинова торта",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Мекици",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "1.60",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Миди с ориз, пресен лук и девисил",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Милинки",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "2.30",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Мини еклери",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76e90a39-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Миш-маш",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "6.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fa645fae-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Мляко с ориз",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "2.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/821f4adc-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Мусака",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "5.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Мусака с кълцано пилешко месо",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5039f087-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Наденица с картофи на фурна",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "6.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Наденичка на скара",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Нудълс със зеленчуци",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Овесена баница",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "1.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Овчарска салата",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "6.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Огретен от тиквички с яйце и сирене",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Орехов крем",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "3.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ориз по китайски със зеленчуци",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b5412cea-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Ориз с горски гъби",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/137c5d2f-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Ориз с гъби",
+    "prices": [
+      {
+        "dateText": "16-ти юли",
+        "date": "2025-07-16",
+        "price": "2.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ориз с кореноплодни зеленчуци",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ориз със зеленчуци",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Панирани пилешки филенца с корнфлейкс",
+    "prices": [
+      {
+        "dateText": "15-ти юли",
+        "date": "2025-07-15",
+        "price": "7.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Панирани пръчици моцарела",
+    "prices": [
+      {
+        "dateText": "25-ти юли",
+        "date": "2025-07-25",
+        "price": "7.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/21592de0-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Панирани чушки",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Парче пица Маргарита",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a29e8615-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Парче пица със сирена",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Парче пица със сметана, гъби и шунка",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d1d81839-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Паста Болонезе",
+    "prices": [
+      {
+        "dateText": "30-ти юли",
+        "date": "2025-07-30",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Паста карбонара",
+    "prices": [
+      {
+        "dateText": "17-ти юли",
+        "date": "2025-07-17",
+        "price": "6.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0ac9d665-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Паста с доматен сос и кашкавал",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "5.60",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Паста с пилешко и сирена",
+    "prices": [
+      {
+        "dateText": "09-ти юли",
+        "date": "2025-07-09",
+        "price": "7.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Паста със спаначен сос и сирена",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пастицио със сос болонезе",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "7.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Патладжан с доматен сос",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "3.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Патладжан с цедено мляко",
+    "prices": [
+      {
+        "dateText": "09-ти юли",
+        "date": "2025-07-09",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/53adee83-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Печен кашкавал в кори",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Печен свински джолан с моркови и картофи",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f65d73e1-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Печени картофи",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "3.10",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5aaa0c36-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Печени моркови с кимион",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Печени праскови с халва, стафиди и филиран бадем",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "3.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Печено прясно зеле",
+    "prices": [
+      {
+        "dateText": "09-ти юли",
+        "date": "2025-07-09",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Печено прясно зеле с пилешко филе",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "6.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пиле Миланезе",
+    "prices": [
+      {
+        "dateText": "30-ти юли",
+        "date": "2025-07-30",
+        "price": "8.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пиле капрезе",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "9.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e450fe33-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пиле с ориз",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "5.60",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пиле фрикасе",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "6.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешка дроб сарма",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешка кавърма",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "7.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешка пържола запечена с гъби и кашкавал",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "7.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешка пържола запечена с моцарела и бекон",
+    "prices": [
+      {
+        "dateText": "17-ти юли",
+        "date": "2025-07-17",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/014fc828-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешка пържола от бут на скара",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f3812edd-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешка супа",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b4e09d46-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешка супа с гъби",
+    "prices": [
+      {
+        "dateText": "30-ти юли",
+        "date": "2025-07-30",
+        "price": "4.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешки дробчета с лук и ориз",
+    "prices": [
+      {
+        "dateText": "15-ти юли",
+        "date": "2025-07-15",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешки хапки",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "7.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c0614736-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешки шницел",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "5.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bb44f9bd-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешко бутче с гъбен сос",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешко бутче с печен сос",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "5.30",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешко кюфте на скара",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/21e2fe15-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешко месо с булгур, магданоз и чери домат",
+    "prices": [
+      {
+        "dateText": "25-ти юли",
+        "date": "2025-07-25",
+        "price": "7.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5fd7402b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешко месо с грах",
+    "prices": [
+      {
+        "dateText": "14-ти юли",
+        "date": "2025-07-14",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешко с два вида ориз и сушен домат",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "6.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пилешко филе на скара",
+    "prices": [
+      {
+        "dateText": "16-ти юли",
+        "date": "2025-07-16",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/17d842eb-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешко филе със сметана, царевица и гъби",
+    "prices": [
+      {
+        "dateText": "21-ви юли",
+        "date": "2025-07-21",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3e8b8b80-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пица с пилешко, царевица и топено сирене",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Плодова торта",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Портокалово реване",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Протеинова торта",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "5.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пуешка супа",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/18da5f1b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пуешко филе на плоча",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "9.60",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пълнен картоф с кашкавал, подправки и масло",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "3.70",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ae84d180-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пълнен картоф със спанак и кашкавал",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пълнен патладжан с кайма и зеленчуци",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "6.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пълнен патладжан с черен ориз и зеленчуци",
+    "prices": [
+      {
+        "dateText": "24-ти юли",
+        "date": "2025-07-24",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пълнени тиквички с яйце и сирене",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пълнени чушки с кайма и ориз",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "6.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/72a0fcca-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пълнени чушки с ориз и червена леща",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "4.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пъпеш с мед",
+    "prices": [
+      {
+        "dateText": "25-ти юли",
+        "date": "2025-07-25",
+        "price": "3.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пържени картофи",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6e5961e2-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пържено кюфте",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e0919a0d-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пъстърва на скара",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "10.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Рибена супа",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Руло от пилешко филе пълнено с броколи и моркови",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "7.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9ca802c3-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Руло стефани",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "5.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Салата  краставици, чушка, маслини и кашкавал",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/15110d45-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Салата варени картофи с лук и маслини",
+    "prices": [
+      {
+        "dateText": "22-ри юли",
+        "date": "2025-07-22",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/98b7a0b4-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Салата гуакамоле",
+    "prices": [
+      {
+        "dateText": "22-ри юли",
+        "date": "2025-07-22",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fe7e183d-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Салата домати и краставица",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d62ce160-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Салата домати с кашкавал и яйце",
+    "prices": [
+      {
+        "dateText": "17-ти юли",
+        "date": "2025-07-17",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3d4ba6a-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Салата домати с маслини",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Салата домати с печена чушка и котидж сирене",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "5.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Салата зеле с моркови",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "1.80",
+        "currency": "лв"
+      },
+      {
+        "dateText": "22-ри юли",
+        "date": "2025-07-22",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5b1b7b7a-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Салата зеле, моркови, червена чушка, лук, ленено семе",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Салата от айсберг,  домати,  краставици и ементал",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "3.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Салата от домати, краставици, нахут и червен лук",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "3.60",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Салата от печени чушки с крем от сирена",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Салата снежанка",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "3.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Сандвич с кайма и кашкавал",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78fca265-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Сандвич с луканка и кашкавал",
+    "prices": [
+      {
+        "dateText": "21-ви юли",
+        "date": "2025-07-21",
+        "price": "4.70",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/531c8a8a-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Сандвич с моцарела и домат",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6195ed1f-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Сандвич с филе елена и пушен кашкавал",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Сандвич с шунка и кашкавал",
+    "prices": [
+      {
+        "dateText": "14-ти юли",
+        "date": "2025-07-14",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Сандвич с яйце и сирене",
+    "prices": [
+      {
+        "dateText": "14-ти юли",
+        "date": "2025-07-14",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Сандвич със суджук и кашкавал",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9467f787-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Сарми с нахут и два вида ориз",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свинска вратна пържола на скара",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "7.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свинска вратна пържола на тиган",
+    "prices": [
+      {
+        "dateText": "15-ти юли",
+        "date": "2025-07-15",
+        "price": "7.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свинска кавърма с яйце",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "7.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e89db14e-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Свински гърди на скара",
+    "prices": [
+      {
+        "dateText": "30-ти юни",
+        "date": "2025-06-30",
+        "price": "9.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d1280da4-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Свински дроб по селски",
+    "prices": [
+      {
+        "dateText": "14-ти юли",
+        "date": "2025-07-14",
+        "price": "4.10",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/dea40b7c-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Свински карета на скара",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "8.40",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свински късчета с печен сос върху картофено пюре",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "7.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свински късчета със спанак, картофи и сметана",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "8.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свински шницел",
+    "prices": [
+      {
+        "dateText": "21-ви юли",
+        "date": "2025-07-21",
+        "price": "6.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cec6d4e3-200.png"
+      }
+    ]
+  },
+  {
+    "name": "Свинско месо  с нахут и чушка",
+    "prices": [
+      {
+        "dateText": "10-ти юли",
+        "date": "2025-07-10",
+        "price": "7.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свинско месо с горски гъби и два вида ориз",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "8.10",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свинско с ориз",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "6.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свинско с ориз и гъби",
+    "prices": [
+      {
+        "dateText": "21-ви юли",
+        "date": "2025-07-21",
+        "price": "6.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2ab8c711-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Свинско с прясно зеле",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "6.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1f9fcb3b-200.png"
+      }
+    ]
+  },
+  {
+    "name": "Свинско филе с гъбен сос",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "9.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свинско шишче на скара",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c0a034e-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Селски картофи",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/40204047-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Сирене пане",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "4.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d6e742f-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Скумрия на скара",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "6.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c78d91aa-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Сладкиш с праскови",
+    "prices": [
+      {
+        "dateText": "14-ти юли",
+        "date": "2025-07-14",
+        "price": "2.60",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Сотирани зеленчуци с копър и чесън",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Спагети със зеленчуци",
+    "prices": [
+      {
+        "dateText": "21-ви юли",
+        "date": "2025-07-21",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76ad61ae-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Спаначено кюфте със сирене",
+    "prices": [
+      {
+        "dateText": "01-ви юли",
+        "date": "2025-07-01",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Студен чийзкейк с мента и сладко от портокали",
+    "prices": [
+      {
+        "dateText": "22-ри юли",
+        "date": "2025-07-22",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Суджук на скара",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "10.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Супа зелен боб",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "2.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2c56229b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Супа леща",
+    "prices": [
+      {
+        "dateText": "09-ти юли",
+        "date": "2025-07-09",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0d378e0b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Супа от патешко месо",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Супа от свинско месо",
+    "prices": [
+      {
+        "dateText": "16-ти юли",
+        "date": "2025-07-16",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Супа от телешко месо",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "6.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/80163c1d-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Супа топчета",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "3.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Сьомга филе на плоча",
+    "prices": [
+      {
+        "dateText": "17-ти юли",
+        "date": "2025-07-17",
+        "price": "11.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f2cad42f-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Сьомга филе с билкова коричка",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "12.70",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Таратор",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d92da2a5-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Тас кебап с пилешко месо",
+    "prices": [
+      {
+        "dateText": "15-ти юли",
+        "date": "2025-07-15",
+        "price": "5.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Тас кебап с телешко месо",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "10.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2b40a60f-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Татарско кюфте с шунка и пушен кашкавал",
+    "prices": [
+      {
+        "dateText": "10-ти юли",
+        "date": "2025-07-10",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Телешко кюфте на скара",
+    "prices": [
+      {
+        "dateText": "07-ми юли",
+        "date": "2025-07-07",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Телешко с булгур и зеленчуци",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Телешко с грах",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "9.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6ba7b8f1-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Телешко с нахут, чушки и сини сливи",
+    "prices": [
+      {
+        "dateText": "15-ти юли",
+        "date": "2025-07-15",
+        "price": "11.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Тиквички бюрек",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "2.30",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c25a456c-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Тиквички с ориз",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cc1d7bd0-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Тирамису",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Торта Парфе",
+    "prices": [
+      {
+        "dateText": "25-ти юли",
+        "date": "2025-07-25",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Торта Пистачо",
+    "prices": [
+      {
+        "dateText": "23-ти юли",
+        "date": "2025-07-23",
+        "price": "5.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Торта Рафаело",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Торта с ананас",
+    "prices": [
+      {
+        "dateText": "30-ти юли",
+        "date": "2025-07-30",
+        "price": "4.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Тортила с печени зеленчуци и кашкавал",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eea8a209-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Тортила с пилешко месо",
+    "prices": [
+      {
+        "dateText": "04-ти юли",
+        "date": "2025-07-04",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Тутманик с пълнозърнесто брашно",
+    "prices": [
+      {
+        "dateText": "09-ти юли",
+        "date": "2025-07-09",
+        "price": "2.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7ee6aabf-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Филе лаврак на скара",
+    "prices": [
+      {
+        "dateText": "08-ми юли",
+        "date": "2025-07-08",
+        "price": "9.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Филе от скумрия със сос ропотамо",
+    "prices": [
+      {
+        "dateText": "14-ти юли",
+        "date": "2025-07-14",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Фритата с моцарела и зеленчуци",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "5.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76ca929f-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Хрупкаво свинско филе с шунка и кашкавал",
+    "prices": [
+      {
+        "dateText": "30-ти юли",
+        "date": "2025-07-30",
+        "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Цветна салата с гриловано халуми",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Цедено мляко със сладко от боровинки и филиран бадем",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Чабата с бъркани яйца и бекон",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "6.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d83c5a57-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Червено кадифе",
+    "prices": [
+      {
+        "dateText": "16-ти юли",
+        "date": "2025-07-16",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Чушка бюрек",
+    "prices": [
+      {
+        "dateText": "30-ти юли",
+        "date": "2025-07-30",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/41baf0c5-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Шницел от кайма",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "6.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Шоколадов мус",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "3.10",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Шоколадова торта",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Шоколадова торта с лек крем",
+    "prices": [
+      {
+        "dateText": "27-ти юни",
+        "date": "2025-06-27",
+        "price": "4.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Шоколадово брауни",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fd282dc3-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Шопска салата",
+    "prices": [
+      {
+        "dateText": "03-ти юли",
+        "date": "2025-07-03",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6e51fe27-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Шпикован свински врат",
+    "prices": [
+      {
+        "dateText": "09-ти юли",
+        "date": "2025-07-09",
+        "price": "9.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Щрудел с халва и круша",
+    "prices": [
+      {
+        "dateText": "16-ти юли",
+        "date": "2025-07-16",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ягодова торта с крем с фибри",
+    "prices": [
+      {
+        "dateText": "17-ти юли",
+        "date": "2025-07-17",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ягодово парфе",
+    "prices": [
+      {
+        "dateText": "26-ти юни",
+        "date": "2025-06-26",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ягодово тирамису",
+    "prices": [
+      {
+        "dateText": "09-ти юли",
+        "date": "2025-07-09",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Яхния леща",
+    "prices": [
+      {
+        "dateText": "02-ри юли",
+        "date": "2025-07-02",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d41e919-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Яхния от коприва с ориз",
+    "prices": [
+      {
+        "dateText": "29-ти юли",
+        "date": "2025-07-29",
+        "price": "4.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-07-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/03535521-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Яхния от свинско месо и грах",
+    "prices": [
+      {
+        "dateText": "16-ти юли",
+        "date": "2025-07-16",
+        "price": "7.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Яхния от свинско месо и картофи",
+    "prices": [
+      {
+        "dateText": "11-ти юли",
+        "date": "2025-07-11",
+        "price": "6.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Яхния от телешко с картофи",
+    "prices": [
+      {
+        "dateText": "25-ти юни",
+        "date": "2025-06-25",
+        "price": "7.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  }
+]
