@@ -696,6 +696,23 @@
     "images": []
   },
   {
+    "name": "Запеканка от картофи с бекон и кашкавал",
+    "prices": [
+      {
+        "dateText": "04-ти август",
+        "date": "2025-08-04",
+        "price": "6.10",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0a7cb986-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Запеканка от картофи с пилешко и гъби",
     "prices": [
       {
@@ -821,6 +838,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Зелена салата с риба тон",
+    "prices": [
+      {
+        "dateText": "04-ти август",
+        "date": "2025-08-04",
+        "price": "4.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e7ef7a91-200.jpg"
+      }
+    ]
   },
   {
     "name": "Зелена салата със сушен домат и маслини",
@@ -1297,6 +1331,23 @@
     ]
   },
   {
+    "name": "Кюфте от моцарела и кашкавал",
+    "prices": [
+      {
+        "dateText": "04-ти август",
+        "date": "2025-08-04",
+        "price": "5.40",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ca363baa-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Кюфте от патладжан",
     "prices": [
       {
@@ -1307,6 +1358,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Кюфтета от тиквички",
+    "prices": [
+      {
+        "dateText": "04-ти август",
+        "date": "2025-08-04",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9d55fe1e-200.jpg"
+      }
+    ]
   },
   {
     "name": "Кюфтета по чирпански",
@@ -2131,7 +2199,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/310eac6b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешка дроб сарма",
@@ -2405,6 +2478,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Плодов крем",
+    "prices": [
+      {
+        "dateText": "04-ти август",
+        "date": "2025-08-04",
+        "price": "3.80",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/589e4716-200.jpg"
+      }
+    ]
   },
   {
     "name": "Плодова торта",
@@ -2969,6 +3059,18 @@
     ]
   },
   {
+    "name": "Сандвич с лютеница и кашкавал",
+    "prices": [
+      {
+        "dateText": "04-ти август",
+        "date": "2025-08-04",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Сандвич с моцарела и домат",
     "prices": [
       {
@@ -3176,7 +3278,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d09ed6b7-200.jpg"
+      }
+    ]
   },
   {
     "name": "Свински шницел",
@@ -3478,7 +3585,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c7173c0-200.jpg"
+      }
+    ]
   },
   {
     "name": "Супа от телешко месо",

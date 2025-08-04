@@ -1,0 +1,127 @@
+{
+  "date": "04-ти август",
+  "meals": [
+    {
+      "name": "Сандвич с луканка и кашкавал",
+      "price": "4.70",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/531c8a8a-200.jpg",
+      "ean": "2051"
+    },
+    {
+      "name": "Сандвич с лютеница и кашкавал",
+      "price": "3.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Зелена салата с риба тон",
+      "price": "4.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e7ef7a91-200.jpg",
+      "ean": "4043"
+    },
+    {
+      "name": "Салата домати с кашкавал и яйце",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3d4ba6a-200.jpg",
+      "ean": "4053"
+    },
+    {
+      "name": "Супа от свинско месо",
+      "price": "4.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c7173c0-200.jpg",
+      "ean": "5009"
+    },
+    {
+      "name": "Таратор",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d92da2a5-200.jpg",
+      "ean": "5044"
+    },
+    {
+      "name": "Запеканка от картофи с бекон и кашкавал",
+      "price": "6.10",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0a7cb986-200.jpg",
+      "ean": "6109"
+    },
+    {
+      "name": "Кюфте от моцарела и кашкавал",
+      "price": "5.40",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ca363baa-200.jpg",
+      "ean": "6295"
+    },
+    {
+      "name": "Кюфтета от тиквички",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9d55fe1e-200.jpg",
+      "ean": "6048"
+    },
+    {
+      "name": "Кюфтета с доматен сос",
+      "price": "5.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e0060477-200.jpg",
+      "ean": "6011"
+    },
+    {
+      "name": "Парче пица със сирена",
+      "price": "4.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Пиле фрикасе",
+      "price": "6.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/310eac6b-200.jpg",
+      "ean": "6081"
+    },
+    {
+      "name": "Свински късчета със спанак, картофи и сметана",
+      "price": "8.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d09ed6b7-200.jpg",
+      "ean": "6310"
+    },
+    {
+      "name": "Яхния леща",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d41e919-200.jpg",
+      "ean": "6238"
+    },
+    {
+      "name": "Диня",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9f58ba8e-200.jpg",
+      "ean": "8112"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76e90a39-200.jpg",
+      "ean": "8130"
+    },
+    {
+      "name": "Плодов крем",
+      "price": "3.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/589e4716-200.jpg",
+      "ean": "8008"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fd282dc3-200.jpg",
+      "ean": "8014"
+    }
+  ]
+}
