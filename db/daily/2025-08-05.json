@@ -1,0 +1,147 @@
+{
+  "date": "05-ти август",
+  "meals": [
+    {
+      "name": "Болярска закуска с кренвирш",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3c900943-200.jpg",
+      "ean": "2004"
+    },
+    {
+      "name": "Тутманик с пълнеж и заливка от сирене",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/174176fe-200.jpg",
+      "ean": "2044"
+    },
+    {
+      "name": "Салата от айсберг,  домати,  краставици и ементал",
+      "price": "3.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5a68b70c-200.jpg",
+      "ean": "4018"
+    },
+    {
+      "name": "Шопска салата",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6e51fe27-200.jpg",
+      "ean": "4001"
+    },
+    {
+      "name": "Крем супа от тиквички и червена леща",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76f4d22d-200.png",
+      "ean": "5051"
+    },
+    {
+      "name": "Телешки гулаш",
+      "price": "4.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Вегетарианско гнездо",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/36c8abe6-200.jpg",
+      "ean": "6412"
+    },
+    {
+      "name": "Ориз с кореноплодни зеленчуци",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f1b2f847-200.jpg",
+      "ean": "6389"
+    },
+    {
+      "name": "Паста карбонара",
+      "price": "6.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0ac9d665-200.jpg",
+      "ean": "6042"
+    },
+    {
+      "name": "Пилешка пържола от бут на скара",
+      "price": "5.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f3812edd-200.jpg",
+      "ean": "6148"
+    },
+    {
+      "name": "Пилешко шишче с бекон",
+      "price": "5.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d732afb8-200.png",
+      "ean": "6036"
+    },
+    {
+      "name": "Селски картофи",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/40204047-200.jpg",
+      "ean": "6535"
+    },
+    {
+      "name": "Сирене по шопски",
+      "price": "6.70",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b3a96d7c-200.jpg",
+      "ean": "6015"
+    },
+    {
+      "name": "Тас кебап със свинско",
+      "price": "8.10",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2b40a60f-200.jpg",
+      "ean": "6163"
+    },
+    {
+      "name": "Телешко кюфте на скара",
+      "price": "3.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/14d4c146-200.jpg",
+      "ean": "6416"
+    },
+    {
+      "name": "Бисквитена торта с маскарпоне и шоколад",
+      "price": "4.40",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/be3b6631-200.jpg",
+      "ean": "8033"
+    },
+    {
+      "name": "Диня",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9f58ba8e-200.jpg",
+      "ean": "8112"
+    },
+    {
+      "name": "Крем пъпеш с мента",
+      "price": "3.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Плодов крем",
+      "price": "3.80",
+      "currency": "лв"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв"
+    },
+    {
+      "name": "Ягодов крем",
+      "price": "2.80",
+      "currency": "лв"
+    }
+  ]
+}

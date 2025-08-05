@@ -123,7 +123,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/be3b6631-200.jpg"
+      }
+    ]
   },
   {
     "name": "Боб на фурна",
@@ -352,6 +357,23 @@
       {
         "date": "2025-07-31",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/83969783-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Вегетарианско гнездо",
+    "prices": [
+      {
+        "dateText": "05-ти август",
+        "date": "2025-08-05",
+        "price": "3.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/36c8abe6-200.jpg"
       }
     ]
   },
@@ -1302,6 +1324,23 @@
     "images": []
   },
   {
+    "name": "Крем супа от тиквички и червена леща",
+    "prices": [
+      {
+        "dateText": "05-ти август",
+        "date": "2025-08-05",
+        "price": "2.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76f4d22d-200.png"
+      }
+    ]
+  },
+  {
     "name": "Крем супа от червена леща",
     "prices": [
       {
@@ -1808,7 +1847,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f1b2f847-200.jpg"
+      }
+    ]
   },
   {
     "name": "Ориз със зеленчуци",
@@ -2468,6 +2512,23 @@
     ]
   },
   {
+    "name": "Пилешко шишче с бекон",
+    "prices": [
+      {
+        "dateText": "05-ти август",
+        "date": "2025-08-05",
+        "price": "5.90",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d732afb8-200.png"
+      }
+    ]
+  },
+  {
     "name": "Пица с пилешко, царевица и топено сирене",
     "prices": [
       {
@@ -2986,7 +3047,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5a68b70c-200.jpg"
+      }
+    ]
   },
   {
     "name": "Салата от домати, краставици, нахут и червен лук",
@@ -3436,6 +3502,23 @@
     ]
   },
   {
+    "name": "Сирене по шопски",
+    "prices": [
+      {
+        "dateText": "05-ти август",
+        "date": "2025-08-05",
+        "price": "6.70",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b3a96d7c-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Скумрия на скара",
     "prices": [
       {
@@ -3702,11 +3785,40 @@
     ]
   },
   {
+    "name": "Тас кебап със свинско",
+    "prices": [
+      {
+        "dateText": "05-ти август",
+        "date": "2025-08-05",
+        "price": "8.10",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2b40a60f-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Татарско кюфте с шунка и пушен кашкавал",
     "prices": [
       {
         "dateText": "10-ти юли",
         "date": "2025-07-10",
+        "price": "4.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Телешки гулаш",
+    "prices": [
+      {
+        "dateText": "05-ти август",
+        "date": "2025-08-05",
         "price": "4.90",
         "currency": "лв"
       }
@@ -3740,7 +3852,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/14d4c146-200.jpg"
+      }
+    ]
   },
   {
     "name": "Телешко с булгур и зеленчуци",
@@ -3910,6 +4027,23 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Тутманик с пълнеж и заливка от сирене",
+    "prices": [
+      {
+        "dateText": "05-ти август",
+        "date": "2025-08-05",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/174176fe-200.jpg"
+      }
+    ]
   },
   {
     "name": "Тутманик с пълнозърнесто брашно",
@@ -4157,6 +4291,18 @@
         "dateText": "16-ти юли",
         "date": "2025-07-16",
         "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ягодов крем",
+    "prices": [
+      {
+        "dateText": "05-ти август",
+        "date": "2025-08-05",
+        "price": "2.80",
         "currency": "лв"
       }
     ],
