@@ -61,6 +61,11 @@
       "ean": "6415"
     },
     {
+      "name": "Пилешко филе с картофено пюре и ементал",
+      "price": "8.90",
+      "currency": "лв"
+    },
+    {
       "name": "Пълнен картоф с кашкавал, подправки и масло",
       "price": "3.70",
       "currency": "лв",
@@ -96,6 +101,27 @@
       "ean": "6583"
     },
     {
+      "name": "Бисквитена торта с маскарпоне и шоколад",
+      "price": "4.40",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/be3b6631-200.jpg",
+      "ean": "8033"
+    },
+    {
+      "name": "Диня",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9f58ba8e-200.jpg",
+      "ean": "8112"
+    },
+    {
+      "name": "Крем пъпеш с мента",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/aaba201d-200.jpg",
+      "ean": "8105"
+    },
+    {
       "name": "Мини еклери",
       "price": "3.00",
       "currency": "лв",
@@ -103,25 +129,29 @@
       "ean": "8130"
     },
     {
+      "name": "Плодов крем",
+      "price": "3.80",
+      "currency": "лв"
+    },
+    {
       "name": "Портокалово реване",
       "price": "2.50",
-      "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a1c62b0c-200.png",
-      "ean": "8135"
+      "currency": "лв"
     },
     {
       "name": "Пъпеш с мед",
       "price": "3.80",
-      "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/81ad3a5f-200.jpg",
-      "ean": "8113"
+      "currency": "лв"
     },
     {
       "name": "Шоколадово брауни",
       "price": "3.00",
-      "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fd282dc3-200.jpg",
-      "ean": "8014"
+      "currency": "лв"
+    },
+    {
+      "name": "Ягодов крем",
+      "price": "2.80",
+      "currency": "лв"
     }
   ]
 }
