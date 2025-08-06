@@ -17,6 +17,18 @@
     ]
   },
   {
+    "name": "Агнешко със зелен боб",
+    "prices": [
+      {
+        "dateText": "06-ти август",
+        "date": "2025-08-06",
+        "price": "10.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Агнешко със спанак, гъби и ориз",
     "prices": [
       {
@@ -900,7 +912,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-06",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d5f7a4fc-200.jpg"
+      }
+    ]
   },
   {
     "name": "Зеленчуков шницел",
@@ -1855,6 +1872,23 @@
     ]
   },
   {
+    "name": "Ориз с маслини и чери домат",
+    "prices": [
+      {
+        "dateText": "06-ти август",
+        "date": "2025-08-06",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-06",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78a662b8-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Ориз със зеленчуци",
     "prices": [
       {
@@ -2579,7 +2613,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-06",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a1c62b0c-200.png"
+      }
+    ]
   },
   {
     "name": "Постен гювеч",
@@ -2760,7 +2799,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-06",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/81ad3a5f-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пържени картофи",
@@ -2980,6 +3024,18 @@
         "dateText": "26-ти юни",
         "date": "2025-06-26",
         "price": "5.80",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Салата домати, краставици и маслини",
+    "prices": [
+      {
+        "dateText": "06-ти август",
+        "date": "2025-08-06",
+        "price": "4.50",
         "currency": "лв"
       }
     ],
@@ -3252,7 +3308,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-06",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ec7d49b4-200.jpg"
+      }
+    ]
   },
   {
     "name": "Свинска кавърма с яйце",
@@ -3656,7 +3717,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-06",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/38a4d570-200.jpg"
+      }
+    ]
   },
   {
     "name": "Супа от свинско месо",
