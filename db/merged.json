@@ -123,7 +123,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ee32a32d-200.jpg"
+      }
+    ]
   },
   {
     "name": "Бейби кебапче",
@@ -759,7 +764,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3845317f-200.jpg"
+      }
+    ]
   },
   {
     "name": "Запеканка от картофи с бекон и кашкавал",
@@ -1558,6 +1568,18 @@
         "dateText": "04-ти юли",
         "date": "2025-07-04",
         "price": "8.90",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Лешникова торта",
+    "prices": [
+      {
+        "dateText": "08-ми август",
+        "date": "2025-08-08",
+        "price": "5.20",
         "currency": "лв"
       }
     ],
@@ -3177,6 +3199,18 @@
     ]
   },
   {
+    "name": "Салата моркови и ябълки",
+    "prices": [
+      {
+        "dateText": "08-ми август",
+        "date": "2025-08-08",
+        "price": "2.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Салата от айсберг,  домати,  краставици и ементал",
     "prices": [
       {
@@ -3754,7 +3788,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a115f285-200.jpg"
+      }
+    ]
   },
   {
     "name": "Супа зелен боб",
@@ -4573,7 +4612,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/01cbadbe-200.jpg"
+      }
+    ]
   },
   {
     "name": "Яхния от телешко с картофи",
