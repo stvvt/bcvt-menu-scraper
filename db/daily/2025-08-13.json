@@ -1,0 +1,162 @@
+{
+  "date": "13-ти август",
+  "meals": [
+    {
+      "name": "Болярска милинка",
+      "price": "4.20",
+      "currency": "лв. / 2.15 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/011b5e1e-200.jpg",
+      "ean": "2050"
+    },
+    {
+      "name": "Овесена баница",
+      "price": "1.90",
+      "currency": "лв. / 0.97 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/69add327-200.jpg",
+      "ean": "2048"
+    },
+    {
+      "name": "Сандвич със суджук и кашкавал",
+      "price": "5.00",
+      "currency": "лв. / 2.56 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9467f787-200.jpg",
+      "ean": "2028"
+    },
+    {
+      "name": "Овчарска салата",
+      "price": "6.90",
+      "currency": "лв. / 3.53 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/110a81b1-200.jpg",
+      "ean": "4009"
+    },
+    {
+      "name": "Салата снежанка",
+      "price": "3.80",
+      "currency": "лв. / 1.94 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a22cd598-200.jpg",
+      "ean": "4012"
+    },
+    {
+      "name": "Крем супа от моркови с пушен пипер",
+      "price": "2.90",
+      "currency": "лв. / 1.48 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3a48e9b8-200.jpg",
+      "ean": "5040"
+    },
+    {
+      "name": "Супа топчета",
+      "price": "3.90",
+      "currency": "лв. / 1.99 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1427be83-200.jpg",
+      "ean": "5004"
+    },
+    {
+      "name": "Задушен ориз",
+      "price": "2.00",
+      "currency": "лв. / 1.02 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c60ba305-200.jpg",
+      "ean": "6385"
+    },
+    {
+      "name": "Зеленчуково пюре",
+      "price": "2.00",
+      "currency": "лв. / 1.02 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8179fe7-200.jpg",
+      "ean": "6241"
+    },
+    {
+      "name": "Картофена яхния",
+      "price": "3.30",
+      "currency": "лв. / 1.69 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ab78bb9a-200.jpg",
+      "ean": "6054"
+    },
+    {
+      "name": "Паста Болонезе",
+      "price": "5.90",
+      "currency": "лв. / 3.02 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a4c82ae6-200.jpg",
+      "ean": "6143"
+    },
+    {
+      "name": "Печени тиквички с млечен сос",
+      "price": "4.80",
+      "currency": "лв. / 2.45 €"
+    },
+    {
+      "name": "Пиле по ловджийски",
+      "price": "6.50",
+      "currency": "лв. / 3.32 €"
+    },
+    {
+      "name": "Пилешко кюфте на скара",
+      "price": "3.50",
+      "currency": "лв. / 1.79 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/21e2fe15-200.jpg",
+      "ean": "6553"
+    },
+    {
+      "name": "Свинско печено с гъбен сос",
+      "price": "8.20",
+      "currency": "лв. / 4.19 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cae2d964-200.jpg",
+      "ean": "6052"
+    },
+    {
+      "name": "Сирене пане",
+      "price": "4.50",
+      "currency": "лв. / 2.30 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d6e742f-200.jpg",
+      "ean": "6103"
+    },
+    {
+      "name": "Телешко с ориз по китайски",
+      "price": "10.90",
+      "currency": "лв. / 5.57 €"
+    },
+    {
+      "name": "Крем с фибри",
+      "price": "2.90",
+      "currency": "лв. / 1.48 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c38c47d9-200.jpg",
+      "ean": "8064"
+    },
+    {
+      "name": "Лешникова торта",
+      "price": "5.20",
+      "currency": "лв. / 2.66 €",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ac102471-200.jpg",
+      "ean": "8057"
+    },
+    {
+      "name": "Лимоново парфе",
+      "price": "2.80",
+      "currency": "лв. / 1.43 €"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв. / 1.53 €"
+    },
+    {
+      "name": "Руло \"Бяло кадифе\"",
+      "price": "4.90",
+      "currency": "лв. / 2.51 €"
+    },
+    {
+      "name": "Скалички",
+      "price": "4.50",
+      "currency": "лв. / 2.30 €"
+    },
+    {
+      "name": "Торта Рафаело",
+      "price": "4.00",
+      "currency": "лв. / 2.05 €"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв. / 1.53 €"
+    }
+  ]
+}
