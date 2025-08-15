@@ -23,7 +23,9 @@
         "dateText": "15-ти август",
         "date": "2025-08-15",
         "price": "4.80",
-        "currency": "лв"
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1482,7 +1484,9 @@
         "dateText": "15-ти август",
         "date": "2025-08-15",
         "price": "3.10",
-        "currency": "лв"
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2159,7 +2163,9 @@
         "dateText": "15-ти август",
         "date": "2025-08-15",
         "price": "4.90",
-        "currency": "лв"
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3177,7 +3183,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1f0d9801-200.jpg"
+      }
+    ]
   },
   {
     "name": "Руло от пилешко филе пълнено с броколи и моркови",
@@ -3223,7 +3234,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4b30d9ef-200.jpg"
+      }
+    ]
   },
   {
     "name": "Салата  краставици, чушка, маслини и кашкавал",
@@ -4028,12 +4044,7 @@
         "currency": "лв"
       }
     ],
-    "images": [
-      {
-        "date": "2025-08-15",
-        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bf3d9530-200.jpg"
-      }
-    ]
+    "images": []
   },
   {
     "name": "Сотирани зеленчуци с копър и чесън",
@@ -4632,7 +4643,9 @@
         "dateText": "15-ти август",
         "date": "2025-08-15",
         "price": "7.20",
-        "currency": "лв"
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": []
