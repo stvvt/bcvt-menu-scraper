@@ -44,7 +44,9 @@ jq '
             "date": .filename,
             "price": (.meals[] | select(.name == $name) | .price),
             "currency": (.meals[] | select(.name == $name) | .currency // "лв")
-          } |
+          } +
+          ((.meals[] | select(.name == $name) | .weight) as $weight | if $weight != null then {"weight": $weight} else {} end) +
+          ((.meals[] | select(.name == $name) | .unit) as $unit | if $unit != null then {"unit": $unit} else {} end) |
           select(.price != null)
         ] |
         reduce .[] as $item ([];

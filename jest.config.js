@@ -6,6 +6,7 @@ module.exports = {
   transform: {
     '^.+\\.ts$': 'ts-jest',
   },
+  resetMocks: true,
   collectCoverageFrom: [
     'src/**/*.ts',
     '!src/**/*.d.ts',

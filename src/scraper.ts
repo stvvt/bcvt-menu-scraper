@@ -1,7 +1,5 @@
 import axios from 'axios';
-import * as cheerio from 'cheerio';
-import scrapeMealImage from './utils/scrapeMealImage';
-
+import { extractMenuData } from './utils/extractMenuData';
 export interface MenuData {
   date: string;
   meals: Array<{
@@ -10,62 +8,9 @@ export interface MenuData {
     currency?: string;
     imageUrl?: string;
     ean?: string;
+    weight?: string;
+    unit?: string;
   }>;
-}
-
-export function extractMenuData(html: string): MenuData | null {
-  const $ = cheerio.load(html);
-  
-  // Find the menu date from heading "Меню за {{date}}"
-  let menuDate = '';
-  $('h1, h2, h3, h4, h5, h6').each((_, element) => {
-    const headingText = $(element).text().trim();
-    const dateMatch = headingText.match(/Меню за (.+)/);
-    if (dateMatch) {
-      menuDate = dateMatch[1];
-      return false; // Break the loop
-    }
-  });
-
-  if (!menuDate) {
-    return null;
-  }
-
-  // Extract meals and prices using proper BCVT HTML selectors
-  const meals: MenuData['meals'] = [];
-  
-  // Find all products in the price list
-  $('.priceListHolder .product').each((_, productElement) => {
-    const $product = $(productElement);
-    
-    // Extract meal name using the specific selector
-    const nameElement = $product.find('.productName');
-    const name = nameElement.text().trim();
-    
-    // Extract price using the specific selector
-    const priceElement = $product.find('> b.nowrap');
-    const priceText = priceElement.text().trim();
-    
-    // Parse price and currency (e.g., "4.20 лв" -> price: "4.20", currency: "лв")
-    const priceMatch = priceText.match(/(\d+\.\d+)\s*(.+)/);
-    
-    if (!name || !priceMatch) {
-      return;
-    }
-
-    const price = priceMatch[1];
-    const currency = priceMatch[2].trim();
-
-    // Extract image URL and EAN
-    const { imageUrl, ean } = scrapeMealImage($, name);
-
-    meals.push({ name, price, currency, imageUrl, ean });
-  });
-
-  return {
-    date: menuDate,
-    meals,
-  };
 }
 
 export async function scrapeMenuUrl(url: string): Promise<MenuData> {
