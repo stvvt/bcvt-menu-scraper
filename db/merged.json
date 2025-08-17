@@ -1085,6 +1085,25 @@
     ]
   },
   {
+    "name": "Зеленчукова салата с киноа",
+    "prices": [
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/05ac61ee-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Зеленчукова супа",
     "prices": [
       {
@@ -1143,6 +1162,14 @@
         "date": "2025-07-15",
         "price": "2.70",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "2.70",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1904,6 +1931,14 @@
         "date": "2025-07-01",
         "price": "2.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "2.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2119,6 +2154,14 @@
         "date": "2025-08-06",
         "price": "3.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2700,6 +2743,25 @@
     "images": []
   },
   {
+    "name": "Пилешки дробчета по селски",
+    "prices": [
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "4.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/433076e8-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Пилешки дробчета с лук и ориз",
     "prices": [
       {
@@ -2847,6 +2909,14 @@
         "date": "2025-07-16",
         "price": "5.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2969,6 +3039,25 @@
       {
         "date": "2025-07-31",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0ed92b91-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Постна мусака",
+    "prices": [
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "3.70",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/07fdc79d-200.jpg"
       }
     ]
   },
@@ -3156,6 +3245,20 @@
         "date": "2025-07-25",
         "price": "3.80",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пържен сафрид",
+    "prices": [
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "9.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -3756,9 +3859,22 @@
         "date": "2025-07-14",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9df9932d-200.jpg"
+      }
+    ]
   },
   {
     "name": "Сандвич със суджук и кашкавал",
@@ -3848,6 +3964,14 @@
         "date": "2025-06-30",
         "price": "9.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "9.00",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4383,6 +4507,14 @@
         "date": "2025-06-25",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4810,6 +4942,14 @@
         "date": "2025-07-03",
         "price": "5.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "5.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4880,6 +5020,14 @@
         "date": "2025-07-16",
         "price": "4.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -4979,6 +5127,14 @@
         "date": "2025-07-03",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
