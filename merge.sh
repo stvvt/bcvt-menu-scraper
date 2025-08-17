@@ -50,7 +50,7 @@ jq '
           select(.price != null)
         ] |
         reduce .[] as $item ([];
-          if length == 0 or .[-1].price != $item.price or .[-1].currency != $item.currency
+          if length == 0 or .[-1].price != $item.price or .[-1].currency != $item.currency or .[-1].weight != $item.weight or .[-1].unit != $item.unit
           then . + [$item]
           else .
           end
