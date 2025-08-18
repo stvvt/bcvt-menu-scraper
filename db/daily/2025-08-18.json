@@ -2,11 +2,13 @@
   "date": "18-ти август",
   "meals": [
     {
-      "name": "Сандвич с луканка и кашкавал",
-      "price": "4.70",
+      "name": "Сандвич с шунка и кашкавал",
+      "price": "4.00",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/531c8a8a-200.jpg",
-      "ean": "2051"
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/56bd637f-200.jpg",
+      "ean": "2009",
+      "weight": "100",
+      "unit": "гр"
     },
     {
       "name": "Сандвич с яйце и сирене",

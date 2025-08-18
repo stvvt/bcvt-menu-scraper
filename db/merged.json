@@ -3847,9 +3847,22 @@
         "date": "2025-07-14",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти август",
+        "date": "2025-08-18",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/56bd637f-200.jpg"
+      }
+    ]
   },
   {
     "name": "Сандвич с яйце и сирене",
