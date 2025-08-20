@@ -7,6 +7,14 @@
         "date": "2025-07-17",
         "price": "7.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "7.00",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -309,6 +317,14 @@
         "date": "2025-06-26",
         "price": "4.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -624,6 +640,14 @@
         "date": "2025-07-02",
         "price": "5.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "5.50",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -800,6 +824,14 @@
         "date": "2025-07-14",
         "price": "2.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "2.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1016,9 +1048,22 @@
         "date": "2025-07-15",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bf6acd6e-200.jpg"
+      }
+    ]
   },
   {
     "name": "Зелена салата с риба тон",
@@ -1315,6 +1360,14 @@
         "date": "2025-06-25",
         "price": "2.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "2.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1772,9 +1825,22 @@
         "date": "2025-07-04",
         "price": "8.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2f316fed-200.jpg"
+      }
+    ]
   },
   {
     "name": "Лешникова торта",
@@ -2084,6 +2150,14 @@
         "date": "2025-06-26",
         "price": "1.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "1.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2387,6 +2461,14 @@
         "date": "2025-07-17",
         "price": "6.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "6.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2718,9 +2800,22 @@
         "date": "2025-07-04",
         "price": "7.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "7.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/110ecab8-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешка пържола запечена с моцарела и бекон",
@@ -2936,9 +3031,22 @@
         "date": "2025-07-01",
         "price": "6.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "6.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/75df5877-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешко със зеленчуци",
@@ -3051,6 +3159,14 @@
         "date": "2025-08-04",
         "price": "3.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "3.80",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4232,6 +4348,14 @@
         "date": "2025-07-29",
         "price": "6.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "6.80",
+        "currency": "лв",
+        "weight": "350",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4524,6 +4648,25 @@
     ]
   },
   {
+    "name": "Супа от свински език с праз",
+    "prices": [
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "5.50",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/777e40fd-200.png"
+      }
+    ]
+  },
+  {
     "name": "Супа от свинско месо",
     "prices": [
       {
@@ -4653,6 +4796,14 @@
         "date": "2025-07-03",
         "price": "10.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "20-ти август",
+        "date": "2025-08-20",
+        "price": "10.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
