@@ -1,0 +1,199 @@
+{
+  "date": "21-ви август",
+  "meals": [
+    {
+      "name": "Болярска баница дълга",
+      "price": "3.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/20f42055-200.jpg",
+      "ean": "2002",
+      "weight": "195",
+      "unit": "гр"
+    },
+    {
+      "name": "Сандвич с филе елена и пушен кашкавал",
+      "price": "5.90",
+      "currency": "лв"
+    },
+    {
+      "name": "Тутманик с пълнозърнесто брашно",
+      "price": "2.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7ee6aabf-200.jpg",
+      "ean": "2022",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Салата домати с маслини",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cb99eb6c-200.jpg",
+      "ean": "4069",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Салата зеле, моркови, червена чушка, лук, ленено семе",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8dff8015-200.jpg",
+      "ean": "4090",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Агнешка дроб чорба",
+      "price": "4.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/86de0af9-200.jpg",
+      "ean": "5036",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем супа от грах",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/65e75776-200.jpg",
+      "ean": "5018",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Боб на фурна",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3fea5f6b-200.jpg",
+      "ean": "6069",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Задушени зеленчуци в масло",
+      "price": "3.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f9c143c0-200.png",
+      "ean": "6088",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Картофено пюре",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/22233159-200.png",
+      "ean": "6033",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Лазаня със сос болонезе",
+      "price": "8.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/11c18ad9-200.jpg",
+      "ean": "6004",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Омлет със зеленчуци",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1740d8f8-200.jpg",
+      "ean": "6397",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Пилешко бутче с гъбен сос",
+      "price": "5.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2d641979-200.jpg",
+      "ean": "6574",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Пълнени чушки с кайма и ориз",
+      "price": "6.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/72a0fcca-200.jpg",
+      "ean": "6120",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Свинско месо  с лук и гъби",
+      "price": "7.90",
+      "currency": "лв",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Цариградски кюфтенца върху картофено пюре",
+      "price": "6.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0ede9eef-200.jpg",
+      "ean": "6164",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Диня",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9f58ba8e-200.jpg",
+      "ean": "8112",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76e90a39-200.jpg",
+      "ean": "8130",
+      "weight": "170",
+      "unit": "гр"
+    },
+    {
+      "name": "Плодов крем",
+      "price": "3.80",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Пъпеш с мед",
+      "price": "3.80",
+      "currency": "лв",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Торта Плодова Фантазия",
+      "price": "3.70",
+      "currency": "лв",
+      "weight": "100",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадов мус",
+      "price": "3.10",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадова торта с лек крем",
+      "price": "4.50",
+      "currency": "лв"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв"
+    }
+  ]
+}

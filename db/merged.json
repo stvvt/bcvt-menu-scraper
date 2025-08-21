@@ -207,6 +207,14 @@
         "date": "2025-07-04",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -258,6 +266,14 @@
         "date": "2025-07-01",
         "price": "3.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "195",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -866,6 +882,14 @@
         "date": "2025-07-11",
         "price": "3.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1343,6 +1367,14 @@
         "date": "2025-07-02",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1593,6 +1625,14 @@
         "date": "2025-06-30",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1813,9 +1853,22 @@
         "date": "2025-07-10",
         "price": "8.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/11c18ad9-200.jpg"
+      }
+    ]
   },
   {
     "name": "Лазаня със спанак и сирене",
@@ -2195,6 +2248,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Омлет със зеленчуци",
+    "prices": [
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1740d8f8-200.jpg"
+      }
+    ]
   },
   {
     "name": "Орехов крем",
@@ -2961,9 +3033,22 @@
         "date": "2025-07-29",
         "price": "5.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2d641979-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешко бутче с печен сос",
@@ -3379,6 +3464,14 @@
         "date": "2025-06-25",
         "price": "6.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "6.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3420,6 +3513,14 @@
         "date": "2025-07-25",
         "price": "3.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "3.80",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -3753,6 +3854,14 @@
         "date": "2025-06-25",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3839,9 +3948,22 @@
         "date": "2025-07-11",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8dff8015-200.jpg"
+      }
+    ]
   },
   {
     "name": "Салата краставици с копър",
@@ -4256,6 +4378,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cec6d4e3-200.png"
       }
     ]
+  },
+  {
+    "name": "Свинско месо  с лук и гъби",
+    "prices": [
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "7.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Свинско месо  с нахут и чушка",
@@ -5186,6 +5322,14 @@
         "date": "2025-07-09",
         "price": "2.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "2.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5269,6 +5413,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Цариградски кюфтенца върху картофено пюре",
+    "prices": [
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "6.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0ede9eef-200.jpg"
+      }
+    ]
   },
   {
     "name": "Цветна салата с гриловано халуми",
@@ -5368,6 +5531,14 @@
         "date": "2025-06-25",
         "price": "3.10",
         "currency": "лв"
+      },
+      {
+        "dateText": "21-ви август",
+        "date": "2025-08-21",
+        "price": "3.10",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
