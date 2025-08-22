@@ -80,6 +80,14 @@
         "date": "2025-07-30",
         "price": "9.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "9.50",
+        "currency": "лв",
+        "weight": "0.35",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -139,6 +147,14 @@
         "date": "2025-06-30",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1143,6 +1159,14 @@
         "date": "2025-07-10",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1613,6 +1637,14 @@
         "date": "2025-06-30",
         "price": "3.60",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "3.60",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -1650,6 +1682,14 @@
         "date": "2025-07-07",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1807,6 +1847,14 @@
         "date": "2025-06-27",
         "price": "5.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "5.80",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2126,9 +2174,22 @@
         "date": "2025-06-26",
         "price": "5.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "5.80",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1904e7d6-200.jpg"
+      }
+    ]
   },
   {
     "name": "Мусака с кълцано пилешко месо",
@@ -2376,6 +2437,14 @@
         "date": "2025-06-30",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2451,6 +2520,14 @@
         "date": "2025-06-26",
         "price": "3.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2999,6 +3076,14 @@
         "date": "2025-06-27",
         "price": "7.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "7.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3208,6 +3293,25 @@
     ]
   },
   {
+    "name": "Пилешко шишче",
+    "prices": [
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "130",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/830be311-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Пилешко шишче с бекон",
     "prices": [
       {
@@ -3353,6 +3457,14 @@
         "date": "2025-07-02",
         "price": "4.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3740,6 +3852,14 @@
         "date": "2025-06-27",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4002,6 +4122,14 @@
         "date": "2025-06-27",
         "price": "3.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "3.90",
+        "currency": "лв",
+        "weight": "0.2",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4060,6 +4188,14 @@
         "date": "2025-06-25",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5175,6 +5311,20 @@
     "images": []
   },
   {
+    "name": "Торта Карамел",
+    "prices": [
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Торта Парфе",
     "prices": [
       {
@@ -5733,9 +5883,22 @@
         "date": "2025-07-16",
         "price": "7.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "22-ри август",
+        "date": "2025-08-22",
+        "price": "7.00",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1458fdf2-200.jpg"
+      }
+    ]
   },
   {
     "name": "Яхния от свинско месо и картофи",
