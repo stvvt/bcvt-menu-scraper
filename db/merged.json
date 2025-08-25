@@ -105,6 +105,14 @@
         "date": "2025-06-26",
         "price": "3.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "3.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1453,6 +1461,14 @@
         "date": "2025-07-25",
         "price": "5.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "5.00",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2383,9 +2399,22 @@
         "date": "2025-07-16",
         "price": "2.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "2.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/91cbafdf-200.jpg"
+      }
+    ]
   },
   {
     "name": "Ориз с кореноплодни зеленчуци",
@@ -3016,6 +3045,14 @@
         "date": "2025-06-25",
         "price": "4.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3906,6 +3943,14 @@
         "date": "2025-07-22",
         "price": "3.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4051,6 +4096,14 @@
         "date": "2025-07-22",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4242,6 +4295,14 @@
         "date": "2025-07-03",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4259,6 +4320,14 @@
         "date": "2025-08-01",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4401,6 +4470,14 @@
         "date": "2025-06-26",
         "price": "7.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "7.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4997,6 +5074,14 @@
         "date": "2025-07-17",
         "price": "11.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "11.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5669,9 +5754,22 @@
         "date": "2025-06-26",
         "price": "6.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "6.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5df4e366-200.jpg"
+      }
+    ]
   },
   {
     "name": "Шоколадов мус",
@@ -5849,6 +5947,14 @@
         "date": "2025-07-02",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти август",
+        "date": "2025-08-25",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
