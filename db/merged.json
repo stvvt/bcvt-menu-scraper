@@ -474,6 +474,14 @@
         "date": "2025-06-26",
         "price": "2.30",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "2.30",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -2491,6 +2499,14 @@
         "date": "2025-08-01",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2537,6 +2553,20 @@
         "date": "2025-07-07",
         "price": "2.50",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Парфе пъпеш",
+    "prices": [
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -3138,6 +3168,14 @@
         "date": "2025-06-25",
         "price": "5.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "5.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3373,9 +3411,22 @@
         "date": "2025-07-11",
         "price": "5.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ac579d38-200.jpg"
+      }
+    ]
   },
   {
     "name": "Плодов крем",
@@ -3434,6 +3485,14 @@
         "date": "2025-07-31",
         "price": "4.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "4.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3914,6 +3973,14 @@
         "date": "2025-08-07",
         "price": "4.40",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "4.40",
+        "currency": "лв",
+        "weight": "180",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3985,6 +4052,14 @@
         "date": "2025-07-08",
         "price": "3.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4614,9 +4689,22 @@
         "date": "2025-07-10",
         "price": "7.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "7.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8ae99e23-200.jpg"
+      }
+    ]
   },
   {
     "name": "Свинско месо с горски гъби и два вида ориз",
@@ -5219,6 +5307,14 @@
         "date": "2025-08-01",
         "price": "2.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "2.80",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5594,9 +5690,22 @@
         "date": "2025-07-14",
         "price": "8.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/94cafe0b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Фритата  с пилешко месо, пушен кашкавал и маслини",
@@ -5870,6 +5979,14 @@
         "date": "2025-07-09",
         "price": "9.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти август",
+        "date": "2025-08-26",
+        "price": "9.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
