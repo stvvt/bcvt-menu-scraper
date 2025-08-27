@@ -148,6 +148,25 @@
     ]
   },
   {
+    "name": "Баница с локум",
+    "prices": [
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "3.70",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9df02074-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Бейби картофи",
     "prices": [
       {
@@ -484,7 +503,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f7511b25-200.jpg"
+      }
+    ]
   },
   {
     "name": "Варени картофи с масло",
@@ -605,9 +629,22 @@
         "date": "2025-07-09",
         "price": "7.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "7.00",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/936d8724-200.jpg"
+      }
+    ]
   },
   {
     "name": "Градинска супа",
@@ -843,6 +880,14 @@
         "date": "2025-06-30",
         "price": "5.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "5.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -1918,6 +1963,25 @@
     ]
   },
   {
+    "name": "Лазаня със сирена",
+    "prices": [
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "9.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8b52f0b0-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Лазаня със сос болонезе",
     "prices": [
       {
@@ -2321,6 +2385,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/110a81b1-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Огретен от тиквички и картофи",
+    "prices": [
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "6.00",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Огретен от тиквички с яйце и сирене",
@@ -2742,6 +2820,14 @@
         "date": "2025-08-01",
         "price": "3.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2771,6 +2857,14 @@
         "date": "2025-07-09",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2822,6 +2916,14 @@
         "date": "2025-06-27",
         "price": "3.10",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "3.10",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2839,6 +2941,14 @@
         "date": "2025-07-11",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -2904,6 +3014,14 @@
         "date": "2025-07-30",
         "price": "8.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "8.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3839,6 +3957,14 @@
         "date": "2025-07-03",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4658,6 +4784,14 @@
         "date": "2025-07-21",
         "price": "6.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "6.50",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5893,6 +6027,20 @@
         "dateText": "21-ви август",
         "date": "2025-08-21",
         "price": "3.10",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Шоколадов пудинг",
+    "prices": [
+      {
+        "dateText": "27-ти август",
+        "date": "2025-08-27",
+        "price": "3.00",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
