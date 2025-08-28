@@ -1,0 +1,175 @@
+{
+  "date": "28-ти август",
+  "meals": [
+    {
+      "name": "Болярска баница дълга",
+      "price": "3.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/20f42055-200.jpg",
+      "ean": "2002",
+      "weight": "195",
+      "unit": "гр"
+    },
+    {
+      "name": "Сандвич с кайма и кашкавал",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78fca265-200.jpg",
+      "ean": "2008",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Салата домати с кашкавал и яйце",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3d4ba6a-200.jpg",
+      "ean": "4053",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Салата снежанка",
+      "price": "3.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a22cd598-200.jpg",
+      "ean": "4012",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Зеленчукова крем супа",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3edc4dd4-200.jpg",
+      "ean": "5043",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Супа топчета",
+      "price": "3.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1427be83-200.jpg",
+      "ean": "5004",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Бейби картофи запечени с бекон и кашкавал",
+      "price": "5.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/08a2eedc-200.jpg",
+      "ean": "6571",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Два вида ориз с киноа",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a74b3fd5-200.jpg",
+      "ean": "6406",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Задушени зеленчуци в масло",
+      "price": "3.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f9c143c0-200.png",
+      "ean": "6088",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Печени тиквички с млечен сос",
+      "price": "4.80",
+      "currency": "лв",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Пилешки дробчета с лук и ориз",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/84597a43-200.jpg",
+      "ean": "6520",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Пилешко шишче",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/830be311-200.jpg",
+      "ean": "6316",
+      "weight": "130",
+      "unit": "гр"
+    },
+    {
+      "name": "Пълнени чушки с ориз и червена леща",
+      "price": "4.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9a3cabd1-200.jpg",
+      "ean": "6273",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Свинско с прясно зеле",
+      "price": "6.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1f9fcb3b-200.png",
+      "ean": "6084",
+      "weight": "350",
+      "unit": "гр"
+    },
+    {
+      "name": "Сирене по шопски",
+      "price": "6.70",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b3a96d7c-200.jpg",
+      "ean": "6015",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Татарско кюфте с шунка и пушен кашкавал",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/59a9c2d7-200.jpg",
+      "ean": "6250",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Еклерова торта",
+      "price": "4.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2a6303e8-200.webp",
+      "ean": "8020",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв",
+      "weight": "170",
+      "unit": "гр"
+    },
+    {
+      "name": "Плодов крем",
+      "price": "3.80",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв"
+    }
+  ]
+}

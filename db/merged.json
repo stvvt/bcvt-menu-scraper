@@ -192,6 +192,25 @@
     ]
   },
   {
+    "name": "Бейби картофи запечени с бекон и кашкавал",
+    "prices": [
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/08a2eedc-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Бейби картофи с копър и чесън",
     "prices": [
       {
@@ -767,6 +786,14 @@
         "date": "2025-07-21",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -906,6 +933,25 @@
       {
         "date": "2025-07-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c37a0705-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Еклерова торта",
+    "prices": [
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2a6303e8-200.webp"
       }
     ]
   },
@@ -1245,6 +1291,14 @@
         "date": "2025-07-30",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2973,6 +3027,14 @@
         "date": "2025-08-13",
         "price": "4.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "4.80",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -3249,9 +3311,22 @@
         "date": "2025-07-15",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/84597a43-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешки хапки",
@@ -3815,9 +3890,22 @@
         "date": "2025-06-30",
         "price": "4.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "4.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9a3cabd1-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пълнени чушки с пилешко месо и ориз",
@@ -4203,6 +4291,14 @@
         "date": "2025-07-17",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4425,6 +4521,14 @@
         "date": "2025-07-02",
         "price": "3.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "3.80",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5023,6 +5127,14 @@
         "date": "2025-08-05",
         "price": "6.70",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "6.70",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5279,6 +5391,14 @@
         "date": "2025-07-04",
         "price": "3.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "3.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5417,9 +5537,22 @@
         "date": "2025-07-10",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти август",
+        "date": "2025-08-28",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/59a9c2d7-200.jpg"
+      }
+    ]
   },
   {
     "name": "Телешки гулаш",
