@@ -68,9 +68,22 @@
         "date": "2025-08-06",
         "price": "10.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "29-ти август",
+        "date": "2025-08-29",
+        "price": "10.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2a0fbc32-200.jpg"
+      }
+    ]
   },
   {
     "name": "Агнешко със спанак, гъби и ориз",
@@ -2784,6 +2797,14 @@
         "date": "2025-07-30",
         "price": "5.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "29-ти август",
+        "date": "2025-08-29",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2899,9 +2920,22 @@
         "date": "2025-06-25",
         "price": "3.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "29-ти август",
+        "date": "2025-08-29",
+        "price": "3.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-08-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1e66cf69-200.jpg"
+      }
+    ]
   },
   {
     "name": "Патладжан с цедено мляко",
@@ -3167,6 +3201,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e058cfaa-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Пилешка дроб чорба",
+    "prices": [
+      {
+        "dateText": "29-ти август",
+        "date": "2025-08-29",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Пилешка кавърма",
@@ -4588,6 +4636,14 @@
         "date": "2025-08-04",
         "price": "3.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "29-ти август",
+        "date": "2025-08-29",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -4758,6 +4814,14 @@
         "date": "2025-07-15",
         "price": "7.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "29-ти август",
+        "date": "2025-08-29",
+        "price": "7.80",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5302,6 +5366,25 @@
       {
         "date": "2025-07-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0d378e0b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Супа от диворастящи гъби",
+    "prices": [
+      {
+        "dateText": "29-ти август",
+        "date": "2025-08-29",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-08-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/00bcd1c5-200.jpg"
       }
     ]
   },
