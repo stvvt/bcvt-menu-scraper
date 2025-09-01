@@ -615,6 +615,14 @@
         "date": "2025-07-21",
         "price": "5.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "01-ви септември",
+        "date": "2025-09-01",
+        "price": "5.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2297,6 +2305,20 @@
     ]
   },
   {
+    "name": "Млечна баница с бурбонска ванилия и мед",
+    "prices": [
+      {
+        "dateText": "01-ви септември",
+        "date": "2025-09-01",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Мляко с ориз",
     "prices": [
       {
@@ -2883,9 +2905,22 @@
         "date": "2025-06-25",
         "price": "7.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "01-ви септември",
+        "date": "2025-09-01",
+        "price": "7.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-01",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d033d5ef-200.jpg"
+      }
+    ]
   },
   {
     "name": "Патладжан бюрек",
@@ -3459,9 +3494,22 @@
         "date": "2025-06-26",
         "price": "5.30",
         "currency": "лв"
+      },
+      {
+        "dateText": "01-ви септември",
+        "date": "2025-09-01",
+        "price": "5.30",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-01",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/474dcf1e-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешко кюфте на скара",
@@ -5571,6 +5619,25 @@
     ]
   },
   {
+    "name": "Тас кебап с телешко",
+    "prices": [
+      {
+        "dateText": "01-ви септември",
+        "date": "2025-09-01",
+        "price": "9.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-01",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2b40a60f-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Тас кебап с телешко месо",
     "prices": [
       {
@@ -6159,6 +6226,14 @@
         "date": "2025-07-02",
         "price": "6.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "01-ви септември",
+        "date": "2025-09-01",
+        "price": "6.80",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
