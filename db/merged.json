@@ -433,6 +433,14 @@
         "date": "2025-06-25",
         "price": "4.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "02-ри септември",
+        "date": "2025-09-02",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -513,6 +521,14 @@
         "date": "2025-07-03",
         "price": "3.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "02-ри септември",
+        "date": "2025-09-02",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -1689,6 +1705,14 @@
         "date": "2025-06-30",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "02-ри септември",
+        "date": "2025-09-02",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -2173,6 +2197,14 @@
         "date": "2025-07-22",
         "price": "4.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "02-ри септември",
+        "date": "2025-09-02",
+        "price": "4.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3122,6 +3154,25 @@
       {
         "date": "2025-08-07",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a625a3d2-200.png"
+      }
+    ]
+  },
+  {
+    "name": "Печено прясно зеле с пилешко бутче",
+    "prices": [
+      {
+        "dateText": "02-ри септември",
+        "date": "2025-09-02",
+        "price": "7.00",
+        "currency": "лв",
+        "weight": "350",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-02",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f64ec3ad-200.jpg"
       }
     ]
   },
@@ -5118,6 +5169,14 @@
         "date": "2025-07-21",
         "price": "6.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "02-ри септември",
+        "date": "2025-09-02",
+        "price": "6.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5904,6 +5963,14 @@
         "date": "2025-07-04",
         "price": "5.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "02-ри септември",
+        "date": "2025-09-02",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
