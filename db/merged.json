@@ -3806,6 +3806,25 @@
     "images": []
   },
   {
+    "name": "Полента със сирене, кашкавал и червен пипер",
+    "prices": [
+      {
+        "dateText": "03-ти септември",
+        "date": "2025-09-03",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/02ae7b92-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Портокалово реване",
     "prices": [
       {
@@ -4488,6 +4507,14 @@
         "date": "2025-06-26",
         "price": "5.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "03-ти септември",
+        "date": "2025-09-03",
+        "price": "5.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4596,6 +4623,25 @@
       {
         "date": "2025-07-31",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/658a65bd-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Салата краставици, червен лук, риба тон и царевица",
+    "prices": [
+      {
+        "dateText": "03-ти септември",
+        "date": "2025-09-03",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/000d3860-200.jpg"
       }
     ]
   },
@@ -4927,6 +4973,25 @@
       {
         "date": "2025-08-06",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ec7d49b4-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Свинска кавърма",
+    "prices": [
+      {
+        "dateText": "03-ти септември",
+        "date": "2025-09-03",
+        "price": "6.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/439fce1b-200.jpg"
       }
     ]
   },
@@ -5409,9 +5474,22 @@
         "date": "2025-07-01",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "03-ти септември",
+        "date": "2025-09-03",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d3376e4e-200.jpg"
+      }
+    ]
   },
   {
     "name": "Студен чийзкейк с мента и сладко от портокали",
