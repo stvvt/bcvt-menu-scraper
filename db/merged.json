@@ -144,6 +144,20 @@
     ]
   },
   {
+    "name": "Баклава",
+    "prices": [
+      {
+        "dateText": "05-ти септември",
+        "date": "2025-09-05",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Баклава със сушени плодове",
     "prices": [
       {
@@ -512,6 +526,14 @@
         "date": "2025-07-03",
         "price": "8.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "05-ти септември",
+        "date": "2025-09-05",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -574,6 +596,14 @@
         "date": "2025-07-03",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "05-ти септември",
+        "date": "2025-09-05",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -771,6 +801,14 @@
         "date": "2025-06-26",
         "price": "3.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "05-ти септември",
+        "date": "2025-09-05",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2045,9 +2083,22 @@
         "date": "2025-07-10",
         "price": "7.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "05-ти септември",
+        "date": "2025-09-05",
+        "price": "7.80",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/03205184-200.jpg"
+      }
+    ]
   },
   {
     "name": "Кюфтета с доматен сос",
@@ -2571,6 +2622,25 @@
       {
         "date": "2025-08-13",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/110a81b1-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Овчарски пай с пилешко филе",
+    "prices": [
+      {
+        "dateText": "05-ти септември",
+        "date": "2025-09-05",
+        "price": "6.00",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9f75e3ef-200.jpg"
       }
     ]
   },
@@ -3121,6 +3191,14 @@
         "date": "2025-07-24",
         "price": "8.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "05-ти септември",
+        "date": "2025-09-05",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5476,6 +5554,25 @@
     "images": []
   },
   {
+    "name": "Скумрия в доматен сос",
+    "prices": [
+      {
+        "dateText": "05-ти септември",
+        "date": "2025-09-05",
+        "price": "6.30",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4647683a-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Скумрия на скара",
     "prices": [
       {
@@ -5700,6 +5797,14 @@
         "date": "2025-07-16",
         "price": "4.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "05-ти септември",
+        "date": "2025-09-05",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
