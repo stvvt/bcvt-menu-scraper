@@ -1,0 +1,166 @@
+{
+  "date": "09-ти септември",
+  "meals": [
+    {
+      "name": "Сандвич с кайма и кашкавал",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78fca265-200.jpg",
+      "ean": "2008",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Сандвич с моцарела и домат",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6195ed1f-200.jpg",
+      "ean": "2012",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Листна салата с моркови",
+      "price": "2.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fa9528f6-200.jpg",
+      "ean": "4040",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Салата домати, патладжан, маслини и рикота",
+      "price": "4.80",
+      "currency": "лв",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем супа от моркови с пушен пипер",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3a48e9b8-200.jpg",
+      "ean": "5040",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Супа от патешко месо",
+      "price": "4.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/38a4d570-200.jpg",
+      "ean": "5006",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Зеленчуково пюре",
+      "price": "2.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8179fe7-200.jpg",
+      "ean": "6241",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Кюфтета с доматен сос",
+      "price": "5.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e0060477-200.jpg",
+      "ean": "6011",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Ориз със спанак",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7674cf08-200.jpg",
+      "ean": "6006",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Панирано пилешко филе",
+      "price": "6.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e6f2175b-200.jpg",
+      "ean": "6589",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Пилешко бутче с гъбен сос",
+      "price": "5.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2d641979-200.jpg",
+      "ean": "6574",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Свинско филе с гъбен сос",
+      "price": "9.90",
+      "currency": "лв",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Селски картофи",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/40204047-200.jpg",
+      "ean": "6535",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Спагети със зеленчуци",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76ad61ae-200.jpg",
+      "ean": "6579"
+    },
+    {
+      "name": "Телешко с ориз",
+      "price": "9.20",
+      "currency": "лв",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем с чия и бял шоколад",
+      "price": "3.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c0ee4b6a-200.jpg",
+      "ean": "8040",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76e90a39-200.jpg",
+      "ean": "8130",
+      "weight": "170",
+      "unit": "гр"
+    },
+    {
+      "name": "Портокалово реване",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a1c62b0c-200.png",
+      "ean": "8135",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fd282dc3-200.jpg",
+      "ean": "8014"
+    }
+  ]
+}

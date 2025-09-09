@@ -1459,6 +1459,14 @@
         "date": "2025-07-25",
         "price": "2.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "09-ти септември",
+        "date": "2025-09-09",
+        "price": "2.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1912,7 +1920,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c0ee4b6a-200.jpg"
+      }
+    ]
   },
   {
     "name": "Крем супа от грах",
@@ -2108,6 +2121,14 @@
         "date": "2025-07-03",
         "price": "5.60",
         "currency": "лв"
+      },
+      {
+        "dateText": "09-ти септември",
+        "date": "2025-09-09",
+        "price": "5.60",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2892,6 +2913,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Панирано пилешко филе",
+    "prices": [
+      {
+        "dateText": "09-ти септември",
+        "date": "2025-09-09",
+        "price": "6.50",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e6f2175b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Парфе пъпеш",
@@ -3977,9 +4017,22 @@
         "date": "2025-07-11",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "09-ти септември",
+        "date": "2025-09-09",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a1c62b0c-200.png"
+      }
+    ]
   },
   {
     "name": "Постен гювеч",
@@ -4702,6 +4755,20 @@
         "date": "2025-08-06",
         "price": "4.50",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Салата домати, патладжан, маслини и рикота",
+    "prices": [
+      {
+        "dateText": "09-ти септември",
+        "date": "2025-09-09",
+        "price": "4.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -5437,6 +5504,14 @@
         "date": "2025-07-04",
         "price": "9.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "09-ти септември",
+        "date": "2025-09-09",
+        "price": "9.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": []
