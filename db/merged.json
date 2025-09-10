@@ -253,6 +253,14 @@
         "date": "2025-07-07",
         "price": "3.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "10-ти септември",
+        "date": "2025-09-10",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -714,6 +722,14 @@
         "date": "2025-06-25",
         "price": "2.60",
         "currency": "лв"
+      },
+      {
+        "dateText": "10-ти септември",
+        "date": "2025-09-10",
+        "price": "2.60",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1277,6 +1293,14 @@
         "date": "2025-06-30",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "10-ти септември",
+        "date": "2025-09-10",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1771,6 +1795,25 @@
     ]
   },
   {
+    "name": "Козуначен мъфин с шоколад",
+    "prices": [
+      {
+        "dateText": "10-ти септември",
+        "date": "2025-09-10",
+        "price": "1.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1573fd0-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Кокосов крем",
     "prices": [
       {
@@ -1859,6 +1902,14 @@
         "date": "2025-06-30",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "10-ти септември",
+        "date": "2025-09-10",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2999,9 +3050,22 @@
         "date": "2025-07-07",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "10-ти септември",
+        "date": "2025-09-10",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eee6a298-200.jpg"
+      }
+    ]
   },
   {
     "name": "Парче пица със сметана, гъби и шунка",
@@ -3696,6 +3760,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bb44f9bd-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Пилешко бутче на скара",
+    "prices": [
+      {
+        "dateText": "10-ти септември",
+        "date": "2025-09-10",
+        "price": "6.00",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Пилешко бутче с гъбен сос",
@@ -6776,6 +6854,14 @@
         "date": "2025-07-02",
         "price": "5.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "10-ти септември",
+        "date": "2025-09-10",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6999,6 +7085,14 @@
         "date": "2025-07-11",
         "price": "6.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "10-ти септември",
+        "date": "2025-09-10",
+        "price": "6.00",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
