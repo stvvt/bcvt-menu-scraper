@@ -1111,6 +1111,14 @@
         "date": "2025-07-04",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "15-ти септември",
+        "date": "2025-09-15",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1965,6 +1973,14 @@
         "date": "2025-06-27",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "15-ти септември",
+        "date": "2025-09-15",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1982,6 +1998,14 @@
         "date": "2025-06-26",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "15-ти септември",
+        "date": "2025-09-15",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2013,6 +2037,25 @@
       {
         "date": "2025-09-09",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c0ee4b6a-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Крем супа от броколи",
+    "prices": [
+      {
+        "dateText": "15-ти септември",
+        "date": "2025-09-15",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1861be45-200.jpg"
       }
     ]
   },
@@ -3188,9 +3231,22 @@
         "date": "2025-07-01",
         "price": "5.60",
         "currency": "лв"
+      },
+      {
+        "dateText": "15-ти септември",
+        "date": "2025-09-15",
+        "price": "5.60",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ef1d5845-200.jpg"
+      }
+    ]
   },
   {
     "name": "Паста с пилешко и сирена",
@@ -3864,6 +3920,25 @@
       {
         "date": "2025-08-21",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2d641979-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешко бутче с ориз",
+    "prices": [
+      {
+        "dateText": "15-ти септември",
+        "date": "2025-09-15",
+        "price": "6.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8f233996-200.jpg"
       }
     ]
   },
