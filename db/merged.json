@@ -355,6 +355,25 @@
     ]
   },
   {
+    "name": "Боб чорба",
+    "prices": [
+      {
+        "dateText": "18-ти септември",
+        "date": "2025-09-18",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c55ffe5-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Болярска баница вита",
     "prices": [
       {
@@ -1270,9 +1289,22 @@
         "date": "2025-07-01",
         "price": "5.10",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти септември",
+        "date": "2025-09-18",
+        "price": "5.60",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d712ef7c-200.jpg"
+      }
+    ]
   },
   {
     "name": "Запеканка с пилешко, гъби и пармезан",
@@ -1852,6 +1884,14 @@
         "date": "2025-06-27",
         "price": "2.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти септември",
+        "date": "2025-09-18",
+        "price": "2.20",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2225,6 +2265,14 @@
         "date": "2025-06-30",
         "price": "2.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти септември",
+        "date": "2025-09-18",
+        "price": "2.20",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5558,6 +5606,14 @@
         "date": "2025-07-02",
         "price": "7.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "18-ти септември",
+        "date": "2025-09-18",
+        "price": "7.80",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [

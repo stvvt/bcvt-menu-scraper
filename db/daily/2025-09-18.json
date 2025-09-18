@@ -1,0 +1,203 @@
+{
+  "date": "18-ти септември",
+  "meals": [
+    {
+      "name": "Болярска закуска с наденица",
+      "price": "4.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9fef9c8f-200.png",
+      "ean": "2053",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Козуначен мъфин с шоколад",
+      "price": "1.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1573fd0-200.jpg",
+      "ean": "2040",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Тутманик с пълнеж и заливка от сирене",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/174176fe-200.jpg",
+      "ean": "2044",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Домати с моцарела и босилково песто",
+      "price": "6.10",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a6c19764-200.jpg",
+      "ean": "4003",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Листна салата с моркови",
+      "price": "2.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fa9528f6-200.jpg",
+      "ean": "4040",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Боб чорба",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c55ffe5-200.jpg",
+      "ean": "5014",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Рибена супа",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a0287fde-200.jpg",
+      "ean": "5005",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Боб на фурна",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3fea5f6b-200.jpg",
+      "ean": "6069",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Гриловани зеленчуци",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2681c5c7-200.jpg",
+      "ean": "6061",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Запеканка с картоф, морков и гъби",
+      "price": "5.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d712ef7c-200.jpg",
+      "ean": "6368",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Кашкавал с корнфлейкс",
+      "price": "5.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a79f5a79-200.jpg",
+      "ean": "6582",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Кебапче",
+      "price": "2.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1b6b470-200.jpg",
+      "ean": "6111",
+      "weight": "80",
+      "unit": "гр"
+    },
+    {
+      "name": "Кюфте",
+      "price": "2.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fe5714d8-200.jpg",
+      "ean": "6234",
+      "weight": "80",
+      "unit": "гр"
+    },
+    {
+      "name": "Лазаня със спанак и сирене",
+      "price": "8.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2f316fed-200.jpg",
+      "ean": "6062",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Пилешко филе на скара",
+      "price": "5.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/17d842eb-200.jpg",
+      "ean": "6167",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Пържени картофи",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6e5961e2-200.jpg",
+      "ean": "6236",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Свинска вратна пържола на скара",
+      "price": "7.80",
+      "currency": "лв",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Бадемов крем",
+      "price": "3.90",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Ванилов пудинг",
+      "price": "3.00",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем карамел",
+      "price": "2.50",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв",
+      "weight": "170",
+      "unit": "гр"
+    },
+    {
+      "name": "Портокалово реване",
+      "price": "2.50",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Торта Рафаело",
+      "price": "4.00",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв"
+    }
+  ]
+}
