@@ -1265,6 +1265,25 @@
     "images": []
   },
   {
+    "name": "Запеканка от тиквички, карфиол и картофи",
+    "prices": [
+      {
+        "dateText": "19-ти септември",
+        "date": "2025-09-19",
+        "price": "6.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-19",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ec2bc21b-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Запеканка с броколи и картофи",
     "prices": [
       {
@@ -1898,6 +1917,25 @@
       {
         "date": "2025-07-18",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1b6b470-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Кекс",
+    "prices": [
+      {
+        "dateText": "19-ти септември",
+        "date": "2025-09-19",
+        "price": "1.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-19",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1d1a2129-200.jpg"
       }
     ]
   },
@@ -3014,6 +3052,14 @@
         "date": "2025-07-23",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "19-ти септември",
+        "date": "2025-09-19",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3868,6 +3914,14 @@
         "date": "2025-07-17",
         "price": "8.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "19-ти септември",
+        "date": "2025-09-19",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4390,6 +4444,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/02ae7b92-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Портокалово парфе",
+    "prices": [
+      {
+        "dateText": "19-ти септември",
+        "date": "2025-09-19",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Портокалово реване",
@@ -7378,6 +7446,20 @@
         "date": "2025-07-16",
         "price": "3.50",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ябълков щрудел",
+    "prices": [
+      {
+        "dateText": "19-ти септември",
+        "date": "2025-09-19",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
