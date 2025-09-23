@@ -7,7 +7,7 @@ jq -r --slurpfile existing db/categories.json '
   map(select(.name | in($existing[0]) | not)) | .[].name
 ' db/merged.json \
   | tr '\n' '\0' \
-  | xargs -0 -I {} node categorize.js {} \
+  | xargs -0 -I {} node categorize.mjs {} \
   | jq -s 'add' \
   | jq 'input + .' - db/categories.json > db/categories_new.json \
   && mv db/categories_new.json db/categories.json
