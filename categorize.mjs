@@ -16,13 +16,19 @@ async function categorizeDish(dishName) {
   });
 
   const response = await openai.chat.completions.create({
-    model: 'openai/gpt-4.1-nano',
+    model: 'openai/gpt-5-nano',
     messages: [
       {
-        role: 'user',
-        content: `Категоризирай ястието "${dishName}" като едно от: закуски, супи, салати, десерти, предястия, основни ястия, гарнитури, напитки. Отговори с един вариант. Отговорът да е точно един от изброените!`
+        role: 'system', 
+        content: "Ти си асистент, който категоризира ястия в една от следните категории: закуски, супи, салати, десерти, предястия, основни ястия, гарнитури, напитки. Отговорът ти трябва да е точно една от изброените!"
+      },
+      {
+        role: 'user', 
+        content: `Категоризирай ястието "${dishName}"`
       }
-    ]
+    ],
+    n: 1,
+    max_tokens: 550
   });
 
   return response.choices[0].message.content;
