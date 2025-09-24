@@ -556,6 +556,25 @@
     ]
   },
   {
+    "name": "Бургер със зеленчуково кюфте",
+    "prices": [
+      {
+        "dateText": "24-ти септември",
+        "date": "2025-09-24",
+        "price": "7.00",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3aa20347-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Бухти",
     "prices": [
       {
@@ -1515,9 +1534,22 @@
         "date": "2025-07-01",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "24-ти септември",
+        "date": "2025-09-24",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0999c0db-200.jpg"
+      }
+    ]
   },
   {
     "name": "Зеленчуков гювеч с нахут",
@@ -1724,6 +1756,14 @@
         "date": "2025-07-28",
         "price": "2.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "24-ти септември",
+        "date": "2025-09-24",
+        "price": "2.80",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2819,6 +2859,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/821f4adc-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Морковена торта",
+    "prices": [
+      {
+        "dateText": "24-ти септември",
+        "date": "2025-09-24",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Мусака",
@@ -4552,6 +4606,14 @@
         "dateText": "18-ти август",
         "date": "2025-08-18",
         "price": "3.70",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "24-ти септември",
+        "date": "2025-09-24",
+        "price": "4.50",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -6828,7 +6890,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d71dceff-200.jpg"
+      }
+    ]
   },
   {
     "name": "Телешко със зеленчуци",
