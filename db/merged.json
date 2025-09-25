@@ -1823,6 +1823,14 @@
         "date": "2025-06-26",
         "price": "3.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти септември",
+        "date": "2025-09-25",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2755,9 +2763,22 @@
         "date": "2025-07-08",
         "price": "5.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти септември",
+        "date": "2025-09-25",
+        "price": "5.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c40441f7-200.jpg"
+      }
+    ]
   },
   {
     "name": "Милинки",
@@ -3215,6 +3236,25 @@
       {
         "date": "2025-08-06",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78a662b8-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Ориз с чушка и лук",
+    "prices": [
+      {
+        "dateText": "25-ти септември",
+        "date": "2025-09-25",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-25",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/12c79a3a-200.jpg"
       }
     ]
   },
@@ -4947,6 +4987,14 @@
         "date": "2025-07-29",
         "price": "10.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти септември",
+        "date": "2025-09-25",
+        "price": "10.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6463,6 +6511,20 @@
     ]
   },
   {
+    "name": "Супа от коприва",
+    "prices": [
+      {
+        "dateText": "25-ти септември",
+        "date": "2025-09-25",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Супа от патешко месо",
     "prices": [
       {
@@ -6643,6 +6705,14 @@
         "date": "2025-07-15",
         "price": "5.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти септември",
+        "date": "2025-09-25",
+        "price": "5.80",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6746,6 +6816,14 @@
         "date": "2025-08-05",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "25-ти септември",
+        "date": "2025-09-25",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": []
