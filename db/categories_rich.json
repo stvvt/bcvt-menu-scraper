@@ -5195,7 +5195,7 @@
   },
   "Лазаня със спанак и сирене": {
     "bg": {
-      "name": "Лазаня със спанак и сирене", 
+      "name": "Лазаня със спанак и сирене",
       "description": "Лазаня със спанак и сирене е вкусно италианско ястие, приготвено с лапи или платки от паста, напоени с сос и слоести със смес от мазен спанак и сирене. Печена е до златисто и се сервира топла."
     },
     "en": {
@@ -5387,6 +5387,76 @@
     "it": {
       "name": "Frittata con mozzarella e verdure",
       "description": "Un delizioso piatto italiano, la frittata è un tipo di omelette ripiena di aromatiche verdure e formaggio mozzarella fuso. Viene servita calda come colazione, pranzo o una leggera cena."
+    }
+  },
+  "Задушени зеленчуци в сметана с пармезан": {
+    "bg": {
+      "name": "Задушени зеленчуци в сметана с пармезан",
+      "description": "Това ястие включва разнообразни зеленчуци, като например броколи, моркови и зеле, които са сварени до крехкост и след това задушени в богата сметана. Завършва се с настърган пармезан, който придава кремообразен вкус и аромат."
+    },
+    "en": {
+      "name": "Sautéed Vegetables in Cream with Parmesan",
+      "description": "This dish features a variety of vegetables such as broccoli, carrots, and cabbage, which are cooked until tender and then sautéed in rich cream. It is finished with grated Parmesan cheese, adding a creamy flavor and aroma."
+    },
+    "it": {
+      "name": "Verdure saltate in crema con Parmesan",
+      "description": "Questo piatto include una varietà di verdure come broccoli, carote e cavolo, cotte fino a renderle tenere e poi saltate in una crema ricca. È completato con formaggio Parmigiano grattugiato, che conferisce un sapore cremoso e aroma."
+    }
+  },
+  "Ориз с чушка и лук": {
+    "bg": {
+      "name": "Ориз с чушка и лук",
+      "description": "Класическо българско ястие, приготвено с варен ориз, добре задушена червена чушка и лук. Обикновено се сервира като гарнитура или самостоятелно ястие, като е ароматно и с приятна текстура."
+    },
+    "en": {
+      "name": "Rice with Pepper and Onion",
+      "description": "A classic Bulgarian dish made with boiled rice, sautéed red pepper, and onion. Usually served as a side dish or a main, it is aromatic and has a pleasant texture."
+    },
+    "it": {
+      "name": "Riso con peperoni e cipolla",
+      "description": "Un piatto classico bulgaro preparato con riso lessato, peperoni rossi soffritti e cipolla. Solitamente servito come contorno o piatto principale, è aromatico e ha una consistenza piacevole."
+    }
+  },
+  "Пиле по мексикански": {
+    "bg": {
+      "name": "Пиле по мексикански",
+      "description": "Традиционно мексиканско ястие, което включва пиле, приготвено със специален сос от домати, чушки, чесън и подправки, често сервиран с ориз или тортила."
+    },
+    "en": {
+      "name": "Mexican-style Chicken",
+      "description": "A traditional Mexican dish featuring chicken cooked in a special sauce made from tomatoes, chili peppers, garlic, and spices, often served with rice or tortillas."
+    },
+    "it": {
+      "name": "Pollo alla messicana",
+      "description": "Piatti tradizionale messicano con pollo cotto in una salsa speciale di pomodori, peperoncini, aglio e spezie, spesso servito con riso o tortilla."
+    }
+  },
+  "Спаначена супа": {
+    "bg": {
+      "name": "Спаначена супа",
+      "description": "Тази супа е направена от пресен или замразен спанак, сварен до мекота и смесен с бульон, зеленчуци и подправки. Обикновено е кремообразна и има свеж, леко кисел вкус, който подчертава естествената свежест на спанака."
+    },
+    "en": {
+      "name": "Spinach Soup",
+      "description": "This soup is made from fresh or frozen spinach cooked until tender and blended with broth, vegetables, and spices. It is usually creamy with a fresh, slightly tangy flavor that highlights the natural freshness of spinach."
+    },
+    "it": {
+      "name": "Zuppa di spinaci",
+      "description": "Questa zuppa è preparata con spinaci freschi o surgelati, cotti fino a diventare morbidi e frullati con brodo, verdure e spezie. Di solito è cremosa e ha un sapore fresco, leggermente acidulo, che mette in risalto la freschezza naturale degli spinaci."
+    }
+  },
+  "Супа от коприва": {
+    "bg": {
+      "name": "Супа от коприва",
+      "description": "Тази традиционна българска супа се приготвя от пресни листа на коприва, варени и смесени с бистра бульон, обикновено подправена с чесън, сирене и ядки. Тя е освежаваща, леко кисела и много хранителна, особено популярна през пролетта."
+    },
+    "en": {
+      "name": "Nettle Soup",
+      "description": "This traditional Bulgarian soup is made from fresh nettle leaves, boiled and blended with a clear broth, usually seasoned with garlic, cheese, and nuts. It is refreshing, slightly sour, and very nutritious, especially popular in spring."
+    },
+    "it": {
+      "name": "Zuppa di ortica",
+      "description": "Questa tradizionale zuppa bulgara è preparata con foglie di ortica fresche, bollite e mescolate con un brodo chiaro, di solito insaporito con aglio, formaggio e noci. È rinfrescante, leggermente aspro e molto nutriente, particolarmente popolare in primavera."
     }
   }
 }

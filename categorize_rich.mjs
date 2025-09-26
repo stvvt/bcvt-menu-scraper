@@ -40,7 +40,7 @@ async function categorizeDish(dishName) {
       },
       {
         role: 'user', 
-        content: `Напиши кратко описание на ястието "${dishName}" на различни езици.`
+        content: `Напиши кратко описание на ястието "${dishName}" на различни езици, като върнеш описанието в полето description, заедно с името в полето name.`
       }
     ],
     response_format: {
