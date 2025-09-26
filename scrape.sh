@@ -6,3 +6,4 @@ node dist/cli.js menu https://bcvt.eu/L/S/21254/m/Dirkhlbn --pretty > db/daily/$
 ./merge.sh db/daily/*.json > db/merged.json
 
 ./categorize.sh
+./categorize_rich.sh
