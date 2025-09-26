@@ -1225,6 +1225,25 @@
     ]
   },
   {
+    "name": "Задушени зеленчуци в сметана с пармезан",
+    "prices": [
+      {
+        "dateText": "26-ти септември",
+        "date": "2025-09-26",
+        "price": "5.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0a60f700-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Запеканка от броколи с моцарела",
     "prices": [
       {
@@ -2131,6 +2150,14 @@
         "date": "2025-07-08",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти септември",
+        "date": "2025-09-26",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2525,9 +2552,22 @@
         "date": "2025-07-16",
         "price": "7.40",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти септември",
+        "date": "2025-09-26",
+        "price": "7.40",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a4e883d0-200.jpg"
+      }
+    ]
   },
   {
     "name": "Лазаня с пилешко и сирена",
@@ -3205,6 +3245,14 @@
         "date": "2025-06-26",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти септември",
+        "date": "2025-09-26",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3917,6 +3965,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Пиле по мексикански",
+    "prices": [
+      {
+        "dateText": "26-ти септември",
+        "date": "2025-09-26",
+        "price": "9.00",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/440e7441-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пиле с ориз",
@@ -5504,9 +5571,22 @@
         "date": "2025-08-08",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти септември",
+        "date": "2025-09-26",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f1e00f10-200.jpg"
+      }
+    ]
   },
   {
     "name": "Салата от айсберг,  домати,  краставици и ементал",
@@ -6206,6 +6286,14 @@
         "date": "2025-07-08",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти септември",
+        "date": "2025-09-26",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6392,6 +6480,25 @@
       {
         "date": "2025-07-21",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76ad61ae-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Спаначена супа",
+    "prices": [
+      {
+        "dateText": "26-ти септември",
+        "date": "2025-09-26",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-09-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b7f4c12d-200.jpg"
       }
     ]
   },
@@ -7632,6 +7739,14 @@
         "date": "2025-07-16",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти септември",
+        "date": "2025-09-26",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
