@@ -36,11 +36,9 @@
       "unit": "гр"
     },
     {
-      "name": "Салата домати, патладжан, маслини и рикота",
+      "name": "Салата домати с мус от авокадо",
       "price": "4.80",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2f6c8366-200.jpg",
-      "ean": "4095",
       "weight": "250",
       "unit": "гр"
     },
@@ -63,12 +61,35 @@
       "unit": "гр"
     },
     {
+      "name": "Супа от фазан",
+      "price": "5.90",
+      "currency": "лв",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Супа топчета",
+      "price": "3.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1427be83-200.jpg",
+      "ean": "5004",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
       "name": "Грах яхния",
       "price": "3.30",
       "currency": "лв",
       "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fde72dbe-200.jpg",
       "ean": "6107",
       "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Запеканка от картофи, целина и моркови",
+      "price": "6.20",
+      "currency": "лв",
+      "weight": "300",
       "unit": "гр"
     },
     {
@@ -99,12 +120,10 @@
       "unit": "гр"
     },
     {
-      "name": "Пилешко филе със сметана, царевица и гъби",
+      "name": "Пилешко филе със зеленчуци и сметана",
       "price": "8.90",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3e8b8b80-200.jpg",
-      "ean": "6257",
-      "weight": "250",
+      "weight": "300",
       "unit": "гр"
     },
     {
@@ -153,9 +172,18 @@
       "unit": "гр"
     },
     {
+      "name": "Медени бисквитки с крем",
+      "price": "3.50",
+      "currency": "лв",
+      "weight": "100",
+      "unit": "гр"
+    },
+    {
       "name": "Мини еклери",
       "price": "3.00",
       "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76e90a39-200.jpg",
+      "ean": "8130",
       "weight": "170",
       "unit": "гр"
     },

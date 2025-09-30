@@ -5458,5 +5458,75 @@
       "name": "Zuppa di ortica",
       "description": "Questa tradizionale zuppa bulgara è preparata con foglie di ortica fresche, bollite e mescolate con un brodo chiaro, di solito insaporito con aglio, formaggio e noci. È rinfrescante, leggermente aspro e molto nutriente, particolarmente popolare in primavera."
     }
+  },
+  "Запеканка от картофи, целина и моркови": {
+    "bg": {
+      "name": "Запеканка от картофи, целина и моркови",
+      "description": "Това е топла ястие, приготвено с настъргани картофи, нарязана целина и моркови, които са смесени и запечени във фурна до златиста коричка. Обикновено се поднася като основно ястие или гарнитура."
+    },
+    "en": {
+      "name": "Potato, Celery, and Carrot Casserole",
+      "description": "This is a warm dish made with grated potatoes, sliced celery, and carrots, mixed together and baked until golden and crispy. It is commonly served as a main course or a side dish."
+    },
+    "it": {
+      "name": "Sformato di patate, sedano e carote",
+      "description": "Questo è un piatto caldo preparato con patate grattugiate, sedano a fette e carote, mescolati e cotti al forno fino a diventare dorati e croccanti. È spesso servito come piatto principale o contorno."
+    }
+  },
+  "Медени бисквитки с крем": {
+    "bg": {
+      "name": "Медени бисквитки с крем",
+      "description": "Сладки медени бисквитки, които са меки отвътре и хрупкави отвън, слоени с нежен крем. Обикновено се приготвят със захар, мед, масло и подправки като канела, след което са залети с пухкав крем преди сервиране."
+    },
+    "en": {
+      "name": "Honey Cookies with Cream",
+      "description": "Sweet honey cookies that are soft inside and crispy outside, layered with a delicate cream. Typically made with sugar, honey, butter, and spices like cinnamon, then topped with fluffy cream before serving."
+    },
+    "it": {
+      "name": "Biscotti al miele con crema",
+      "description": "Dolci biscotti al miele morbidi all'interno e croccanti all'esterno, farciti con una delicata crema. Generalmente preparati con zucchero, miele, burro e spezie come la cannella, poi ricoperti con panna soffice prima di servire."
+    }
+  },
+  "Пилешко филе със зеленчуци и сметана": {
+    "bg": {
+      "name": "Пилешко филе със зеленчуци и сметана",
+      "description": "Обилно ястие, което включва парчета пилешко филе, приготвени заедно с цветни зеленчуци и богата сметана, което придава кремообразна текстура и вкус."
+    },
+    "en": {
+      "name": "Chicken fillet with vegetables and cream",
+      "description": "A hearty dish featuring pieces of chicken fillet cooked with colorful vegetables and rich cream, giving a creamy texture and flavor."
+    },
+    "it": {
+      "name": "Petto di pollo con verdure e panna",
+      "description": "Un piatto sostanzioso che include pezzi di petto di pollo cucinati con verdure colorate e panna ricca, conferendo una consistenza cremosa e un sapore delizioso."
+    }
+  },
+  "Салата домати с мус от авокадо": {
+    "bg": {
+      "name": "Салата домати с мус от авокадо",
+      "description": "Свежа и мека салата, съставена от зрели домати и кремообразен мус от авокадо. Тази комбинация подчертава естествения вкус на доматите с гладката текстура и богатството на авокадото, допринасяйки за здрава и приятна разкоска."
+    },
+    "en": {
+      "name": "Tomato Salad with Avocado Mousse",
+      "description": "A fresh and creamy salad made of ripe tomatoes and smooth avocado mousse. This combination highlights the natural flavor of tomatoes with the soft texture and richness of avocado, creating a healthy and delightful dish."
+    },
+    "it": {
+      "name": "Insalata di pomodori con mousse di avocado",
+      "description": "Un'insalata fresca e cremosa composta da pomodori maturi e morbida mousse di avocado. Questa combinazione esalta il gusto naturale dei pomodori con la consistenza vellutata e la ricchezza dell'avocado, offrendo un piatto salutare e delizioso."
+    }
+  },
+  "Супа от фазан": {
+    "bg": {
+      "name": "Супа от фазан",
+      "description": "Тази супа е направена с деликатно месо от фазан, сварено с бульон и ароматни подправки. Обикновено се сервира топла, с добавка на пресна подправка или малко кисело мляко за допълнителен вкус."
+    },
+    "en": {
+      "name": "Pheasant Soup",
+      "description": "This soup is made with tender pheasant meat, cooked in broth with aromatic spices. It is usually served hot, often garnished with fresh herbs or a touch of sour cream for extra flavor."
+    },
+    "it": {
+      "name": "Zuppa di fagiano",
+      "description": "Questa zuppa è preparata con carne tenera di fagiano, cucinata in brodo con spezie aromatiche. Di solito viene servita calda, spesso guarnita con erbe fresche o una punta di panna acida per un gusto extra."
+    }
   }
 }
