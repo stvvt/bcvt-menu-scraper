@@ -1714,6 +1714,14 @@
         "date": "2025-07-28",
         "price": "10.80",
         "currency": "лв"
+      },
+      {
+        "dateText": "30-ти септември",
+        "date": "2025-09-30",
+        "price": "10.80",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2789,7 +2797,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/103d6cf2-200.jpg"
+      }
+    ]
   },
   {
     "name": "Мекици",
@@ -5477,7 +5490,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-09-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2f6c8366-200.jpg"
+      }
+    ]
   },
   {
     "name": "Салата зеле с моркови",
@@ -5817,6 +5835,14 @@
         "date": "2025-06-27",
         "price": "5.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "30-ти септември",
+        "date": "2025-09-30",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
