@@ -5528,5 +5528,47 @@
       "name": "Zuppa di fagiano",
       "description": "Questa zuppa è preparata con carne tenera di fagiano, cucinata in brodo con spezie aromatiche. Di solito viene servita calda, spesso guarnita con erbe fresche o una punta di panna acida per un gusto extra."
     }
+  },
+  "Бургер с печени зеленчуци и кюфте от кашкавал": {
+    "bg": {
+      "name": "Бургер с печени зеленчуци и кюфте от кашкавал",
+      "description": "Това е сандвич, който включва кръгла питка, пълнена с печени зеленчуци като чушки, тиквички и патладжани, и сочно кюфте, приготвено от кашкавал. Зеленчуците са приготвени на грил или във фурната, а кюфтето от кашкавал е меко и разтегливо, добавяйки богат вкус към бургера."
+    },
+    "en": {
+      "name": "Burger with Roasted Vegetables and Cheese Kofte",
+      "description": "This is a sandwich made with a round bun filled with roasted vegetables such as peppers, zucchini, and eggplant, and a juicy cheese kofte, crafted from melted cheese. The vegetables are grilled or baked, and the cheese kofte is soft and stretchy, adding a rich flavor to the burger."
+    },
+    "it": {
+      "name": "Burger con verdure arrosto e kofte di formaggio",
+      "description": "Questo è un panino composto da un panino rotondo ripieno di verdure arrosto come peperoni, zucchine e melanzane, e una succosa kofte di formaggio, realizzata con formaggio fuso. Le verdure sono grigliate o cotte al forno, e la kofte di formaggio è morbida e filante, donando un sapore ricco al burger."
+    }
+  },
+  "Протеинови топки": {
+    "bg": {
+      "name": "Протеинови топки",
+      "description": "Малки кръгли бонбони или сладкиши, които съдържат високо количество протеини. Обикновено се приготвят от смляни ядки, семена, фурми или други сладки съставки, и често се овалват в кокосови стърготини или какао. Това ястие е популярно като бърз и здравословен енергиен източник за спортуващи и хора, които следят диетата си."
+    },
+    "en": {
+      "name": "Protein Balls",
+      "description": "Small round treats that are high in protein. They are typically made from ground nuts, seeds, dates, and other sweet ingredients, and are often rolled in shredded coconut or cocoa. These are popular as quick, healthy energy bites for activists and anyone mindful of their diet."
+    },
+    "it": {
+      "name": "Palline proteiche",
+      "description": "Piccole palline rotonde che sono ricche di proteine. Di solito sono fatte con frutta secca macinata, semi, datteri o altri ingredienti dolci, e vengono spesso ricoperte con scaglie di cocco o cacao. Sono molto popolari come spuntini energetici veloci e sani per le persone attente alla loro dieta."
+    }
+  },
+  "Суджук с картофи на фурна": {
+    "bg": {
+      "name": "Суджук с картофи на фурна",
+      "description": "Традиционно българско ястие, което включва подправен суджук, нарязан на филийки и приготвен заедно с апетитни картофи, печени във фурната до златиста коричка, овкусени с подправки и мазнина."
+    },
+    "en": {
+      "name": "Sujuk with Oven-Baked Potatoes",
+      "description": "A traditional Bulgarian dish that features seasoned sujuk sausage sliced and baked together with delicious potatoes in the oven until golden, flavored with spices and fat."
+    },
+    "it": {
+      "name": "Sujuk con patate al forno",
+      "description": "Un piatto tradizionale bulgaro che include salsiccia sujuk aromatizzata, tagliata a fette e cotta insieme a deliziose patate al forno fino a ottenere una crosta dorata, insaporite con spezie e grasso."
+    }
   }
 }

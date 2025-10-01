@@ -556,6 +556,25 @@
     ]
   },
   {
+    "name": "Бургер с печени зеленчуци и кюфте от кашкавал",
+    "prices": [
+      {
+        "dateText": "01-ви октомври",
+        "date": "2025-10-01",
+        "price": "9.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-01",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/15766933-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Бургер със зеленчуково кюфте",
     "prices": [
       {
@@ -4682,6 +4701,14 @@
         "date": "2025-06-25",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "01-ви октомври",
+        "date": "2025-10-01",
+        "price": "4.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -4811,6 +4838,20 @@
         "price": "5.80",
         "currency": "лв",
         "weight": "120",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Протеинови топки",
+    "prices": [
+      {
+        "dateText": "01-ви октомври",
+        "date": "2025-10-01",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "100",
         "unit": "гр"
       }
     ],
@@ -5698,9 +5739,22 @@
         "date": "2025-07-01",
         "price": "3.60",
         "currency": "лв"
+      },
+      {
+        "dateText": "01-ви октомври",
+        "date": "2025-10-01",
+        "price": "3.60",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-01",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b088cb9b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Салата от печени чушки с крем от сирена",
@@ -6638,6 +6692,25 @@
       {
         "date": "2025-08-08",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a115f285-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Суджук с картофи на фурна",
+    "prices": [
+      {
+        "dateText": "01-ви октомври",
+        "date": "2025-10-01",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "350",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-01",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/38794915-200.jpg"
       }
     ]
   },
