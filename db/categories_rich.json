@@ -5570,5 +5570,47 @@
       "name": "Sujuk con patate al forno",
       "description": "Un piatto tradizionale bulgaro che include salsiccia sujuk aromatizzata, tagliata a fette e cotta insieme a deliziose patate al forno fino a ottenere una crosta dorata, insaporite con spezie e grasso."
     }
+  },
+  "Вегетарианска пица": {
+    "bg": {
+      "name": "Вегетарианска пица",
+      "description": "Вегетарианска пица е класическо италианско ястие, което се приготвя с тънко тесто, слой доматен сос и богато количество свежи зеленчуци като домати, чушки, маслини и гъби. Пеперони или други меса липсват, за да бъде подходяща за вегетарианци."
+    },
+    "en": {
+      "name": "Vegetarian Pizza",
+      "description": "Vegetarian pizza is a classic Italian dish made with a thin crust, topped with tomato sauce and a generous amount of fresh vegetables like tomatoes, peppers, olives, and mushrooms. It does not include meats like pepperoni, making it suitable for vegetarians."
+    },
+    "it": {
+      "name": "PizzaVegetariana",
+      "description": "La pizza vegetariana è un piatto classico italiano preparato con una crosta sottile, uno strato di salsa di pomodoro e una quantità abbondante di verdure fresche come pomodori, peperoni, olive e funghi. Non include carni come il pepperoni, rendendola adatta ai vegetariani."
+    }
+  },
+  "Торта Сахер": {
+    "bg": {
+      "name": "Торта Сахер",
+      "description": "Торта Сахер е класическа австро-унгарска шоколадова торта, известна със своята богата и плътна шоколадова извара, тънки слоеве шоколадов блат и богата глазура. Обикновено се сервира със струя от сметана или сладко от вишни, като изразява традиционната австрийска елегантност."
+    },
+    "en": {
+      "name": "Sachertorte",
+      "description": "Sachertorte is a classic Austrian chocolate cake known for its rich and dense chocolate filling, thin layers of chocolate sponge cake, and a luscious chocolate glaze. It is typically served with a dollop of whipped cream or cherry jam, embodying traditional Austrian elegance."
+    },
+    "it": {
+      "name": "Torta Sacher",
+      "description": "La Torta Sacher è una classica torta al cioccolato austriaca, nota per il suo ripieno di cioccolato ricco e denso, sottili strati di pan di Spagna al cioccolato e una glassa al cioccolato abbondante. Di solito viene servita con una cucchiaiata di panna montata o marmellata di ciliegie, rappresentando l'eleganza tradizionale austriaca."
+    }
+  },
+  "Чабата Капрезе": {
+    "bg": {
+      "name": "Чабата Капрезе",
+      "description": "Това е свежа и вкусна италианска салата, която включва зрели домати, моцарела сирене и листа босилек, подредени върху пресен хляб чабата. Обикновено се поднася със зехтин и балсамов оцет, като перфектен летен деликатес."
+    },
+    "en": {
+      "name": "Chabata Caprese",
+      "description": "This is a fresh and delicious Italian salad featuring ripe tomatoes, mozzarella cheese, and basil leaves arranged on a crusty Italian bread called chabata. Usually served with olive oil and balsamic vinegar, it is a perfect summer treat."
+    },
+    "it": {
+      "name": "Chabata Caprese",
+      "description": "Questa è una fresca e gustosa insalata italiana che include pomodori maturi, formaggio mozzarella e foglie di basilico, disposti su un pane croccante chiamato chabata. Solitamente servita con olio d'oliva e aceto balsamico, è una delizia estiva perfetta."
+    }
   }
 }

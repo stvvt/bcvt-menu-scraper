@@ -653,7 +653,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-02",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/65dcd3d2-200.jpg"
+      }
+    ]
   },
   {
     "name": "Ванилово реване",
@@ -702,6 +707,25 @@
       {
         "date": "2025-07-31",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/83969783-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Вегетарианска пица",
+    "prices": [
+      {
+        "dateText": "02-ри октомври",
+        "date": "2025-10-02",
+        "price": "4.60",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-02",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bbd374af-200.jpg"
       }
     ]
   },
@@ -6175,6 +6199,14 @@
         "date": "2025-07-01",
         "price": "8.40",
         "currency": "лв"
+      },
+      {
+        "dateText": "02-ри октомври",
+        "date": "2025-10-02",
+        "price": "8.40",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -7409,6 +7441,18 @@
     "images": []
   },
   {
+    "name": "Торта Сахер",
+    "prices": [
+      {
+        "dateText": "02-ри октомври",
+        "date": "2025-10-02",
+        "price": "4.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Торта с ананас",
     "prices": [
       {
@@ -7658,6 +7702,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Чабата Капрезе",
+    "prices": [
+      {
+        "dateText": "02-ри октомври",
+        "date": "2025-10-02",
+        "price": "7.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-02",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f3aaa322-200.jpg"
+      }
+    ]
   },
   {
     "name": "Чабата с бъркани яйца и бекон",
