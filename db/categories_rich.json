@@ -5612,5 +5612,33 @@
       "name": "Chabata Caprese",
       "description": "Questa è una fresca e gustosa insalata italiana che include pomodori maturi, formaggio mozzarella e foglie di basilico, disposti su un pane croccante chiamato chabata. Solitamente servita con olio d'oliva e aceto balsamico, è una delizia estiva perfetta."
     }
+  },
+  "Зелена салата със синьо сирене и бейби царевица": {
+    "bg": {
+      "name": "Зелена салата със синьо сирене и бейби царевица",
+      "description": "Лека и свежа салата, съчетаваща млечната пикантност на синьото сирене с деликатна каша от бейби царевица и прясна зелена салата. Подходящо за лятна гарнитура или лек обяд."
+    },
+    "en": {
+      "name": "Green Salad with Blue Cheese and Baby Corn",
+      "description": "A light and fresh salad combining the creamy tang of blue cheese with tender baby corn and crisp green lettuce. Perfect as a summer side dish or a light lunch."
+    },
+    "it": {
+      "name": "Insalata verde con formaggio blu e pannocchie dipinte",
+      "description": "Un'insalata leggera e fresca che unisce il sapore cremoso e piccante del formaggio blu con teneri chicchi di pannocchie e lattuga verde croccante. Ideale come contorno estivo o pranzo leggero."
+    }
+  },
+  "Яхния от пилешко месо и картофи": {
+    "bg": {
+      "name": "Яхния от пилешко месо и картофи",
+      "description": "Топло ястие, приготвено с месо от пилешки гърди или бутчета, задушени с картофи, подправки и зеленчуци. Обикновено се сервира с гарнитура и е популярно домашно ястие в България."
+    },
+    "en": {
+      "name": "Chicken and Potato Stew",
+      "description": "A warm dish made with chicken meat, usually from chicken breasts or thighs, simmered with potatoes, spices, and vegetables. Typically served with a side and is a popular homemade dish in Bulgaria."
+    },
+    "it": {
+      "name": "Stufato di pollo e patate",
+      "description": "Piatti caldo preparato con carne di pollo, solitamente petto o cosce, cotto con patate, spezie e verdure. Solitamente servito con contorno ed è un piatto casalingo popolare in Bulgaria."
+    }
   }
 }
