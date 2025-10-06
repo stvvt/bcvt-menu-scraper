@@ -5640,5 +5640,19 @@
       "name": "Stufato di pollo e patate",
       "description": "Piatti caldo preparato con carne di pollo, solitamente petto o cosce, cotto con patate, spezie e verdure. Solitamente servito con contorno ed è un piatto casalingo popolare in Bulgaria."
     }
+  },
+  "Крем супа от карфиол и целина": {
+    "bg": {
+      "name": "Крем супа от карфиол и целина",
+      "description": "Тази крем супа съчетава мекотата на карфиола и ароматната свежест на целината, приготвени в гладка, пухкава текстура, подходяща за всяко време от годината."
+    },
+    "en": {
+      "name": "Cream of Cauliflower and Celery Soup",
+      "description": "This cream soup combines the tenderness of cauliflower with the aromatic freshness of celery, prepared in a smooth, fluffy texture suitable for any time of the year."
+    },
+    "it": {
+      "name": "Zuppa cremosa di cavolfiore e sedano",
+      "description": "Questa zuppa cremosa unisce la tenerezza del cavolfiore con la freschezza aromatica del sedano, preparata con una consistenza liscia e soffice, adatta a qualsiasi stagione."
+    }
   }
 }
