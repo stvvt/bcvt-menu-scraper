@@ -144,11 +144,34 @@
       "unit": "гр"
     },
     {
+      "name": "Ванилов пудинг",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/65dcd3d2-200.jpg",
+      "ean": "8117",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем Брюле",
+      "price": "4.90",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Крем Тирамису",
       "price": "3.50",
       "currency": "лв",
       "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1d1a2fa-200.jpg",
       "ean": "8069",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Лешникова торта",
+      "price": "5.20",
+      "currency": "лв",
       "weight": "150",
       "unit": "гр"
     },
@@ -172,6 +195,18 @@
       "currency": "лв",
       "weight": "120",
       "unit": "гр"
+    },
+    {
+      "name": "Сладкиш с праскови",
+      "price": "2.60",
+      "currency": "лв",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Торта Сахер",
+      "price": "4.50",
+      "currency": "лв"
     },
     {
       "name": "Шоколадово брауни",
