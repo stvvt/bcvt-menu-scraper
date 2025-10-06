@@ -1391,8 +1391,8 @@
       "description": "Кюфте е малко месено кюфче, обикновено приготвено от смесено мляно месо (кому ефенди карак), смесено с подправки и често с орехи или лук. Формовам се на малки топчета или плоски кюфтенца и се готви на тиган, пече или ще се меси."
     },
     "en": {
-      "name": "Kofta",
-      "description": "Kofta is a small meatball, usually made from a mixture of minced meat, mixed with spices and often with nuts or onions. They are shaped into small balls or flat patties and cooked by frying, baking, or grilling."
+      "name": "Meatball",
+      "description": "Usually made from a mixture of minced meat, mixed with spices and often with nuts or onions. They are shaped into small balls or flat patties and cooked by frying, baking, or grilling."
     },
     "it": {
       "name": "Polpette di carne",
@@ -5167,7 +5167,7 @@
   },
   "Свинско с ориз и гъби": {
     "bg": {
-      "name": "свинско с ориз и гъби",
+      "name": "Свинско с ориз и гъби",
       "description": "Това ястие представлява сочни парчета свинско месо, приготвени с ароматни гъби и доведени до съвършенство с филен ориз. Обикновено се готви в богат сос, който подчертава вкуса на съставките, и се сервира топло, подходящо за семейна вечеря."
     },
     "en": {
