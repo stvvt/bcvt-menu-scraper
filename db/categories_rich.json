@@ -5654,5 +5654,61 @@
       "name": "Zuppa cremosa di cavolfiore e sedano",
       "description": "Questa zuppa cremosa unisce la tenerezza del cavolfiore con la freschezza aromatica del sedano, preparata con una consistenza liscia e soffice, adatta a qualsiasi stagione."
     }
+  },
+  "Картофени кюфтета с риба": {
+    "bg": {
+      "name": "Картофени кюфтета с риба",
+      "description": "Това ястие представлява вкусни кюфтета, приготвени от пасирани картофи и наситено с вкус рибно месо, което ги прави сочни и ароматни. Обикновено се сервират топли, с гарнитура или просто със свежа салата."
+    },
+    "en": {
+      "name": "Potato and Fish Croquettes",
+      "description": "This dish features delicious croquettes made from mashed potatoes combined with flavorful fish meat, making them juicy and aromatic. They are usually served warm, with a side dish or simply with a fresh salad."
+    },
+    "it": {
+      "name": "Polpette di patate e pesce",
+      "description": "Questo piatto comprende deliziose polpette fatte con patate schiacciate e carne di pesce saporita, rendendole succose e aromatiche. Solitamente vengono servite calde, con contorno o semplicemente con un'insalata fresca."
+    }
+  },
+  "Руска салата": {
+    "bg": {
+      "name": "Руска салата",
+      "description": "Руска салата е популярно студено предястие, състоящо се от варени картофи, моркови, краставици, грах и варено месо, обелени и нарязани на дребни кубчета. Всички съставки се разбъркват с майонеза и се украсяват с пащърнак или пресен магданоз."
+    },
+    "en": {
+      "name": "Russian Salad",
+      "description": "Russian Salad is a popular cold appetizer made from boiled potatoes, carrots, cucumbers, peas, and cooked meat, all peeled and diced. The ingredients are mixed with mayonnaise and garnished with horseradish or fresh parsley."
+    },
+    "it": {
+      "name": "Insalata russa",
+      "description": "L'insalata russa è un antipasto freddo popolare composto da patate, carote, cetrioli, piselli e carne cotta, tutti pelati e tagliati a cubetti. Gli ingredienti vengono mescolati con maionese e decorati con rafano o prezzemolo fresco."
+    }
+  },
+  "Салата цвекло, моркови и ябълки": {
+    "bg": {
+      "name": "Салата цвекло, моркови и ябълки",
+      "description": "Тази свежа салата съчетава ароматното цвекло, сладките моркови и хрупкавите ябълки, създавайки баланс между сладко и леко землист вкус. Обикновено се поднася като гарнитура или леко освежаващо ястие."
+    },
+    "en": {
+      "name": "Beetroot, Carrot, and Apple Salad",
+      "description": "This fresh salad combines aromatic beetroot, sweet carrots, and crunchy apples, creating a balance between sweet and mildly earthy flavors. Usually served as a side dish or a light refreshment."
+    },
+    "it": {
+      "name": "Insalata di barbabietola, carote e mele",
+      "description": "Questa fresca insalata combina barbabietole aromatiche, carote dolci e mele croccanti, creando un equilibrio tra sapori dolci e leggermente terrosi. Di solito viene servita come contorno o piatto leggero e rinfrescante."
+    }
+  },
+  "Тортила със сирена": {
+    "bg": {
+      "name": "Тортила със сирена",
+      "description": "Това е тънък кръгъл хляб, направен от лепкаво тесто, който се пълни със смес от различни сирена, като често се добавят подправки. След това тортила се навива или сгъва и се подгрява, за да се разтопят сирената. Ястието е популярно като закуска или бързо хранене."
+    },
+    "en": {
+      "name": "Cheese Tortilla",
+      "description": "This is a thin, round flatbread made from sticky dough, filled with a mixture of various cheeses, often with added spices. The tortilla is then rolled or folded and heated to melt the cheese. The dish is popular as a breakfast or quick snack."
+    },
+    "it": {
+      "name": "Tortilla con formaggi",
+      "description": "Si tratta di una sottile focaccia rotonda a base di pasta appiccicosa, farcita con un mix di diversi formaggi, spesso arricchiti con spezie. La tortilla viene poi arrotolata o piegata e riscaldata per far fondere i formaggi. È un piatto popolare per colazione o come spuntino veloce."
+    }
   }
 }

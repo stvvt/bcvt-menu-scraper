@@ -992,6 +992,14 @@
         "date": "2025-08-14",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "07-ми октомври",
+        "date": "2025-10-07",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1915,6 +1923,25 @@
       {
         "date": "2025-07-21",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0027df53-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Картофени кюфтета с риба",
+    "prices": [
+      {
+        "dateText": "07-ми октомври",
+        "date": "2025-10-07",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "120",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/313c3beb-200.jpg"
       }
     ]
   },
@@ -2916,9 +2943,22 @@
         "date": "2025-06-27",
         "price": "1.60",
         "currency": "лв"
+      },
+      {
+        "dateText": "07-ми октомври",
+        "date": "2025-10-07",
+        "price": "1.60",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/91a25b36-200.jpg"
+      }
+    ]
   },
   {
     "name": "Миди с ориз, пресен лук и девисил",
@@ -4155,6 +4195,14 @@
         "date": "2025-07-11",
         "price": "5.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "07-ми октомври",
+        "date": "2025-10-07",
+        "price": "5.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5358,6 +5406,25 @@
     ]
   },
   {
+    "name": "Руска салата",
+    "prices": [
+      {
+        "dateText": "07-ми октомври",
+        "date": "2025-10-07",
+        "price": "3.60",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f7025e85-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Салам торта",
     "prices": [
       {
@@ -5865,6 +5932,18 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a22cd598-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Салата цвекло, моркови и ябълки",
+    "prices": [
+      {
+        "dateText": "07-ми октомври",
+        "date": "2025-10-07",
+        "price": "3.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Сандвич с бекон и кашкавал",
@@ -7573,6 +7652,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Тортила със сирена",
+    "prices": [
+      {
+        "dateText": "07-ми октомври",
+        "date": "2025-10-07",
+        "price": "7.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/77044643-200.jpg"
+      }
+    ]
   },
   {
     "name": "Тутманик с пълнеж и заливка от сирене",
