@@ -5710,5 +5710,61 @@
       "name": "Tortilla con formaggi",
       "description": "Si tratta di una sottile focaccia rotonda a base di pasta appiccicosa, farcita con un mix di diversi formaggi, spesso arricchiti con spezie. La tortilla viene poi arrotolata o piegata e riscaldata per far fondere i formaggi. È un piatto popolare per colazione o come spuntino veloce."
     }
+  },
+  "Паста със сирена": {
+    "bg": {
+      "name": "Паста със сирена",
+      "description": "Това е класическо италианско ястие, което включва сварена паста, обикновено спагети, асоциирана с богата смес от сирена като пармезан и гауда, която се разтваря в топлата паста. Обикновено се сервира топла, с добавка от прясно смлян пипер, и понякога с малко масло или крем, за по-богат вкус."
+    },
+    "en": {
+      "name": "Pasta with cheese",
+      "description": "This is a classic Italian dish that consists of cooked pasta, usually spaghetti, combined with a rich mixture of cheeses such as Parmesan and Gouda, which melt into the hot pasta. It is typically served warm, sprinkled with freshly ground pepper, and sometimes with a little butter or cream for a richer flavor."
+    },
+    "it": {
+      "name": "Pasta con formaggio",
+      "description": "Questo è un piatto italiano classico che consiste in pasta cotta, di solito spaghetti, unita a una ricca miscela di formaggi come parmigiano e gouda, che si scioglie nella pasta calda. Viene di solito servita calda, con una spolverata di pepe nero fresco, e talvolta con un po' di burro o panna per un sapore più ricco."
+    }
+  },
+  "Пълнен домат с моцарела и маслини": {
+    "bg": {
+      "name": "Пълнен домат с моцарела и маслини",
+      "description": "Това е свежо и ароматно ястие, което включва сочен домат, напълнен с кремообразна моцарела и наситени маслини. Обикновено се сервира студено като апетит или леко предястие."
+    },
+    "en": {
+      "name": "Stuffed Tomato with Mozzarella and Olives",
+      "description": "A fresh and flavorful dish featuring a juicy tomato stuffed with creamy mozzarella and rich olives. Usually served cold as an appetizer or light snack."
+    },
+    "it": {
+      "name": "Pomodoro ripieno con mozzarella e olive",
+      "description": "Un piatto fresco e saporito che include un succoso pomodoro riempito con mozzarella cremosa e olive gustose. Di solito servito freddo come antipasto o snack leggero."
+    }
+  },
+  "Салата зеле, моркови, домат и краставица": {
+    "bg": {
+      "name": "Салата зеле, моркови, домат и краставица",
+      "description": "Проста и освежаваща салата, съставена от нарязано прясно зеле, моркови, сочни домати и хрупкави краставици. Идеална за лятото, тя е лека и пълна с витамини."
+    },
+    "en": {
+      "name": "Salad with cabbage, carrots, tomato, and cucumber",
+      "description": "A simple and refreshing salad made of chopped fresh cabbage, carrots, juicy tomatoes, and crunchy cucumbers. Perfect for summer, it is light and vitamin-rich."
+    },
+    "it": {
+      "name": "Insalata di cavolo, carote, pomodoro e cetriolo",
+      "description": "Un'insalata semplice e rinfrescante composta da cavolo fresco tritato, carote, pomodori succosi e cetrioli croccanti. Perfetta per l'estate, è leggera e ricca di vitamine."
+    }
+  },
+  "Салата с кус-кус, кис. краставици, маслини, шунка": {
+    "bg": {
+      "name": "Салата с кус-кус, кисели краставици, маслини, шунка",
+      "description": "Тази свежа салата съчетава зърненото подправено с кус-кус с кисели краставици, сочни маслини и парчета шунка, което я прави вкусна и популярна лека храна за летните дни."
+    },
+    "en": {
+      "name": "Salad with couscous, pickled cucumbers, olives, ham",
+      "description": "This fresh salad combines grainy couscous dressed with pickled cucumbers, juicy olives, and slices of ham, making it a flavorful and popular light meal for summer days."
+    },
+    "it": {
+      "name": "Insalata con couscous, cetriolini sottaceto, olive, prosciutto",
+      "description": "Questa insalata fresca combina couscous con cetriolini sottaceto, olive succose e fette di prosciutto, rendendola un pasto leggero e gustoso ideale per l'estate."
+    }
   }
 }
