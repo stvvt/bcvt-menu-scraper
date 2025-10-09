@@ -601,6 +601,14 @@
         "date": "2025-07-17",
         "price": "1.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "09-ти октомври",
+        "date": "2025-10-09",
+        "price": "1.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2197,6 +2205,14 @@
         "date": "2025-07-02",
         "price": "3.60",
         "currency": "лв"
+      },
+      {
+        "dateText": "09-ти октомври",
+        "date": "2025-10-09",
+        "price": "3.60",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -3133,6 +3149,14 @@
         "date": "2025-07-24",
         "price": "5.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "09-ти октомври",
+        "date": "2025-10-09",
+        "price": "5.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3529,9 +3553,22 @@
         "date": "2025-07-15",
         "price": "7.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "09-ти октомври",
+        "date": "2025-10-09",
+        "price": "7.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/64d5e20e-200.jpg"
+      }
+    ]
   },
   {
     "name": "Панирани пръчици моцарела",
