@@ -5766,5 +5766,33 @@
       "name": "Insalata con couscous, cetriolini sottaceto, olive, prosciutto",
       "description": "Questa insalata fresca combina couscous con cetriolini sottaceto, olive succose e fette di prosciutto, rendendola un pasto leggero e gustoso ideale per l'estate."
     }
+  },
+  "Крем супа от пиле и нахут": {
+    "bg": {
+      "name": "Крем супа от пиле и нахут",
+      "description": "Топла и кремообразна супа, приготвена с месо от пиле и меки бели нахутени зърна. Идеална за студени дни, с богат вкус, обогатен с ароматни подправки и свежи подправки."
+    },
+    "en": {
+      "name": "Chicken and Chickpea Cream Soup",
+      "description": "A warm and creamy soup made with chicken meat and soft white chickpeas. Perfect for cold days, rich in flavor, enhanced with aromatic spices and fresh herbs."
+    },
+    "it": {
+      "name": "Zuppa cremosa di pollo e ceci",
+      "description": "Una zuppa calda e cremosa preparata con carne di pollo e ceci bianchi morbidi. Ideale per le giornate fredde, ricca di sapore, arricchita con spezie aromatiche e erbe fresche."
+    }
+  },
+  "Телешко месо с прясно зеле": {
+    "bg": {
+      "name": "Телешко месо с прясно зеле",
+      "description": "Класическо българско ястие, приготвено със свежо прясно зеле, което се задушава с крехко телешко месо. Обикновено се сервира горещо и е богатство от вкусове, съчетаващо сочността на месото и свежестта на зелето."
+    },
+    "en": {
+      "name": "Beef with fresh cabbage",
+      "description": "A classic Bulgarian dish made with tender beef and fresh cabbage, which is stewed together. Usually served hot, this dish combines the juiciness of the meat and the freshness of the cabbage."
+    },
+    "it": {
+      "name": "Manzo con cavolo fresco",
+      "description": "Un piatto classico bulgaro preparato con carne di manzo tenera e cavolo fresco, cucinato insieme. Viene generalmente servito caldo, offrendo un sapore ricco che combina la succosità della carne con la freschezza del cavolo."
+    }
   }
 }

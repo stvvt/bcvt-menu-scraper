@@ -1609,6 +1609,14 @@
         "date": "2025-08-04",
         "price": "4.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "10-ти октомври",
+        "date": "2025-10-10",
+        "price": "4.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2488,6 +2496,25 @@
       {
         "date": "2025-08-13",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3a48e9b8-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Крем супа от пиле и нахут",
+    "prices": [
+      {
+        "dateText": "10-ти октомври",
+        "date": "2025-10-10",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/55f48330-200.jpg"
       }
     ]
   },
@@ -4037,7 +4064,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f01cdba7-200.jpg"
+      }
+    ]
   },
   {
     "name": "Печени праскови с халва, стафиди и филиран бадем",
@@ -6299,6 +6331,14 @@
         "date": "2025-06-26",
         "price": "5.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "10-ти октомври",
+        "date": "2025-10-10",
+        "price": "5.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -7475,6 +7515,25 @@
       {
         "date": "2025-08-05",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/14d4c146-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Телешко месо с прясно зеле",
+    "prices": [
+      {
+        "dateText": "10-ти октомври",
+        "date": "2025-10-10",
+        "price": "9.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2acaa6ff-200.jpg"
       }
     ]
   },
