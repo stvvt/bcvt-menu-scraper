@@ -5794,5 +5794,19 @@
       "name": "Manzo con cavolo fresco",
       "description": "Un piatto classico bulgaro preparato con carne di manzo tenera e cavolo fresco, cucinato insieme. Viene generalmente servito caldo, offrendo un sapore ricco che combina la succosità della carne con la freschezza del cavolo."
     }
+  },
+  "Баничка  с шоколадов и ванилов крем": {
+    "bg": {
+      "name": "Баничка с шоколадов и ванилов крем",
+      "description": "Мекиша и топла баничка, пълна с богати и ароматни слоеве шоколадов и ванилов крем, подходяща за други през деня или като сладък десерт."
+    },
+    "en": {
+      "name": "Pastry with chocolate and vanilla cream",
+      "description": "A soft and warm pastry filled with rich and aromatic layers of chocolate and vanilla cream, perfect for a snack or sweet dessert."
+    },
+    "it": {
+      "name": "Pasticcino con crema al cioccolato e vaniglia",
+      "description": "Un morbido e caldo pasticcino ripieno di strati ricchi e aromatici di crema al cioccolato e vaniglia, ideale come spuntino o dessert dolce."
+    }
   }
 }
