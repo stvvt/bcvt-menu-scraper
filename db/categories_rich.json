@@ -5808,5 +5808,47 @@
       "name": "Pasticcino con crema al cioccolato e vaniglia",
       "description": "Un morbido e caldo pasticcino ripieno di strati ricchi e aromatici di crema al cioccolato e vaniglia, ideale come spuntino o dessert dolce."
     }
+  },
+  "Баничка със спанак и сирене": {
+    "bg": {
+      "name": "Баничка със спанак и сирене",
+      "description": "Тънко тесто, баянно намазано с масло, се пълни със спанак и сирене, и се пече до златисто. Това е класическа българска закуска, популярна през цялата година, особено за сутрешна храна или като лека закуска."
+    },
+    "en": {
+      "name": "Spinach and cheese banitsa",
+      "description": "A thin pastry dough, generously filled with spinach and cheese, and baked until golden. This is a classic Bulgarian pastry, popular year-round, especially for breakfast or as a light snack."
+    },
+    "it": {
+      "name": "Banica con spinaci e formaggio",
+      "description": "Una pasta sottile, abbondantemente farcita con spinaci e formaggio, cotta al forno fino a doratura. È un classico piatto da forno bulgaro, popolare durante tutto l'anno, soprattutto per colazione o come spuntino leggero."
+    }
+  },
+  "Паста с пилешко, спанак и топено сирене": {
+    "bg": {
+      "name": "Паста с пилешко, спанак и топено сирене",
+      "description": "Това е вкусно италианско ястие, което се състои от паста, обикновено спагети, смесена с парчета пилешко месо, свеж спанак и кремообразно топено сирене. Ястието е лесно за приготвяне и предлага приятна комбинация от вкусове и текстури."
+    },
+    "en": {
+      "name": "Pasta with Chicken, Spinach, and Melted Cheese",
+      "description": "This is a tasty Italian dish that features pasta, usually spaghetti, mixed with chunks of chicken, fresh spinach, and creamy melted cheese. It's easy to prepare and offers a pleasant combination of flavors and textures."
+    },
+    "it": {
+      "name": "Pasta con pollo, spinaci e formaggio fuso",
+      "description": "Questo è un delizioso piatto italiano che consiste in pasta, solitamente spaghetti, mescolata con pezzi di pollo, spinaci freschi e formaggio fuso cremoso. È facile da preparare e offre una piacevole combinazione di sapori e consistenze."
+    }
+  },
+  "Супа червена леща": {
+    "bg": {
+      "name": "Супа червена леща",
+      "description": "Тази супа е топла и засищаща ястие, приготвено от червена леща, зеленчуци и подправки. Обикновено се сервира като първо ястие, има богат вкус и кремообразна текстура."
+    },
+    "en": {
+      "name": "Red Lentil Soup",
+      "description": "This soup is a warm and filling dish made from red lentils, vegetables, and spices. It is usually served as a starter, featuring a rich flavor and smooth texture."
+    },
+    "it": {
+      "name": "Zuppa di lenticchie rosse",
+      "description": "Questa zuppa è un piatto caldo e saziante preparato con lenticchie rosse, verdure e spezie. Solitamente si serve come antipasto, caratterizzata da un sapore ricco e una consistenza cremosa."
+    }
   }
 }
