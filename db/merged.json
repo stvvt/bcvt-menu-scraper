@@ -331,6 +331,14 @@
         "date": "2025-07-08",
         "price": "4.40",
         "currency": "лв"
+      },
+      {
+        "dateText": "15-ти октомври",
+        "date": "2025-10-15",
+        "price": "4.40",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -854,6 +862,20 @@
         "date": "2025-07-10",
         "price": "3.00",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Геврек със сусам",
+    "prices": [
+      {
+        "dateText": "15-ти октомври",
+        "date": "2025-10-15",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -6930,7 +6952,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7e51c67b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Скумрия в доматен сос",
@@ -8014,9 +8041,22 @@
         "date": "2025-07-08",
         "price": "9.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "15-ти октомври",
+        "date": "2025-10-15",
+        "price": "9.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a6f9b28c-200.jpg"
+      }
+    ]
   },
   {
     "name": "Филе от скумрия със сос ропотамо",
@@ -8428,6 +8468,20 @@
         "price": "3.50",
         "currency": "лв",
         "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Щрудел ябълка",
+    "prices": [
+      {
+        "dateText": "15-ти октомври",
+        "date": "2025-10-15",
+        "price": "2.00",
+        "currency": "лв",
+        "weight": "100",
         "unit": "гр"
       }
     ],

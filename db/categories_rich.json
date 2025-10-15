@@ -5850,5 +5850,33 @@
       "name": "Zuppa di lenticchie rosse",
       "description": "Questa zuppa è un piatto caldo e saziante preparato con lenticchie rosse, verdure e spezie. Solitamente si serve come antipasto, caratterizzata da un sapore ricco e una consistenza cremosa."
     }
+  },
+  "Геврек със сусам": {
+    "bg": {
+      "name": "Геврек със сусам",
+      "description": "Това е традиционно българско тестено изделие, приготвено от плоско, кръгло тесто, което се изпича до златисто и се поръсва със сусам. Геврекът е хрупкав отвън и мек отвътре, обикновено се яде като закуска или като бърза вкусотия по време на път."
+    },
+    "en": {
+      "name": "Sesame Bagel",
+      "description": "A traditional Bulgarian baked good made from flat, round dough that is baked until golden and sprinkled with sesame seeds. The bagel is crispy on the outside and soft inside, typically enjoyed as a breakfast or a quick snack on the go."
+    },
+    "it": {
+      "name": "Bagel con sesamo",
+      "description": "Un prodotto da forno tradizionale bulgaro realizzato con una pasta piatta e rotonda, cotto fino a doratura e cosparso di semi di sesamo. Il bagel è croccante all'esterno e morbido all'interno, solitamente consumato a colazione o come spuntino veloce durante il giorno."
+    }
+  },
+  "Щрудел ябълка": {
+    "bg": {
+      "name": "Щрудел ябълка",
+      "description": "Класически десерт, приготвен с тънко разточено тесто, в което се навива пухкава и ароматна плънка от нарязани ябълки, захар, канела и често орехи или стафиди. След това се пече до златисто и се поднася топъл или студен, често с прах за захар или топка ванилов сладолед."
+    },
+    "en": {
+      "name": "Apple Strudel",
+      "description": "A classic dessert made with thinly rolled pastry filled with a fluffy and aromatic mixture of sliced apples, sugar, cinnamon, and often walnuts or raisins. It is baked until golden and served warm or cold, often dusted with powdered sugar or with a scoop of vanilla ice cream."
+    },
+    "it": {
+      "name": "Strudel di mele",
+      "description": "Un dolce classico preparato con una pasta sottile arrotolata intorno a un ripieno soffice e aromatico di mele a fette, zucchero, cannella e spesso noci o uvetta. Viene cotto al forno fino a doratura e servito caldo o freddo, spesso spolverato di zucchero a velo o accompagnato da una pallina di gelato alla vaniglia."
+    }
   }
 }
