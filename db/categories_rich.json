@@ -5878,5 +5878,33 @@
       "name": "Strudel di mele",
       "description": "Un dolce classico preparato con una pasta sottile arrotolata intorno a un ripieno soffice e aromatico di mele a fette, zucchero, cannella e spesso noci o uvetta. Viene cotto al forno fino a doratura e servito caldo o freddo, spesso spolverato di zucchero a velo o accompagnato da una pallina di gelato alla vaniglia."
     }
+  },
+  "Запеканка от картофи и зеленчуци": {
+    "bg": {
+      "name": "Запеканка от картофи и зеленчуци",
+      "description": "Това е топло ястие, приготвено с нарязани картофи, смесени със зеленчуци като моркови, грах или пипер, всичко обилно покрито с млечен сос и запечено до златисто. Обикновено се сервира като основно ястие или уютен обяд."
+    },
+    "en": {
+      "name": "Baked Potato and Vegetable Casserole",
+      "description": "This is a warm dish made with sliced potatoes mixed with vegetables such as carrots, peas, or peppers, all generously covered with a creamy sauce and baked until golden. It is usually served as a main course or comforting lunch."
+    },
+    "it": {
+      "name": "Sformato di Patate e Verdure",
+      "description": "Questo è un piatto caldo preparato con patate affettate e verdure come carote, piselli o peperoni, ricoperto generosamente di salsa cremosa e cotto al forno fino a doratura. Di solito viene servito come piatto principale o pranzo confortante."
+    }
+  },
+  "Картофени кюфтета с моцарела": {
+    "bg": {
+      "name": "Картофени кюфтета с моцарела",
+      "description": "Това са меки и хрупкави кюфтета, приготвени от настъргани картофи, смесени с подправки и сирена, след което се изпържват до златисто. В центъра на всяко кюфте има топченце моцарела, което се разтапя при печенето, създавайки сочна и вкусна сърцевина."
+    },
+    "en": {
+      "name": "Potato Croquettes with Mozzarella",
+      "description": "These are soft and crispy croquettes made from grated potatoes mixed with spices and cheese, then fried until golden. Each croquette contains a piece of mozzarella in the center, which melts during cooking, creating a juicy and flavorful core."
+    },
+    "it": {
+      "name": "Crocchette di Patate con Mozzarella",
+      "description": "Queste sono crocchette morbide e croccanti fatte con patate grattugiate, mescolate con spezie e formaggi, quindi fritte fino a diventare dorate. Al centro di ogni crocchetta si trova un pezzetto di mozzarella che si scioglie durante la cottura, creando un cuore succoso e saporito."
+    }
   }
 }
