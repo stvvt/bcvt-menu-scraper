@@ -5906,5 +5906,19 @@
       "name": "Crocchette di Patate con Mozzarella",
       "description": "Queste sono crocchette morbide e croccanti fatte con patate grattugiate, mescolate con spezie e formaggi, quindi fritte fino a diventare dorate. Al centro di ogni crocchetta si trova un pezzetto di mozzarella che si scioglie durante la cottura, creando un cuore succoso e saporito."
     }
+  },
+  "Салата домати , маслини, боб и чушки": {
+    "bg": {
+      "name": "Салата домати, маслини, боб и чушки",
+      "description": "Свежа и пъстра салата, съчетаваща сочни домати, маслини, леко сварен боб и печени чушки. Обикновено се поднася като гарнитура или студена предястие, подходящо за летните месеци."
+    },
+    "en": {
+      "name": "Tomato, Olive, Bean, and Pepper Salad",
+      "description": "A fresh and colorful salad combining juicy tomatoes, olives, lightly cooked beans, and roasted peppers. Usually served as a garnish or cold appetizer, perfect for summer months."
+    },
+    "it": {
+      "name": "Insalata di pomodori, olive, fagioli e peperoni",
+      "description": "Un'insalata fresca e colorata che unisce pomodori succosi, olive, fagioli leggermente cotti e peperoni arrostiti. Comunemente servita come accompagnamento o antipasto freddo, ideale per l'estate."
+    }
   }
 }
