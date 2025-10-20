@@ -5920,5 +5920,61 @@
       "name": "Insalata di pomodori, olive, fagioli e peperoni",
       "description": "Un'insalata fresca e colorata che unisce pomodori succosi, olive, fagioli leggermente cotti e peperoni arrostiti. Comunemente servita come accompagnamento o antipasto freddo, ideale per l'estate."
     }
+  },
+  "Гъбена яхния": {
+    "bg": {
+      "name": "Гъбена яхния",
+      "description": "Класическо българско ястие, което се приготвя със свежи или сушени гъби, задушени с лук, домати и подправки. Обикновено се сервира топло, като основно ястие или засищаща гарнитура."
+    },
+    "en": {
+      "name": "Mushroom Stew",
+      "description": "A traditional Bulgarian dish made with fresh or dried mushrooms, simmered with onions, tomatoes, and spices. Usually served warm as a main course or a filling side dish."
+    },
+    "it": {
+      "name": "Spezzatino di funghi",
+      "description": "Un piatto tradizionale bulgaro preparato con funghi freschi o secchi, cotti con cipolle, pomodori e spezie. Di solito servito caldo come piatto principale o come contorno sostanzioso."
+    }
+  },
+  "Запеканка с пилешко, моркови и карфиол": {
+    "bg": {
+      "name": "Запеканка с пилешко, моркови и карфиол",
+      "description": "Това е топла печена ястие, съчетание от нежно пилешко месо, сладки моркови и крехък карфиол, обикновено поднесено горещо. Често е подправена с подправки и сирене, което придава кремообразна текстура и изразен вкус."
+    },
+    "en": {
+      "name": "Baked Chicken, Carrots, and Cauliflower Casserole",
+      "description": "This is a warm baked dish combining tender chicken, sweet carrots, and crisp cauliflower, usually served hot. It is often seasoned with herbs and cheese, adding a creamy texture and distinctive flavor."
+    },
+    "it": {
+      "name": "Sformato al forno con pollo, carote e cavolfiore",
+      "description": "Questo è un piatto caldo al forno che combina pollo tenero, dolci carote e croccanti cavolfiori, solitamente servito caldo. È spesso aromatizzato con erbe e formaggio, conferendo una consistenza cremosa e un sapore intenso."
+    }
+  },
+  "Пилешко филе със сушен домат и кашкавал": {
+    "bg": {
+      "name": "Пилешко филе със сушен домат и кашкавал",
+      "description": "Вкусно и сочено пилешко филе, гарнирано със сушени домати, които добавят богат и насыщен вкус, и топъл, разтеглив кашкавал, който придава кремообразна текстура и апетитен вид."
+    },
+    "en": {
+      "name": "Chicken fillet with dried tomato and cheese",
+      "description": "Juicy and flavorful chicken fillet topped with dried tomatoes for a rich taste and melted cheese that adds a creamy texture and visual appeal."
+    },
+    "it": {
+      "name": "Petto di pollo con pomodori secchi e formaggio",
+      "description": "Delizioso petto di pollo succoso, condito con pomodori secchi che conferiscono un gusto intenso, e con formaggio fuso che rende il piatto cremoso e invitante."
+    }
+  },
+  "Свински дроб с доматен сос": {
+    "bg": {
+      "name": "Свински дроб с доматен сос",
+      "description": "Това е традиционно българско ястие, в което тънки парчета свински дроб се готвят в богато доматено пюре с подправки. Обикновено се сервира топло, с гарнитура от свежа салата или картофи."
+    },
+    "en": {
+      "name": "Pork liver with tomato sauce",
+      "description": "A traditional Bulgarian dish consisting of thin slices of pork liver cooked in a rich tomato sauce with spices. Usually served hot with a side of fresh salad or potatoes."
+    },
+    "it": {
+      "name": "Fegato di maiale al sugo di pomodoro",
+      "description": "Un piatto tradizionale bulgaro che consiste in sottili fette di fegato di maiale cucinate in una ricca salsa di pomodoro con spezie. Generalmente servito caldo con un contorno di insalata fresca o patate."
+    }
   }
 }
