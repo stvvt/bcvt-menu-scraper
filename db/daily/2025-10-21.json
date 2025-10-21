@@ -1,0 +1,196 @@
+{
+  "date": "21-ви октомври",
+  "meals": [
+    {
+      "name": "Болярска закуска с наденица",
+      "price": "4.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9fef9c8f-200.png",
+      "ean": "2053",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Геврек със сусам",
+      "price": "2.90",
+      "currency": "лв",
+      "weight": "100",
+      "unit": "гр"
+    },
+    {
+      "name": "Щрудел ябълка",
+      "price": "2.00",
+      "currency": "лв",
+      "weight": "100",
+      "unit": "гр"
+    },
+    {
+      "name": "Салата моркови и ябълки",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f1e00f10-200.jpg",
+      "ean": "4073",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Салата от домати, краставици, нахут и червен лук",
+      "price": "3.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b088cb9b-200.jpg",
+      "ean": "4071",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем супа от тиквички",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/db49589a-200.jpg",
+      "ean": "5023",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Пилешка супа",
+      "price": "4.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b4e09d46-200.jpg",
+      "ean": "5002",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Бейби картофи",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fffcf440-200.jpg",
+      "ean": "6256",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Лучена яхния",
+      "price": "4.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/49f4eb03-200.jpg",
+      "ean": "6130",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Мусака с кълцано пилешко месо",
+      "price": "5.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5039f087-200.jpg",
+      "ean": "6365",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Паста с доматен сос и кашкавал",
+      "price": "5.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ef1d5845-200.jpg",
+      "ean": "6370",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Пилешко с два вида ориз и сушен домат",
+      "price": "6.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/75df5877-200.jpg",
+      "ean": "6166",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Пъстърва на фурна",
+      "price": "8.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bc29be57-200.jpg",
+      "ean": "6303",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Свински късчета със спанак, картофи и сметана",
+      "price": "8.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d09ed6b7-200.jpg",
+      "ean": "6310",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Телешко кюфте на скара",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/14d4c146-200.jpg",
+      "ean": "6416",
+      "weight": "80",
+      "unit": "гр"
+    },
+    {
+      "name": "Тортила с печени зеленчуци и кашкавал",
+      "price": "5.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eea8a209-200.jpg",
+      "ean": "6382",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем карамел",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a82e6194-200.jpg",
+      "ean": "8004",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76e90a39-200.jpg",
+      "ean": "8130",
+      "weight": "170",
+      "unit": "гр"
+    },
+    {
+      "name": "Мляко с ориз",
+      "price": "2.20",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Салам торта",
+      "price": "4.00",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Торта Пистачо",
+      "price": "5.20",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Червено кадифе",
+      "price": "4.20",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв"
+    }
+  ]
+}

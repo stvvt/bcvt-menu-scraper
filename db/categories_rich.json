@@ -5976,5 +5976,19 @@
       "name": "Fegato di maiale al sugo di pomodoro",
       "description": "Un piatto tradizionale bulgaro che consiste in sottili fette di fegato di maiale cucinate in una ricca salsa di pomodoro con spezie. Generalmente servito caldo con un contorno di insalata fresca o patate."
     }
+  },
+  "Крем супа от тиквички": {
+    "bg": {
+      "name": "Крем супа от тиквички",
+      "description": "Тази крем супа е гладка и кремообразна, приготвена от пресни тиквички, смесени с лук, чесън и бульон. Обикновено се сервира с малко зехтин или кисело мляко върху повърхността."
+    },
+    "en": {
+      "name": "Zucchini Cream Soup",
+      "description": "This soup is smooth and creamy, made from fresh zucchinis blended with onions, garlic, and broth. It is typically served with a drizzle of olive oil or a dollop of yogurt on top."
+    },
+    "it": {
+      "name": "Zuppa cremosa di zucchine",
+      "description": "Questa zuppa è liscia e cremosa, preparata con zucchine fresche frullate con cipolla, aglio e brodo. Di solito viene servita con un filo di olio d'oliva o un cucchiaio di yogurt sopra."
+    }
   }
 }
