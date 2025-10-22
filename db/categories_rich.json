@@ -5990,5 +5990,47 @@
       "name": "Zuppa cremosa di zucchine",
       "description": "Questa zuppa è liscia e cremosa, preparata con zucchine fresche frullate con cipolla, aglio e brodo. Di solito viene servita con un filo di olio d'oliva o un cucchiaio di yogurt sopra."
     }
+  },
+  "Боровинкова торта": {
+    "bg": {
+      "name": "Боровинкова торта",
+      "description": "Боровинкова торта е десерт, който се приготвя с богата и сочна бленда от пресни или замразени боровинки, вложени в нежна блатена основа. Обикновено е покрита с крем или мус от боровинки и има за финален щрих леко поръсване с пудра захар или свежи боровинки, което придава свежест и красив външен вид."
+    },
+    "en": {
+      "name": "Blueberry Cake",
+      "description": "Blueberry cake is a dessert made with a rich and juicy blend of fresh or frozen blueberries, embedded in a tender sponge cake base. It is usually topped with blueberry cream or mousse and finished with a light dusting of powdered sugar or fresh blueberries, adding freshness and visual appeal."
+    },
+    "it": {
+      "name": "Torta di mirtilli",
+      "description": "La torta di mirtilli è un dolce preparato con una ricca e succosa miscela di mirtilli freschi o surgelati, inseriti in una base morbida di pan di Spagna. Di solito è ricoperta con una crema o mousse di mirtilli e ha come tocco finale una leggera spolverata di zucchero a velo o mirtilli freschi, che conferiscono freschezza e un aspetto esteticamente piacevole."
+    }
+  },
+  "Кюфте от карфиол и топено сирене": {
+    "bg": {
+      "name": "Кюфте от карфиол и топено сирене",
+      "description": "Това е вкусно вегетарианско ястие, което представлява кръгли кюфтета, приготвени от смес от полезен карфиол и разтопено сирене. Те са добре подправени и запечени до златисто, предлагайки сочна и ароматна алтернатива на традиционните месни кюфтета."
+    },
+    "en": {
+      "name": "Cauliflower and melted cheese patties",
+      "description": "These are delicious vegetarian patties made from a mixture of healthy cauliflower and melted cheese. They are well seasoned and baked until golden, offering a juicy and flavorful alternative to traditional meat patties."
+    },
+    "it": {
+      "name": "Polpette di cavolfiore e formaggio fuso",
+      "description": "Queste sono deliziose polpette vegetariane fatte con una miscela di salutare cavolfiore e formaggio fuso. Sono ben condite e cotte al forno fino a doratura, offrendo un'alternativa succosa e saporita alle tradizionali polpette di carne."
+    }
+  },
+  "Свински късчета с кисели краставички, гъби и сметана": {
+    "bg": {
+      "name": "Свински късчета с кисели краставички, гъби и сметана",
+      "description": "Това е вкусно ястие, при което свинско месо се задушава с нарязани кисели краставички и гъби, като се добавя сметана за богата и кремообразна текстура. Обикновено се сервира с гарнитура от картофи, ориз или каша."
+    },
+    "en": {
+      "name": "Pork pieces with pickles, mushrooms, and sour cream",
+      "description": "This is a tasty dish where pork meat is stewed with sliced pickles and mushrooms, and sour cream is added for a rich and creamy texture. It is usually served with a side of potatoes, rice, or porridge."
+    },
+    "it": {
+      "name": "Pezzi di maiale con cetriolini, funghi e panna acida",
+      "description": "Questo è un piatto gustoso in cui la carne di maiale viene stufata con cetriolini e funghi affettati, arricchito con panna acida per una consistenza ricca e cremosa. Di solito viene servito con contorni di patate, riso o polenta."
+    }
   }
 }
