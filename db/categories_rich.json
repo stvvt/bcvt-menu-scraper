@@ -6032,5 +6032,75 @@
       "name": "Pezzi di maiale con cetriolini, funghi e panna acida",
       "description": "Questo è un piatto gustoso in cui la carne di maiale viene stufata con cetriolini e funghi affettati, arricchito con panna acida per una consistenza ricca e cremosa. Di solito viene servito con contorni di patate, riso o polenta."
     }
+  },
+  "Картофена салата с майонеза и кашкавал": {
+    "bg": {
+      "name": "Картофена салата с майонеза и кашкавал",
+      "description": "Това е студена салата, приготвена сварени и нарязани картофи, обилно захаросани с майонеза и настърган кашкавал. Често се сервира като гарнитура или студена закуска."
+    },
+    "en": {
+      "name": "Potato Salad with Mayonnaise and Cheese",
+      "description": "This is a cold salad made with boiled and chopped potatoes, generously coated with mayonnaise and grated cheese. It is often served as a side dish or cold snack."
+    },
+    "it": {
+      "name": "Insalata di patate con maionese e formaggio",
+      "description": "Questa è un'insalata fredda preparata con patate cotte e tagliate, abbondantemente condita con maionese e formaggio grattugiato. Spesso viene servita come contorno o spuntino freddo."
+    }
+  },
+  "Картофени кюфтета с каперси и кашкавал": {
+    "bg": {
+      "name": "Картофени кюфтета с каперси и кашкавал",
+      "description": "Това е вкусно и ароматно ястие, състоящо се от кръгли кюфтета, приготвени от настъргани картофи, подправени с подправки и замесени с масло или олио. Те са запържени до златисто и сервират се със сос от каперси и настърган кашкавал, който се разтапя върху топлите кюфтета. Това ястие е характерно със своята крехкост и богат вкус."
+    },
+    "en": {
+      "name": "Potato Fritters with Capers and Cheese",
+      "description": "This is a delicious and aromatic dish consisting of round fritters made from grated potatoes, seasoned with spices and mixed with butter or oil. They are fried until golden brown and served with a sauce of capers and grated cheese, which melts over the hot fritters. The dish is known for its tenderness and rich flavor."
+    },
+    "it": {
+      "name": "Frittelle di patate con capperi e formaggio",
+      "description": "Questo è un piatto gustoso e aromatico composto da frittelle rotonde fatte con patate grattugiate, condite con spezie e mescolate con burro o olio. Sono fritte fino a diventare dorate e vengono servite con una salsa di capperi e formaggio grattugiato, che si scioglie sulle frittelle calde. Questo piatto è noto per la sua tenerezza e sapore ricco."
+    }
+  },
+  "Пилешко с ориз и гъби": {
+    "bg": {
+      "name": "Пилешко с ориз и гъби",
+      "description": "Класическо家庭но ястие, приготвено с парченца пилешко месо, бял ориз и свежи гъби, запечени заедно до златисто."
+    },
+    "en": {
+      "name": "Chicken with rice and mushrooms",
+      "description": "A classic homemade dish made with pieces of chicken, white rice, and fresh mushrooms, baked together until golden."
+    },
+    "it": {
+      "name": "Pollo con riso e funghi",
+      "description": "Un classico piatto casalingo preparato con pezzi di pollo, riso bianco e funghi freschi, cotto insieme fino a doratura."
+    }
+  },
+  "Руло мозайка с печени картофи": {
+    "bg": {
+      "name": "Руло мозайка с печени картофи",
+      "description": "Това е ароматно ястие, при което се сглобява слоеста смес от месо, зеленчуци и подправки, оформена като мозайка и запечена до златисто. сервира се с печени картофи, които са добре подправени и хрупкави отвън, меки вътре."
+    },
+    "en": {
+      "name": "Mosaic Roll with Baked Potatoes",
+      "description": "This is a flavorful dish where a layered mixture of meat, vegetables, and spices is assembled into a mosaic shape and baked until golden. It is served with baked potatoes that are well-seasoned and crispy on the outside, soft inside."
+    },
+    "it": {
+      "name": "Rotolo mosaico con patate al forno",
+      "description": "È un piatto saporito in cui un misto a strati di carne, verdure e spezie viene assemblato in una forma a mosaico e cotto al forno fino a doratura. Si serve con patate al forno, ben condite e croccanti all'esterno, morbide all'interno."
+    }
+  },
+  "Свинска вратна пържола с топено сирене и кис. краставички": {
+    "bg": {
+      "name": "Свинска вратна пържола с топено сирене и кисели краставички",
+      "description": "Класическо българско ястие, съдържащо пържена свинска пържола от вратната част, покрита с топено сирене, сервирана с кисели краставички като гарнитура и допълнение към вкуса."
+    },
+    "en": {
+      "name": "Pork neck steak with melted cheese and pickled cucumbers",
+      "description": "A traditional Bulgarian dish featuring fried pork neck steak topped with melted cheese, served with pickled cucumbers as a side and flavor enhancer."
+    },
+    "it": {
+      "name": "Bistecca di collo di maiale con formaggio fuso e cetriolini sotto aceto",
+      "description": "Piatti tradizionale bulgaro con una bistecca di collo di maiale fritta, coperta di formaggio fuso e accompagnata da cetriolini sotto aceto, aggiungendo un tocco di sapore."
+    }
   }
 }
