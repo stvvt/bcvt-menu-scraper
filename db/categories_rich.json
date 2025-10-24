@@ -6102,5 +6102,47 @@
       "name": "Bistecca di collo di maiale con formaggio fuso e cetriolini sotto aceto",
       "description": "Piatti tradizionale bulgaro con una bistecca di collo di maiale fritta, coperta di formaggio fuso e accompagnata da cetriolini sotto aceto, aggiungendo un tocco di sapore."
     }
+  },
+  "Крем супа от целина и картофи": {
+    "bg": {
+      "name": "Крем супа от целина и картофи",
+      "description": "Това е кремообразна супа, приготвена от сварени целина и картофи, пасирани до гладка консистенция. Обикновено се поднася топла, гарнирана с малко сметана или зехтин за финален допир."
+    },
+    "en": {
+      "name": "Cream of Celery and Potato Soup",
+      "description": "This is a creamy soup made from cooked celery and potatoes, blended until smooth. It is usually served hot, garnished with a bit of cream or olive oil for a finishing touch."
+    },
+    "it": {
+      "name": "Zuppa cremosa di sedano e patate",
+      "description": "Questa è una zuppa cremosa preparata con sedano e patate cotti, frullati fino a ottenere una consistenza liscia. Di solito viene servita calda, decorata con un po' di panna o olio d'oliva come tocco finale."
+    }
+  },
+  "Кюфте от броколи с моцарела": {
+    "bg": {
+      "name": "Кюфте от броколи с моцарела",
+      "description": "Здравословно вегетарианско ястие, съчетаващо пресни броколи, приготвени на кюфте, пълни с меко разтопена моцарела. Това ястие е подходящо за любителите на зелени зеленчуци и сирене, и предлага приятна комбинация от текстури и вкусове."
+    },
+    "en": {
+      "name": "Broccoli and Mozzarella Meatball",
+      "description": "A healthy vegetarian dish that combines fresh broccoli shaped into meatballs, filled with mild melted mozzarella cheese. Perfect for lovers of green vegetables and cheese, offering a delightful mix of textures and flavors."
+    },
+    "it": {
+      "name": "Polpette di broccoli e mozzarella",
+      "description": "Un piatto vegetariano salutare che combina broccoli freschi modellati in polpette, ripieni di morbida mozzarella fusa. Ideale per gli amanti delle verdure verdi e del formaggio, offre un piacevole mix di consistenze e sapori."
+    }
+  },
+  "Сандвич с чедър и пуешко филе": {
+    "bg": {
+      "name": "Сандвич с чедър и пуешко филе",
+      "description": "Това е сандвич, приготвен с филия хляб, между която са поставени тънки резени пуешко филе, покрити с парченца краве сирене Чедър. Сандвичът е свеж, топъл и с богат вкус сочност и деликатност."
+    },
+    "en": {
+      "name": "Cheddar and Turkey Fillet Sandwich",
+      "description": "This is a sandwich made with bread slices filled with thin slices of turkey fillet topped with pieces of Cheddar cheese. It is a fresh, warm sandwich with a rich flavor, combining juiciness and tenderness."
+    },
+    "it": {
+      "name": "Panino con tacchino e cheddar",
+      "description": "Questo è un panino preparato con fette di pane, riempito con sottili fette di petto di tacchino, coperte da pezzi di formaggio Cheddar. È un panino fresco, caldo e con un sapore ricco, con un equilibrio di succosità e delicatezza."
+    }
   }
 }

@@ -173,6 +173,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "24-ти октомври",
+        "date": "2025-10-24",
+        "price": "4.40",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1027,6 +1035,14 @@
         "date": "2025-07-18",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "24-ти октомври",
+        "date": "2025-10-24",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2721,6 +2737,25 @@
     ]
   },
   {
+    "name": "Крем супа от целина и картофи",
+    "prices": [
+      {
+        "dateText": "24-ти октомври",
+        "date": "2025-10-24",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0a593567-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Крем супа от червена леща",
     "prices": [
       {
@@ -2773,6 +2808,25 @@
       {
         "date": "2025-07-28",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fe5714d8-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Кюфте от броколи с моцарела",
+    "prices": [
+      {
+        "dateText": "24-ти октомври",
+        "date": "2025-10-24",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/277557d1-200.jpg"
       }
     ]
   },
@@ -6570,6 +6624,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Сандвич с чедър и пуешко филе",
+    "prices": [
+      {
+        "dateText": "24-ти октомври",
+        "date": "2025-10-24",
+        "price": "5.00",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e4b30f06-200.jpg"
+      }
+    ]
   },
   {
     "name": "Сандвич с шунка и кашкавал",
