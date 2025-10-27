@@ -1274,7 +1274,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c7d2438d-200.jpg"
+      }
+    ]
   },
   {
     "name": "Европейска салата",
@@ -2852,6 +2857,14 @@
         "date": "2025-08-04",
         "price": "5.40",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти октомври",
+        "date": "2025-10-27",
+        "price": "5.40",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -7503,6 +7516,14 @@
         "date": "2025-06-26",
         "price": "2.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "27-ти октомври",
+        "date": "2025-10-27",
+        "price": "2.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -8508,6 +8529,25 @@
       {
         "date": "2025-09-04",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/232ab499-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Царевица в масло с копър",
+    "prices": [
+      {
+        "dateText": "27-ти октомври",
+        "date": "2025-10-27",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5889a5b2-200.jpg"
       }
     ]
   },

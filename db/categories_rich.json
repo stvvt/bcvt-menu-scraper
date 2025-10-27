@@ -6144,5 +6144,19 @@
       "name": "Panino con tacchino e cheddar",
       "description": "Questo è un panino preparato con fette di pane, riempito con sottili fette di petto di tacchino, coperte da pezzi di formaggio Cheddar. È un panino fresco, caldo e con un sapore ricco, con un equilibrio di succosità e delicatezza."
     }
+  },
+  "Царевица в масло с копър": {
+    "bg": {
+      "name": "Царевица в масло с копър",
+      "description": "Простичко и вкусно ястие, приготвено от сладка царевица, варена или печена, подправена с масло и пресен копър. Обикновено се сервира като апетитна закуска или гарнитура, която подчертава естествения вкус на царевицата."
+    },
+    "en": {
+      "name": "Corn in butter with dill",
+      "description": "A simple and delicious dish made from sweet corn, boiled or roasted, seasoned with butter and fresh dill. Typically served as a tasty snack or side dish that highlights the natural flavor of corn."
+    },
+    "it": {
+      "name": "Mais con burro e aneto",
+      "description": "Un piatto semplice e gustoso preparato con mais dolce, bollito o arrosto, condito con burro e aneto fresco. Di solito servito come antipasto saporito o contorno che esalta il sapore naturale del mais."
+    }
   }
 }
