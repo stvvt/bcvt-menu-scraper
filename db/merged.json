@@ -527,6 +527,25 @@
     ]
   },
   {
+    "name": "Болярска кифла с мармалад",
+    "prices": [
+      {
+        "dateText": "28-ти октомври",
+        "date": "2025-10-28",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "180",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8d984d35-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Болярска милинка",
     "prices": [
       {
@@ -3165,6 +3184,25 @@
     ]
   },
   {
+    "name": "Лучена супа",
+    "prices": [
+      {
+        "dateText": "28-ти октомври",
+        "date": "2025-10-28",
+        "price": "3.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/57aecc16-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Лучена яхния",
     "prices": [
       {
@@ -4191,6 +4229,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d033d5ef-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Патешки бутчета с картофи",
+    "prices": [
+      {
+        "dateText": "28-ти октомври",
+        "date": "2025-10-28",
+        "price": "7.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Патладжан бюрек",
@@ -6298,6 +6350,25 @@
     ]
   },
   {
+    "name": "Салата краставици",
+    "prices": [
+      {
+        "dateText": "28-ти октомври",
+        "date": "2025-10-28",
+        "price": "2.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/658a65bd-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Салата краставици с копър",
     "prices": [
       {
@@ -7387,9 +7458,22 @@
         "date": "2025-07-02",
         "price": "3.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти октомври",
+        "date": "2025-10-28",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "180",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/67f7ad6d-200.jpg"
+      }
+    ]
   },
   {
     "name": "Спагети със зеленчуци",
@@ -7480,6 +7564,14 @@
         "date": "2025-06-27",
         "price": "10.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "28-ти октомври",
+        "date": "2025-10-28",
+        "price": "10.00",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -8113,6 +8205,20 @@
         "date": "2025-08-07",
         "price": "9.50",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Тиквеник",
+    "prices": [
+      {
+        "dateText": "28-ти октомври",
+        "date": "2025-10-28",
+        "price": "3.40",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []

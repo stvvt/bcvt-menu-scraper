@@ -6158,5 +6158,75 @@
       "name": "Mais con burro e aneto",
       "description": "Un piatto semplice e gustoso preparato con mais dolce, bollito o arrosto, condito con burro e aneto fresco. Di solito servito come antipasto saporito o contorno che esalta il sapore naturale del mais."
     }
+  },
+  "Болярска кифла с мармалад": {
+    "bg": {
+      "name": "Болярска кифла с мармалад",
+      "description": "Традиционна българска кифла с пухкава тестена основа и плътна плънка от плод мармалад, често с добавка на масло или захар за по-богат вкус."
+    },
+    "en": {
+      "name": "Bolyarska Kiﬂa with Jam",
+      "description": "A traditional Bulgarian pastry with a soft, fluffy dough base filled with thick fruit jam, often enhanced with butter or sugar for a richer flavor."
+    },
+    "it": {
+      "name": "Kifla Bulgaria con Marmellata",
+      "description": "Una tradizionale pasta bulgara con una base morbida e soffice, ripiena di marmellata di frutta densa, spesso arricchita con burro o zucchero per un gusto più completo."
+    }
+  },
+  "Лучена супа": {
+    "bg": {
+      "name": "Лучена супа",
+      "description": "Лучена супа е традиционно българско ястие, приготвено от прасектръстна бяла риба (луч). Тя се готви във вода с добавка на зеленчуци като моркови, целина и лук, и се подправя с магданоз, лимон и черен пипер. Супата е с бистра, леко кисел вкус и е популярна като здравословно и освежаващо ястие."
+    },
+    "en": {
+      "name": "Lutena Soup",
+      "description": "Lutena Soup is a traditional Bulgarian dish made from a white fish called lut, which is cooked in water with vegetables like carrots, celery, and onions. It is seasoned with parsley, lemon juice, and black pepper. The soup is clear, lightly tangy, and is appreciated as a healthy and refreshing dish."
+    },
+    "it": {
+      "name": "Zuppa di Lutena",
+      "description": "La zuppa di Lutena è un piatto tradizionale bulgaro preparato con un pesce bianco chiamato lut. Viene cucinata in acqua con verdure come carote, sedano e cipolle, ed è insaporita con prezzemolo, succo di limone e pepe nero. La zuppa è limpida, leggermente acidula ed è apprezzata come piatto salutare e rinfrescante."
+    }
+  },
+  "Патешки бутчета с картофи": {
+    "bg": {
+      "name": "Патешки бутчета с картофи",
+      "description": "Това е ароматно ястие, приготвено с крехки патешки бутчета, които са печени или задушени до сосово състояние. Освен тях, ястието включва свежи картофи, нарязани на парчета, които се запичат заедно с месото, абсорбирайки богатия вкус на патешкия месо и подправки."
+    },
+    "en": {
+      "name": "Duck thighs with potatoes",
+      "description": "This is a flavorful dish cooked with tender duck thighs, either roasted or braised to a saucy consistency. It also includes fresh potatoes, cut into pieces, baked together with the meat, absorbing the rich flavors of duck and spices."
+    },
+    "it": {
+      "name": "Cosce di anatra con patate",
+      "description": "Questo è un piatto saporito preparato con cosce di anatra tenera, cotte al forno o brasate fino a ottenere una consistenza salsata. Include anche patate fresche, tagliate a pezzi, cotte insieme alla carne, assorbendo i ricchi sapori dell'anatra e delle spezie."
+    }
+  },
+  "Салата краставици": {
+    "bg": {
+      "name": "Салата краставици",
+      "description": "Страна на свежест и охлаждане, тази салата се състои от тънко нарязани краставици, обикновено подправени с малко сол, оцет или лимонов сок, и може да бъде допълнена с копър или чесън за по-особен вкус."
+    },
+    "en": {
+      "name": "Cucumber Salad",
+      "description": "A refreshing and cooling dish made of thinly sliced cucumbers, often seasoned with salt, vinegar or lemon juice, and optionally garnished with dill or garlic for extra flavor."
+    },
+    "it": {
+      "name": "Insalata di Cetrioli",
+      "description": "Un piatto rinfrescante e rinfrescante fatto con cetrioli affettati finemente, spesso condito con sale, aceto o succo di limone, e opzionalmente guarnito con aneto o aglio per un gusto speciale."
+    }
+  },
+  "Тиквеник": {
+    "bg": {
+      "name": "Тиквеник",
+      "description": "Тиквеника е традиционно българско сладко или солено ястие, приготвено с тънък лист тесто, пълно с настъргана или нарязана на тънки парчета тиква, захар или сол, и подправки като канела или копър. След навиване, се пече до златисто, образувайки хрупкава кора и сочна вътрешност."
+    },
+    "en": {
+      "name": "Pumpkin Pie (Tиквеник)",
+      "description": "Pumpkin Tikvenik is a traditional Bulgarian pastry made with thin sheets of dough filled with grated or thinly sliced pumpkin, sugar or salt, and spices like cinnamon or dill. It is rolled up and baked until golden, resulting in a crispy crust and moist interior."
+    },
+    "it": {
+      "name": "Tiganas di zucca",
+      "description": "Il Tikvenik è una tradizionale pasticceria bulgara fatta con sottili sfoglie di pasta, ripiena di zucca grattugiata o a fette sottili, zucchero o sale, e spezie come cannella o aneto. Arrotolato e cotto al forno, assume una croccante crosta dorata e un interno morbido."
+    }
   }
 }
