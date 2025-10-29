@@ -6228,5 +6228,47 @@
       "name": "Tiganas di zucca",
       "description": "Il Tikvenik è una tradizionale pasticceria bulgara fatta con sottili sfoglie di pasta, ripiena di zucca grattugiata o a fette sottili, zucchero o sale, e spezie come cannella o aneto. Arrotolato e cotto al forno, assume una croccante crosta dorata e un interno morbido."
     }
+  },
+  "Болярска Гондола": {
+    "bg": {
+      "name": "Болярска Гондола",
+      "description": "Болярска Гондола е впечатляващо ястие, представляващо бавно приготвено месо (обикновено свинско или телешко), поднесено в богата сосова заливка, украсена с пресни подправки и зеленчуци. Отличава се с богат аромат и сочна текстура."
+    },
+    "en": {
+      "name": "Boyar Gondola",
+      "description": "Boyar Gondola is a striking dish consisting of slow-cooked meat (usually pork or beef) served in a rich sauce, garnished with fresh herbs and vegetables. It is known for its rich aroma and juicy texture."
+    },
+    "it": {
+      "name": "Gondola dei Boyar",
+      "description": "La Gondola dei Boyar è un piatto sorprendente che consiste in carne cucinata lentamente (generalmente maiale o manzo), servita in una ricca salsa, decorata con erbe fresche e verdure. È caratterizzata da un aroma ricco e una consistenza succosa."
+    }
+  },
+  "Патешки кюфтенца": {
+    "bg": {
+      "name": "Патешки кюфтенца",
+      "description": "Малки кюфтенца, приготвени от месо от пате, характерни с меката си текстура и богат вкус. Обикновено се сервират с гарнитура от зеленчуци или картофено пюре."
+    },
+    "en": {
+      "name": "Duck Meatballs",
+      "description": "Small meatballs made from duck meat, known for their tender texture and rich flavor. Usually served with vegetables or mashed potatoes."
+    },
+    "it": {
+      "name": "Polpette di anatra",
+      "description": "Piccole polpette fatte con carne d'anatra, note per la loro consistenza tenera e sapore ricco. Di solito accompagnate da verdure o purè di patate."
+    }
+  },
+  "Сурова торта с тиква и крема сирене": {
+    "bg": {
+      "name": "Сурова торта с тиква и крема сирене",
+      "description": "Кратка, студена торта, приготвена без печене, със слоеста структура и вкус на свежа тиква съчетано с крема сирене. Идеална за есенните месеци, когато тиквата е в пика на сезона."
+    },
+    "en": {
+      "name": "Raw Pumpkin and Cream Cheese Cake",
+      "description": "A short, no-bake cold cake with layered textures and a fresh pumpkin flavor combined with cream cheese. Perfect for the autumn months when pumpkin is in season."
+    },
+    "it": {
+      "name": "Torta cruda con zucca e formaggio cremoso",
+      "description": "Una torta fredda senza cottura, con strati e un gusto di zucca fresca abbinato al formaggio cremoso. Ideale per i mesi autunnali, quando la zucca è di stagione."
+    }
   }
 }

@@ -418,6 +418,25 @@
     ]
   },
   {
+    "name": "Болярска Гондола",
+    "prices": [
+      {
+        "dateText": "29-ти октомври",
+        "date": "2025-10-29",
+        "price": "4.30",
+        "currency": "лв",
+        "weight": "180",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0fa596ca-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Болярска баница вита",
     "prices": [
       {
@@ -3414,7 +3433,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a179ec39-200.jpg"
+      }
+    ]
   },
   {
     "name": "Мляко с ориз",
@@ -3513,9 +3537,22 @@
         "date": "2025-07-03",
         "price": "6.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "29-ти октомври",
+        "date": "2025-10-29",
+        "price": "6.50",
+        "currency": "лв",
+        "weight": "350",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-10-29",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e2c939cd-200.jpg"
+      }
+    ]
   },
   {
     "name": "Наденица с праз на скара",
@@ -4240,6 +4277,18 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Патешки кюфтенца",
+    "prices": [
+      {
+        "dateText": "29-ти октомври",
+        "date": "2025-10-29",
+        "price": "3.50",
+        "currency": "лв"
       }
     ],
     "images": []
@@ -7825,6 +7874,20 @@
         "price": "2.90",
         "currency": "лв",
         "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Сурова торта с тиква и крема сирене",
+    "prices": [
+      {
+        "dateText": "29-ти октомври",
+        "date": "2025-10-29",
+        "price": "4.60",
+        "currency": "лв",
+        "weight": "150",
         "unit": "гр"
       }
     ],
