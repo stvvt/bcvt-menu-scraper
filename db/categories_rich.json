@@ -6270,5 +6270,47 @@
       "name": "Torta cruda con zucca e formaggio cremoso",
       "description": "Una torta fredda senza cottura, con strati e un gusto di zucca fresca abbinato al formaggio cremoso. Ideale per i mesi autunnali, quando la zucca è di stagione."
     }
+  },
+  "Пържени филийки": {
+    "bg": {
+      "name": "Пържени филийки",
+      "description": "Това е класическо българско ястие, приготвено от парчета хляб, които се овалват в разбити яйца и се пържат до златисто. Обикновено са с мека вътрешност и хрупкава коричка отвън, и често се сервират с пудра захар, сирене или конфитюр."
+    },
+    "en": {
+      "name": "Fried Bread Slices",
+      "description": "This is a classic Bulgarian dish made from slices of bread dipped in beaten eggs and fried until golden. Usually soft inside with a crispy crust outside, often served with powdered sugar, cheese, or jam."
+    },
+    "it": {
+      "name": "Fette di pane fritte",
+      "description": "Questo è un piatto classico bulgaro preparato con fette di pane immerse in uova sbattute e fritte fino a doratura. Di solito sono morbide all’interno e croccanti all’esterno, spesso servite con zucchero a velo, formaggio o marmellata."
+    }
+  },
+  "Свински късчета с чушки, гъби и сос": {
+    "bg": {
+      "name": "Свински късчета с чушки, гъби и сос",
+      "description": "Това е вкусно ястие със свежи парченца свинско месо, сотирани заедно с червени чушки, гъби и богати сосове, което се сервира горещо и е популярна идея за семейна вечеря."
+    },
+    "en": {
+      "name": "Pork Cubes with Peppers, Mushrooms, and Sauce",
+      "description": "This is a tasty dish featuring tender pieces of pork sautéed together with red peppers, mushrooms, and rich sauces, served hot and popular for family dinners."
+    },
+    "it": {
+      "name": "Cubetti di maiale con peperoni, funghi e salsa",
+      "description": "Questo è un piatto gustoso con teneri pezzi di maiale saltati insieme a peperoni rossi, funghi e salse ricche, servito caldo ed è popolare come cena familiare."
+    }
+  },
+  "Френска селска торта": {
+    "bg": {
+      "name": "Френска селска торта",
+      "description": "Този десерт е богат и изискан, съчетаващ слоеста структура с кремове и плодове, характерни за френската гурме традиция. Обикновено включва тънки кори, богат ванилов крем и свежи плодове, украсени елегантно."
+    },
+    "en": {
+      "name": "French Rustic Cake",
+      "description": "This dessert is rich and sophisticated, combining layered pastry with creams and fruits typical of French gourmet tradition. It usually includes thin layers, a rich vanilla cream, and fresh fruits, elegantly decorated."
+    },
+    "it": {
+      "name": "Torta Rustica Francese",
+      "description": "Questo dolce è ricco ed elegante, combinando strati di pasta con creme e frutta tipici della tradizione gastronomica francese. Di solito include sottili strati, una ricca crema alla vaniglia e frutta fresca, decorata con raffinatezza."
+    }
   }
 }
