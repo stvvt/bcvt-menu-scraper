@@ -6312,5 +6312,33 @@
       "name": "Torta Rustica Francese",
       "description": "Questo dolce è ricco ed elegante, combinando strati di pasta con creme e frutta tipici della tradizione gastronomica francese. Di solito include sottili strati, una ricca crema alla vaniglia e frutta fresca, decorata con raffinatezza."
     }
+  },
+  "Крем супа от тиква": {
+    "bg": {
+      "name": "Крем супа от тиква",
+      "description": "Тази крем супа е гладка, напиткава, оранжева супа, направена от пюрирана тиква, обикновено със сметана, подправки и малко масло. Тя е затопляща, уютна и перфектна за студените дни."
+    },
+    "en": {
+      "name": "Pumpkin Cream Soup",
+      "description": "This is a smooth, creamy, orange soup made from pureed pumpkin, typically with cream, spices, and a bit of butter. It's warming, comforting, and perfect for cold days."
+    },
+    "it": {
+      "name": "Zuppa cremosa di zucca",
+      "description": "Questa è una zuppa liscia e cremosa di colore arancione, fatta con purea di zucca, solitamente con panna, spezie e un po' di burro. È calda, confortante e perfetta per i giorni freddi."
+    }
+  },
+  "Свинско с чери домат, ориз и пармезан": {
+    "bg": {
+      "name": "Свинско с чери домат, ориз и пармезан",
+      "description": "Ситно нарязано свинско месо, сотирано до златисто, поднесено с свежи чери домати, пухкав ориз и настърган пармезан на върха. Комбинацията съчетава сочността на месото с свежестта и ароматите на доматите, а соленият вкус на пармезана допълва ястието перфектно."
+    },
+    "en": {
+      "name": "Pork with cherry tomatoes, rice, and Parmesan",
+      "description": "Finely chopped pork, sautéed until golden, served with fresh cherry tomatoes, fluffy rice, and grated Parmesan cheese on top. The combination balances the juiciness of the meat with the freshness and aroma of the tomatoes, complemented by the salty flavor of Parmesan."
+    },
+    "it": {
+      "name": "Maiale con pomodorini, riso e Parmesan",
+      "description": "Carne di maiale tagliata finemente e saltata fino a doratura, servita con pomodorini freschi, riso soffice e parmigiano grattugiato sopra. La combinazione unisce la succosità della carne con la freschezza dei pomodorini e il sapore salato del Parmesan."
+    }
   }
 }

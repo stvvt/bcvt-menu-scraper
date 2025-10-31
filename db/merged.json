@@ -1577,6 +1577,14 @@
         "date": "2025-07-25",
         "price": "7.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "31-ви октомври",
+        "date": "2025-10-31",
+        "price": "7.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2740,6 +2748,25 @@
       {
         "date": "2025-10-10",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/55f48330-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Крем супа от тиква",
+    "prices": [
+      {
+        "dateText": "31-ви октомври",
+        "date": "2025-10-31",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-31",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3cc31dac-200.png"
       }
     ]
   },
@@ -7331,6 +7358,25 @@
       {
         "date": "2025-07-29",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1f9fcb3b-200.png"
+      }
+    ]
+  },
+  {
+    "name": "Свинско с чери домат, ориз и пармезан",
+    "prices": [
+      {
+        "dateText": "31-ви октомври",
+        "date": "2025-10-31",
+        "price": "6.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-10-31",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d00b366e-200.jpg"
       }
     ]
   },
