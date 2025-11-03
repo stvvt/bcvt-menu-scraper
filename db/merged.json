@@ -2488,7 +2488,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6bfc930b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Крем Орео",
@@ -3732,6 +3737,18 @@
     "images": []
   },
   {
+    "name": "Омлет с шунка и кашкавал",
+    "prices": [
+      {
+        "dateText": "03-ти ноември",
+        "date": "2025-11-03",
+        "price": "4.20",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Омлет със зеленчуци",
     "prices": [
       {
@@ -3945,6 +3962,25 @@
       {
         "date": "2025-08-01",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7674cf08-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пай с круша и шам фъстък",
+    "prices": [
+      {
+        "dateText": "03-ти ноември",
+        "date": "2025-11-03",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e798497a-200.jpg"
       }
     ]
   },
@@ -5123,9 +5159,22 @@
         "date": "2025-07-14",
         "price": "5.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "03-ти ноември",
+        "date": "2025-11-03",
+        "price": "5.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/213bdfbd-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешко с два вида ориз и сушен домат",
@@ -6508,6 +6557,25 @@
     ]
   },
   {
+    "name": "Салата мариновано цвекло и пармезан",
+    "prices": [
+      {
+        "dateText": "03-ти ноември",
+        "date": "2025-11-03",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d0750605-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Салата моркови и ябълки",
     "prices": [
       {
@@ -6906,6 +6974,20 @@
         "date": "2025-07-04",
         "price": "4.00",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свинска вратна пържола запечена със салчичон и чедър",
+    "prices": [
+      {
+        "dateText": "03-ти ноември",
+        "date": "2025-11-03",
+        "price": "10.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": []

@@ -6340,5 +6340,61 @@
       "name": "Maiale con pomodorini, riso e Parmesan",
       "description": "Carne di maiale tagliata finemente e saltata fino a doratura, servita con pomodorini freschi, riso soffice e parmigiano grattugiato sopra. La combinazione unisce la succosità della carne con la freschezza dei pomodorini e il sapore salato del Parmesan."
     }
+  },
+  "Омлет с шунка и кашкавал": {
+    "bg": {
+      "name": "Омлет с шунка и кашкавал",
+      "description": "Класическо ястие, приготвено от разбити яйца, което се пържи до златисто. Вътре се добавят парчета шунка и настърган кашкавал, които се разтапят и допринасят за богатия вкус. Обикновено се сервира топло и е популярно за закуска."
+    },
+    "en": {
+      "name": "Ham and Cheese Omelette",
+      "description": "A classic dish made from beaten eggs, cooked until golden. Inside, it contains pieces of ham and grated cheese which melt and add a rich flavor. Usually served warm and popular for breakfast."
+    },
+    "it": {
+      "name": "Omelette con prosciutto e formaggio",
+      "description": "Un piatto classico preparato con uova sbattute, cotte fino a diventare dorate. All'interno contiene pezzi di prosciutto e formaggio grattugiato che si sciolgono, conferendo un gusto ricco. Viene solitamente servito caldo ed è popolare per la colazione."
+    }
+  },
+  "Пай с круша и шам фъстък": {
+    "bg": {
+      "name": "Пай с круша и шам фъстък",
+      "description": "Класически сладкиш с крехко тесто, пълнен с меко и сладко пюре от круши, допълнено с кремообразен крем и поръсено с ароматни шам фъстъци."
+    },
+    "en": {
+      "name": "Pear and pistachio pie",
+      "description": "A classic sweet pastry with a crumbly crust, filled with soft and sweet pear puree, complemented with creamy cream and sprinkled with aromatic pistachios."
+    },
+    "it": {
+      "name": "Torta di pera e pistacchi",
+      "description": "Un classico dolce con crosta friabile, ripieno di purea di pere morbida e dolce, arricchito con crema cremosa e spolverato con aromatici pistacchi."
+    }
+  },
+  "Салата мариновано цвекло и пармезан": {
+    "bg": {
+      "name": "Салата мариновано цвекло и пармезан",
+      "description": "Лека и апетитна салата, съставена от сладко мариновано цвекло и настърган пармезан, която съчетава сладки и солени вкусове, идеална като аперитив или допълнение към основно ястие."
+    },
+    "en": {
+      "name": "Marinated Beetroot and Parmesan Salad",
+      "description": "A light and appetizing salad made from sweet marinated beetroot and grated Parmesan cheese, combining sweet and salty flavors, perfect as an appetizer or a side dish."
+    },
+    "it": {
+      "name": "Insalata di barbabietole marinate e Parmigiano",
+      "description": "Un'insalata leggera e gustosa composta da barbabietole marinate dolci e formaggio Parmigiano grattugiato, che unisce sapori dolci e salati, ideale come antipasto o contorno."
+    }
+  },
+  "Свинска вратна пържола запечена със салчичон и чедър": {
+    "bg": {
+      "name": "Свинска вратна пържола запечена със салчичон и чедър",
+      "description": "Това ястие представлява сочна свинска вратна пържола, запечена до златисто, с гарнитура от салчичон (италианска саламена) и настърган чедър сирене, което се разтапя и придава богат и кремообразен вкус."
+    },
+    "en": {
+      "name": "Pork Neck Chop Baked with Salchichón and Cheddar",
+      "description": "This dish features a juicy pork neck chop baked to a golden perfection, served with a side of salchichón (Italian salami) and shredded cheddar cheese that melts on top, adding a rich and creamy flavor."
+    },
+    "it": {
+      "name": "Braciola di maiale al forno con salchichón e cheddar",
+      "description": "Questo piatto presenta una succosa braciola di maiale al forno, accompagnata da salchichón (salame italiano) e formaggio cheddar grattugiato che si scioglie, offrendo un sapore ricco e cremoso."
+    }
   }
 }
