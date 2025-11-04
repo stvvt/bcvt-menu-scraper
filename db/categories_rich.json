@@ -6396,5 +6396,33 @@
       "name": "Braciola di maiale al forno con salchichón e cheddar",
       "description": "Questo piatto presenta una succosa braciola di maiale al forno, accompagnata da salchichón (salame italiano) e formaggio cheddar grattugiato che si scioglie, offrendo un sapore ricco e cremoso."
     }
+  },
+  "Тортила с дърпано свинско месо": {
+    "bg": {
+      "name": "Тортила с дърпано свинско месо",
+      "description": "Това ястие се състои от тънка мексиканска тортила, която е пълна с ароматно дърпано свинско месо. Месото е бавно приготвено, така че да се разпада лесно и да се придаде богат вкус, често с добавени подправки и сосове. Сервира се топло, често с гарнитури като салати, сирене или сосове."
+    },
+    "en": {
+      "name": "Tortilla with Pulled Pork",
+      "description": "This dish features a thin Mexican tortilla filled with flavorful pulled pork. The pork is slow-cooked until tender and easily shredded, often seasoned with spices and sauces. It's typically served warm with side accompaniments like salads, cheese, or sauces."
+    },
+    "it": {
+      "name": "Tortilla con maiale sfilacciato",
+      "description": "Questo piatto consiste in una tortilla messicana sottile ripiena di maiale sfilacciato aromatizzato. La carne viene cotta lentamente fino a diventare tenera e facile da sminuzzare, spesso condita con spezie e salse. Viene servita calda, spesso accompagnata da insalate, formaggi o salse."
+    }
+  },
+  "Шоколадов фъдж с шам фъстък": {
+    "bg": {
+      "name": "Шоколадов фъдж с шам фъстък",
+      "description": "Мек и гладък шоколадов десерт, който се разтапя в устата, обогатен с крехки парченца шам фъстък за допълнителна текстура и вкус."
+    },
+    "en": {
+      "name": "Chocolate Fudge with Roasted Peanuts",
+      "description": "A soft and smooth chocolate dessert that melts in the mouth, enriched with crunchy roasted peanuts for added texture and flavor."
+    },
+    "it": {
+      "name": "Fudge al cioccolato con arachidi tostate",
+      "description": "Un dolce al cioccolato morbido e cremoso che si scioglie in bocca, arricchito con croccanti arachidi tostate per una texture e un sapore in più."
+    }
   }
 }

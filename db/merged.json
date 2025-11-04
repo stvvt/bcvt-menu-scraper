@@ -2466,9 +2466,22 @@
         "date": "2025-07-08",
         "price": "10.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "04-ти ноември",
+        "date": "2025-11-04",
+        "price": "10.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fdced80c-200.jpg"
+      }
+    ]
   },
   {
     "name": "Крем Брюле",
@@ -8646,6 +8659,20 @@
     "images": []
   },
   {
+    "name": "Тортила с дърпано свинско месо",
+    "prices": [
+      {
+        "dateText": "04-ти ноември",
+        "date": "2025-11-04",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Тортила с печени зеленчуци и кашкавал",
     "prices": [
       {
@@ -9104,6 +9131,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Шоколадов фъдж с шам фъстък",
+    "prices": [
+      {
+        "dateText": "04-ти ноември",
+        "date": "2025-11-04",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cff53ed0-200.jpg"
+      }
+    ]
   },
   {
     "name": "Шоколадова торта",

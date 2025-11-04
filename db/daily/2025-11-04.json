@@ -1,0 +1,166 @@
+{
+  "date": "04-ти ноември",
+  "meals": [
+    {
+      "name": "Болярска закуска с кренвирш",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3c900943-200.jpg",
+      "ean": "2004",
+      "weight": "190",
+      "unit": "гр"
+    },
+    {
+      "name": "Геврек със сусам",
+      "price": "2.90",
+      "currency": "лв",
+      "weight": "100",
+      "unit": "гр"
+    },
+    {
+      "name": "Тутманик с пълнозърнесто брашно",
+      "price": "2.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7ee6aabf-200.jpg",
+      "ean": "2022",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Зелена салата с риба тон",
+      "price": "4.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e7ef7a91-200.jpg",
+      "ean": "4043",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Салата домати с печена чушка и котидж сирене",
+      "price": "5.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/52a20ff2-200.jpg",
+      "ean": "4091",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Картофена крем супа",
+      "price": "2.70",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ce0cae0b-200.jpg",
+      "ean": "5050",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Супа топчета",
+      "price": "3.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1427be83-200.jpg",
+      "ean": "5004",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Варени картофи с масло",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/83969783-200.jpg",
+      "ean": "6376",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Гриловани зеленчуци",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2681c5c7-200.jpg",
+      "ean": "6061",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Запеканка от картофи и зеленчуци",
+      "price": "5.80",
+      "currency": "лв",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Кордон бльо",
+      "price": "10.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fdced80c-200.jpg",
+      "ean": "6306",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Кюфте",
+      "price": "2.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fe5714d8-200.jpg",
+      "ean": "6234",
+      "weight": "80",
+      "unit": "гр"
+    },
+    {
+      "name": "Телешко с грах",
+      "price": "9.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6ba7b8f1-200.jpg",
+      "ean": "6012",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Тортила с дърпано свинско месо",
+      "price": "8.90",
+      "currency": "лв",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Цариградски кюфтенца върху картофено пюре",
+      "price": "6.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0ede9eef-200.jpg",
+      "ean": "6164",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76e90a39-200.jpg",
+      "ean": "8130",
+      "weight": "170",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадов фъдж с шам фъстък",
+      "price": "5.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cff53ed0-200.jpg",
+      "ean": "8108",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fd282dc3-200.jpg",
+      "ean": "8014"
+    },
+    {
+      "name": "Ябълков щрудел",
+      "price": "2.90",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    }
+  ]
+}
