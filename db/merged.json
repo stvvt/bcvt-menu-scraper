@@ -3522,7 +3522,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4741028d-200.jpg"
+      }
+    ]
   },
   {
     "name": "Мусака",
@@ -4288,6 +4293,25 @@
     "images": []
   },
   {
+    "name": "Паста с телешко и пармезан",
+    "prices": [
+      {
+        "dateText": "05-ти ноември",
+        "date": "2025-11-05",
+        "price": "9.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1fc99327-200.png"
+      }
+    ]
+  },
+  {
     "name": "Паста със сирена",
     "prices": [
       {
@@ -4485,6 +4509,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f65d73e1-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Печена круша с мед и канела",
+    "prices": [
+      {
+        "dateText": "05-ти ноември",
+        "date": "2025-11-05",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Печени картофи",
@@ -5986,6 +6024,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bc29be57-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Пюре от кореноплодни",
+    "prices": [
+      {
+        "dateText": "05-ти ноември",
+        "date": "2025-11-05",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Рибена супа",

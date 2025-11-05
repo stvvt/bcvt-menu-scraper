@@ -6424,5 +6424,47 @@
       "name": "Fudge al cioccolato con arachidi tostate",
       "description": "Un dolce al cioccolato morbido e cremoso che si scioglie in bocca, arricchito con croccanti arachidi tostate per una texture e un sapore in più."
     }
+  },
+  "Паста с телешко и пармезан": {
+    "bg": {
+      "name": "Паста с телешко и пармезан",
+      "description": "Кратко описание на ястието 'Паста с телешко и пармезан'."
+    },
+    "en": {
+      "name": "Beef Pasta with Parmesan",
+      "description": "A savory dish featuring pasta served with tender slices of beef and topped with grated Parmesan cheese, creating a rich and flavorful meal."
+    },
+    "it": {
+      "name": "Pasta con manzo e Parmigiano",
+      "description": "Un piatto saporito con pasta servita con teneri pezzi di manzo e sopra grattugiato Parmigiano, per un pasto ricco e gustoso."
+    }
+  },
+  "Печена круша с мед и канела": {
+    "bg": {
+      "name": "Печена круша с мед и канела",
+      "description": "Плодът круша е леко запечен, след което се залива с тънък слой мед и се поръсва с канела. Получава се топло и ароматно десертно ястие, което съчетава сладостта на меда с богатия аромат на канелата."
+    },
+    "en": {
+      "name": "Baked Pear with Honey and Cinnamon",
+      "description": "A pear is lightly baked until soft, then drizzled with honey and sprinkled with cinnamon. It results in a warm, aromatic dessert that blends the sweetness of honey with the rich aroma of cinnamon."
+    },
+    "it": {
+      "name": "Pera al forno con miele e cannella",
+      "description": "Una pera viene leggermente cotta al forno fino a diventare morbida, poi viene decorata con un sottile strato di miele e spolverata di cannella. Si ottiene un dolce caldo e aromatico che combina la dolcezza del miele con il ricco aroma della cannella."
+    }
+  },
+  "Пюре от кореноплодни": {
+    "bg": {
+      "name": "Пюре от кореноплодни",
+      "description": "Класическо българско ястие, приготвено от различни видове кореноплодни зеленчуци като моркови, пащърнак, цвекло и картофи. Зеленчуците се сваряват до омекване, след което се пасират до гладка консистенция и се подправят с малко масло, сол и подправки. Полученото пюре е меко, ароматно и чудесно за гарнитура към месни ястия или като самостоятелно леко ястие."
+    },
+    "en": {
+      "name": "Puree of Root Vegetables",
+      "description": "A classic Bulgarian dish made from a mix of root vegetables such as carrots, parsnips, beets, and potatoes. The vegetables are boiled until tender, then mashed until smooth and seasoned with a bit of butter, salt, and spices. The resulting puree is soft, aromatic, and serves as a great side dish for meat courses or as a light main dish."
+    },
+    "it": {
+      "name": "Purea di radici",
+      "description": "Piattino classico bulgaro preparato con una miscela di radici come carote, pastinaca, barbabietola e patate. Le verdure vengono bollite fino a diventare morbide, poi schiacciate fino a ottenere una consistenza liscia e insaporite con burro, sale e spezie. Il purea risultante è morbido, aromatico e ottimo come contorno a piatti di carne o come piatto leggero da solo."
+    }
   }
 }
