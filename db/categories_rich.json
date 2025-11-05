@@ -6466,5 +6466,33 @@
       "name": "Purea di radici",
       "description": "Piattino classico bulgaro preparato con una miscela di radici come carote, pastinaca, barbabietola e patate. Le verdure vengono bollite fino a diventare morbide, poi schiacciate fino a ottenere una consistenza liscia e insaporite con burro, sale e spezie. Il purea risultante è morbido, aromatico e ottimo come contorno a piatti di carne o come piatto leggero da solo."
     }
+  },
+  "Патешко бутче с гъбен сос": {
+    "bg": {
+      "name": "Патешко бутче с гъбен сос",
+      "description": "Патешко бутче, приготвено до златисто и крехко, сервирано с богат и кремообразен гъбен сос, който допълва нежния вкус на месото."
+    },
+    "en": {
+      "name": "Duck leg with mushroom sauce",
+      "description": "A tender and golden roasted duck leg served with a rich, creamy mushroom sauce that enhances the delicate flavor of the meat."
+    },
+    "it": {
+      "name": "Cosciotto d'anatra con salsa ai funghi",
+      "description": "Un cosciotto d'anatra tenero e dorato, servito con una ricca salsa cremosa ai funghi che esalta il delicato sapore della carne."
+    }
+  },
+  "Свински гърди с картофи на фурна": {
+    "bg": {
+      "name": "Свински гърди с картофи на фурна",
+      "description": "Класическо българско ястие, приготвено от свежи свински гърди, мариновани със подправки и запечени заедно с крехки картофи до златиста коричка. Подходящо за семейна вечеря, това ястие е ароматно и с наситен вкус."
+    },
+    "en": {
+      "name": "Pork Chops with Potatoes Baked in the Oven",
+      "description": "A classic Bulgarian dish made from fresh pork chops marinated with spices and baked together with tender potatoes until golden brown. Perfect for a family dinner, this dish is aromatic and rich in flavor."
+    },
+    "it": {
+      "name": "Cotoletta di maiale con patate al forno",
+      "description": "Un piatto bulgaro classico preparato con bratwurst di maiale freschi, marinati con spezie e cotti al forno insieme a patate morbide fino a diventare dorate. Ideale per una cena in famiglia, è aromatico e dal sapore ricco."
+    }
   }
 }
