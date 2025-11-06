@@ -6494,5 +6494,33 @@
       "name": "Cotoletta di maiale con patate al forno",
       "description": "Un piatto bulgaro classico preparato con bratwurst di maiale freschi, marinati con spezie e cotti al forno insieme a patate morbide fino a diventare dorate. Ideale per una cena in famiglia, è aromatico e dal sapore ricco."
     }
+  },
+  "Печено сирене в кори с билки": {
+    "bg": {
+      "name": "Печено сирене в кори с билки",
+      "description": "Това ястие представлява парче сирене, обвито в тънка кора от тесто, ароматизирана с пресни билки като магданоз и копър. След като се изпече до златист цвят, сиренето става разтечно и със златисто-кафява коричка отвън. Обикновено се сервира топло, подходящо за апетитна закуска или предястие."
+    },
+    "en": {
+      "name": "Baked Cheese in Pastry with Herbs",
+      "description": "This dish consists of a piece of cheese wrapped in a thin pastry dough, flavored with fresh herbs like parsley and dill. Once baked to a golden color, the cheese becomes melted with a crispy, golden crust on the outside. Usually served warm, it makes for a tasty snack or appetizer."
+    },
+    "it": {
+      "name": "Formaggio al forno in pasta sfoglia con erbe",
+      "description": "Questo piatto consiste in un pezzo di formaggio avvolto in una sottile pasta sfoglia aromatizzata con erbe fresche come prezzemolo e aneto. Dopo essere stato cotto fino a doratura, il formaggio diventa filante e croccante all'esterno. Tipicamente servito caldo, è ideale come antipasto o spuntino gustoso."
+    }
+  },
+  "Ягодова торта с бял шоколад": {
+    "bg": {
+      "name": "Ягодова торта с бял шоколад",
+      "description": "Тази изискана торта съчетава свежестта на ягодите с богатия вкус на бял шоколад. Основата е от бисквитени блатове, намазани с крем от бял шоколад и свежи ягоди, слепени заедно с шоколадов мус. Завършва се с поръсване от ягоди и повече бял шоколад, което я прави идеална за специални поводи."
+    },
+    "en": {
+      "name": "Strawberry and White Chocolate Cake",
+      "description": "This elegant cake combines the freshness of strawberries with the rich taste of white chocolate. The base consists of biscuit layers spread with white chocolate cream and fresh strawberries, assembled with chocolate mousse. It is finished with a topping of strawberries and more white chocolate, making it perfect for special occasions."
+    },
+    "it": {
+      "name": "Torta alle fragole e cioccolato bianco",
+      "description": "Questa elegante torta unisce la freschezza delle fragole al ricco sapore del cioccolato bianco. La base è composta da strati di biscotto spalmati con crema di cioccolato bianco e fragole fresche, assemblati con una mousse al cioccolato. Si completa con una copertura di fragole e altro cioccolato bianco, ideale per occasioni speciali."
+    }
   }
 }
