@@ -3307,9 +3307,22 @@
         "date": "2025-07-08",
         "price": "5.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "07-ми ноември",
+        "date": "2025-11-07",
+        "price": "5.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4b7a240e-200.jpg"
+      }
+    ]
   },
   {
     "name": "Малинов крем",
@@ -5688,9 +5701,22 @@
         "date": "2025-08-06",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "07-ми ноември",
+        "date": "2025-11-07",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ac95499a-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пуешка супа",
@@ -7075,6 +7101,14 @@
         "date": "2025-07-04",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "07-ми ноември",
+        "date": "2025-11-07",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": []
