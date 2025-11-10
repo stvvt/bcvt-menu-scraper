@@ -6522,5 +6522,33 @@
       "name": "Torta alle fragole e cioccolato bianco",
       "description": "Questa elegante torta unisce la freschezza delle fragole al ricco sapore del cioccolato bianco. La base è composta da strati di biscotto spalmati con crema di cioccolato bianco e fragole fresche, assemblati con una mousse al cioccolato. Si completa con una copertura di fragole e altro cioccolato bianco, ideale per occasioni speciali."
     }
+  },
+  "Крем супа от сладък картоф": {
+    "bg": {
+      "name": "Крем супа от сладък картоф",
+      "description": "Крем супа от сладък картоф е кремообразна и нежна супа, приготвена от меките и сладки картофи, готвени до пюре. Обикновено се поднася топла, често гарнирана с малко сметана или пресни подправки, което й придава деликатен и уютен вкус."
+    },
+    "en": {
+      "name": "Sweet Potato Cream Soup",
+      "description": "Sweet potato cream soup is a smooth and velvety soup made from soft and sweet potatoes, cooked until pureed. It is typically served warm, often garnished with a bit of cream or fresh herbs, giving it a delicate and comforting flavor."
+    },
+    "it": {
+      "name": "Zuppa cremosa di patate dolci",
+      "description": "La zuppa cremosa di patate dolci è una zuppa vellutata e morbida, preparata con patate dolci morbide e dolci, cotte fino a diventare purea. Viene solitamente servita calda, spesso decorata con un po' di panna o erbe fresche, conferendole un sapore delicato e rassicurante."
+    }
+  },
+  "Сандвич с чедър, моцарела и кашкавал": {
+    "bg": {
+      "name": "Сандвич с чедър, моцарела и кашкавал",
+      "description": "Този сандвич е приготвен с три вида сирена: чедър, моцарела и кашкавал. Те са разтопени заедно и сервирани между две филийки хрупкав хляб. Идеално за бърз обяд или готино похапване при всяко време."
+    },
+    "en": {
+      "name": "Cheddar, Mozzarella and Kashkaval Sandwich",
+      "description": "This sandwich is made with three types of cheese: cheddar, mozzarella, and kashkaval. They are melted together and served between two slices of crispy bread. Perfect for a quick lunch or a tasty snack any time."
+    },
+    "it": {
+      "name": "Panino con cheddar, mozzarella e kashkaval",
+      "description": "Questo panino è preparato con tre tipi di formaggio: cheddar, mozzarella e kashkaval. Sono fusi insieme e serviti tra due fette di pane croccante. Ideale per un pranzo veloce o uno spuntino gustoso in ogni momento."
+    }
   }
 }
