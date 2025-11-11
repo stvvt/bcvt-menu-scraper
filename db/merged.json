@@ -684,6 +684,25 @@
     ]
   },
   {
+    "name": "Бургер с пилешко кюфте",
+    "prices": [
+      {
+        "dateText": "11-ти ноември",
+        "date": "2025-11-11",
+        "price": "10.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-11",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/89a8a01b-200.webp"
+      }
+    ]
+  },
+  {
     "name": "Бургер със зеленчуково кюфте",
     "prices": [
       {
@@ -868,6 +887,44 @@
       {
         "date": "2025-08-05",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/36c8abe6-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Винен кебап със свинско",
+    "prices": [
+      {
+        "dateText": "11-ти ноември",
+        "date": "2025-11-11",
+        "price": "6.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-11",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a71e39cb-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Витаминозна салата",
+    "prices": [
+      {
+        "dateText": "11-ти ноември",
+        "date": "2025-11-11",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-11",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ff539761-200.jpg"
       }
     ]
   },
@@ -6900,6 +6957,18 @@
     ]
   },
   {
+    "name": "Сандвич с италиански салам",
+    "prices": [
+      {
+        "dateText": "11-ти ноември",
+        "date": "2025-11-11",
+        "price": "3.50",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Сандвич с кайма и кашкавал",
     "prices": [
       {
@@ -8076,6 +8145,25 @@
       {
         "date": "2025-07-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0d378e0b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Супа от агнешки главички",
+    "prices": [
+      {
+        "dateText": "11-ти ноември",
+        "date": "2025-11-11",
+        "price": "3.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-11",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ffcd5c8e-200.jpg"
       }
     ]
   },

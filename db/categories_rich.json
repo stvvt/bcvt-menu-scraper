@@ -6550,5 +6550,75 @@
       "name": "Panino con cheddar, mozzarella e kashkaval",
       "description": "Questo panino è preparato con tre tipi di formaggio: cheddar, mozzarella e kashkaval. Sono fusi insieme e serviti tra due fette di pane croccante. Ideale per un pranzo veloce o uno spuntino gustoso in ogni momento."
     }
+  },
+  "Бургер с пилешко кюфте": {
+    "bg": {
+      "name": "Бургер с пилешко кюфте",
+      "description": "Класическо бързо хранене, състоящо се от сочна пилешка кайма, оформена във форма на кръгъл кюфте, поставена между две филии хрупкав хляб. Обикновено се сервира с добавки като маруля, домати, сирене и сос, като върху клечка или пръстен от хляб за по-удобна консумация."
+    },
+    "en": {
+      "name": "Chicken Patty Burger",
+      "description": "A classic fast food item consisting of a juicy chicken patty shaped into a round form, placed between two slices of crispy bread. It is usually served with toppings like lettuce, tomatoes, cheese, and sauce, often held together with a skewer or bread ring for easy handling."
+    },
+    "it": {
+      "name": "Burger con polpetta di pollo",
+      "description": "Un classico fast food composto da una succosa polpetta di pollo, formata in modo rotondo, posizionata tra due fette di pane croccante. Di solito viene servito con aggiunte come lattuga, pomodori, formaggio e salsa, spesso tenuto insieme con uno spiedino o un anello di pane per una facile consumazione."
+    }
+  },
+  "Винен кебап със свинско": {
+    "bg": {
+      "name": "Винен кебап със свинско",
+      "description": "Това е ароматно ястие от България, приготвено с месо от свинско, готвено в богато вино с подправки. Обикновено се сервира с варен ориз или картофи, като има сочна текстура и богат вкус на алкохол и подправки."
+    },
+    "en": {
+      "name": "Wine Stew with Pork",
+      "description": "This is a flavorful Bulgarian dish made with pork meat cooked in a rich wine sauce with spices. Typically served with boiled rice or potatoes, it has a juicy texture and a rich taste of alcohol and seasonings."
+    },
+    "it": {
+      "name": "Spezzatino di maiale al vino",
+      "description": "Questo è un piatto delizioso bulgaro preparato con carne di maiale cotta in una ricca salsa di vino con spezie. Di solito servito con riso bollito o patate, ha una consistenza succosa e un sapore ricco di vino e aromi."
+    }
+  },
+  "Витаминозна салата": {
+    "bg": {
+      "name": "Витаминозна салата",
+      "description": "Свежа салата, направена от разнообразие от пресни зеленчуци като домати, краставици, чушки и моркови, които осигуряват множество витамини и минерали. Обикновено е обогатена с пресен магданоз и лека дресинг от зехтин и лимонов сок."
+    },
+    "en": {
+      "name": "Vitamin Salad",
+      "description": "A fresh salad made from a variety of fresh vegetables such as tomatoes, cucumbers, peppers, and carrots, providing a multitude of vitamins and minerals. It is usually enriched with fresh parsley and a light dressing of olive oil and lemon juice."
+    },
+    "it": {
+      "name": "Insalata di vitamine",
+      "description": "Un'insalata fresca composta da una varietà di verdure fresche come pomodori, cetrioli, peperoni e carote, che forniscono molte vitamine e minerali. Di solito è arricchita con prezzemolo fresco e un condimento leggero di olio d'oliva e succo di limone."
+    }
+  },
+  "Сандвич с италиански салам": {
+    "bg": {
+      "name": "Сандвич с италиански салам",
+      "description": "Класически сандвич, приготвен с тънки филийки италиански салам, свежи зеленчуци като маруля и домат, и мазен сос или масло между две парчета хляб. Обикновено сервира се охладен или леко затоплен."
+    },
+    "en": {
+      "name": "Sandwich with Italian Salami",
+      "description": "A classic sandwich made with thin slices of Italian salami, fresh vegetables like lettuce and tomato, and a spread of sauce or butter between two slices of bread. Usually served chilled or lightly warmed."
+    },
+    "it": {
+      "name": "Panino con salame italiano",
+      "description": "Un panino classico preparato con fette sottili di salame italiano, verdure fresche come lattuga e pomodoro, e una salsa o burro tra due fette di pane. Generalmente servito freddo o leggermente riscaldato."
+    }
+  },
+  "Супа от агнешки главички": {
+    "bg": {
+      "name": "Супа от агнешки главички",
+      "description": "Тази супа е традиционно българско ястие, приготвено с агнешки главички, които се варят дълго време до постигане на богат и ароматен бульон. Обикновено се сервира гореща, с добавка на подправки и пресен магданоз."
+    },
+    "en": {
+      "name": "Lamb Head Soup",
+      "description": "This soup is a traditional Bulgarian dish made with lamb heads, boiled for a long time to create a rich and aromatic broth. It is usually served hot, with seasonings and fresh parsley."
+    },
+    "it": {
+      "name": "Zuppa di teste di agnello",
+      "description": "Questa zuppa è un piatto tradizionale bulgaro preparato con teste di agnello, bollite a lungo per ottenere un brodo ricco e aromatico. Di solito viene servita calda, con condimenti e prezzemolo fresco."
+    }
   }
 }
