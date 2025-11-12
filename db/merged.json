@@ -155,7 +155,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/68106dc0-200.jpg"
+      }
+    ]
   },
   {
     "name": "Баклава със сушени плодове",
@@ -4515,6 +4520,20 @@
         "price": "8.00",
         "currency": "лв",
         "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Патешко бутче със зеле",
+    "prices": [
+      {
+        "dateText": "12-ти ноември",
+        "date": "2025-11-12",
+        "price": "8.00",
+        "currency": "лв",
+        "weight": "300",
         "unit": "гр"
       }
     ],
@@ -9781,8 +9800,21 @@
         "date": "2025-06-25",
         "price": "7.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "12-ти ноември",
+        "date": "2025-11-12",
+        "price": "7.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/abeb8c55-200.png"
+      }
+    ]
   }
 ]

@@ -6620,5 +6620,19 @@
       "name": "Zuppa di teste di agnello",
       "description": "Questa zuppa è un piatto tradizionale bulgaro preparato con teste di agnello, bollite a lungo per ottenere un brodo ricco e aromatico. Di solito viene servita calda, con condimenti e prezzemolo fresco."
     }
+  },
+  "Патешко бутче със зеле": {
+    "bg": {
+      "name": "Патешко бутче със зеле",
+      "description": "Това ястие представлява крехко патешко бутче, готвено до златисто и сочност, сервирано със задушено зелено зеле, подправено с типични български подправки. Идеално за любители на богати и ароматни ястия."
+    },
+    "en": {
+      "name": "Duck leg with cabbage",
+      "description": "This dish features tender duck leg, cooked to a golden and juicy perfection, served with sautéed green cabbage seasoned with typical Bulgarian spices. Perfect for lovers of rich and flavorful dishes."
+    },
+    "it": {
+      "name": "Cosciotto d'anatra con verza",
+      "description": "Questo piatto presenta un tenero cosciotto d'anatra, cotto fino a ottenere una consistenza dorata e succosa, accompagnato da cavolo verde stufato, condito con spezie tipiche bulgare. Ideale per gli amanti di piatti ricchi e aromatici."
+    }
   }
 }
