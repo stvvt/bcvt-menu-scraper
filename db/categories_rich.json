@@ -6634,5 +6634,33 @@
       "name": "Cosciotto d'anatra con verza",
       "description": "Questo piatto presenta un tenero cosciotto d'anatra, cotto fino a ottenere una consistenza dorata e succosa, accompagnato da cavolo verde stufato, condito con spezie tipiche bulgare. Ideale per gli amanti di piatti ricchi e aromatici."
     }
+  },
+  "Печена тиква": {
+    "bg": {
+      "name": "Печена тиква",
+      "description": "Тиква, внимателно почистена, нарязана на големи парчета и изпичана във фурна до златисто. Често се сиропира със захар или мед, като се сервира като десерт или основно ястие с добавки като канела или орехи."
+    },
+    "en": {
+      "name": "Roasted Pumpkin",
+      "description": "Pumpkin, carefully cleaned, cut into large pieces and roasted in the oven until golden. It is often sweetened with sugar or honey and served as a dessert or main dish with additions like cinnamon or nuts."
+    },
+    "it": {
+      "name": "Zucca arrosto",
+      "description": "Zucca pulita accuratamente, tagliata in pezzi grandi e arrostita in forno fino a doratura. Spesso viene zuccherata con zucchero o miele e servita come dessert o piatto principale con aggiunte come cannella o noci."
+    }
+  },
+  "Риба тон на плоча": {
+    "bg": {
+      "name": "Риба тон на плоча",
+      "description": "Ястие, приготвено от свежа риба тон, която е нарязана на големи парчета и поднесена на плоча. Обикновено се сервира със свежи зеленчуци и лек сос или зехтин, като подчертава естествения вкус и текстура на рибата."
+    },
+    "en": {
+      "name": "Tuna Fish on a Platter",
+      "description": "Dish made from fresh tuna fish, sliced into large pieces and served on a platter. Usually accompanied by fresh vegetables and a light sauce or olive oil, highlighting the natural flavor and texture of the fish."
+    },
+    "it": {
+      "name": "Tonno fresco in piatto",
+      "description": "Piatti preparato con tonno fresco, tagliato a pezzi grandi e servito su un piatto. Di solito accompagnato da verdure fresche e una salsa leggera o olio d'oliva, per esaltare il sapore e la consistenza naturale del pesce."
+    }
   }
 }
