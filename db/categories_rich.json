@@ -6662,5 +6662,61 @@
       "name": "Tonno fresco in piatto",
       "description": "Piatti preparato con tonno fresco, tagliato a pezzi grandi e servito su un piatto. Di solito accompagnato da verdure fresche e una salsa leggera o olio d'oliva, per esaltare il sapore e la consistenza naturale del pesce."
     }
+  },
+  "Баничка с ябълки": {
+    "bg": {
+      "name": "Баничка с ябълки",
+      "description": "Това е сладка изпечена българска сладкарска изделие, приготвена от тънко тесто, което е напълнено с сладък пюре от ябълки и след това изпечено до златисто. Често се сервира с пудра захар или канела и е популярна като десерт или лека закуска."
+    },
+    "en": {
+      "name": "Apple Pie",
+      "description": "This is a sweet baked Bulgarian pastry made from thin dough filled with sweetened apple purée, then baked until golden. It is often served with powdered sugar or cinnamon and is popular as a dessert or a light snack."
+    },
+    "it": {
+      "name": "Torta di mele",
+      "description": "Questa è una dolce torta bulgara cotta al forno, fatta con una pasta sottile riempita con una purea di mele dolce, quindi cotta fino a ottenere un colore dorato. Spesso viene servita con zucchero a velo o cannella ed è popolare come dessert o spuntino leggero."
+    }
+  },
+  "Къпана баница със сирене": {
+    "bg": {
+      "name": "Къпана баница със сирене",
+      "description": "Къпана баница със сирене е традиционно българско ястие, което представлява тънък лист от тесто, напоен с кисело мляко и яйца, към който се добавя сирене. Този вкусен и сочен деликатес е характерен за българската кухня и е популярен като закуска или лека вечеря."
+    },
+    "en": {
+      "name": "Soggy Cheese Banitsa",
+      "description": "Soggy Cheese Banitsa is a traditional Bulgarian dish consisting of a thin sheet of dough soaked in yogurt and eggs, filled with cheese. This delicious and moist delicacy is characteristic of Bulgarian cuisine and is popular as a breakfast or light dinner."
+    },
+    "it": {
+      "name": "Banizza molle con formaggio",
+      "description": "La Banizza molle con formaggio è un piatto tradizionale bulgaro che consiste in una sottile sfoglia di pasta imbevuta di yogurt e uova, farcita con formaggio. Questa delizia saporita e umida è tipica della cucina bulgara ed è popolare come colazione o cena leggera."
+    }
+  },
+  "Ориз с праз и маслини": {
+    "bg": {
+      "name": "Ориз с праз и маслини",
+      "description": "Това е популярно българско ястие, което съчетава мек ориз, леко задушен праз и солени маслини. Обикновено сервиран като гарнитура или леко основно ястие, то е ароматно и лесно за приготвяне."
+    },
+    "en": {
+      "name": "Rice with Leek and Olives",
+      "description": "This is a popular Bulgarian dish that combines tender rice, lightly sautéed leek, and salty olives. Usually served as a side dish or a light main course, it is flavorful and easy to prepare."
+    },
+    "it": {
+      "name": "Riso con porri e olive",
+      "description": "Questo è un piatto bulgaro popolare che combina riso tenero, porri leggermente stufati e olive salate. Di solito servito come contorno o piatto principale leggero, è aromatico e facile da preparare."
+    }
+  },
+  "Салата моркови с кълнове и семена": {
+    "bg": {
+      "name": "Салата моркови с кълнове и семена",
+      "description": "Свежа и здравословна салата, съставена от тънко нарязани моркови, богати на витамини, съчетани с хрупкави кълнове и разнообразни семена като слънчоглед, тиквени и сусамени. Идеална за лека закуска или като допълнение към основното ястие."
+    },
+    "en": {
+      "name": "Carrot Salad with Sprouts and Seeds",
+      "description": "A fresh and healthy salad made from thinly sliced carrots, rich in vitamins, combined with crunchy sprouts and a variety of seeds such as sunflower, pumpkin, and sesame. Perfect as a light snack or as a side dish."
+    },
+    "it": {
+      "name": "Insalata di carote con germogli e semi",
+      "description": "Un'insalata fresca e salutare composta da carote affettate sottilmente, ricche di vitamine, abbinate a germogli croccanti e a vari semi come girasole, zucca e sesamo. Ideale come spuntino leggero o come contorno."
+    }
   }
 }

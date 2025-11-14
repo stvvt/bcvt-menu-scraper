@@ -229,6 +229,20 @@
     "images": []
   },
   {
+    "name": "Баничка с ябълки",
+    "prices": [
+      {
+        "dateText": "14-ти ноември",
+        "date": "2025-11-14",
+        "price": "2.00",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Баничка със спанак и сирене",
     "prices": [
       {
@@ -2912,6 +2926,14 @@
         "date": "2025-08-05",
         "price": "2.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "14-ти ноември",
+        "date": "2025-11-14",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2948,6 +2970,20 @@
         "date": "2025-07-01",
         "price": "2.50",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Къпана баница със сирене",
+    "prices": [
+      {
+        "dateText": "14-ти ноември",
+        "date": "2025-11-14",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -4029,6 +4065,25 @@
       {
         "date": "2025-08-06",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78a662b8-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Ориз с праз и маслини",
+    "prices": [
+      {
+        "dateText": "14-ти ноември",
+        "date": "2025-11-14",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/653c2115-200.jpg"
       }
     ]
   },
@@ -6868,6 +6923,25 @@
       {
         "date": "2025-09-26",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f1e00f10-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Салата моркови с кълнове и семена",
+    "prices": [
+      {
+        "dateText": "14-ти ноември",
+        "date": "2025-11-14",
+        "price": "2.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fb008adf-200.jpg"
       }
     ]
   },
