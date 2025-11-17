@@ -140,6 +140,15 @@
       "unit": "гр"
     },
     {
+      "name": "Грис халва",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3a73e832-200.jpg",
+      "ean": "8073",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Мини еклери",
       "price": "3.00",
       "currency": "лв",
@@ -160,6 +169,13 @@
     {
       "name": "Торта Пистачо",
       "price": "5.20",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Чийзкейк с горски плодове",
+      "price": "5.90",
       "currency": "лв",
       "weight": "150",
       "unit": "гр"
