@@ -6718,5 +6718,19 @@
       "name": "Insalata di carote con germogli e semi",
       "description": "Un'insalata fresca e salutare composta da carote affettate sottilmente, ricche di vitamine, abbinate a germogli croccanti e a vari semi come girasole, zucca e sesamo. Ideale come spuntino leggero o come contorno."
     }
+  },
+  "Салата зеле, моркови и червено цвекло": {
+    "bg": {
+      "name": "Салата зеле, моркови и червено цвекло",
+      "description": "Тази салата е свежа и цветна комбинация от нарязано сурово зеле, настъргани моркови и варено или печено червено цвекло. Обикновено е подправена с лимонов сок, зехтин, сол и пипер, и е популярна като лесна и здравословна гарнитура към основни ястия или като самостоятелен лек обяд."
+    },
+    "en": {
+      "name": "Cabbage, Carrot, and Red Beet Salad",
+      "description": "This salad is a fresh and colorful mix of shredded raw cabbage, grated carrots, and cooked or roasted red beet. It is typically seasoned with lemon juice, olive oil, salt, and pepper, and is popular as a quick, healthy side dish or a light standalone meal."
+    },
+    "it": {
+      "name": "Insalata di cavolo, carote e barbabietola rossa",
+      "description": "Questa insalata è una combinazione fresca e colorata di cavolo crudo affettato, carote grattugiate e barbabietola rossa cotta o arrostita. Di solito è condita con succo di limone, olio d'oliva, sale e pepe ed è popolare come contorno leggero e salutare o come pasto indipendente."
+    }
   }
 }
