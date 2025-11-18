@@ -69,6 +69,25 @@
     ]
   },
   {
+    "name": "Агнешка супа с коприва",
+    "prices": [
+      {
+        "dateText": "18-ти ноември",
+        "date": "2025-11-18",
+        "price": "5.30",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b2a6bdd7-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Агнешко със зелен боб",
     "prices": [
       {
@@ -787,6 +806,10 @@
       {
         "date": "2025-07-17",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b1e1db00-200.jpg"
+      },
+      {
+        "date": "2025-11-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/da3cd609-200.jpg"
       }
     ]
   },
@@ -1389,6 +1412,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Друсан кебап с праз и гъби",
+    "prices": [
+      {
+        "dateText": "18-ти ноември",
+        "date": "2025-11-18",
+        "price": "8.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ffa80556-200.jpg"
+      }
+    ]
   },
   {
     "name": "Дубайски чийзкейк",
@@ -9162,6 +9204,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/77044643-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Трицветен крем",
+    "prices": [
+      {
+        "dateText": "18-ти ноември",
+        "date": "2025-11-18",
+        "price": "3.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Тутманик с пълнеж и заливка от сирене",

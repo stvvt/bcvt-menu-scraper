@@ -6732,5 +6732,47 @@
       "name": "Insalata di cavolo, carote e barbabietola rossa",
       "description": "Questa insalata è una combinazione fresca e colorata di cavolo crudo affettato, carote grattugiate e barbabietola rossa cotta o arrostita. Di solito è condita con succo di limone, olio d'oliva, sale e pepe ed è popolare come contorno leggero e salutare o come pasto indipendente."
     }
+  },
+  "Агнешка супа с коприва": {
+    "bg": {
+      "name": "Агнешка супа с коприва",
+      "description": "Агнешка супа с коприва е традиционно българско ястие, приготвено с месо от агне и свежа коприва, сварени до гладка консистенция. Тази ароматна супа е богата на витамини и представлява здравословна и вкусна опция за студените дни."
+    },
+    "en": {
+      "name": "Lamb Soup with Nettle",
+      "description": "Lamb soup with nettle is a traditional Bulgarian dish made with lamb meat and fresh nettle leaves, cooked until tender. This aromatic soup is rich in vitamins and offers a healthy and delicious option for cold days."
+    },
+    "it": {
+      "name": "Zuppa di Agnello con Ortica",
+      "description": "La zuppa di agnello con ortica è un piatto tradizionale bulgaro preparato con carne di agnello e foglie di ortica fresche, cotte fino a ottenere una consistenza morbida. Questa zuppa aromatica è ricca di vitamine ed è un'opzione sana e gustosa per i giorni freddi."
+    }
+  },
+  "Друсан кебап с праз и гъби": {
+    "bg": {
+      "name": "Друсан кебап с праз и гъби",
+      "description": "Това ястие представлява кайма от месо, пържена с нарязан праз и гъби, подправена с особен български сос. Обикновено се сервира с пресен хляб или ориз. Вкусът е богат и ароматен, съчетаващ месните нотки с земнистите вкусове на гъбите и свежестта на праза."
+    },
+    "en": {
+      "name": "Drusan kebap with leek and mushrooms",
+      "description": "This dish features minced meat fried with chopped leek and mushrooms, seasoned with a special Bulgarian sauce. It is usually served with fresh bread or rice. The flavor is rich and aromatic, combining the meatiness with the earthy taste of mushrooms and the freshness of leek."
+    },
+    "it": {
+      "name": "Drušan kebap con porri e funghi",
+      "description": "Questo piatto consiste in carne macinata fritta con porri affettati e funghi, condito con una salsa bulgara speciale. Di solito viene servito con pane fresco o riso. Il gusto è ricco e aromatico, combinando le note di carne con il sapore terroso dei funghi e la freschezza del porro."
+    }
+  },
+  "Трицветен крем": {
+    "bg": {
+      "name": "Трицветен крем",
+      "description": "Този десерт се състои от три слоя с различен цвят и вкус: бял, жълт и оранжев. Всяки слой е кремообразен и се охлажда преди сервиране, създавайки приятна цветова гама и хармоничен вкус."
+    },
+    "en": {
+      "name": "Tricolored Cream",
+      "description": "This dessert consists of three layers with different colors and flavors: white, yellow, and orange. Each layer is creamy and chilled before serving, creating a pleasant color scheme and harmonious taste."
+    },
+    "it": {
+      "name": "Crema tricolore",
+      "description": "Questo dessert è composto da tre strati di diversi colori e gusti: bianco, giallo e arancione. Ogni strato è cremoso e raffreddato prima di servire, creando un piacevole schema di colori e un gusto armonioso."
+    }
   }
 }
