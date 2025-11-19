@@ -6774,5 +6774,19 @@
       "name": "Crema tricolore",
       "description": "Questo dessert è composto da tre strati di diversi colori e gusti: bianco, giallo e arancione. Ogni strato è cremoso e raffreddato prima di servire, creando un piacevole schema di colori e un gusto armonioso."
     }
+  },
+  "Касапска супа с праз": {
+    "bg": {
+      "name": "Касапска супа с праз",
+      "description": "Тази традиционна българска супа се приготвя със свеж праз и различни месни остатъци от касапска работа, като се вари до получаване на ароматен и богат бульон. Обикновено се сервира топла, с добавка на лъжица кисело мляко и нарязан магданоз за допълнителен вкус."
+    },
+    "en": {
+      "name": "Butcher's Soup with Leeks",
+      "description": "This traditional Bulgarian soup is made with fresh leeks and various meat leftovers from butchery work, simmered to create a fragrant and hearty broth. Usually served hot, topped with a spoon of yogurt and chopped parsley for added flavor."
+    },
+    "it": {
+      "name": "Zuppa del Macellaio con Porri",
+      "description": "Questa zuppa tradizionale bulgara si prepara con porri freschi e vari avanzi di carne da macelleria, cotta fino a ottenere un brodo aromatico e sostanzioso. Solitamente viene servita calda, con un cucchiaio di yogurt e prezzemolo tritato per un gusto extra."
+    }
   }
 }

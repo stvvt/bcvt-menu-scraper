@@ -2408,6 +2408,20 @@
     ]
   },
   {
+    "name": "Касапска супа с праз",
+    "prices": [
+      {
+        "dateText": "19-ти ноември",
+        "date": "2025-11-19",
+        "price": "3.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Катък с цедено мляко",
     "prices": [
       {
@@ -3016,9 +3030,22 @@
         "date": "2025-07-01",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "19-ти ноември",
+        "date": "2025-11-19",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-19",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c2bcd8b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Къпана баница със сирене",
@@ -3630,6 +3657,10 @@
       {
         "date": "2025-07-18",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/76e90a39-200.jpg"
+      },
+      {
+        "date": "2025-11-19",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c8cf3403-200.jpg"
       }
     ]
   },
@@ -4174,6 +4205,10 @@
       {
         "date": "2025-07-31",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0cad345b-200.png"
+      },
+      {
+        "date": "2025-11-19",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3c50f51e-200.jpg"
       }
     ]
   },
@@ -4557,6 +4592,14 @@
         "date": "2025-06-26",
         "price": "5.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "19-ти ноември",
+        "date": "2025-11-19",
+        "price": "5.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -9698,6 +9741,10 @@
       {
         "date": "2025-07-18",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fd282dc3-200.jpg"
+      },
+      {
+        "date": "2025-11-19",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3e06338-200.jpg"
       }
     ]
   },
