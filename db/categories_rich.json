@@ -6788,5 +6788,19 @@
       "name": "Zuppa del Macellaio con Porri",
       "description": "Questa zuppa tradizionale bulgara si prepara con porri freschi e vari avanzi di carne da macelleria, cotta fino a ottenere un brodo aromatico e sostanzioso. Solitamente viene servita calda, con un cucchiaio di yogurt e prezzemolo tritato per un gusto extra."
     }
+  },
+  "Бургер с кюфте от боб": {
+    "bg": {
+      "name": "Бургер с кюфте от боб",
+      "description": "Това е вкусен бургер, в който основният компонент е кюфте от боб. Бобът се пюрира и се смесва с подправки, след което се оформя на кръгли кюфтета, които се запичат или пържат до златисто. Те се поставят в мека питка или франзела, обикновено с гарнитура от свежи зеленчуци и сосове."
+    },
+    "en": {
+      "name": "Bean Patty Burger",
+      "description": "This is a delicious burger featuring a bean patty as the main component. The beans are mashed and mixed with spices, then shaped into round patties which are baked or fried until golden. They are placed in a soft bun or bread roll, typically accompanied by fresh vegetables and sauces."
+    },
+    "it": {
+      "name": "Urbun con polpetta di fagioli",
+      "description": "Questo è un delizioso hamburger con una polpetta di fagioli come componente principale. I fagioli vengono schiacciati e mescolati con spezie, quindi modellati in polpette rotonde che vengono cotte al forno o fritte fino a doratura. Vengono poste in un panino morbido o in un rotolo, di solito con verdure fresche e salse."
+    }
   }
 }
