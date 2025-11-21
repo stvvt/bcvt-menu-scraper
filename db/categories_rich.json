@@ -6802,5 +6802,19 @@
       "name": "Urbun con polpetta di fagioli",
       "description": "Questo è un delizioso hamburger con una polpetta di fagioli come componente principale. I fagioli vengono schiacciati e mescolati con spezie, quindi modellati in polpette rotonde che vengono cotte al forno o fritte fino a doratura. Vengono poste in un panino morbido o in un rotolo, di solito con verdure fresche e salse."
     }
+  },
+  "Сарми със свинско и булгур": {
+    "bg": {
+      "name": "Сарми със свинско и булгур",
+      "description": "Това са традиционни български сарми, приготвени с филета от свинско месо, обвити в зелеви листа и пълнени с смес от булгур, лук, подправки и малко мазнина. След като се сварят до готовност, се сервират топли, често с кисело мляко или доматен сос."
+    },
+    "en": {
+      "name": "Stuffed Cabbage Rolls with Pork and Bulgur",
+      "description": "These are traditional Bulgarian cabbage rolls made with pork fillets wrapped in cabbage leaves and filled with a mixture of bulgur, onions, spices, and a bit of fat. Once cooked until tender, they are served warm, often with yogurt or tomato sauce."
+    },
+    "it": {
+      "name": "Involtini di verza con maiale e bulgur",
+      "description": "Questi sono involtini di verza tradizionali bulgari fatti con filetti di maiale avvolti in foglie di verza e farciti con un composto di bulgur, cipolle, spezie e un po' di grasso. Dopo la cottura, vengono serviti caldi, spesso con yogurt o salsa di pomodoro."
+    }
   }
 }
