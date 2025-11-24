@@ -6830,5 +6830,19 @@
       "name": "Enchilada con chili con carne",
       "description": "Un'enchilada è un piatto tradizionale messicano che consiste in una tortilla ripiena di carne e spezie, arrotolata e coperta con una salsa di chili calda. La variante con chili con carne include carne macinata speziata in una salsa a base di pomodoro, spesso servita con formaggio grattugiato e erbe fresche."
     }
+  },
+  "Салата домати , краставици, чушка и нар": {
+    "bg": {
+      "name": "Салата домати, краставици, чушка и нар",
+      "description": "Свежа и приятна салата, съставена от зрели домати, хрупкави краставици, пикантна чушка и сладък нар. Идеална за лятото, това ястие предлага балансиран вкус на киселина, сладост и натурална свежест."
+    },
+    "en": {
+      "name": "Tomato, cucumber, pepper, and pomegranate salad",
+      "description": "A fresh and delightful salad made from ripe tomatoes, crunchy cucumbers, spicy peppers, and sweet pomegranate seeds. Perfect for summer, this dish offers a balanced flavor of acidity, sweetness, and natural freshness."
+    },
+    "it": {
+      "name": "Insalata di pomodori, cetrioli, peperoni e melagrana",
+      "description": "Un'insalata fresca e gustosa composta da pomodori maturi, cetrioli croccanti, peperoni piccanti e semi di melagrana dolci. Perfetta per l'estate, questo piatto offre un sapore bilanciato di acidità, dolcezza e freschezza naturale."
+    }
   }
 }

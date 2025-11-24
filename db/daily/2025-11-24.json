@@ -38,6 +38,13 @@
       "unit": "гр"
     },
     {
+      "name": "Салата домати , краставици, чушка и нар",
+      "price": "4.50",
+      "currency": "лв",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
       "name": "Супа леща",
       "price": "2.90",
       "currency": "лв",
@@ -135,11 +142,27 @@
       "unit": "гр"
     },
     {
+      "name": "Бадемов крем",
+      "price": "3.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fefe4a0d-200.jpg",
+      "ean": "8062",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Боровинкова торта",
       "price": "3.20",
       "currency": "лв",
       "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5a13565b-200.jpg",
       "ean": "8053",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем Тирамису",
+      "price": "3.50",
+      "currency": "лв",
       "weight": "150",
       "unit": "гр"
     },
@@ -160,9 +183,30 @@
       "unit": "гр"
     },
     {
+      "name": "Протеинова торта",
+      "price": "5.80",
+      "currency": "лв",
+      "weight": "120",
+      "unit": "гр"
+    },
+    {
+      "name": "Скалички",
+      "price": "4.50",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Шоколадово брауни",
       "price": "3.00",
       "currency": "лв"
+    },
+    {
+      "name": "Сурова торта с тиква и крема сирене",
+      "price": "4.60",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
     }
   ]
 }
