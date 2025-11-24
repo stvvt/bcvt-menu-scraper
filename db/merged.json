@@ -1521,6 +1521,20 @@
     ]
   },
   {
+    "name": "Енчилада с чили кон карне",
+    "prices": [
+      {
+        "dateText": "24-ти ноември",
+        "date": "2025-11-24",
+        "price": "8.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Задушен ориз",
     "prices": [
       {
@@ -2551,6 +2565,10 @@
       {
         "date": "2025-07-18",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1b6b470-200.jpg"
+      },
+      {
+        "date": "2025-11-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cd6aa67f-200.jpg"
       }
     ]
   },
@@ -4419,6 +4437,10 @@
       {
         "date": "2025-08-15",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a7f8d27e-200.jpg"
+      },
+      {
+        "date": "2025-11-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/960f7fae-200.jpg"
       }
     ]
   },
@@ -5296,6 +5318,10 @@
       {
         "date": "2025-07-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f3812edd-200.jpg"
+      },
+      {
+        "date": "2025-11-24",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d155737-200.jpg"
       }
     ]
   },

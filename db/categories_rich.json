@@ -6816,5 +6816,19 @@
       "name": "Involtini di verza con maiale e bulgur",
       "description": "Questi sono involtini di verza tradizionali bulgari fatti con filetti di maiale avvolti in foglie di verza e farciti con un composto di bulgur, cipolle, spezie e un po' di grasso. Dopo la cottura, vengono serviti caldi, spesso con yogurt o salsa di pomodoro."
     }
+  },
+  "Енчилада с чили кон карне": {
+    "bg": {
+      "name": "Енчилада с чили кон карне",
+      "description": "Енчилада е традиционно мексиканско ястие, представляващо тортила, пълна с месо и подправки, обвита в топъл сос от чили. Вариантът с чили кон карне включва подправено средно месо с доматен сос, често сервирано с настъргано сирене и свежи подправки."
+    },
+    "en": {
+      "name": "Enchilada with chili con carne",
+      "description": "An enchilada is a traditional Mexican dish consisting of a tortilla filled with meat and spices, rolled and covered with a warm chili sauce. The version with chili con carne features seasoned ground meat in a tomato-based sauce, often served with grated cheese and fresh herbs."
+    },
+    "it": {
+      "name": "Enchilada con chili con carne",
+      "description": "Un'enchilada è un piatto tradizionale messicano che consiste in una tortilla ripiena di carne e spezie, arrotolata e coperta con una salsa di chili calda. La variante con chili con carne include carne macinata speziata in una salsa a base di pomodoro, spesso servita con formaggio grattugiato e erbe fresche."
+    }
   }
 }
