@@ -6844,5 +6844,19 @@
       "name": "Insalata di pomodori, cetrioli, peperoni e melagrana",
       "description": "Un'insalata fresca e gustosa composta da pomodori maturi, cetrioli croccanti, peperoni piccanti e semi di melagrana dolci. Perfetta per l'estate, questo piatto offre un sapore bilanciato di acidità, dolcezza e freschezza naturale."
     }
+  },
+  "Кадаиф с ядки и сушени плодове": {
+    "bg": {
+      "name": "Кадаиф с ядки и сушени плодове",
+      "description": "Това е традиционно сладко българско ястие, приготвено от тънко нарязан кадаиф тесто, което се намазва с орехи, бадеми или лешници, и се поднася с микс от сушени плодове и мед. Обикновено е топло и се сервира като десерт след хранене."
+    },
+    "en": {
+      "name": "Kadaif with nuts and dried fruits",
+      "description": "This is a traditional Bulgarian sweet dish made from finely shredded kadaif dough, layered with walnuts, almonds, or hazelnuts, and served with a mix of dried fruits and honey. It is usually served warm as a dessert after a meal."
+    },
+    "it": {
+      "name": "Kadaif con noci e frutta secca",
+      "description": "Questo è un dolce tradizionale bulgaro preparato con pasta di Kadaif finemente tagliata, farcita con noci, mandorle o nocciole, e servito con un mix di frutta secca e miele. Di solito è servito caldo come dessert dopo un pasto."
+    }
   }
 }

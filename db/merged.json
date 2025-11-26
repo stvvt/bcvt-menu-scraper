@@ -2202,6 +2202,25 @@
     ]
   },
   {
+    "name": "Кадаиф с ядки и сушени плодове",
+    "prices": [
+      {
+        "dateText": "26-ти ноември",
+        "date": "2025-11-26",
+        "price": "5.30",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-11-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c2ea9a99-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Картофен огретен със сирене и моцарела",
     "prices": [
       {
@@ -2731,7 +2750,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d817578-200.jpg"
+      }
+    ]
   },
   {
     "name": "Крем Тирамису",
@@ -6161,9 +6185,22 @@
         "date": "2025-07-07",
         "price": "6.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "26-ти ноември",
+        "date": "2025-11-26",
+        "price": "6.50",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-11-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c23460f4-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пълнен патладжан с черен ориз и зеленчуци",
