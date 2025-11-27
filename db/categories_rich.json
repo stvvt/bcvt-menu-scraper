@@ -6858,5 +6858,19 @@
       "name": "Kadaif con noci e frutta secca",
       "description": "Questo è un dolce tradizionale bulgaro preparato con pasta di Kadaif finemente tagliata, farcita con noci, mandorle o nocciole, e servito con un mix di frutta secca e miele. Di solito è servito caldo come dessert dopo un pasto."
     }
+  },
+  "Мусака от патешко и патладжан": {
+    "bg": {
+      "name": "Мусака от патешко и патладжан",
+      "description": "Тази мусака съчетава нежната месеста текстура на патешкото месо с мекотата на пържени патладжани. Обикновено се приготвя със слой подправен патешки кайма, покрит с тънки резени патладжан, залети с богато млечно-яйчно сосче и запечени до златисто. Това ястие е богато и ароматно, перфектно за ценителите на месни и зеленчукови комбинации."
+    },
+    "en": {
+      "name": "Duck and Eggplant Moussaka",
+      "description": "This moussaka combines tender duck meat with soft fried eggplants. It is usually prepared with a layer of seasoned duck mince, covered with thin slices of eggplant, topped with a rich milk and egg sauce, and baked until golden. The dish is rich and flavorful, perfect for those who enjoy meat and vegetable combinations."
+    },
+    "it": {
+      "name": "Moussaka di anatra e melanzane",
+      "description": "Questa moussaka combina tenera carne di anatra con melanzane fritte morbide. Viene generalmente preparata con uno strato di macinato di anatra condito, coperto da sottili fette di melanzane, il tutto ricoperto da una ricca salsa di latte e uova, e cotto al forno fino a doratura. È un piatto ricco e saporito, ideale per chi apprezza combinazioni di carne e verdure."
+    }
   }
 }

@@ -21,6 +21,10 @@
       {
         "date": "2025-07-17",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e058cfaa-200.jpg"
+      },
+      {
+        "date": "2025-11-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e2db0801-200.jpg"
       }
     ]
   },
@@ -3853,6 +3857,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1904e7d6-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Мусака от патешко и патладжан",
+    "prices": [
+      {
+        "dateText": "27-ми ноември",
+        "date": "2025-11-27",
+        "price": "6.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Мусака с кълцано пилешко месо",
