@@ -6872,5 +6872,19 @@
       "name": "Moussaka di anatra e melanzane",
       "description": "Questa moussaka combina tenera carne di anatra con melanzane fritte morbide. Viene generalmente preparata con uno strato di macinato di anatra condito, coperto da sottili fette di melanzane, il tutto ricoperto da una ricca salsa di latte e uova, e cotto al forno fino a doratura. È un piatto ricco e saporito, ideale per chi apprezza combinazioni di carne e verdure."
     }
+  },
+  "Лазаня със сос Карбонара": {
+    "bg": {
+      "name": "Лазаня със сос Карбонара",
+      "description": "Лазаня със сос Карбонара представлява слоеста италианска паста, приготвена с тънки листове лазаня и богат сос, направен от яйца, сирене пекорино и печен бекон или панчета. Този сос е кремообразен и ароматен, като подчертава вкусa на пастата и месото, създавайки съвършена хармония на текстури и вкусове."
+    },
+    "en": {
+      "name": "Lasagna with Carbonara Sauce",
+      "description": "Lasagna with Carbonara sauce is a layered Italian pasta dish made with thin sheets of lasagna pasta and a rich sauce made from eggs, Pecorino cheese, and crispy pancetta or bacon. The sauce is creamy and flavorful, complementing the pasta and meat, creating a perfect harmony of textures and flavors."
+    },
+    "it": {
+      "name": "Lasagna con Salsa Carbonara",
+      "description": "Lasagna con Salsa Carbonara è un piatto di pasta italiana a strati, realizzato con sottili fogli di pasta per lasagna e una salsa ricca fatta con uova, formaggio Pecorino e pancetta o guancia di maiale croccante. La salsa è cremosa e saporita, esaltando il gusto della pasta e della carne, creando un'armonia perfetta di consistenze e sapori."
+    }
   }
 }
