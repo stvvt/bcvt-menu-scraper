@@ -6886,5 +6886,19 @@
       "name": "Lasagna con Salsa Carbonara",
       "description": "Lasagna con Salsa Carbonara è un piatto di pasta italiana a strati, realizzato con sottili fogli di pasta per lasagna e una salsa ricca fatta con uova, formaggio Pecorino e pancetta o guancia di maiale croccante. La salsa è cremosa e saporita, esaltando il gusto della pasta e della carne, creando un'armonia perfetta di consistenze e sapori."
     }
+  },
+  "Млечен крем с тиква и орехи": {
+    "bg": {
+      "name": "Млечен крем с тиква и орехи",
+      "description": "Кремообразно ястие, направено от мляко, сварена и пасирана тиква, смесена с захар и подправки, и гарнирано с натрошени орехи. Този десерт е богат, сладък и ароматен, идеален за зимни вечери."
+    },
+    "en": {
+      "name": "Milk Cream with Pumpkin and Walnuts",
+      "description": "A creamy dish made from milk, cooked and pureed pumpkin, mixed with sugar and spices, topped with crushed walnuts. This dessert is rich, sweet, and aromatic, perfect for winter evenings."
+    },
+    "it": {
+      "name": "Crema di latte con zucca e noci",
+      "description": "Un piatto cremoso fatto con latte, zucca cotta e frullata, mescolata con zucchero e spezie, decorata con noci tritate. Questo dolce è ricco, dolce e aromatico, ideale per le sere invernali."
+    }
   }
 }

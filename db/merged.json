@@ -3183,6 +3183,10 @@
       {
         "date": "2025-07-28",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fe5714d8-200.jpg"
+      },
+      {
+        "date": "2025-12-01",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6fcd1a46-200.jpg"
       }
     ]
   },
@@ -3783,6 +3787,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fa645fae-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Млечен крем с тиква и орехи",
+    "prices": [
+      {
+        "dateText": "01-ви декември",
+        "date": "2025-12-01",
+        "price": "3.00",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Млечна баница с бурбонска ванилия и мед",
