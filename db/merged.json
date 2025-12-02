@@ -2083,6 +2083,10 @@
       {
         "date": "2025-07-23",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8955b1bd-200.jpg"
+      },
+      {
+        "date": "2025-12-02",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/be1cda6f-200.jpg"
       }
     ]
   },
@@ -5442,7 +5446,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-12-02",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/592b3a38-200.png"
+      }
+    ]
   },
   {
     "name": "Пилешки дробчета по селски",
