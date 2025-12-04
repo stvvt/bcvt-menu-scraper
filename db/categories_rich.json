@@ -6900,5 +6900,33 @@
       "name": "Crema di latte con zucca e noci",
       "description": "Un piatto cremoso fatto con latte, zucca cotta e frullata, mescolata con zucchero e spezie, decorata con noci tritate. Questo dolce è ricco, dolce e aromatico, ideale per le sere invernali."
     }
+  },
+  "Пататник със сирене": {
+    "bg": {
+      "name": "Пататник със сирене",
+      "description": "Пататник със сирене е традиционно българско ястие, направено от тънки слоеве тесто, пълнени с настъргани картофи и сирене. То се пече до златисто и е характерно с крехката си текстура и богати вкусове."
+    },
+    "en": {
+      "name": "Potato Pie with Cheese",
+      "description": "Potato Pie with Cheese is a traditional Bulgarian dish made of thin layers of dough filled with grated potatoes and cheese. It is baked until golden and is known for its crispy texture and rich flavors."
+    },
+    "it": {
+      "name": "Torta di patate con formaggio",
+      "description": "La Torta di patate con formaggio è un piatto tradizionale bulgaro fatto di sottili strati di pasta ripieni di patate grattugiate e formaggio. Viene cotta fino a doratura ed è nota per la sua consistenza croccante e i sapori intensi."
+    }
+  },
+  "Салата бейби спанак с моркови и сирене": {
+    "bg": {
+      "name": "Салата бейби спанак с моркови и сирене",
+      "description": "Това е свежа салата, съставена от млади листа бейби спанак, натрошени моркови и сирене, подправена със зехтин и лимонов сок. Лека и питателна, идеална за летните дни."
+    },
+    "en": {
+      "name": "Baby Spinach Salad with Carrots and Cheese",
+      "description": "This is a fresh salad made of young baby spinach leaves, grated carrots, and cheese, dressed with olive oil and lemon juice. Light and nutritious, ideal for summer days."
+    },
+    "it": {
+      "name": "Insalata di spinaci baby con carote e formaggio",
+      "description": "Questa è un'insalata fresca composta da foglie di spinaci baby, carote grattugiate e formaggio, condita con olio d'oliva e succo di limone. Leggera e nutriente, perfetta per le giornate estive."
+    }
   }
 }
