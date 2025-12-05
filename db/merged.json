@@ -4157,7 +4157,12 @@
         "currency": "лв"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-12-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8814772-200.jpg"
+      }
+    ]
   },
   {
     "name": "Ориз по китайски със зеленчуци",
@@ -5800,6 +5805,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "05-ти декември",
+        "date": "2025-12-05",
+        "price": "9.40",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6711,6 +6724,10 @@
       {
         "date": "2025-08-15",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4b30d9ef-200.jpg"
+      },
+      {
+        "date": "2025-12-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ab3c8cf7-200.jpg"
       }
     ]
   },
