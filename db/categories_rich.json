@@ -6928,5 +6928,19 @@
       "name": "Insalata di spinaci baby con carote e formaggio",
       "description": "Questa è un'insalata fresca composta da foglie di spinaci baby, carote grattugiate e formaggio, condita con olio d'oliva e succo di limone. Leggera e nutriente, perfetta per le giornate estive."
     }
+  },
+  "ГАРНИТУРА зелена салата с репички": {
+    "bg": {
+      "name": "Гарнитура зелена салата с репички",
+      "description": "Свежа салата от зелени листни зеленчуци, обикновено маруля или айсберг, подправена с крехки, пресни репички. Това ястие е подходящо като допълнение към основните ястия и е характерен признак за тържествения обяд или вечеря."
+    },
+    "en": {
+      "name": "Green Salad with Radishes",
+      "description": "A fresh salad made of leafy greens such as lettuce or iceberg, garnished with crisp, fresh radishes. This side dish is suitable as an accompaniment to main courses and is a characteristic feature of festive lunches or dinners."
+    },
+    "it": {
+      "name": "Insalata verde con ravanelli",
+      "description": "Un'insalata fresca composta da foglie di verdure come lattuga o iceberg, guarnita con ravanelli croccanti e freschi. Questo piatto è adatto come contorno ai piatti principali ed è una caratteristica del pranzo o della cena festiva."
+    }
   }
 }
