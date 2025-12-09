@@ -808,6 +808,20 @@
     ]
   },
   {
+    "name": "Бял Гараш",
+    "prices": [
+      {
+        "dateText": "09-ти декември",
+        "date": "2025-12-09",
+        "price": "6.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Бяла риба пане",
     "prices": [
       {
@@ -946,6 +960,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "09-ти декември",
+        "date": "2025-12-09",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1019,40 +1041,12 @@
     ]
   },
   {
-    "name": "ГАРНИТУРА  домати и краставица",
-    "prices": [
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "2.30",
-        "currency": "лв",
-        "weight": "100",
-        "unit": "гр"
-      }
-    ],
-    "images": []
-  },
-  {
     "name": "ГАРНИТУРА зелена салата с репички",
     "prices": [
       {
         "dateText": "08-ми декември",
         "date": "2025-12-08",
         "price": "2.40",
-        "currency": "лв",
-        "weight": "80",
-        "unit": "гр"
-      }
-    ],
-    "images": []
-  },
-  {
-    "name": "ГАРНИТУРА листна салата с моркови",
-    "prices": [
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "2.00",
         "currency": "лв",
         "weight": "80",
         "unit": "гр"
@@ -1323,14 +1317,6 @@
         "dateText": "20-ти октомври",
         "date": "2025-10-20",
         "price": "3.50",
-        "currency": "лв",
-        "weight": "250",
-        "unit": "гр"
-      },
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "4.30",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -2644,14 +2630,6 @@
         "currency": "лв",
         "weight": "80",
         "unit": "гр"
-      },
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "2.60",
-        "currency": "лв",
-        "weight": "80",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -3191,6 +3169,37 @@
     ]
   },
   {
+    "name": "Кроасан с шоколад",
+    "prices": [
+      {
+        "dateText": "09-ти декември",
+        "date": "2025-12-09",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "90",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-12-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/46057a7b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Кроасан с шунка и кашкавал",
+    "prices": [
+      {
+        "dateText": "09-ти декември",
+        "date": "2025-12-09",
+        "price": "4.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Къпана баница със сирене",
     "prices": [
       {
@@ -3377,14 +3386,6 @@
         "dateText": "09-ти септември",
         "date": "2025-09-09",
         "price": "5.60",
-        "currency": "лв",
-        "weight": "300",
-        "unit": "гр"
-      },
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "6.20",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -3610,14 +3611,6 @@
         "dateText": "19-ти август",
         "date": "2025-08-19",
         "price": "2.60",
-        "currency": "лв",
-        "weight": "150",
-        "unit": "гр"
-      },
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "3.20",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -5591,25 +5584,6 @@
     ]
   },
   {
-    "name": "Пилешки дробчета с праз, маслини и ориз",
-    "prices": [
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "4.40",
-        "currency": "лв",
-        "weight": "250",
-        "unit": "гр"
-      }
-    ],
-    "images": [
-      {
-        "date": "2025-12-09",
-        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/64999a27-200.jpg"
-      }
-    ]
-  },
-  {
     "name": "Пилешки хапки",
     "prices": [
       {
@@ -5705,6 +5679,14 @@
         "dateText": "15-ти септември",
         "date": "2025-09-15",
         "price": "6.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "09-ти декември",
+        "date": "2025-12-09",
+        "price": "7.40",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -5870,14 +5852,6 @@
         "dateText": "18-ти август",
         "date": "2025-08-18",
         "price": "5.90",
-        "currency": "лв",
-        "weight": "200",
-        "unit": "гр"
-      },
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "7.30",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -6085,20 +6059,6 @@
         "price": "4.90",
         "currency": "лв",
         "weight": "150",
-        "unit": "гр"
-      }
-    ],
-    "images": []
-  },
-  {
-    "name": "Плочка сирене",
-    "prices": [
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "1.00",
-        "currency": "лв",
-        "weight": "50",
         "unit": "гр"
       }
     ],
@@ -6862,6 +6822,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "09-ти декември",
+        "date": "2025-12-09",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -7035,24 +7003,12 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
-      },
-      {
-        "dateText": "09-ти декември",
-        "date": "2025-12-09",
-        "price": "3.90",
-        "currency": "лв",
-        "weight": "200",
-        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-25",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d62ce160-200.jpg"
-      },
-      {
-        "date": "2025-12-09",
-        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9b8736c0-200.jpg"
       }
     ]
   },

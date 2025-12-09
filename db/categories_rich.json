@@ -6998,5 +6998,47 @@
       "name": "Formella di Formaggio",
       "description": "Questo è un piatto tradizionale bulgaro in cui il formaggio viene modellato in forma di piastra o quadrato, solitamente servito come antipasto o spuntino. Il formaggio è tipicamente naturale, proveniente da latte di pecora o capra, e può essere gustato fresco o leggermente stagionato."
     }
+  },
+  "Бял Гараш": {
+    "bg": {
+      "name": "Бял Гараш",
+      "description": "Бял Гараш е традиционно българско ястие, което представлява смес от прясно сирене, яйца и кисело мляко, разбъркани заедно и запечени на фурна до златист цвят. Обикновено се сервира като топла закуска или лека вечеря, придружена с пресен хляб."
+    },
+    "en": {
+      "name": "Byal Garash",
+      "description": "Byal Garash is a traditional Bulgarian dish made from a mixture of fresh cheese, eggs, and yogurt, combined and baked until golden. It is usually served as a warm breakfast or light dinner, accompanied by fresh bread."
+    },
+    "it": {
+      "name": "Byal Garash",
+      "description": "Il Byal Garash è un piatto tradizionale bulgaro che consiste in una miscela di formaggio fresco, uova e yogurt, mescolati e cotti al forno fino a doratura. Viene solitamente servito come colazione calda o cena leggera, accompagnato da pane fresco."
+    }
+  },
+  "Кроасан с шоколад": {
+    "bg": {
+      "name": "Кроасан с шоколад",
+      "description": "Това е пухкаво и маслено filo тесто, оформено като полумесец и изпълнено с богата шоколадова пълнеж. Често се изпича до златисто и се сервира топло или студено, идеално за закуска или сладък десерт."
+    },
+    "en": {
+      "name": "Chocolate Croissant",
+      "description": "This is a flaky and buttery pastry, shaped like a crescent and filled with rich chocolate filling. It is often baked until golden and served warm or cold, making it perfect for breakfast or a sweet treat."
+    },
+    "it": {
+      "name": "Cornetto al cioccolato",
+      "description": "Questo è un dolce di pasta sfoglia burrosa e croccante, a forma di mezzaluna, ripieno di crema di cioccolato ricca e avvolgente. Spesso viene cotto fino a doratura e servito caldo o freddo, ideale per colazione o come dolce."
+    }
+  },
+  "Кроасан с шунка и кашкавал": {
+    "bg": {
+      "name": "Кроасан с шунка и кашкавал",
+      "description": "Хрупкав и леко маслен кроасан, пълнен с деликатна шунка и разтопен кашкавал. Това ястие е популярна закуска или бързо обяд, съчетавайки украинските вкусове на мек и топъл хрупкав пухкав хляб с нежни месни и млечни добавки."
+    },
+    "en": {
+      "name": "Croissant with Ham and Cheese",
+      "description": "A flaky and lightly buttery croissant filled with delicate ham and melted cheese. This dish is a popular breakfast or quick lunch option, combining the crispy, warm, soft bread with tender meats and dairy."
+    },
+    "it": {
+      "name": "Croissant con prosciutto e formaggio",
+      "description": "Un croissant croccante e leggermente burroso, farcito con prosciutto delicato e formaggio fuso. Questo piatto è una colazione o un pranzo veloce molto popolare, che unisce la croccantezza del pane caldo e morbido con le delicate aggiunte di carne e formaggio."
+    }
   }
 }
