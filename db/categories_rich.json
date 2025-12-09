@@ -6942,5 +6942,61 @@
       "name": "Insalata verde con ravanelli",
       "description": "Un'insalata fresca composta da foglie di verdure come lattuga o iceberg, guarnita con ravanelli croccanti e freschi. Questo piatto è adatto come contorno ai piatti principali ed è una caratteristica del pranzo o della cena festiva."
     }
+  },
+  "ГАРНИТУРА  домати и краставица": {
+    "bg": {
+      "name": "Гарнитура домати и краставица",
+      "description": "Лека и освежаваща гарнитура, съставена от свежи, нарязани на кръгчета домати и краставици. Обикновено се поднася като странично ястие към основни блюда, особено при топло време. Подправя се с малко сол, зехтин и може да добави пресен магданоз или мента за допълнителен аромат."
+    },
+    "en": {
+      "name": "Tomato and Cucumber Garnish",
+      "description": "A light and refreshing garnish made from fresh, sliced tomatoes and cucumbers. Usually served as a side dish to main courses, especially in warm weather. It is seasoned with a bit of salt, olive oil, and can include fresh parsley or mint for extra flavor."
+    },
+    "it": {
+      "name": "Contorno di pomodori e cetrioli",
+      "description": "Un contorno leggero e rinfrescante composto da pomodori freschi e cetrioli tagliati a rondelle. Generalmente viene servito come accompagnamento a piatti principali, soprattutto in estate. Si condisce con un po' di sale, olio d'oliva e può essere arricchito con prezzemolo fresco o menta per un gusto aggiuntivo."
+    }
+  },
+  "ГАРНИТУРА листна салата с моркови": {
+    "bg": {
+      "name": "Гарнитура листна салата с моркови",
+      "description": "Просторно и свежо ястие, състоящо се от сурови листа зелена салата и настъргани моркови. Подразбира се като свеж елемент към основни ястия, като добавя цвят и хрупкавост."
+    },
+    "en": {
+      "name": "Leaf Salad with Carrots",
+      "description": "A light and fresh dish consisting of raw leafy greens and grated carrots. Typically served as a garnish or side dish to main courses, adding color and crunch."
+    },
+    "it": {
+      "name": "Insalata di foglie con carote",
+      "description": "Un piatto leggero e fresco composto da foglie di insalata crude e carote grattugiate. Servito generalmente come contorno o decorazione per i piatti principali, aggiungendo colore e croccantezza."
+    }
+  },
+  "Пилешки дробчета с праз, маслини и ориз": {
+    "bg": {
+      "name": "Пилешки дробчета с праз, маслини и ориз",
+      "description": "Това ястие включва свежи пилешки дробчета, които се сотират до златисто, след което се добавят нарязан праз и маслини за аромат и вкус. Всичко това се сервира върху пухкав ориз, който попива богатите вкусове на ястието."
+    },
+    "en": {
+      "name": "Chicken livers with leek, olives, and rice",
+      "description": "This dish features fresh chicken livers sautéed until golden, then mixed with chopped leek and olives for aroma and flavor. It is served over fluffy rice, which absorbs the rich taste of the dish."
+    },
+    "it": {
+      "name": "Fegatelli di pollo con porri, olive e riso",
+      "description": "Questo piatto include fegatelli di pollo freschi, saltati fino a diventare dorati, poi aggiunti porri tritati e olive per aroma e sapore. Il tutto viene servito su riso soffice che assorbe i ricchi sapori del piatto."
+    }
+  },
+  "Плочка сирене": {
+    "bg": {
+      "name": "Плочка сирене",
+      "description": "Това е традиционно българско ястие, при което сирене се оформя във форма на плочка или квадрат, обикновено се сервира като предястие или закуска. Сиренето е обикновено натурално, от овче или козе мляко, и се консумира свежо или леко цитросирано."
+    },
+    "en": {
+      "name": "Plaque of Cheese",
+      "description": "This is a traditional Bulgarian dish where cheese is shaped into a plaque or square, usually served as an appetizer or snack. The cheese is typically natural, from sheep or goat milk, and can be enjoyed fresh or slightly cured."
+    },
+    "it": {
+      "name": "Formella di Formaggio",
+      "description": "Questo è un piatto tradizionale bulgaro in cui il formaggio viene modellato in forma di piastra o quadrato, solitamente servito come antipasto o spuntino. Il formaggio è tipicamente naturale, proveniente da latte di pecora o capra, e può essere gustato fresco o leggermente stagionato."
+    }
   }
 }
