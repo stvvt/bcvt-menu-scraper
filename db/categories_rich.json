@@ -7040,5 +7040,19 @@
       "name": "Croissant con prosciutto e formaggio",
       "description": "Un croissant croccante e leggermente burroso, farcito con prosciutto delicato e formaggio fuso. Questo piatto è una colazione o un pranzo veloce molto popolare, che unisce la croccantezza del pane caldo e morbido con le delicate aggiunte di carne e formaggio."
     }
+  },
+  "Кроасан с масло": {
+    "bg": {
+      "name": "Кроасан с масло",
+      "description": "Тънък и пухкав печен продукт, оформен като спирала, направен от фино тесто, слоесто и хрупкаво. Вътрешността е мека, а върху повърхността се нанася слой масло, който при изпичане се карамелизира и придава богат аромат."
+    },
+    "en": {
+      "name": "Croissant with butter",
+      "description": "A thin, flaky baked pastry shaped like a spiral, made from fine dough that is layered and crispy. The inside is soft, and the surface is glazed with butter, which caramelizes during baking, giving a rich aroma."
+    },
+    "it": {
+      "name": "Cornetto con burro",
+      "description": "Un dolce sottile e sfogliato, a forma di spirale, realizzato con una pasta fine, stratificata e croccante. l'interno è morbido, mentre sulla superficie si spalma del burro che, durante la cottura, si caramellizza, conferendo un aroma ricco."
+    }
   }
 }
