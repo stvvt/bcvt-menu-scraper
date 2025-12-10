@@ -10,7 +10,8 @@ export function extractMenuData(html: string): MenuData | null {
   let menuDate = '';
   $('h1, h2, h3, h4, h5, h6').each((_, element) => {
     const headingText = $(element).text().trim();
-    const dateMatch = headingText.match(/Меню за (.+)/);
+
+    const dateMatch = headingText.match(/Меню.+за (.+)/);
     if (dateMatch) {
       menuDate = dateMatch[1];
       return false; // Break the loop
