@@ -7068,5 +7068,47 @@
       "name": "Panino con croissant",
       "description": "Un soffice e sfogliato croissant ripieno con vari ingredienti come prosciutto, formaggio, verdure o uova. Questo panino è popolare per la colazione o pasti veloci, offrendo una combinazione di morbidezza della pasta e ricchezza del ripieno."
     }
+  },
+  "ГАРНИТУРА айсберг, домат, краставица и ементал": {
+    "bg": {
+      "name": "Гарнитура айсберг, домат, краставица и ементал",
+      "description": "Прясна салата, съчетаваща хрупкави листа айсберг с сочни домати, свежи краставици и разточително настърган ементал сирене. Лесно и освежаващо допълнение към основното ястие."
+    },
+    "en": {
+      "name": "Iceberg lettuce, tomato, cucumber, and emmental salad",
+      "description": "A fresh salad combining crunchy iceberg lettuce with juicy tomatoes, crisp cucumbers, and generous grated emmental cheese. A simple and refreshing side dish."
+    },
+    "it": {
+      "name": "Insalata di lattuga iceberg, pomodoro, cetriolo ed emmental",
+      "description": "Un'insalata fresca che unisce croccante lattuga iceberg con pomodori succosi, cetrioli freschi e generosa quantità di formaggio emmental grattugiato. Un contorno semplice e rinfrescante."
+    }
+  },
+  "ГАРНИТУРА европейска салата": {
+    "bg": {
+      "name": "Европейска салата",
+      "description": "Тази гарнитура представлява свежа салата, състояща се от смесени зеленчуци като домати, краставици, лук и чушки, подправени с олио и оцет. Обикновено се сервира като допълнение към основни ястия за по-лек и освежаващ вкус."
+    },
+    "en": {
+      "name": "European Salad",
+      "description": "This side dish is a fresh salad made from a mix of vegetables such as tomatoes, cucumbers, onions, and peppers, seasoned with oil and vinegar. It is typically served as a complement to main dishes, offering a light and refreshing flavor."
+    },
+    "it": {
+      "name": "Insalata europea",
+      "description": "Questo contorno è un'insalata fresca composta da un mix di verdure come pomodori, cetrioli, cipolle e peperoni, condito con olio e aceto. Di solito viene servita come accompagnamento ai piatti principali, offrendo un sapore leggero e rinfrescante."
+    }
+  },
+  "ГАРНИТУРА краставици, червен лук, риба тон и царевица": {
+    "bg": {
+      "name": "Гарнитура краставици, червен лук, риба тон и царевица",
+      "description": "Лека и освежаваща гарнитура от нарязани краставици, пресен червен лук, риба тон от консерва и сладка царевица, сервирана като допълнение към основното ястие."
+    },
+    "en": {
+      "name": "Vegetable medley with cucumbers, red onion, tuna, and corn",
+      "description": "A light and refreshing side dish made from sliced cucumbers, fresh red onion, canned tuna, and sweet corn, served as a complement to the main course."
+    },
+    "it": {
+      "name": "Contorno di cetrioli, cipolla rossa, tonno e mais",
+      "description": "Un contorno leggero e rinfrescante composto da cetrioli a fette, cipolla rossa fresca, tonno in scatola e mais dolce, servito come accompagnamento al piatto principale."
+    }
   }
 }
