@@ -7054,5 +7054,19 @@
       "name": "Cornetto con burro",
       "description": "Un dolce sottile e sfogliato, a forma di spirale, realizzato con una pasta fine, stratificata e croccante. l'interno è morbido, mentre sulla superficie si spalma del burro che, durante la cottura, si caramellizza, conferendo un aroma ricco."
     }
+  },
+  "Кроасан сандвич": {
+    "bg": {
+      "name": "Кроасан сандвич",
+      "description": "Мека и пухкава бисквита, оформена като круша или традиционен кроасан, пълна с различни съставки като шунка, сирене, зеленчуци или яйца. Този сандвич е популярен за закуска или бързо хранене и предлага съчетание от нежност на тестото и богатство на пълнежите."
+    },
+    "en": {
+      "name": "Croissant Sandwich",
+      "description": "A soft and flaky pastry shaped like a croissant, filled with various ingredients such as ham, cheese, vegetables, or eggs. This sandwich is popular for breakfast or quick meals, combining the tenderness of the pastry with a rich filling."
+    },
+    "it": {
+      "name": "Panino con croissant",
+      "description": "Un soffice e sfogliato croissant ripieno con vari ingredienti come prosciutto, formaggio, verdure o uova. Questo panino è popolare per la colazione o pasti veloci, offrendo una combinazione di morbidezza della pasta e ricchezza del ripieno."
+    }
   }
 }
