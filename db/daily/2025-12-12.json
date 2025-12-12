@@ -1,0 +1,166 @@
+{
+  "date": "12/12",
+  "meals": [
+    {
+      "name": "Сандвич с кайма и кашкавал",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78fca265-200.jpg",
+      "ean": "2008",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Чабата Капрезе",
+      "price": "7.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f3aaa322-200.jpg",
+      "ean": "2036",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Витаминозна салата",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ff539761-200.jpg",
+      "ean": "4025",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Салата айсберг, спанак, авокадо и ленено семе",
+      "price": "4.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5e901474-200.jpg",
+      "ean": "4088"
+    },
+    {
+      "name": "Крем супа от червена леща",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c2bcd8b-200.jpg",
+      "ean": "5046",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Супа от телешко месо",
+      "price": "6.20",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/80163c1d-200.jpg",
+      "ean": "5039",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Зелен боб яхния",
+      "price": "3.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e01f2154-200.jpg",
+      "ean": "6110",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Картофено пюре",
+      "price": "2.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/22233159-200.png",
+      "ean": "6033",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Кебапче",
+      "price": "2.60",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cd6aa67f-200.jpg",
+      "ean": "6111",
+      "weight": "80",
+      "unit": "гр"
+    },
+    {
+      "name": "Лазаня със спанак и сирене",
+      "price": "8.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2f316fed-200.jpg",
+      "ean": "6062",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Парче пица със сирена",
+      "price": "4.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eee6a298-200.jpg",
+      "ean": "6421",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Печено прясно зеле",
+      "price": "2.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a625a3d2-200.png",
+      "ean": "6023",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Пилешка пържола запечена с гъби и кашкавал",
+      "price": "7.90",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/110ecab8-200.jpg",
+      "ean": "6404",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Руло стефани",
+      "price": "5.80",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3b382fb8-200.jpg",
+      "ean": "6154",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Свинска вратна пържола запечена със салчичон и чедър",
+      "price": "10.90",
+      "currency": "лв",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Фритата  с пилешко месо, пушен кашкавал и маслини",
+      "price": "7.20",
+      "currency": "лв",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Мини еклери",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c8cf3403-200.jpg",
+      "ean": "8130",
+      "weight": "170",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "3.00",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3e06338-200.jpg",
+      "ean": "8014"
+    },
+    {
+      "name": "Щрудел с халва и круша",
+      "price": "3.50",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    }
+  ]
+}
