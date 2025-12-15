@@ -1049,6 +1049,20 @@
     ]
   },
   {
+    "name": "ГАРНИТУРА Руска салата",
+    "prices": [
+      {
+        "dateText": "15/12",
+        "date": "2025-12-15",
+        "price": "2.10",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА айсберг, домат, краставица и ементал",
     "prices": [
       {
@@ -2922,6 +2936,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a82e6194-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Крем карамел с тиква",
+    "prices": [
+      {
+        "dateText": "15/12",
+        "date": "2025-12-15",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Крем пистачио",
@@ -7220,6 +7248,25 @@
     ]
   },
   {
+    "name": "Салата домати с чушка, сирене и маслини",
+    "prices": [
+      {
+        "dateText": "15/12",
+        "date": "2025-12-15",
+        "price": "4.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-12-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8bd9b1fa-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Салата домати със сирене",
     "prices": [
       {
@@ -7656,6 +7703,25 @@
       {
         "date": "2025-07-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78fca265-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Сандвич с кашкавал",
+    "prices": [
+      {
+        "dateText": "15/12",
+        "date": "2025-12-15",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-12-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ec079081-200.jpg"
       }
     ]
   },

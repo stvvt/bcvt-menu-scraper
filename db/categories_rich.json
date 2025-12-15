@@ -7110,5 +7110,61 @@
       "name": "Contorno di cetrioli, cipolla rossa, tonno e mais",
       "description": "Un contorno leggero e rinfrescante composto da cetrioli a fette, cipolla rossa fresca, tonno in scatola e mais dolce, servito come accompagnamento al piatto principale."
     }
+  },
+  "ГАРНИТУРА Руска салата": {
+    "bg": {
+      "name": "Руска салата",
+      "description": "Класическа салата, характерна с кремообразната си текстура и хармонично съчетание от нарязани варени яйца, картофи, моркови, кисели краставички и майонеза. Обикновено сервирана като гарнитура към основни ястия или като част от празнична трапеза."
+    },
+    "en": {
+      "name": "Russian Salad",
+      "description": "A classic salad known for its creamy texture and harmonious blend of chopped boiled eggs, potatoes, carrots, pickles, and mayonnaise. Usually served as a side dish or as part of festive meals."
+    },
+    "it": {
+      "name": "Insalata Russa",
+      "description": "Un'insalata classica nota per la sua consistenza cremosa e la combinazione armoniosa di uova sode tritate, patate, carote, cetriolini e maionese. Spesso servita come contorno o parte di un banchetto festivo."
+    }
+  },
+  "Крем карамел с тиква": {
+    "bg": {
+      "name": "Крем карамел с тиква",
+      "description": "Крема с мек и гланциран карамелен сос, съчетан с деликатна и сладка тиква, която добавя уют и аромат към класическия десерт. Този крем е с гладка текстура и се сервира охладен, подходящ за напускане на всяка трапезна вечер."
+    },
+    "en": {
+      "name": "Pumpkin Crème Caramel",
+      "description": "A smooth and glossy caramel sauce paired with delicate and sweet pumpkin, adding warmth and aroma to this classic dessert. The custard has a silky texture and is served chilled, making it a perfect ending to any meal."
+    },
+    "it": {
+      "name": "Crema catalana con zucca",
+      "description": "Una crema liscia e lucida con una salsa di caramello, combinata con la delicata e dolce zucca, che aggiunge calore e aroma a questo dessert classico. La crema ha una consistenza setosa ed è servita fredda, ideale come conclusione di ogni pasto."
+    }
+  },
+  "Салата домати с чушка, сирене и маслини": {
+    "bg": {
+      "name": "Салата домати с чушка, сирене и маслини",
+      "description": "Тази свежа и вкусна салата се състои от зрели сочни домати, крехка чушка, деликатно сирене и ароматни маслини. Обикновено се поднася студена, често като гарнитура или лека закуска, и е характерна за българската кухня през летните месеци."
+    },
+    "en": {
+      "name": "Tomato Salad with Pepper, Cheese, and Olives",
+      "description": "This fresh and tasty salad consists of juicy ripe tomatoes, crisp pepper, delicate cheese, and aromatic olives. Usually served cold, often as a side dish or light snack, it is typical in Bulgarian cuisine during the summer months."
+    },
+    "it": {
+      "name": "Insalata di pomodori con peperone, formaggio e olive",
+      "description": "Questa fresca e gustosa insalata è composta da pomodori maturi succosi, peperone croccante, formaggio delicato e olive aromatiche. Solitamente servita fredda, spesso come contorno o spuntino leggero, è tipica della cucina bulgara durante i mesi estivi."
+    }
+  },
+  "Сандвич с кашкавал": {
+    "bg": {
+      "name": "Сандвич с кашкавал",
+      "description": "Това е класическо българско бързо ястие, състоящо се от парче хляб, върху което е поставен слой прясно нарязан кашкавал. Обикновено се затопля леко, така че сиренето да се разтопи, и се сервира като вкусен и бърз закусен или междинен хапка."
+    },
+    "en": {
+      "name": "Sandwich with cheese",
+      "description": "A classic Bulgarian quick dish consisting of a slice of bread topped with a layer of fresh sliced cheese. Often lightly toasted to melt the cheese, served as a tasty and quick snack or breakfast."
+    },
+    "it": {
+      "name": "Panino con formaggio",
+      "description": "Un classico piatto bulgaro veloce composto da una fetta di pane con uno strato di formaggio fresco affettato. Solitamente viene leggermente tostato per far sciogliere il formaggio, ed è servito come uno spuntino gustoso e veloce o colazione."
+    }
   }
 }
