@@ -3594,6 +3594,14 @@
         "date": "2025-07-31",
         "price": "8.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "16/12",
+        "date": "2025-12-16",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
