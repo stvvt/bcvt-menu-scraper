@@ -1117,6 +1117,34 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА листна салата с моркови",
+    "prices": [
+      {
+        "dateText": "17/12",
+        "date": "2025-12-17",
+        "price": "2.00",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА шопска салата",
+    "prices": [
+      {
+        "dateText": "17/12",
+        "date": "2025-12-17",
+        "price": "3.10",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Гараш",
     "prices": [
       {
@@ -3760,6 +3788,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "17/12",
+        "date": "2025-12-17",
+        "price": "3.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6009,6 +6045,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "17/12",
+        "date": "2025-12-17",
+        "price": "7.30",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -7960,6 +8004,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9467f787-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Сарми с кайма и ориз",
+    "prices": [
+      {
+        "dateText": "17/12",
+        "date": "2025-12-17",
+        "price": "5.00",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Сарми с нахут и два вида ориз",
@@ -10331,6 +10389,10 @@
       {
         "date": "2025-07-31",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/30471287-200.jpg"
+      },
+      {
+        "date": "2025-12-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c7ea6128-200.jpg"
       }
     ]
   },

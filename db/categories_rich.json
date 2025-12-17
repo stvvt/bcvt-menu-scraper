@@ -7166,5 +7166,33 @@
       "name": "Panino con formaggio",
       "description": "Un classico piatto bulgaro veloce composto da una fetta di pane con uno strato di formaggio fresco affettato. Solitamente viene leggermente tostato per far sciogliere il formaggio, ed è servito come uno spuntino gustoso e veloce o colazione."
     }
+  },
+  "ГАРНИТУРА шопска салата": {
+    "bg": {
+      "name": "Шопска салата",
+      "description": "Свежа и хрупкава салата, основно съставена от нарязани домати, краставици, лук, чушки и сирене, обикновено овкусена с олио, сол и магданоз. Тя е типична българска гарнитура, която се сервира като една от основните страни към месни ястия или като самостоятелна закуска."
+    },
+    "en": {
+      "name": "Shopskasalad",
+      "description": "A fresh and crunchy salad mainly made of chopped tomatoes, cucumbers, onions, peppers, and cheese, usually seasoned with oil, salt, and parsley. It is a typical Bulgarian side dish served with meat dishes or as a standalone snack."
+    },
+    "it": {
+      "name": "Insalata Shoppska",
+      "description": "Un'insalata fresca e croccante composta principalmente da pomodori, cetrioli, cipolle, peperoni e formaggio, solitamente condita con olio, sale e prezzemolo. È un contorno tipico bulgaro, servito con piatti di carne o come spuntino."
+    }
+  },
+  "Сарми с кайма и ориз": {
+    "bg": {
+      "name": "Сарми с кайма и ориз",
+      "description": "Традиционно българско ястие, приготвено от прегънати и напълнени листа от киселоny, най-често от зеле или лозовими листа, които са пълнени с месена смес от кайма и ориз. След това се вари или пече, като се сервира с кисело мляко или доматен сос."
+    },
+    "en": {
+      "name": "Sarmi with minced meat and rice",
+      "description": "A traditional Bulgarian dish consisting of sour cabbage or grape leaves wrapped around a filling of minced meat and rice. The rolls are then boiled or baked and typically served with yogurt or tomato sauce."
+    },
+    "it": {
+      "name": "Sarmi con carne macinata e riso",
+      "description": "Un piatto tradizionale bulgaro composto da foglie di cavolo o uva ripiene di carne macinata e riso. Poi vengono cotti in acqua o al forno e di solito serviti con yogurt o salsa di pomodoro."
+    }
   }
 }
