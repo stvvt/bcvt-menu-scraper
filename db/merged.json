@@ -2415,6 +2415,25 @@
     ]
   },
   {
+    "name": "Картофена салата с кис. краставички и млечен сос",
+    "prices": [
+      {
+        "dateText": "18/12",
+        "date": "2025-12-18",
+        "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2025-12-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/92cb3a51-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Картофена салата с майонеза и кашкавал",
     "prices": [
       {
@@ -2838,7 +2857,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-12-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ab949c12-200.jpg"
+      }
+    ]
   },
   {
     "name": "Кордон бльо",

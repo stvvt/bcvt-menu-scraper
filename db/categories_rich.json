@@ -7194,5 +7194,19 @@
       "name": "Sarmi con carne macinata e riso",
       "description": "Un piatto tradizionale bulgaro composto da foglie di cavolo o uva ripiene di carne macinata e riso. Poi vengono cotti in acqua o al forno e di solito serviti con yogurt o salsa di pomodoro."
     }
+  },
+  "Картофена салата с кис. краставички и млечен сос": {
+    "bg": {
+      "name": "Картофена салата с кисели краставички и млечен сос",
+      "description": "Това е студена салата, приготвена от варени картофи, нарязани кисели краставички и свежи подправки. Тя е обогатена с млечен сос, който придава приятна кремообразна текстура и лек киселич вкус. Идеална е като лека летна закуска или гарнитура към основни ястия."
+    },
+    "en": {
+      "name": "Potato Salad with Pickles and Yogurt Sauce",
+      "description": "This is a cold salad made from boiled potatoes, chopped pickles, and fresh herbs. It is enriched with a creamy yogurt sauce that adds a pleasant, tangy flavor and smooth texture. Perfect as a light summer snack or a side dish to main courses."
+    },
+    "it": {
+      "name": "Insalata di patate con cetriolini e salsa allo yogurt",
+      "description": "È un'insalata fredda preparata con patate bollite, cetriolini tritati e erbe fresche. È arricchita con una salsa di yogurt cremosa che dona un sapore piacevolmente acidulo e una consistenza morbida. Ideale come spuntino leggero estivo o come contorno a piatti principali."
+    }
   }
 }
