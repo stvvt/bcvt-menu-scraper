@@ -5261,7 +5261,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2025-12-22",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/40d33d93-200.jpg"
+      }
+    ]
   },
   {
     "name": "Печени картофи",
@@ -9414,6 +9419,14 @@
         "dateText": "26-ти август",
         "date": "2025-08-26",
         "price": "2.80",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      },
+      {
+        "dateText": "22/12",
+        "date": "2025-12-22",
+        "price": "3.00",
         "currency": "лв",
         "weight": "80",
         "unit": "гр"
