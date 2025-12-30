@@ -7208,5 +7208,47 @@
       "name": "Insalata di patate con cetriolini e salsa allo yogurt",
       "description": "È un'insalata fredda preparata con patate bollite, cetriolini tritati e erbe fresche. È arricchita con una salsa di yogurt cremosa che dona un sapore piacevolmente acidulo e una consistenza morbida. Ideale come spuntino leggero estivo o come contorno a piatti principali."
     }
+  },
+  "Чабата с бекон": {
+    "bg": {
+      "name": "Чабата с бекон",
+      "description": "Хрупкава райска руло-чабата, напълнена с тънки и сочни парчета бекон, печени до съвършенство. Това ястие е идеално за закуска или бърза закуска с ароматен удар."
+    },
+    "en": {
+      "name": "Chabata with bacon",
+      "description": "Crispy Italian-style bread roll filled with thin, juicy slices of bacon, baked to perfection. Perfect for breakfast or a quick snack with a savory kick."
+    },
+    "it": {
+      "name": "Chabata con pancetta",
+      "description": "Panino croccante in stile italiano ripieno di sottili e succose fette di pancetta, cotto alla perfezione. Ideale per colazione o uno spuntino veloce con un tocco salato."
+    }
+  },
+  "Чабата с крема сирене и пушена сьомга": {
+    "bg": {
+      "name": "Чабата с крема сирене и пушена сьомга",
+      "description": "Това е проста и елегантна закуска, която включва свежа италианска хляб Чабата, намазана с крема сирене, и покрита с тънки парчета пушена сьомга. Идеално за светски събития или бърза рецепта за стилно начало на деня."
+    },
+    "en": {
+      "name": "Chabata with Cream Cheese and Smoked Salmon",
+      "description": "This is a simple and elegant snack featuring a fresh Italian bread called Chabatta, spread with cream cheese, and topped with thin slices of smoked salmon. Perfect for stylish events or a quick sophisticated start to the day."
+    },
+    "it": {
+      "name": "Chabata con crema di formaggio e salmone affumicato",
+      "description": "Questo è uno spuntino semplice ed elegante che comprende un pane italiano fresco chiamato Chabatta, spalmato con crema di formaggio e coperto da sottili fette di salmone affumicato. Ideale per eventi chic o una rapida e sofisticata colazione."
+    }
+  },
+  "Чабата с шунка и пушен кашкавал": {
+    "bg": {
+      "name": "Чабата с шунка и пушен кашкавал",
+      "description": "Това е сандвич, приготвен с хрупкава италианска булка – чабата, която е напълнена със сланина шунка и разтопен пушен кашкавал. Обикновено се серира топло, като перфектно съчетание между хрупкаво тесто, солена шунка и кремообразен кашкавал, което го прави любимо за със или като бърз закуски."
+    },
+    "en": {
+      "name": "Ciabatta with ham and smoked cheese",
+      "description": "This is a sandwich made with crispy Italian bread called ciabatta, filled with cured ham and melted smoked cheese. Usually served warm, it combines crunchy bread, salty ham, and creamy cheese, making it a popular choice for a quick snack or meal."
+    },
+    "it": {
+      "name": "Ciabatta con prosciutto e formaggio affumicato",
+      "description": "Questa è un panino preparato con croccante pane italiano chiamato ciabatta, farcito con prosciutto cotto e formaggio affumicato fuso. Generalmente servito caldo, combina un pane croccante, prosciutto salato e formaggio cremoso, ed è molto amato come spuntino o pasto veloce."
+    }
   }
 }
