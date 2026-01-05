@@ -7250,5 +7250,19 @@
       "name": "Ciabatta con prosciutto e formaggio affumicato",
       "description": "Questa è un panino preparato con croccante pane italiano chiamato ciabatta, farcito con prosciutto cotto e formaggio affumicato fuso. Generalmente servito caldo, combina un pane croccante, prosciutto salato e formaggio cremoso, ed è molto amato come spuntino o pasto veloce."
     }
+  },
+  "ГАРНИТУРА зеле с моркови": {
+    "bg": {
+      "name": "Гарнитура зеле с моркови",
+      "description": "Това е традиционно българско ястие, което представлява задушени зеле и моркови. Зелето и морковите се нарязват на дребно и се задушават заедно с подправки, получавайки ароматна и здравословна гарнитура, подходяща към месни ястия."
+    },
+    "en": {
+      "name": "Cabbage with Carrots Side Dish",
+      "description": "A traditional Bulgarian dish consisting of stewed cabbage and carrots. The cabbage and carrots are finely chopped and sautéed with spices, resulting in a fragrant and healthy side dish that pairs well with meat dishes."
+    },
+    "it": {
+      "name": "Contorno di cavolo con carote",
+      "description": "Un piatto tradizionale bulgaro composto da cavolo e carote stufati. Il cavolo e le carote vengono tagliati finemente e stufati con spezie, creando un contorno aromatico e salutare che si abbina bene ai piatti di carne."
+    }
   }
 }

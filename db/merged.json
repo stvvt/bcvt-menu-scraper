@@ -1105,6 +1105,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА зеле с моркови",
+    "prices": [
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "1.41",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА зелена салата с репички",
     "prices": [
       {
@@ -1151,6 +1165,14 @@
         "dateText": "17/12",
         "date": "2025-12-17",
         "price": "3.10",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "3.11",
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
@@ -1208,6 +1230,14 @@
         "dateText": "15-ти октомври",
         "date": "2025-10-15",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "2.89",
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
@@ -1298,6 +1328,14 @@
         "dateText": "04-ти септември",
         "date": "2025-09-04",
         "price": "3.30",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "3.60",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -6275,6 +6313,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "5.91",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6727,6 +6773,12 @@
         "date": "2025-08-14",
         "price": "6.60",
         "currency": "лв"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "6.59",
+        "currency": "лв"
       }
     ],
     "images": []
@@ -6778,6 +6830,14 @@
         "dateText": "15-ти август",
         "date": "2025-08-15",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "2.89",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -6974,6 +7034,14 @@
         "dateText": "23-ти октомври",
         "date": "2025-10-23",
         "price": "8.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "8.19",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -7869,6 +7937,14 @@
         "dateText": "17-ти септември",
         "date": "2025-09-17",
         "price": "4.70",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "4.69",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -9102,6 +9178,14 @@
         "dateText": "19-ти август",
         "date": "2025-08-19",
         "price": "4.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "4.21",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -10514,6 +10598,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "4.91",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -10536,6 +10628,14 @@
         "dateText": "26-ти август",
         "date": "2025-08-26",
         "price": "9.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/01",
+        "date": "2026-01-05",
+        "price": "9.19",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
