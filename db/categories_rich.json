@@ -7264,5 +7264,47 @@
       "name": "Contorno di cavolo con carote",
       "description": "Un piatto tradizionale bulgaro composto da cavolo e carote stufati. Il cavolo e le carote vengono tagliati finemente e stufati con spezie, creando un contorno aromatico e salutare che si abbina bene ai piatti di carne."
     }
+  },
+  "Бургер с хрупкаво пиле": {
+    "bg": {
+      "name": "Бургер с хрупкаво пиле",
+      "description": "Класическо бързо ястие, приготвено с пресен, златисто хрупкав пържен пилешки филет, поставен в мека питка. Обикновено се сервира с маруля, домати и сос по избор."
+    },
+    "en": {
+      "name": "Crispy Chicken Burger",
+      "description": "A classic fast food item made with a fresh, golden crispy fried chicken fillet placed inside a soft bun. Typically served with lettuce, tomatoes, and a choice of sauces."
+    },
+    "it": {
+      "name": "Panino con pollo croccante",
+      "description": "Un classico fast food realizzato con una fetta di pollo fritto croccante, di colore dorato, inserita in un panino morbido. Solitamente accompagnato da insalata, pomodori e salse a scelta."
+    }
+  },
+  "ГАРНИТУРА зелена салата с маринована риба и сушен домат": {
+    "bg": {
+      "name": "Гарнитура зелена салата с маринована риба и сушен домат",
+      "description": "Лека и свежа салата, съчетаваща крехка зелена салата, деликатно маринована риба, сушени домати и лек дресинг, подходяща като гарнитура към основни ястия."
+    },
+    "en": {
+      "name": "Green salad with marinated fish and dried tomato",
+      "description": "A light and fresh salad combining tender green lettuce, delicately marinated fish, dried tomatoes, and a light dressing, ideal as a side dish to main courses."
+    },
+    "it": {
+      "name": "Insalata verde con pesce marinato e pomodori secchi",
+      "description": "Un'insalata leggera e fresca che unisce insalata verde croccante, pesce delicatamente marinato, pomodori secchi e un leggero condimento, perfetta come contorno alle portate principali."
+    }
+  },
+  "Наденица на скара": {
+    "bg": {
+      "name": "Наденица на скара",
+      "description": "Желирана, пухкава наденица, приготвена на открит огън или скара, която се сервира гореща и често придружена с хляб и горчица. Този тип наденица е популярна за летни пикници и градински събирания."
+    },
+    "en": {
+      "name": "Grilled Sausage",
+      "description": "A juicy, tender sausage grilled over an open flame or on a barbecue. It is served hot and is often accompanied by bread and mustard. This dish is popular for summer picnics and outdoor gatherings."
+    },
+    "it": {
+      "name": "Salsiccia alla griglia",
+      "description": "Una salsiccia succosa e morbida grigliata su una fiamma aperta o su un barbecue. Viene servita calda ed è spesso accompagnata da pane e senape. Questo piatto è popolare durante picnic estivi e incontri all'aperto."
+    }
   }
 }

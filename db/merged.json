@@ -646,6 +646,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "4.21",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -776,6 +784,25 @@
       {
         "date": "2025-11-11",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/89a8a01b-200.webp"
+      }
+    ]
+  },
+  {
+    "name": "Бургер с хрупкаво пиле",
+    "prices": [
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "9.80",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0099b436-200.png"
       }
     ]
   },
@@ -1127,6 +1154,20 @@
         "dateText": "05/01",
         "date": "2026-01-05",
         "price": "1.41",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА зелена салата с маринована риба и сушен домат",
+    "prices": [
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "2.50",
         "currency": "лв",
         "weight": "80",
         "unit": "гр"
@@ -2192,6 +2233,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "4.91",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2585,6 +2634,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "3.60",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2724,6 +2781,14 @@
         "dateText": "20-ти август",
         "date": "2025-08-20",
         "price": "2.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "2.41",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -3263,6 +3328,14 @@
         "dateText": "22-ри август",
         "date": "2025-08-22",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "2.89",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -4331,6 +4404,20 @@
     ]
   },
   {
+    "name": "Наденица на скара",
+    "prices": [
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "5.01",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Наденица с картофи на фурна",
     "prices": [
       {
@@ -4732,6 +4819,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "3.31",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5053,6 +5148,14 @@
         "dateText": "15-ти септември",
         "date": "2025-09-15",
         "price": "5.60",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "5.59",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -6083,6 +6186,12 @@
         "date": "2025-06-26",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "3.79",
+        "currency": "лв"
       }
     ],
     "images": [
@@ -6616,6 +6725,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "4.21",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6963,6 +7080,14 @@
         "dateText": "25-ти септември",
         "date": "2025-09-25",
         "price": "10.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "10.89",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -7584,9 +7709,22 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "4.79",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-01-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2f6c8366-200.jpg"
+      }
+    ]
   },
   {
     "name": "Салата зеле с моркови",
@@ -7973,6 +8111,14 @@
         "dateText": "22-ри август",
         "date": "2025-08-22",
         "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "4.01",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -8817,6 +8963,14 @@
         "dateText": "26-ти септември",
         "date": "2025-09-26",
         "price": "4.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "4.91",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -10572,6 +10726,14 @@
         "dateText": "21-ви август",
         "date": "2025-08-21",
         "price": "3.10",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/01",
+        "date": "2026-01-07",
+        "price": "3.11",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
