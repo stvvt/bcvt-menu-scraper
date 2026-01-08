@@ -7306,5 +7306,61 @@
       "name": "Salsiccia alla griglia",
       "description": "Una salsiccia succosa e morbida grigliata su una fiamma aperta o su un barbecue. Viene servita calda ed è spesso accompagnata da pane e senape. Questo piatto è popolare durante picnic estivi e incontri all'aperto."
     }
+  },
+  "ГАРНИТУРА кус-кус, кис. краставици, маслини, шунка": {
+    "bg": {
+      "name": "Гарнитура",
+      "description": "Това е гарнитура, включваща кус-кус, кисели краставици, маслини и шунка. Представлява свежо и вкусно допълнение към основното ястие, съчетавайки салати и зърнени продукти за балансиран и ароматен вкус."
+    },
+    "en": {
+      "name": "Garnish",
+      "description": "This is a garnish consisting of couscous, pickled cucumbers, olives, and ham. It serves as a fresh and tasty accompaniment to main dishes, combining salads and grains for a balanced and flavorful experience."
+    },
+    "it": {
+      "name": "Contorno",
+      "description": "Questo contorno include couscous, cetrioli in salamoia, olive e prosciutto. È un accompagnamento fresco e gustoso ai piatti principali, combinando insalate e cereali per un sapore equilibrato e aromatico."
+    }
+  },
+  "Еклер с крем": {
+    "bg": {
+      "name": "Еклер с крем",
+      "description": "Ухаещи сладки пастички с дълга, тънка форма, пълнени с крем, обикновено ванилен, и покрити с глазура или пудра захар. Тези деликатни сладки са популярни като десерт или закуска в България."
+    },
+    "en": {
+      "name": "Eclair with cream",
+      "description": "A fragrant, elongated pastry filled with cream, usually vanilla flavored, and topped with glaze or powdered sugar. These delicate treats are popular as a dessert or snack in Bulgaria."
+    },
+    "it": {
+      "name": "Eclair con crema",
+      "description": "Dolce pasticceria aromatica e allungata, ripiena di crema, tipicamente alla vaniglia, e coperta da glassa o zucchero a velo. Questi delicati dolci sono popolari come dessert o spuntino in Bulgaria."
+    }
+  },
+  "Чушки с доматен сос": {
+    "bg": {
+      "name": "Чушки с доматен сос",
+      "description": "Това е традиционно българско ястие, при което пълнени или неизпечени чушки се сервират с богато, ароматно доматено сос. Чушките са леко печени или варени и се подправят със сол, черен пипер и понякога със пресен магданоз."
+    },
+    "en": {
+      "name": "Peppers with tomato sauce",
+      "description": "This is a traditional Bulgarian dish where peppers, either stuffed or plain, are served with a rich, flavorful tomato sauce. The peppers are lightly roasted or boiled and seasoned with salt, black pepper, and sometimes fresh parsley."
+    },
+    "it": {
+      "name": "Peperoni con sugo di pomodoro",
+      "description": "Questo è un piatto tradizionale bulgaro in cui i peperoni, ripieni o semplici, vengono serviti con una ricca salsa di pomodoro aromatica. I peperoni sono leggermente arrostiti o lessati e insaporiti con sale, pepe nero e talvolta prezzemolo fresco."
+    }
+  },
+  "Ябълков пай": {
+    "bg": {
+      "name": "Ябълков пай",
+      "description": "Класически десерт с мека, ароматна кора и плънка от свежи или малко захаросани ябълки, обикновено поднесен топъл с пухкава сметана или ванилов сос."
+    },
+    "en": {
+      "name": "Apple Pie",
+      "description": "A classic dessert with a soft, aromatic crust and filling made of fresh or lightly sugared apples, usually served warm with whipped cream or vanilla sauce."
+    },
+    "it": {
+      "name": "Torta di mele",
+      "description": "Un dolce classico con una crosta morbida e profumata e un ripieno di mele fresche o leggermente zuccherate, solitamente servita calda con panna montata o salsa alla vaniglia."
+    }
   }
 }

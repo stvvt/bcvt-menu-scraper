@@ -339,6 +339,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "2.99",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -516,6 +524,14 @@
         "dateText": "21-ви август",
         "date": "2025-08-21",
         "price": "3.20",
+        "currency": "лв",
+        "weight": "195",
+        "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "3.21",
         "currency": "лв",
         "weight": "195",
         "unit": "гр"
@@ -1197,6 +1213,26 @@
         "date": "2025-12-11",
         "price": "2.10",
         "currency": "лв"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "2.19",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА кус-кус, кис. краставици, маслини, шунка",
+    "prices": [
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "2.09",
+        "currency": "лв",
+        "weight": "120",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -1745,6 +1781,25 @@
       {
         "date": "2025-07-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c37a0705-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Еклер с крем",
+    "prices": [
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "3.89",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b8fdfa49-200.jpg"
       }
     ]
   },
@@ -4995,6 +5050,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "2.99",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6666,9 +6729,22 @@
         "currency": "лв",
         "weight": "120",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "5.81",
+        "currency": "лв",
+        "weight": "120",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-01-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/411f899c-200.jpg"
+      }
+    ]
   },
   {
     "name": "Протеинови топки",
@@ -7055,6 +7131,14 @@
         "dateText": "19-ти август",
         "date": "2025-08-19",
         "price": "3.00",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "2.99",
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
@@ -7874,6 +7958,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "4.11",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -8015,6 +8107,14 @@
         "dateText": "08-ми октомври",
         "date": "2025-10-08",
         "price": "4.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "4.21",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -8324,6 +8424,14 @@
         "dateText": "18-ти август",
         "date": "2025-08-18",
         "price": "4.00",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "4.01",
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
@@ -9384,6 +9492,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "2.89",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -9516,6 +9632,14 @@
         "dateText": "30-ти септември",
         "date": "2025-09-30",
         "price": "5.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "5.91",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -10039,6 +10163,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "3.60",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -10315,6 +10447,14 @@
         "dateText": "21-ви август",
         "date": "2025-08-21",
         "price": "2.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "2.19",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -10689,6 +10829,20 @@
     ]
   },
   {
+    "name": "Чушки с доматен сос",
+    "prices": [
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "4.21",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Шницел от кайма",
     "prices": [
       {
@@ -10947,6 +11101,20 @@
         "price": "2.00",
         "currency": "лв",
         "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ябълков пай",
+    "prices": [
+      {
+        "dateText": "08/01",
+        "date": "2026-01-08",
+        "price": "2.89",
+        "currency": "лв",
+        "weight": "150",
         "unit": "гр"
       }
     ],
