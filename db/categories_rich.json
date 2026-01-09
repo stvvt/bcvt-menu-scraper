@@ -7362,5 +7362,33 @@
       "name": "Torta di mele",
       "description": "Un dolce classico con una crosta morbida e profumata e un ripieno di mele fresche o leggermente zuccherate, solitamente servita calda con panna montata o salsa alla vaniglia."
     }
+  },
+  "Агнешко с булгур, сушен домат и коприва": {
+    "bg": {
+      "name": "Агнешко с булгур, сушен домат и коприва",
+      "description": "Това е традиционно българско ястие, което съчетава нежно агнешко месо, сварено със зърнен булгур, добавени сушени домати за богат вкус и коприва за свежест и лечебни свойства. Поднася се горещо и е популярна пролетна храна."
+    },
+    "en": {
+      "name": "Lamb with bulgur, dried tomato, and nettle",
+      "description": "This is a traditional Bulgarian dish that combines tender lamb meat cooked with bulgur wheat, dried tomatoes for a rich flavor, and nettle for freshness and health benefits. It is served hot and is a popular springtime meal."
+    },
+    "it": {
+      "name": "Agnello con bulgur, pomodori secchi e ortica",
+      "description": "Questo è un piatto tradizionale bulgaro che unisce tenero carne di agnello cucinata con farro bulgur, pomodori secchi per un sapore ricco e ortiche per freschezza e benefici per la salute. Viene servito caldo ed è un pasto popolare in primavera."
+    }
+  },
+  "Пилешко бутче с картофи": {
+    "bg": {
+      "name": "Пилешко бутче с картофи",
+      "description": "Класическо българско ястие, приготвено чрез печене на пилешко бутче и картофи в печка, подправени с подправки и зехтин. Добре е придружено с прясна салата."
+    },
+    "en": {
+      "name": "Chicken drumstick with potatoes",
+      "description": "A classic Bulgarian dish consisting of baked chicken drumsticks and potatoes, seasoned with spices and olive oil. Usually served with fresh salad."
+    },
+    "it": {
+      "name": "Coscioletta di pollo con patate",
+      "description": "Un piatto classico bulgaro composto da coscioletta di pollo e patate cotti al forno, aromatizzati con spezie e olio d'oliva. Accompagnato spesso da un'insalata fresca."
+    }
   }
 }

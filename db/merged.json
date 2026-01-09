@@ -92,6 +92,20 @@
     ]
   },
   {
+    "name": "Агнешко с булгур, сушен домат и коприва",
+    "prices": [
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "9.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Агнешко със зелен боб",
     "prices": [
       {
@@ -1145,6 +1159,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "2.09",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -1775,6 +1797,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "3.11",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1923,6 +1953,14 @@
         "dateText": "21-ви август",
         "date": "2025-08-21",
         "price": "3.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "3.89",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -3577,6 +3615,14 @@
         "currency": "лв",
         "weight": "90",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "4.01",
+        "currency": "лв",
+        "weight": "90",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3593,6 +3639,12 @@
         "dateText": "09-ти декември",
         "date": "2025-12-09",
         "price": "4.00",
+        "currency": "лв"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "4.01",
         "currency": "лв"
       }
     ],
@@ -4677,6 +4729,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "4.60",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4783,6 +4843,14 @@
         "dateText": "26-ти септември",
         "date": "2025-09-26",
         "price": "2.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "3.50",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -5772,6 +5840,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "9.60",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6190,6 +6266,25 @@
     ]
   },
   {
+    "name": "Пилешко бутче с картофи",
+    "prices": [
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "7.71",
+        "currency": "лв",
+        "weight": "350",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6cd8b85f-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Пилешко бутче с ориз",
     "prices": [
       {
@@ -6571,6 +6666,14 @@
         "dateText": "20-ти август",
         "date": "2025-08-20",
         "price": "3.80",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "3.79",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -8054,6 +8157,14 @@
         "currency": "лв",
         "weight": "0.2",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "4.21",
+        "currency": "лв",
+        "weight": "0.2",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -8482,6 +8593,14 @@
         "dateText": "10-ти октомври",
         "date": "2025-10-10",
         "price": "5.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "5.01",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -9132,6 +9251,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "4.79",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -9312,6 +9439,14 @@
         "dateText": "26-ти септември",
         "date": "2025-09-26",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "2.89",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -9591,6 +9726,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "4.21",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -9827,6 +9970,14 @@
         "dateText": "20-ти август",
         "date": "2025-08-20",
         "price": "10.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "09/01",
+        "date": "2026-01-09",
+        "price": "11.11",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
