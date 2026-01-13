@@ -624,6 +624,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/01",
+        "date": "2026-01-13",
+        "price": "4.21",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -731,6 +739,14 @@
         "dateText": "17-ти септември",
         "date": "2025-09-17",
         "price": "4.10",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "13/01",
+        "date": "2026-01-13",
+        "price": "4.11",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -939,6 +955,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/01",
+        "date": "2026-01-13",
+        "price": "2.99",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -986,6 +1010,14 @@
         "dateText": "05-ти септември",
         "date": "2025-09-05",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "13/01",
+        "date": "2026-01-13",
+        "price": "2.89",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -1241,6 +1273,20 @@
         "date": "2026-01-08",
         "price": "2.19",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА краставици, чушка, маслини и кашкавал",
+    "prices": [
+      {
+        "dateText": "13/01",
+        "date": "2026-01-13",
+        "price": "2.19",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -2542,6 +2588,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/01",
+        "date": "2026-01-13",
+        "price": "3.11",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3109,6 +3163,14 @@
         "dateText": "10-ти септември",
         "date": "2025-09-10",
         "price": "1.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "13/01",
+        "date": "2026-01-13",
+        "price": "1.19",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -5837,7 +5899,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-01-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b1d67fc0-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пиле Миланезе",
@@ -7584,6 +7651,14 @@
         "dateText": "09-ти декември",
         "date": "2025-12-09",
         "price": "3.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "13/01",
+        "date": "2026-01-13",
+        "price": "3.89",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"

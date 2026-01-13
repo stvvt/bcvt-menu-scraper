@@ -7390,5 +7390,19 @@
       "name": "Coscioletta di pollo con patate",
       "description": "Un piatto classico bulgaro composto da coscioletta di pollo e patate cotti al forno, aromatizzati con spezie e olio d'oliva. Accompagnato spesso da un'insalata fresca."
     }
+  },
+  "ГАРНИТУРА краставици, чушка, маслини и кашкавал": {
+    "bg": {
+      "name": "Гарнитура краставици, чушка, маслини и кашкавал",
+      "description": "Лека и свежа гарнитура, състояща се от крехки краставици, червени чушки, маслини и деликатен кашкавал. Подходяща за съпровод на основни ястия, с приятен баланс между кисело, солено и кремообразно."
+    },
+    "en": {
+      "name": "Side Dish Cucumbers, Pepper, Olives, and Cheese",
+      "description": "A light and fresh side dish consisting of crisp cucumbers, red peppers, olives, and mild cheese. Perfect as a complement to main courses, offering a pleasant balance of tangy, salty, and creamy flavors."
+    },
+    "it": {
+      "name": "Contorno di cetrioli, peperoni, olive e formaggio",
+      "description": "Un contorno leggero e fresco composto da cetrioli croccanti, peperoni rossi, olive e formaggio delicato. Ideale per accompagnare piatti principali, con un equilibrio tra acidità, salato e cremoso."
+    }
   }
 }
