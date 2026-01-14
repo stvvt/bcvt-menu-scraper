@@ -1182,6 +1182,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА Цезар",
+    "prices": [
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "3.91",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА айсберг, домат, краставица и ементал",
     "prices": [
       {
@@ -1196,6 +1210,20 @@
         "dateText": "09/01",
         "date": "2026-01-09",
         "price": "2.09",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА домати и сирене котидж",
+    "prices": [
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "3.72",
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
@@ -3041,6 +3069,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "5.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3476,6 +3512,14 @@
         "dateText": "21-ви август",
         "date": "2025-08-21",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "2.89",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -4470,6 +4514,14 @@
         "dateText": "01-ви декември",
         "date": "2025-12-01",
         "price": "3.00",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      },
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "2.99",
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
@@ -6324,6 +6376,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "5.81",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6496,6 +6556,14 @@
         "dateText": "03-ти ноември",
         "date": "2025-11-03",
         "price": "5.50",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "6.30",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -7681,6 +7749,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "6.49",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -7941,6 +8017,14 @@
         "dateText": "03-ти септември",
         "date": "2025-09-03",
         "price": "5.80",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "5.81",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -10922,6 +11006,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "6.49",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -10951,6 +11043,20 @@
         "date": "2025-07-11",
         "price": "4.00",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Целувки",
+    "prices": [
+      {
+        "dateText": "14/01",
+        "date": "2026-01-14",
+        "price": "2.35",
+        "currency": "лв",
+        "weight": "50",
+        "unit": "гр"
       }
     ],
     "images": []

@@ -7404,5 +7404,47 @@
       "name": "Contorno di cetrioli, peperoni, olive e formaggio",
       "description": "Un contorno leggero e fresco composto da cetrioli croccanti, peperoni rossi, olive e formaggio delicato. Ideale per accompagnare piatti principali, con un equilibrio tra acidità, salato e cremoso."
     }
+  },
+  "ГАРНИТУРА Цезар": {
+    "bg": {
+      "name": "Гарнитура Цезар",
+      "description": "Обикновено представлява свежа салата, съставена от кълнове, салата айсберг, парченца сирене пармезан и печени крутони, подправени с класическа цезарска дресинг, която допълва основното ястие."
+    },
+    "en": {
+      "name": "Caesar Garnish",
+      "description": "Typically consisting of fresh salad greens, romaine lettuce, grated Parmesan cheese, crispy croutons, and a Caesar dressing, this garnish enhances the main dish with its crispness and rich flavor."
+    },
+    "it": {
+      "name": "Guarnizione Caesar",
+      "description": "Di solito composta da insalata fresca, cicoria romana, formaggio parmigiano grattugiato, crostini croccanti e condimento Caesar, arricchisce il piatto principale con croccantezza e sapore ricco."
+    }
+  },
+  "ГАРНИТУРА домати и сирене котидж": {
+    "bg": {
+      "name": "Гарнитура домати и сирене котидж",
+      "description": "Проста и свежа гарнитура, състояща се от зрели домати и сирене котидж, поднесени с малко зехтин и подправки. Перфектна за добавка към основни ястия или като лека закуска."
+    },
+    "en": {
+      "name": "Tomatoes and Cottage Cheese Garnish",
+      "description": "A simple and fresh garnish consisting of ripe tomatoes and cottage cheese, served with a drizzle of olive oil and herbs. Perfect as a side dish or a light snack."
+    },
+    "it": {
+      "name": "Guarnizione di pomodori e formaggio cottage",
+      "description": "Una guarnizione semplice e fresca composta da pomodori maturi e formaggio cottage, serviti con un filo di olio d'oliva e erbe. Ideale come contorno o spuntino leggero."
+    }
+  },
+  "Целувки": {
+    "bg": {
+      "name": "Целувки",
+      "description": "Целувки са деликатни бадемови сладки, покрити с фин слой захарна глазура. Те имат хрупкава текстура отвън и мека вътрешност, и са популярна българска сладкарска изкушение."
+    },
+    "en": {
+      "name": "Jewelry Cookies",
+      "description": "Jewelry Cookies are delicate almond-based sweets covered with a fine layer of sugar glaze. They have a crispy exterior and a soft interior, popular as a Bulgarian confectionery treat."
+    },
+    "it": {
+      "name": "Biscotti di Gemma",
+      "description": "I biscotti di gemma sono dolci delicati a base di mandorle, ricoperti da uno strato sottile di glassa zuccherata. Sono croccanti fuori e morbidi dentro, molto apprezzati come dolce tradizionale bulgaro."
+    }
   }
 }
