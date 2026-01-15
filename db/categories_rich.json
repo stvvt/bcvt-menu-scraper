@@ -7446,5 +7446,47 @@
       "name": "Biscotti di Gemma",
       "description": "I biscotti di gemma sono dolci delicati a base di mandorle, ricoperti da uno strato sottile di glassa zuccherata. Sono croccanti fuori e morbidi dentro, molto apprezzati come dolce tradizionale bulgaro."
     }
+  },
+  "ГАРНИТУРА Витаминозна салата": {
+    "bg": {
+      "name": "ГАРНИТУРА Витаминозна салата",
+      "description": "Тази салата е свежа и хрупкава комбинация от разнообразни зеленчуци като краставици, домати, чушка и морков, подправени с лек дресинг. Идеална е за допълване на всяко ястие, като осигурява важни витамини и минерали."
+    },
+    "en": {
+      "name": "Vitamin-rich Vegetable Salad",
+      "description": "This salad is a fresh and crunchy mix of various vegetables such as cucumbers, tomatoes, peppers, and carrots, seasoned with a light dressing. It is perfect as a side dish, providing essential vitamins and minerals."
+    },
+    "it": {
+      "name": "Insalata di Verdure Ricca di Vitamine",
+      "description": "Questa insalata è una combinazione fresca e croccante di varie verdure come cetrioli, pomodori, peperoni e carote, insaporite con un condimento leggero. Perfetta come contorno, fornisce vitamine e minerali essenziali."
+    }
+  },
+  "ГАРНИТУРА Кьопоолу": {
+    "bg": {
+      "name": "Кьопоолу",
+      "description": "Кьопоолу е традиционна българска гарнитура, приготвена от напукани или смлени зърна леща, варени до мекота, смесени със запържен лук, подправки и често с добавяне на моркови или домати. Тази изключително ароматна и наситена на вкус шпековка се сервира като допълнение към основни ястия, като месо на скара или печени зеленчуци."
+    },
+    "en": {
+      "name": "Kyopoolu",
+      "description": "Kyopoolu is a traditional Bulgarian side dish made from crushed or mashed lentils, boiled until soft, mixed with fried onions, spices, and often carrots or tomatoes. This aromatic and flavorful dish is served as a complement to main courses such as grilled meats or roasted vegetables."
+    },
+    "it": {
+      "name": "Kyopoolu",
+      "description": "Kyopoolu è un contorno tradizionale bulgaro preparato con lenticchie schiacciate o tritate, bollite fino a renderle morbide, mescolate con cipolle fritte, spezie e spesso carote o pomodori. Questo piatto aromatico e saporito viene servito come accompagnamento a piatti principali come carne alla griglia o verdure arrostite."
+    }
+  },
+  "Парче пица със суджук и моцарела": {
+    "bg": {
+      "name": "Парче пица със суджук и моцарела",
+      "description": "Това е парче пица с тънка коричка, покрита с меко моцарела сирене и нарязан суджук, характерен български наденица, който придава силен подправен вкус. Пицата е топла, хрупкава и с богат аромат."
+    },
+    "en": {
+      "name": "Slice of pizza with sausage and mozzarella",
+      "description": "This is a slice of pizza with a thin crust, topped with soft mozzarella cheese and sliced sausage, a popular type of cured meat in Bulgaria that adds a spicy, savory flavor. The pizza is warm, crispy, and flavorful."
+    },
+    "it": {
+      "name": "Fetta di pizza con salsiccia e mozzarella",
+      "description": "Questa è una fetta di pizza con crosta sottile, coperta da morbida mozzarella e salsiccia affettata, un tipo di insaccato molto diffuso in Bulgaria che conferisce un sapore speziato e saporito. La pizza è calda, croccante e ricca di aroma."
+    }
   }
 }

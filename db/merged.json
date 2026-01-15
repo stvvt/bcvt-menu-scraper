@@ -824,6 +824,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "10.21",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1119,6 +1127,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "3.87",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1162,6 +1178,39 @@
         "price": "2.50",
         "currency": "лв",
         "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА Витаминозна салата",
+    "prices": [
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "1.90",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ff539761-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "ГАРНИТУРА Кьопоолу",
+    "prices": [
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "2.64",
+        "currency": "лв",
+        "weight": "80",
         "unit": "гр"
       }
     ],
@@ -3831,6 +3880,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "4.11",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4564,6 +4621,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "2.19",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4815,6 +4880,14 @@
         "dateText": "16-ти септември",
         "date": "2025-09-16",
         "price": "3.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "3.89",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -5219,9 +5292,22 @@
         "date": "2025-07-07",
         "price": "2.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-01-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e16d4b8a-200.jpg"
+      }
+    ]
   },
   {
     "name": "Панирано пилешко филе",
@@ -5359,6 +5445,25 @@
       {
         "date": "2025-07-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d1d81839-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Парче пица със суджук и моцарела",
+    "prices": [
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "6.49",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-15",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8fa0de1a-200.jpg"
       }
     ]
   },
@@ -9103,6 +9208,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "8.39",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -10034,6 +10147,14 @@
         "dateText": "28-ти август",
         "date": "2025-08-28",
         "price": "3.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "15/01",
+        "date": "2026-01-15",
+        "price": "3.89",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
