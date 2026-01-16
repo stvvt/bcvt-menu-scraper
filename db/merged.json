@@ -121,6 +121,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "10.89",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1201,6 +1209,32 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ff539761-200.jpg"
       }
     ]
+  },
+  {
+    "name": "ГАРНИТУРА Гуакамоле",
+    "prices": [
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "2.70",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА Зелена салата с краставици и репички",
+    "prices": [
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "2.09",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "ГАРНИТУРА Кьопоолу",
@@ -2437,6 +2471,14 @@
         "dateText": "17-ти септември",
         "date": "2025-09-17",
         "price": "3.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "4.11",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -3717,6 +3759,14 @@
         "dateText": "14-ти ноември",
         "date": "2025-11-14",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "2.89",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -7963,6 +8013,12 @@
         "date": "2025-07-22",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "4.91",
+        "currency": "лв"
       }
     ],
     "images": [
@@ -9767,6 +9823,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "3.89",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -9816,6 +9880,14 @@
         "dateText": "03-ти септември",
         "date": "2025-09-03",
         "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "4.01",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -10532,6 +10604,14 @@
         "dateText": "17-ти септември",
         "date": "2025-09-17",
         "price": "9.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "9.19",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -11678,6 +11758,14 @@
         "dateText": "06-ти ноември",
         "date": "2025-11-06",
         "price": "4.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "16/01",
+        "date": "2026-01-16",
+        "price": "4.91",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"

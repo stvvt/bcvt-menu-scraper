@@ -7488,5 +7488,33 @@
       "name": "Fetta di pizza con salsiccia e mozzarella",
       "description": "Questa è una fetta di pizza con crosta sottile, coperta da morbida mozzarella e salsiccia affettata, un tipo di insaccato molto diffuso in Bulgaria che conferisce un sapore speziato e saporito. La pizza è calda, croccante e ricca di aroma."
     }
+  },
+  "ГАРНИТУРА Гуакамоле": {
+    "bg": {
+      "name": "Гарнитура Гуакамоле",
+      "description": "Това е мексиканска гарнитура, приготвена от паста от авокадо, обогатена с лимонов сок, домати, лук и подправки. Обичайно се сервира като добавка към меса, такос или като дип за тостове и чипсове."
+    },
+    "en": {
+      "name": "Guacamole Garnish",
+      "description": "A Mexican garnish made from mashed avocado, enriched with lemon juice, tomatoes, onions, and spices. It is commonly served as an accompaniment to meats, tacos, or as a dip for toast and chips."
+    },
+    "it": {
+      "name": "Guacamole come contorno",
+      "description": "Un contorno messicano preparato con avocado schiacciato, arricchito con succo di limone, pomodori, cipolla e spezie. Viene spesso servito come accompagnamento a carni, tacos o come salsa per pane tostato e tortilla chips."
+    }
+  },
+  "ГАРНИТУРА Зелена салата с краставици и репички": {
+    "bg": {
+      "name": "Гарнитура - Зелена салата с краставици и репички",
+      "description": "Това е свежо допълнение към основното ястие, съставено от пресни зелени листа, нарязани краставици и репички. Поднесено е обикновено в малка порция, за да допълни вкуса и да освежи сетивата."
+    },
+    "en": {
+      "name": "Side dish - Green salad with cucumbers and radishes",
+      "description": "A fresh accompaniment to the main dish, composed of crisp green leaves, sliced cucumbers, and radishes. Usually served in a small portion to enhance flavor and refresh the palate."
+    },
+    "it": {
+      "name": "Contorno - Insalata verde con cetrioli e ravanelli",
+      "description": "Un accompagnamento fresco al piatto principale, composto da foglie verdi croccanti, cetrioli affettati e ravanelli. Generalmente servito in una porzione piccola per esaltare il sapore e rinfrescare il palato."
+    }
   }
 }
