@@ -164,6 +164,20 @@
     ]
   },
   {
+    "name": "Аранчини с моцарела",
+    "prices": [
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "3.60",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Бадемов крем",
     "prices": [
       {
@@ -425,6 +439,10 @@
       {
         "date": "2025-08-05",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/be3b6631-200.jpg"
+      },
+      {
+        "date": "2026-01-19",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cf936690-200.jpg"
       }
     ]
   },
@@ -1223,6 +1241,39 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА Домати с яйце и кашкавал",
+    "prices": [
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "2.89",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-19",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3d4ba6a-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "ГАРНИТУРА Зелена салата с киноа",
+    "prices": [
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "1.99",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА Зелена салата с краставици и репички",
     "prices": [
       {
@@ -1365,6 +1416,20 @@
         "price": "2.40",
         "currency": "лв",
         "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА картофи с майонеза и кашкавал",
+    "prices": [
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "1.80",
+        "currency": "лв",
+        "weight": "100",
         "unit": "гр"
       }
     ],
@@ -1720,6 +1785,14 @@
         "dateText": "07-ми октомври",
         "date": "2025-10-07",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "2.89",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -2455,6 +2528,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "3.21",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -2723,6 +2804,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ee189693-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Зеленчукови кюфтенца",
+    "prices": [
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "3.21",
+        "currency": "лв",
+        "weight": "120",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Зеленчуково пюре",
@@ -4137,6 +4232,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "6.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4477,6 +4580,20 @@
     ]
   },
   {
+    "name": "Масленки с локум",
+    "prices": [
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Медени бисквитки с крем",
     "prices": [
       {
@@ -4798,6 +4915,14 @@
         "dateText": "29-ти октомври",
         "date": "2025-10-29",
         "price": "6.50",
+        "currency": "лв",
+        "weight": "350",
+        "unit": "гр"
+      },
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "6.49",
         "currency": "лв",
         "weight": "350",
         "unit": "гр"
@@ -5366,6 +5491,14 @@
         "dateText": "09-ти септември",
         "date": "2025-09-09",
         "price": "6.50",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "6.49",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -8114,6 +8247,14 @@
         "dateText": "28-ти август",
         "date": "2025-08-28",
         "price": "4.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "19/01",
+        "date": "2026-01-19",
+        "price": "4.91",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"

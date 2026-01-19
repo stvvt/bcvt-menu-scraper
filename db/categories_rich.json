@@ -7516,5 +7516,89 @@
       "name": "Contorno - Insalata verde con cetrioli e ravanelli",
       "description": "Un accompagnamento fresco al piatto principale, composto da foglie verdi croccanti, cetrioli affettati e ravanelli. Generalmente servito in una porzione piccola per esaltare il sapore e rinfrescare il palato."
     }
+  },
+  "Аранчини с моцарела": {
+    "bg": {
+      "name": "Аранчини с моцарела",
+      "description": "Тези италиански хлебни топки са пълнени с разтопена моцарела и ориз, оваляни в галета и пържени до златисто. Те са ароматен и крехък деликатес, който се наслаждава като апетитна закуска или предястие."
+    },
+    "en": {
+      "name": "Arancini with Mozzarella",
+      "description": "These Italian rice balls are filled with melted mozzarella cheese, coated in breadcrumbs, and fried until golden. They are a flavorful and crispy delicacy, enjoyed as an appetizer or snack."
+    },
+    "it": {
+      "name": "Arancini con mozzarella",
+      "description": "Queste palline di riso italiane sono ripiene di mozzarella fusa, impanate e fritte fino a diventare dorate. Sono un delizioso e croccante piatto da antipasto o snack."
+    }
+  },
+  "ГАРНИТУРА Домати с яйце и кашкавал": {
+    "bg": {
+      "name": "Гарнитура Домати с яйце и кашкавал",
+      "description": "Тази популярна гарнитура се състои от свежи зрели домати, които се сервират със сварено яйце и разтопен кашкавал върху тях. Ястието е студено или топло, в зависимост от предпочитанията, и е обичано заради свежия вкус и приятната комбинация на съставките."
+    },
+    "en": {
+      "name": "Tomatoes with Egg and Cheese",
+      "description": "This popular side dish consists of fresh ripe tomatoes served with a boiled egg and melted cheese on top. The dish can be served warm or cold, and is loved for its fresh flavor and pleasing combination of ingredients."
+    },
+    "it": {
+      "name": "Pomodori con uovo e formaggio",
+      "description": "Questo popolare contorno è composto da pomodori maturi e freschi, serviti con uovo sodo e formaggio fuso sopra. Può essere servito caldo o freddo, apprezzato per il suo sapore fresco e la piacevole combinazione di ingredienti."
+    }
+  },
+  "ГАРНИТУРА Зелена салата с киноа": {
+    "bg": {
+      "name": "Гарнитура: Зелена салата с киноа",
+      "description": "Свежа зелена салата, съставена от различни видове листни зеленчуци, подправена с лека винена или зехтин дресинг. Добавена към нея е сварена и охладена киноа, която придава текстура и засищане. Ястието е здравословна и лека гарнитура, която отлично допълва различни основни ястия."
+    },
+    "en": {
+      "name": "Side Dish: Green Salad with Quinoa",
+      "description": "A fresh green salad consisting of various leafy greens, lightly dressed with vinaigrette or olive oil. It is complemented with cooked and cooled quinoa, adding texture and satiety. This dish is a healthy and light side that pairs well with a variety of main courses."
+    },
+    "it": {
+      "name": "Contorno: Insalata verde con quinoa",
+      "description": "Un'insalata verde fresca composta da diverse foglie di verdure, condita con un leggero condimento di vinaigrette o olio d'oliva. È arricchita con quinoa cotta e raffreddata, che conferisce consistenza e sazietà. Questo piatto è un contorno salutare e leggero che si abbina bene a vari piatti principali."
+    }
+  },
+  "ГАРНИТУРА картофи с майонеза и кашкавал": {
+    "bg": {
+      "name": "Гарнитура картофи с майонеза и кашкавал",
+      "description": "Класическа българска гарнитура от варени или печени картофи, покрити с майонеза и настърган кашкавал. Това ястие е популярно като добавка към месни ястия и се характеризира с кремообразна текстура и богат вкус."
+    },
+    "en": {
+      "name": "Potato garnish with mayonnaise and cheese",
+      "description": "A classic Bulgarian side dish made of boiled or baked potatoes topped with mayonnaise and grated cheese. It is popular as an accompaniment to meat dishes and is characterized by a creamy texture and rich flavor."
+    },
+    "it": {
+      "name": "Contorno di patate con maionese e formaggio",
+      "description": "Un classico contorno bulgaro di patate bollite o al forno, coperto con maionese e formaggio grattugiato. È popolare come accompagnamento a piatti di carne ed è caratterizzato da una consistenza cremosa e un sapore ricco."
+    }
+  },
+  "Зеленчукови кюфтенца": {
+    "bg": {
+      "name": "Зеленчукови кюфтенца",
+      "description": "Зеленчукови кюфтенца са малки кюфтенца, приготвени от настъргани зеленчуци като моркови, тиквички, картофи и подправки. Обикновено се пържат до златистокафяв цвят и се сервират с кисело мляко или сос. Те са здравословна алтернатива на традиционните месни кюфтета и са популярни в българската кухня."
+    },
+    "en": {
+      "name": "Vegetable Fritters",
+      "description": "Vegetable fritters are small patties made from grated vegetables such as carrots, zucchini, potatoes, and spices. They are typically fried until golden brown and served with yogurt or sauce. They are a healthy alternative to traditional meat patties and are popular in Bulgarian cuisine."
+    },
+    "it": {
+      "name": "Polpette di Verdure",
+      "description": "Le polpette di verdure sono delle piccole crocchette preparate con verdure grattugiate come carote, zucchine, patate e spezie. Solitamente vengono fritte fino a diventare dorate e servite con yogurt o salsa. Sono un'alternativa salutare alle polpette di carne tradizionali e sono popolari nella cucina bulgara."
+    }
+  },
+  "Масленки с локум": {
+    "bg": {
+      "name": "Масленки с локум",
+      "description": "Традиционен български десерт, представляващ меки, маслени сладки с вмъкнат парче локум в средата. Масленките са богати на масло и често се поръсват с пудра захар. Локума добавя сладост и пухкава текстура, превръщайки тези сладки в любим деликатес за поводи и следобедни срещи."
+    },
+    "en": {
+      "name": "Butter Cookies with Turkish Delight",
+      "description": "A traditional Bulgarian dessert consisting of soft, buttery cookies with a piece of Turkish delight embedded in the center. The cookies are rich in butter and often dusted with powdered sugar. The Turkish delight adds sweetness and a fluffy texture, making these treats a favorite for celebrations and afternoon gatherings."
+    },
+    "it": {
+      "name": "Biscotti al burro con lokum",
+      "description": "Dolce tradizionale bulgaro composto da biscotti morbidi e burrosi con un pezzo di lokum (delight turco) incastrato al centro. I biscotti sono ricchi di burro e spesso spolverati con zucchero a velo. Il lokum conferisce dolcezza e una consistenza soffice, rendendo questi dolcetti un piacere molto amato per occasioni e incontri pomeridiani."
+    }
   }
 }
