@@ -7600,5 +7600,75 @@
       "name": "Biscotti al burro con lokum",
       "description": "Dolce tradizionale bulgaro composto da biscotti morbidi e burrosi con un pezzo di lokum (delight turco) incastrato al centro. I biscotti sono ricchi di burro e spesso spolverati con zucchero a velo. Il lokum conferisce dolcezza e una consistenza soffice, rendendo questi dolcetti un piacere molto amato per occasioni e incontri pomeridiani."
     }
+  },
+  "ГАРНИТУРА зеле с моркови и майонеза": {
+    "bg": {
+      "name": "Гарнитура зеле с моркови и майонеза",
+      "description": "Студена гарнитура, състояща се от нарязано зеле и настъргани моркови, смесени с майонеза. Лесна за приготвяне и освежаваща, подходяща за акомпаниране към месни ястия."
+    },
+    "en": {
+      "name": "Cabbage and Carrots Salad with Mayonnaise",
+      "description": "A cold side dish made of chopped cabbage and grated carrots mixed with mayonnaise. Easy to prepare and refreshing, suitable to complement meat dishes."
+    },
+    "it": {
+      "name": "Insalata di cavolo e carote con maionese",
+      "description": "Un contorno freddo composto da cavolo tritato e carote grattugiate mescolate con maionese. Facile da preparare e rinfrescante, ideale per accompagnare piatti di carne."
+    }
+  },
+  "Мус от боб": {
+    "bg": {
+      "name": "Мус от боб",
+      "description": "Мусът от боб е кремообразно ястие, приготвено от варен боб, пасиран и подправен с чесън, зехтин и подправки. Обикновено се сервира като предястие или лека закуска, често с хляб или питка."
+    },
+    "en": {
+      "name": "Bean Mousse",
+      "description": "Bean mousse is a creamy dish made from cooked beans, pureed and seasoned with garlic, olive oil, and spices. Usually served as an appetizer or a light snack, often accompanied by bread or flatbread."
+    },
+    "it": {
+      "name": "Mousse di fagioli",
+      "description": "Il mousse di fagioli è un piatto cremoso preparato con fagioli cotti, frullati e conditi con aglio, olio d'oliva e spezie. Generalmente viene servito come antipasto o spuntino leggero, spesso accompagnato da pane o focaccia."
+    }
+  },
+  "Омлет с пилешко и зеленчуци": {
+    "bg": {
+      "name": "Омлет с пилешко и зеленчуци",
+      "description": "Класическо ястие, приготвено от яйца, които са разбити и запържени с добавка на парченца пилешко месо и разнообразни пресни зеленчуци като пипер, домати и лук. Подава се топло и е отлично за закуска или обяд."
+    },
+    "en": {
+      "name": "Omelette with chicken and vegetables",
+      "description": "A classic dish made from eggs beaten and fried with pieces of chicken meat and various fresh vegetables such as bell peppers, tomatoes, and onions. Served warm, perfect for breakfast or lunch."
+    },
+    "it": {
+      "name": "Omelette con pollo e verdure",
+      "description": "Un piatto classico preparato con uova sbattute e fritte con pezzi di pollo e varie verdure fresche come peperoni, pomodori e cipolle. Servito caldo, ideale per colazione o pranzo."
+    }
+  },
+  "Пълнена пъстърва със зеленчуци": {
+    "bg": {
+      "name": "Пълнена пъстърва със зеленчуци",
+      "description": "Това е основно ястие, при което прясната пъстърва се напълва с микс от зеленчуци като чесън, лук и подправки, след което се пече до златисто. Получава се сочна риба с ароматен и богат вкус, чудесна за любителите на рибните деликатеси."
+    },
+    "en": {
+      "name": "Stuffed Trout with Vegetables",
+      "description": "This dish features fresh trout stuffed with a mixture of vegetables such as garlic, onion, and herbs, then baked until golden. It results in a juicy fish with a fragrant and rich flavor, perfect for fish lovers."
+    },
+    "it": {
+      "name": "Trota ripiena con verdure",
+      "description": "Questo piatto presenta una trota fresca farcita con un mix di verdure come aglio, cipolla e erbe aromatiche, quindi cotta al forno fino a doratura. Risulta essere un pesce succoso con un sapore aromatico e ricco, ideale per gli amanti del pesce."
+    }
+  },
+  "Салата зеле с моркови и майонеза": {
+    "bg": {
+      "name": "Салата зеле с моркови и майонеза",
+      "description": "Ястие, състоящо се от нарязано прясно зеле и моркови, смесени с майонеза. Често се сервира като свеж и хрупкав гарнитура или студена салата, подходяща за различни ястия и сезона."
+    },
+    "en": {
+      "name": "Cabbage salad with carrots and mayonnaise",
+      "description": "A dish made of shredded fresh cabbage and carrots mixed with mayonnaise. Often served as a fresh and crunchy side dish or cold salad, suitable for various meals and seasons."
+    },
+    "it": {
+      "name": "Insalata di cavolo con carote e maionese",
+      "description": "Piatti a base di cavolo fresco e carote tritati, mescolati con maionese. Spesso servita come contorno fresco e croccante o insalata fredda, adatta a vari piatti e stagioni."
+    }
   }
 }

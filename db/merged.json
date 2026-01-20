@@ -1394,6 +1394,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА зеле с моркови и майонеза",
+    "prices": [
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "1.37",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА зелена салата с маринована риба и сушен домат",
     "prices": [
       {
@@ -3992,6 +4006,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "5.01",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4825,6 +4847,25 @@
     ]
   },
   {
+    "name": "Мус от боб",
+    "prices": [
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/48f66d91-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Мусака",
     "prices": [
       {
@@ -5102,6 +5143,25 @@
     "images": []
   },
   {
+    "name": "Омлет с пилешко и зеленчуци",
+    "prices": [
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "4.91",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a7542efd-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Омлет с шунка и кашкавал",
     "prices": [
       {
@@ -5289,6 +5349,14 @@
         "dateText": "14-ти ноември",
         "date": "2025-11-14",
         "price": "4.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "4.21",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -6977,6 +7045,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "9.41",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -7496,6 +7572,18 @@
         "dateText": "24-ти юли",
         "date": "2025-07-24",
         "price": "5.00",
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пълнена пъстърва със зеленчуци",
+    "prices": [
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "12.13",
         "currency": "лв"
       }
     ],
@@ -8450,6 +8538,25 @@
       {
         "date": "2025-07-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5b1b7b7a-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Салата зеле с моркови и майонеза",
+    "prices": [
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "1.99",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8fe3130-200.jpg"
       }
     ]
   },
@@ -10441,6 +10548,14 @@
         "date": "2025-06-27",
         "price": "12.70",
         "currency": "лв"
+      },
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "12.69",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -10593,6 +10708,14 @@
         "dateText": "28-ти август",
         "date": "2025-08-28",
         "price": "4.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "20/01",
+        "date": "2026-01-20",
+        "price": "4.91",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
