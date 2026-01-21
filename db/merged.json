@@ -38,6 +38,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "4.79",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1366,6 +1374,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА домати, краставици,  нахут и лук",
+    "prices": [
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "2.29",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА европейска салата",
     "prices": [
       {
@@ -1569,6 +1591,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8dd64211-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Гарнитура зелена салата с печени моркови, грозде и синьо сирене",
+    "prices": [
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "2.19",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Гаспачо",
@@ -2438,9 +2474,22 @@
         "date": "2025-07-10",
         "price": "7.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "7.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-01-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fbefd0a6-200.jpg"
+      }
+    ]
   },
   {
     "name": "Запеканка с пилешко, моркови и карфиол",
@@ -2616,6 +2665,25 @@
       {
         "date": "2025-08-20",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bf6acd6e-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Зелена салата с печени моркови, грозде и сирене",
+    "prices": [
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "3.79",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2ed9e20e-200.jpg"
       }
     ]
   },
@@ -3584,6 +3652,20 @@
     "images": []
   },
   {
+    "name": "Крем панакота с ягоди",
+    "prices": [
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "2.80",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Крем пистачио",
     "prices": [
       {
@@ -4502,6 +4584,14 @@
         "dateText": "28-ти октомври",
         "date": "2025-10-28",
         "price": "3.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "3.89",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -5690,6 +5780,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "5.01",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5717,6 +5815,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8fa0de1a-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Парче пица със сушен домат, сметана и песто",
+    "prices": [
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "4.09",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Паста Болонезе",
@@ -6258,6 +6370,14 @@
         "dateText": "02-ри септември",
         "date": "2025-09-02",
         "price": "7.00",
+        "currency": "лв",
+        "weight": "350",
+        "unit": "гр"
+      },
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "7.20",
         "currency": "лв",
         "weight": "350",
         "unit": "гр"
@@ -7634,6 +7754,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "6.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -8803,6 +8931,14 @@
         "dateText": "01-ви октомври",
         "date": "2025-10-01",
         "price": "3.60",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "3.79",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -10046,6 +10182,14 @@
         "currency": "лв",
         "weight": "180",
         "unit": "гр"
+      },
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "3.60",
+        "currency": "лв",
+        "weight": "180",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -11074,6 +11218,14 @@
         "dateText": "17-ти октомври",
         "date": "2025-10-17",
         "price": "4.00",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "21/01",
+        "date": "2026-01-21",
+        "price": "4.01",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"

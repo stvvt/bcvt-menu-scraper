@@ -7670,5 +7670,75 @@
       "name": "Insalata di cavolo con carote e maionese",
       "description": "Piatti a base di cavolo fresco e carote tritati, mescolati con maionese. Spesso servita come contorno fresco e croccante o insalata fredda, adatta a vari piatti e stagioni."
     }
+  },
+  "ГАРНИТУРА домати, краставици,  нахут и лук": {
+    "bg": {
+      "name": "Гарнитура домати, краставици, нахут и лук",
+      "description": "Свежа и лека гарнитура съставена от зрели домати, хрупкави краставици, сварен нахут и крехък лук. Това ястие е идеално като допълнение към главни ястия и носи освежаващ вкус и текстура."
+    },
+    "en": {
+      "name": "Side dish with tomatoes, cucumbers, chickpeas, and onions",
+      "description": "A fresh and light side dish consisting of ripe tomatoes, crunchy cucumbers, cooked chickpeas, and tender onions. It serves as a refreshing addition to main courses, offering a combination of crispness and flavor."
+    },
+    "it": {
+      "name": "Contorno con pomodori, cetrioli, ceci e cipolla",
+      "description": "Un contorno fresco e leggero che include pomodori maturi, cetrioli croccanti, ceci cotti e cipolle tenere. È perfetto come complemento ai piatti principali, offrendo un gusto rinfrescante e una consistenza croccante."
+    }
+  },
+  "Гарнитура зелена салата с печени моркови, грозде и синьо сирене": {
+    "bg": {
+      "name": "Зелена салата с печени моркови, грозде и синьо сирене",
+      "description": "Свежа зеленчукова салата, съчетаваща крехки листа от маруля и спанак, печени моркови, сладко грозде и разтопено синьо сирене, което придава богата и кремообразна текстура."
+    },
+    "en": {
+      "name": "Green salad with roasted carrots, grapes, and blue cheese",
+      "description": "A fresh vegetable salad featuring crisp lettuce and spinach leaves, roasted carrots, sweet grapes, and melted blue cheese, offering a rich and creamy flavor profile."
+    },
+    "it": {
+      "name": "Insalata verde con carote arrostite, uva e formaggio blu",
+      "description": "Un'insalata di verdure fresca con foglie croccanti di lattuga e spinaci, carote arrostite, uva dolce e formaggio blu fuso, che offre un sapore ricco e cremoso."
+    }
+  },
+  "Зелена салата с печени моркови, грозде и сирене": {
+    "bg": {
+      "name": "Зелена салата с печени моркови, грозде и сирене",
+      "description": "Свежа и ароматна салата, съчетаваща crispy зелени листа, печени моркови за сладост, сочно грозде и разбира се, меко сирене, което добавя богат вкус и кремообразна текстура."
+    },
+    "en": {
+      "name": "Green Salad with Roasted Carrots, Grapes, and Cheese",
+      "description": "A fresh and aromatic salad combining crispy green leaves, roasted carrots for sweetness, juicy grapes, and soft cheese, adding a rich flavor and creamy texture."
+    },
+    "it": {
+      "name": "Insalata verde con carote arrostite, uva e formaggio",
+      "description": "Un'insalata fresca e aromatica che combina foglie verdi croccanti, carote arrostite per dolcezza, uva succosa e formaggio morbido, che aggiunge un sapore ricco e una consistenza cremosa."
+    }
+  },
+  "Крем панакота с ягоди": {
+    "bg": {
+      "name": "Крем панакота с ягоди",
+      "description": "Лека и кремообразна италианска десертна панакота, приготвена от сметана, захар и желатин, сервирана с пресни ягоди, които придават свежест и сладост на ястието."
+    },
+    "en": {
+      "name": "Panna Cotta with Strawberries",
+      "description": "A light and creamy Italian dessert made from cream, sugar, and gelatin, served with fresh strawberries that add freshness and sweetness to the dish."
+    },
+    "it": {
+      "name": "Panna Cotta alle Fragole",
+      "description": "Un dessert italiano leggero e cremoso, realizzato con panna, zucchero e gelatina, servito con fragole fresche che donano freschezza e dolcezza al piatto."
+    }
+  },
+  "Парче пица със сушен домат, сметана и песто": {
+    "bg": {
+      "name": "Парче пица със сушен домат, сметана и песто",
+      "description": "Това е тънко парче прясна питка, гарнирано с наситен сос песто, кремообразна сметана и сушени домати. Смес от тези съставки създава богат и ароматен вкус, който е характерен за това модерно италианско вдъхновение."
+    },
+    "en": {
+      "name": "Slice of pizza with dried tomato, cream, and pesto",
+      "description": "A thin slice of fresh bread topped with a rich pesto sauce, creamy cream, and dried tomatoes. The combination of these ingredients creates a rich and aromatic flavor, characteristic of this modern Italian-inspired dish."
+    },
+    "it": {
+      "name": "Fetta di pizza con pomodoro secco, panna e pesto",
+      "description": "Una sottile fetta di pane fresco guarnita con una ricca salsa di pesto, panna cremosa e pomodori secchi. La combinazione di questi ingredienti crea un sapore ricco e aromatico, tipico di questa moderna ispirazione italiana."
+    }
   }
 }
