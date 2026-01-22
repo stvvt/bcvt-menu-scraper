@@ -7740,5 +7740,89 @@
       "name": "Fetta di pizza con pomodoro secco, panna e pesto",
       "description": "Una sottile fetta di pane fresco guarnita con una ricca salsa di pesto, panna cremosa e pomodori secchi. La combinazione di questi ingredienti crea un sapore ricco e aromatico, tipico di questa moderna ispirazione italiana."
     }
+  },
+  "ГАРНИТУРА Селска салата с яйце": {
+    "bg": {
+      "name": "Гарнитура: Селска салата с яйце",
+      "description": "Това е традиционна българска салата, състояща се от свежи зеленчуци като краставици, домати и лук, подправени с магданоз и олио. Върху салатата се слага сварено яйце, което допринася за богатството на вкуса и създава красива и апетитна гарнитура към основните ястия."
+    },
+    "en": {
+      "name": "Side Dish: Village Salad with Egg",
+      "description": "This is a traditional Bulgarian salad made of fresh vegetables such as cucumbers, tomatoes, and onions, seasoned with parsley and oil. A boiled egg is placed on top, adding richness to the flavor and making it a beautiful and appetizing side dish to main courses."
+    },
+    "it": {
+      "name": "Contorno: Insalata Rustica con Uovo",
+      "description": "È un'insalata tradizionale bulgara composta da verdure fresche come cetrioli, pomodori e cipolle, insaporite con prezzemolo e olio. Sopra l'insalata si mette un uovo sodo, che arricchisce il sapore e crea un contorno bello e appetitoso per i piatti principali."
+    }
+  },
+  "ГАРНИТУРА цвекло, моркови и ябълки": {
+    "bg": {
+      "name": "Гарнитура цвекло, моркови и ябълки",
+      "description": "Тази гарнитура представлява смес от нарязано варено цвекло, моркови и сладки ябълки, поднесени като свежо и цветно допълнение към основните ястия. Обикновено се украсява с малко нарязан магданоз за допълнителен вкус."
+    },
+    "en": {
+      "name": "Beetroot, Carrots, and Apples Side Dish",
+      "description": "This side dish is a blend of boiled beetroot, carrots, and sweet apples, served as a fresh and colorful accompaniment to main courses. It is typically garnished with chopped parsley for added flavor."
+    },
+    "it": {
+      "name": "Contorno di barbabietole, carote e mele",
+      "description": "Questo contorno è una miscela di barbabietole lessate, carote e mele dolci, servito come un accompagnamento fresco e colorato ai piatti principali. Di solito è decorato con prezzemolo tritato per un tocco di sapore in più."
+    }
+  },
+  "Пилешко филе на скара със сос от сирена": {
+    "bg": {
+      "name": "Пилешко филе на скара със сос от сирена",
+      "description": "Това ястие представлява пилешки гърди, изпечени на скара до златисто и сочни. Поднася се с богат сос от смесица на сирена като пармезан, моцарела и кашкавал, който се разтапя върху месото, добавяйки кремообразен вкус и аромат."
+    },
+    "en": {
+      "name": "Grilled Chicken Fillet with Cheese Sauce",
+      "description": "This dish features chicken breast grilled to a juicy, golden perfection. It is served with a rich cheese sauce made from a blend of cheeses such as Parmesan, mozzarella, and cheddar, melted over the meat to add a creamy flavor and aroma."
+    },
+    "it": {
+      "name": "Filetto di pollo alla griglia con salsa di formaggi",
+      "description": "Questo piatto presenta petto di pollo grigliato fino a diventare dorato e succoso. Viene servito con una ricca salsa di formaggi, preparata con una miscela di parmigiano, mozzarella e cheddar, che si scioglie sul pollo, aggiungendo un sapore cremoso e aromatico."
+    }
+  },
+  "Пълнени чушки с яйце и сирене": {
+    "bg": {
+      "name": "Пълнени чушки с яйце и сирене",
+      "description": "Това ястие включва големи червени или зелени чушки, които се пълнят с ароматна смес от сирене и яйца, след което се варят или пекат докато станат сочни и вкусни. Обикновено се сервират топли, като основно ястие или част от маса."
+    },
+    "en": {
+      "name": "Stuffed Peppers with Egg and Cheese",
+      "description": "This dish consists of large red or green peppers filled with a flavorful mixture of cheese and eggs, then boiled or baked until tender and delicious. Usually served warm, as a main course or part of a meal."
+    },
+    "it": {
+      "name": "Peperoni ripieni con uova e formaggio",
+      "description": "Questo piatto include grandi peperoni rossi o verdi ripieni di un saporito composto di formaggio e uova, poi cotti o al forno fino a diventare succosi e deliziosi. Solitamente serviti caldi, come piatto principale o parte di un pasto."
+    }
+  },
+  "Селска салата с яйце": {
+    "bg": {
+      "name": "Селска салата с яйце",
+      "description": "Тази традиционна българска салата се състои от пресни зеленчуци като домати, краставици и лук, обилно овкусени с подправки и зехтин, и допълнена с варено яйце нарязано на ситно. Това е свежо, здравословно ястие, подходящо за всяко време на деня."
+    },
+    "en": {
+      "name": "Village Salad with Egg",
+      "description": "This traditional Bulgarian salad consists of fresh vegetables such as tomatoes, cucumbers, and onions, generously seasoned with herbs and olive oil, complemented by a chopped boiled egg. It's a fresh, healthy dish suitable for any time of day."
+    },
+    "it": {
+      "name": "Insalata Rurale con Uovo",
+      "description": "Questa insalata tradizionale bulgara è fatta con verdure fresche come pomodori, cetrioli e cipolle, condite con erbe e olio d'oliva, e arricchita con un uovo sodo tritato. È un piatto fresco e salutare adatto a qualsiasi ora del giorno."
+    }
+  },
+  "Шницел от телешко месо": {
+    "bg": {
+      "name": "Шницел от телешко месо",
+      "description": "Това е известно ястие, при което тънки парчета телешко месо се овалват в брашно, яйца и галета, след което се пържат до златиста коричка. Обикновено се сервира с гарнитура от картофи, салата или зеленчуци."
+    },
+    "en": {
+      "name": "Beef Schnitzel",
+      "description": "This is a well-known dish where thin slices of beef are coated in flour, eggs, and breadcrumbs, then fried until golden. Usually served with potatoes, salad, or vegetables."
+    },
+    "it": {
+      "name": "Cotoletta di manzo",
+      "description": "È un piatto noto in cui fettine sottili di manzo vengono impanate con farina, uova e pangrattato, poi fritte fino a doratura. Tipicamente accompagnato da patate, insalata o verdure."
+    }
   }
 }
