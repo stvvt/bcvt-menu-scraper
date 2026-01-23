@@ -7824,5 +7824,47 @@
       "name": "Cotoletta di manzo",
       "description": "È un piatto noto in cui fettine sottili di manzo vengono impanate con farina, uova e pangrattato, poi fritte fino a doratura. Tipicamente accompagnato da patate, insalata o verdure."
     }
+  },
+  "ГАРНИТУРА домати , маслини, боб и чушки": {
+    "bg": {
+      "name": "Гарнитура домати, маслини, боб и чушки",
+      "description": "Тази гарнитура включва свежи и сочни домати, вкусни маслини, варен боб и печени чушки. Комбинацията създава ароматна и освежаваща гарнитура, която се сервира като допълнение към основното ястие."
+    },
+    "en": {
+      "name": "Side dish with tomatoes, olives, beans, and peppers",
+      "description": "This side dish features fresh and juicy tomatoes, tasty olives, cooked beans, and roasted peppers. The combination creates a flavorful and refreshing accompaniment that is served as a complement to the main course."
+    },
+    "it": {
+      "name": "Contorno di pomodori, olive, fagioli e peperoni",
+      "description": "Questo contorno include pomodori freschi e succosi, deliziose olive, fagioli cotti e peperoni arrostiti. La combinazione crea un accompagnamento saporito e rinfrescante da servire come complemento del piatto principale."
+    }
+  },
+  "ГАРНИТУРА зеленчукова салата с киноа": {
+    "bg": {
+      "name": "Зеленчукова салата с киноа",
+      "description": "Зеленчукова салата, приготвена с бланширани или сурови свежи зеленчуци като краставици, домати, чушки и зеле, подправена с лек дресинг. В добавка, салатата съдържа киноа - богат на протеини и безглутенова зърнена култура, която придава хранителна стойност и текстура."
+    },
+    "en": {
+      "name": "Vegetable salad with quinoa",
+      "description": "A fresh vegetable salad made with blanched or raw vegetables such as cucumbers, tomatoes, peppers, and cabbage, seasoned with a light dressing. The salad includes quinoa — a protein-rich, gluten-free grain that adds nutritional value and texture."
+    },
+    "it": {
+      "name": "Insalata di verdure con quinoa",
+      "description": "Un'insalata di verdure fresca preparata con verdure crude o sbollentate come cetrioli, pomodori, peperoni e cavolo, condita con un leggero condimento. La salad include la quinoa, un grain ricco di proteine e senza glutine, che conferisce valore nutrizionale e consistenza."
+    }
+  },
+  "Телешко филе с винен сос": {
+    "bg": {
+      "name": "Телешко филе с винен сос",
+      "description": "Класическо ястие, приготвено с меко телешко филе, мариновано и запечено до златисто. Поднася се със сапфирен винен сос, който подчертава богатството и деликатността на месото, добавяйки му изискан вкус и аромат."
+    },
+    "en": {
+      "name": "Beef fillet with wine sauce",
+      "description": "A classic dish made with tender beef fillet, marinated and roasted to a golden perfection. Served with a sapphire-colored wine sauce that accentuates the richness and delicacy of the meat, adding sophistication in flavor and aroma."
+    },
+    "it": {
+      "name": "Filetto di manzo con salsa al vino",
+      "description": "Un piatto classico realizzato con tenero filetto di manzo, marinato e arrosto fino a doratura. Servito con una salsa al vino di colore zaffiro che esalta la ricchezza e la delicatezza della carne, aggiungendo un tocco sofisticato di sapore e aroma."
+    }
   }
 }

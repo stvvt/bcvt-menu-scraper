@@ -305,6 +305,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "1.99",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -1374,6 +1382,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА домати , маслини, боб и чушки",
+    "prices": [
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА домати и сирене котидж",
     "prices": [
       {
@@ -1464,6 +1486,20 @@
         "dateText": "08-ми декември",
         "date": "2025-12-08",
         "price": "2.40",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА зеленчукова салата с киноа",
+    "prices": [
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "1.41",
         "currency": "лв",
         "weight": "80",
         "unit": "гр"
@@ -4911,6 +4947,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "2.99",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4960,6 +5004,14 @@
         "dateText": "24-ти септември",
         "date": "2025-09-24",
         "price": "4.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "4.21",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -5770,6 +5822,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "4.91",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6233,6 +6293,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "5.01",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6546,6 +6614,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "9.31",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -6782,6 +6858,14 @@
         "dateText": "25-ти август",
         "date": "2025-08-25",
         "price": "4.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "4.21",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -7968,6 +8052,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "1.99",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -8475,6 +8567,14 @@
         "dateText": "17-ти октомври",
         "date": "2025-10-17",
         "price": "4.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "4.21",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -11210,6 +11310,20 @@
         "date": "2025-08-07",
         "price": "9.50",
         "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Телешко филе с винен сос",
+    "prices": [
+      {
+        "dateText": "23/01",
+        "date": "2026-01-23",
+        "price": "11.48",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": []
