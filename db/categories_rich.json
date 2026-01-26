@@ -7866,5 +7866,19 @@
       "name": "Filetto di manzo con salsa al vino",
       "description": "Un piatto classico realizzato con tenero filetto di manzo, marinato e arrosto fino a doratura. Servito con una salsa al vino di colore zaffiro che esalta la ricchezza e la delicatezza della carne, aggiungendo un tocco sofisticato di sapore e aroma."
     }
+  },
+  "ГАРНИТУРА домати, чушка, сирене и маслини": {
+    "bg": {
+      "name": "Гарнитура домати, чушка, сирене и маслини",
+      "description": "Преуказка на ястие от пресни домати, печени чушки, разпределени с натрошено сирене и зелени маслини, служено като свеж и ароматен акомпанимент към основната кухня."
+    },
+    "en": {
+      "name": "Side dish: tomatoes, pepper, cheese, and olives",
+      "description": "A dish consisting of fresh tomatoes, roasted peppers, crumbled cheese, and green olives, served as a fresh and aromatic accompaniment to main courses."
+    },
+    "it": {
+      "name": "Contorno: pomodori, peperoni, formaggio e olive",
+      "description": "Un piatto composto da pomodori freschi, peperoni arrostiti, formaggio sbriciolato e olive verdi, servito come accompagnamento fresco e aromatico ai piatti principali."
+    }
   }
 }
