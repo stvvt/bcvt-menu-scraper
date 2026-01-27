@@ -7880,5 +7880,89 @@
       "name": "Contorno: pomodori, peperoni, formaggio e olive",
       "description": "Un piatto composto da pomodori freschi, peperoni arrostiti, formaggio sbriciolato e olive verdi, servito come accompagnamento fresco e aromatico ai piatti principali."
     }
+  },
+  "ГАРНИТУРА Магданозена салата с чери домат": {
+    "bg": {
+      "name": "Магданозена салата с чери домати",
+      "description": "Свежа и ароматна салата, съставена от нарязана пресна магданоза и сладки чери домати, обикновено поднасяна като гарнитура към основни ястия."
+    },
+    "en": {
+      "name": "Parsley Salad with Cherry Tomatoes",
+      "description": "A fresh and fragrant salad made from chopped fresh parsley and sweet cherry tomatoes, typically served as a side dish to main courses."
+    },
+    "it": {
+      "name": "Insalata di prezzemolo con pomodorini",
+      "description": "Un'insalata fresca e profumata composta da prezzemolo fresco tritato e dolci pomodorini, solitamente servita come contorno ai piatti principali."
+    }
+  },
+  "ГАРНИТУРА зеле с майонеза и царевица": {
+    "bg": {
+      "name": "Гарнитура зеле с майонеза и царевица",
+      "description": "Това е студена гарнитура, приготвена от нарязано зеле, смесено с майонеза и царевица. Характерна като странично ястие към основни ястия, има свеж вкус и приятна текстура."
+    },
+    "en": {
+      "name": "Cabbage with Mayonnaise and Corn Side Dish",
+      "description": "A cold side dish made of shredded cabbage mixed with mayonnaise and corn. It is characteristic as a side to main dishes, offering a fresh taste and pleasant texture."
+    },
+    "it": {
+      "name": "Contorno di cavolo con maionese e mais",
+      "description": "Un contorno freddo preparato con cavolo tritato, mescolato con maionese e mais. È tipicamente servito come accompagnamento a piatti principali, offrendo un gusto fresco e una consistenza piacevole."
+    }
+  },
+  "ГАРНИТУРА мариновано цвекло и пармезан": {
+    "bg": {
+      "name": "Гарнитура мариновано цвекло и пармезан",
+      "description": "Тази гарнитура представлява съчетание от тънко нарязано, мариновано цвекло, което е придобило ярък цвят и специфичен вкус чрез процедурата на мариноване. То е поднесено с настърган или нарязан пармезан — италиански твърд сирене с характерен пикантен вкус и мои свързващи аромати. Тази комбинация е освежаваща и подходяща както за салата, така и като допълнение към основното ястие."
+    },
+    "en": {
+      "name": "Pickled Beetroot and Parmesan Garnish",
+      "description": "This garnish features thinly sliced, pickled beetroot that has taken on a vibrant color and distinctive flavor through the pickling process. It is served with grated or sliced Parmesan — an Italian hard cheese known for its sharp taste and aromatic qualities. This combination is refreshing and suitable as a salad or as an accompaniment to main courses."
+    },
+    "it": {
+      "name": "Guarnizione di barbabietola marinata e parmigiano",
+      "description": "Questa guarnizione consiste in sottili fette di barbabietola marinata, che acquisisce un colore vivace e un sapore particolare grazie alla procedura di marinatura. È servita con Parmigiano grattugiato o a fette — un formaggio italiano duro con un sapore deciso e aromi distintivi. Questa combinazione è rinfrescante e adatta sia come insalata che come complemento a piatti principali."
+    }
+  },
+  "Печени моркови с песто": {
+    "bg": {
+      "name": "Печени моркови с песто",
+      "description": "Простое и вкусно ястие, приготвено чрез печене на моркови до златисто и гарнирано с ароматен бадемов или босилков песто, което добавя богат вкус и свежест."
+    },
+    "en": {
+      "name": "Baked Carrots with Pesto",
+      "description": "A simple and delicious dish made by roasting carrots until golden and topping them with aromatic basil or almond pesto, adding rich flavor and freshness."
+    },
+    "it": {
+      "name": "Carotine al forno con pesto",
+      "description": "Un piatto semplice e gustoso, preparato con carote arrostite fino a doratura e guarnite con pesto aromatico di basilico o mandorle, che conferisce un sapore ricco e fresco."
+    }
+  },
+  "Салата зеле с майонеза и царевица": {
+    "bg": {
+      "name": "Салата зеле с майонеза и царевица",
+      "description": "Класическа салата, съчетаваща свежо накълцано бяло зеле, смесено с кремообразна майонеза, и сладка царевица, която добавя цветен и вкусен акцент. Лесна за приготвяне и подходяща за всякакви поводи."
+    },
+    "en": {
+      "name": "Cabbage Salad with Mayonnaise and Corn",
+      "description": "A classic salad combining freshly chopped white cabbage with creamy mayonnaise and sweet corn, adding a colorful and tasty touch. Easy to prepare and suitable for any occasion."
+    },
+    "it": {
+      "name": "Insalata di cavolo con maionese e mais",
+      "description": "Un'insalata classica che combina cavolo bianco fresco tagliato finemente con maionese cremosa e mais dolce, aggiungendo un tocco colorato e saporito. Facile da preparare e adatta a ogni occasione."
+    }
+  },
+  "Славянски гювеч": {
+    "bg": {
+      "name": "Славянски гювеч",
+      "description": "Традиционно българско ястие, приготвено като печено гювеч с комбинация от месо, зеленчуци и подправки, всичко сготвено в глинен съд. Обикновено съдържа свинско или телешко месо, картофи, моркови, чушки и домати, и се поднася горещо, с приятен аромат на подправки."
+    },
+    "en": {
+      "name": "Slavyan Gyuvech",
+      "description": "A traditional Bulgarian dish, oven-baked in a clay pot with a mix of meat, vegetables, and spices. It typically includes pork or beef, potatoes, carrots, peppers, and tomatoes, served hot with a fragrant blend of herbs."
+    },
+    "it": {
+      "name": "Gyuvec Slavo",
+      "description": "Piato tradizionale bulgaro, cotto al forno in una pentola di terracotta con una combinazione di carne, verdure e spezie. Di solito include maiale o manzo, patate, carote, peperoni e pomodori, servito caldo con un aroma di erbe."
+    }
   }
 }

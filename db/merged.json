@@ -1326,6 +1326,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА Магданозена салата с чери домат",
+    "prices": [
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "2.84",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА Руска салата",
     "prices": [
       {
@@ -1452,6 +1466,20 @@
         "price": "1.90",
         "currency": "лв",
         "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА зеле с майонеза и царевица",
+    "prices": [
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "1.19",
+        "currency": "лв",
+        "weight": "100",
         "unit": "гр"
       }
     ],
@@ -1604,6 +1632,20 @@
         "price": "1.99",
         "currency": "лв",
         "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА мариновано цвекло и пармезан",
+    "prices": [
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "1.80",
+        "currency": "лв",
+        "weight": "100",
         "unit": "гр"
       }
     ],
@@ -2095,6 +2137,14 @@
         "dateText": "10-ти ноември",
         "date": "2025-11-10",
         "price": "3.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "3.21",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -3264,6 +3314,12 @@
         "dateText": "16-ти октомври",
         "date": "2025-10-16",
         "price": "3.00",
+        "currency": "лв"
+      },
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "2.99",
         "currency": "лв"
       }
     ],
@@ -4761,6 +4817,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "5.01",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6035,6 +6099,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "6.81",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6467,6 +6539,25 @@
       {
         "date": "2025-10-10",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f01cdba7-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Печени моркови с песто",
+    "prices": [
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d99f11f8-200.jpg"
       }
     ]
   },
@@ -8876,6 +8967,25 @@
     ]
   },
   {
+    "name": "Салата зеле с майонеза и царевица",
+    "prices": [
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "1.99",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0f9d0411-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Салата зеле с моркови",
     "prices": [
       {
@@ -9066,6 +9176,14 @@
         "dateText": "03-ти ноември",
         "date": "2025-11-03",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "2.89",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -10410,6 +10528,25 @@
       {
         "date": "2025-07-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c78d91aa-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Славянски гювеч",
+    "prices": [
+      {
+        "dateText": "27/01",
+        "date": "2026-01-27",
+        "price": "7.00",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eeae4eea-200.jpg"
       }
     ]
   },
