@@ -2,6 +2,33 @@
   "date": "28/01",
   "meals": [
     {
+      "name": "Болярска баница дълга",
+      "price": "3.21",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/20f42055-200.jpg",
+      "ean": "2002",
+      "weight": "195",
+      "unit": "гр"
+    },
+    {
+      "name": "Сандвич с шунка и кашкавал",
+      "price": "4.01",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/56bd637f-200.jpg",
+      "ean": "2009",
+      "weight": "100",
+      "unit": "гр"
+    },
+    {
+      "name": "Тутманик с пълнозърнесто брашно",
+      "price": "2.19",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7ee6aabf-200.jpg",
+      "ean": "2022",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Салата моркови и ябълки",
       "price": "2.50",
       "currency": "лв",
@@ -147,6 +174,13 @@
       "unit": "гр"
     },
     {
+      "name": "Домашна бисквитена торта",
+      "price": "3.21",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Крем пистачио",
       "price": "4.91",
       "currency": "лв",
@@ -170,10 +204,38 @@
       "unit": "гр"
     },
     {
+      "name": "Мляко с ориз",
+      "price": "2.19",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Протеинова торта",
+      "price": "5.81",
+      "currency": "лв",
+      "weight": "120",
+      "unit": "гр"
+    },
+    {
+      "name": "Скалички",
+      "price": "4.50",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Целувки",
       "price": "2.35",
       "currency": "лв",
       "weight": "50",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадова торта",
+      "price": "5.91",
+      "currency": "лв",
+      "weight": "150",
       "unit": "гр"
     },
     {
