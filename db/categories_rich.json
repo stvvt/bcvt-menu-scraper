@@ -7964,5 +7964,75 @@
       "name": "Gyuvec Slavo",
       "description": "Piato tradizionale bulgaro, cotto al forno in una pentola di terracotta con una combinazione di carne, verdure e spezie. Di solito include maiale o manzo, patate, carote, peperoni e pomodori, servito caldo con un aroma di erbe."
     }
+  },
+  "ГАРНИТУРА зелен боб с цедено мляко, копър и чесън": {
+    "bg": {
+      "name": "Зелен боб с цедено мляко, копър и чесън",
+      "description": "Класическа гарнитура от прясно зелено бобче, покрито с кисело цедено мляко, ароматизиран с пресен копър и чесън. Това ястие е популярна българска страна, която съчетава свежестта на боба с кремообразната киселина на цеденото мляко и ароматните подправки."
+    },
+    "en": {
+      "name": "Green beans with strained yogurt, dill, and garlic",
+      "description": "A classic Bulgarian side dish consisting of fresh green beans topped with strained yogurt, flavored with fresh dill and garlic. This dish combines the freshness of the beans with the creamy tanginess of the yogurt and aromatic herbs."
+    },
+    "it": {
+      "name": "Fagiolini verdi con yogurt, aneto e aglio",
+      "description": "Un classico contorno bulgaro composto da fagiolini verdi freschi, coperti con yogurt filtrato, aromatizzati con aneto fresco e aglio. Questo piatto combina la freschezza dei fagiolini con la cremosità dello yogurt e le erbe aromatiche."
+    }
+  },
+  "ГАРНИТУРА моркови и ябълки": {
+    "bg": {
+      "name": "Гарнитура моркови и ябълки",
+      "description": "Проста и вкусна гарнитура, състояща се от пресни моркови и ябълки, нарязани на тънки ивици. Тази комбинация е освежаваща и често се сервира като допълнение към месни ястия или за обяд."
+    },
+    "en": {
+      "name": "Carrots and Apples Garnish",
+      "description": "A simple and tasty garnish made from fresh carrots and apples, sliced into thin strips. This combination is refreshing and often served as a side dish to meat dishes or for lunch."
+    },
+    "it": {
+      "name": "Guarnizione di carote e mele",
+      "description": "Una semplice e gustosa guarnizione composta da carote e mele fresche, tagliate a strisce sottili. Questa combinazione è rinfrescante e spesso viene servita come contorno a piatti di carne o a pranzo."
+    }
+  },
+  "Крем супа от моркови и целина": {
+    "bg": {
+      "name": "Крем супа от моркови и целина",
+      "description": "Това е гладка и кремообразна супа, приготвена от смачкани моркови и целина, обикновено подправена с подправки и сметана, за да стане още по-ароматна и мека."
+    },
+    "en": {
+      "name": "Carrot and Celery Cream Soup",
+      "description": "A smooth and creamy soup made from mashed carrots and celery, usually seasoned with spices and cream to enhance flavor and texture."
+    },
+    "it": {
+      "name": "Crema di carote e sedano",
+      "description": "Una zuppa liscia e cremosa preparata con carote e sedano schiacciati, di solito condita con spezie e panna per un sapore più ricco e morbido."
+    }
+  },
+  "Пилешка бистра супа": {
+    "bg": {
+      "name": "Пилешка бистра супа",
+      "description": "Тази супа е лека и ароматна, приготвена с пилешко месо, бульон, зеленчуци като моркови, целина и лук, и подправки. Тя е популярна като топла и засищаща храна, особено в студените дни."
+    },
+    "en": {
+      "name": "Chicken Clear Soup",
+      "description": "This soup is light and flavorful, made with chicken meat, broth, vegetables like carrots, celery, and onions, and spices. It is popular as a warm and filling dish, especially in cold weather."
+    },
+    "it": {
+      "name": "Zuppa di pollo chiara",
+      "description": "Questa zuppa è leggera e saporita, preparata con carne di pollo, brodo, verdure come carote, sedano e cipolle, e spezie. È popolare come piatto caldo e saziante, soprattutto nei giorni freddi."
+    }
+  },
+  "Салата от зелен боб с цедено мляко, копър и чесън": {
+    "bg": {
+      "name": "Салата от зелен боб с цедено мляко, копър и чесън",
+      "description": "Тази свежа салата се приготвя със сварен зелен боб, който се смесва с цедено мляко, нарязан пресен копър и ситно нарязан чесън. Получава се леко кисела и ароматна храна, която е популярна като лека предястие или гарнитура."
+    },
+    "en": {
+      "name": "Green bean salad with strained yogurt, dill, and garlic",
+      "description": "This fresh salad is made with cooked green beans mixed with strained yogurt, chopped fresh dill, and minced garlic. It has a tart and aromatic flavor, commonly served as a light appetizer or side dish."
+    },
+    "it": {
+      "name": "Insalata di fagiolini verdi con yogurt, aneto e aglio",
+      "description": "Questa fresca insalata è preparata con fagiolini verdi cotti, mescolati con yogurt scremato, aneto fresco tritato e aglio tritato. Ha un sapore acidulo e aromatico, spesso servita come antipasto leggero o contorno."
+    }
   }
 }

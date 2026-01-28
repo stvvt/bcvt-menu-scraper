@@ -773,6 +773,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "3.21",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1128,6 +1136,14 @@
         "dateText": "09-ти декември",
         "date": "2025-12-09",
         "price": "4.20",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "4.21",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -1514,6 +1530,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА зелен боб с цедено мляко, копър и чесън",
+    "prices": [
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "2.39",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА зелена салата с маринована риба и сушен домат",
     "prices": [
       {
@@ -1644,6 +1674,20 @@
         "dateText": "27/01",
         "date": "2026-01-27",
         "price": "1.80",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА моркови и ябълки",
+    "prices": [
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "1.70",
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
@@ -3839,6 +3883,14 @@
         "currency": "лв",
         "weight": "180",
         "unit": "гр"
+      },
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "4.91",
+        "currency": "лв",
+        "weight": "180",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -3985,6 +4037,20 @@
         "dateText": "06-ти октомври",
         "date": "2025-10-06",
         "price": "3.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Крем супа от моркови и целина",
+    "prices": [
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "2.89",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -5627,6 +5693,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "3.60",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6842,6 +6916,25 @@
       {
         "date": "2025-08-04",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/310eac6b-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Пилешка бистра супа",
+    "prices": [
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "3.89",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-28",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/44884983-200.jpg"
       }
     ]
   },
@@ -8449,6 +8542,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "6.20",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -9305,6 +9406,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b088cb9b-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Салата от зелен боб с цедено мляко, копър и чесън",
+    "prices": [
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "3.89",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Салата от печени чушки с крем от сирена",
@@ -10442,6 +10557,14 @@
         "dateText": "28-ти август",
         "date": "2025-08-28",
         "price": "6.70",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "28/01",
+        "date": "2026-01-28",
+        "price": "7.10",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
