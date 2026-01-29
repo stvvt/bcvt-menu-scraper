@@ -18,15 +18,6 @@
       "unit": "гр"
     },
     {
-      "name": "Болярска закуска с наденица",
-      "price": "4.21",
-      "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9fef9c8f-200.png",
-      "ean": "2053",
-      "weight": "200",
-      "unit": "гр"
-    },
-    {
       "name": "Болярска милинка",
       "price": "4.21",
       "currency": "лв",
@@ -163,7 +154,23 @@
       "name": "Телешко кебапче",
       "price": "2.99",
       "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/238846b8-200.jpg",
+      "ean": "6583",
       "weight": "80",
+      "unit": "гр"
+    },
+    {
+      "name": "Домашна бисквитена торта",
+      "price": "3.21",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем пистачио",
+      "price": "4.91",
+      "currency": "лв",
+      "weight": "180",
       "unit": "гр"
     },
     {
@@ -188,6 +195,13 @@
       "unit": "гр"
     },
     {
+      "name": "Протеинова торта",
+      "price": "5.81",
+      "currency": "лв",
+      "weight": "120",
+      "unit": "гр"
+    },
+    {
       "name": "Целувки",
       "price": "2.35",
       "currency": "лв",
@@ -197,6 +211,13 @@
     {
       "name": "Шоколадов мус",
       "price": "3.11",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадова торта",
+      "price": "5.91",
       "currency": "лв",
       "weight": "150",
       "unit": "гр"
