@@ -8034,5 +8034,19 @@
       "name": "Insalata di fagiolini verdi con yogurt, aneto e aglio",
       "description": "Questa fresca insalata è preparata con fagiolini verdi cotti, mescolati con yogurt scremato, aneto fresco tritato e aglio tritato. Ha un sapore acidulo e aromatico, spesso servita come antipasto leggero o contorno."
     }
+  },
+  "Хумус": {
+    "bg": {
+      "name": "Хумус",
+      "description": "Хумус е меко и кремообразно ястие от смляно нахут, добре овкусено с тахан, зехтин, лимонов сок, чесън и подправки. Обикновено се сервира като предястие или разядка, придружено с хляб или питки."
+    },
+    "en": {
+      "name": "Hummus",
+      "description": "Hummus is a smooth and creamy dish made from blended chickpeas, seasoned with tahini, olive oil, lemon juice, garlic, and spices. It is commonly served as an appetizer or dip, accompanied by bread or pita."
+    },
+    "it": {
+      "name": "Hummus",
+      "description": "L'hummus è un piatto cremoso e vellutato a base di ceci frullati, aromatizzato con tahina, olio d'oliva, succo di limone, aglio e spezie. Viene solitamente servito come antipasto o antipasto, accompagnato da pane o pita."
+    }
   }
 }
