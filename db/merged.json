@@ -3660,6 +3660,25 @@
     ]
   },
   {
+    "name": "Кифлички с канела",
+    "prices": [
+      {
+        "dateText": "30/01",
+        "date": "2026-01-30",
+        "price": "0.61",
+        "currency": "лв",
+        "weight": "50",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-01-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0dbbce91-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Козуначен мъфин с локум",
     "prices": [
       {
@@ -4114,6 +4133,14 @@
         "dateText": "10-ти октомври",
         "date": "2025-10-10",
         "price": "3.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "30/01",
+        "date": "2026-01-30",
+        "price": "3.21",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -6606,6 +6633,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "30/01",
+        "date": "2026-01-30",
+        "price": "3.11",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6704,6 +6739,14 @@
         "dateText": "23-ти септември",
         "date": "2025-09-23",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "30/01",
+        "date": "2026-01-30",
+        "price": "2.89",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -6978,12 +7021,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "30/01",
+        "date": "2026-01-30",
+        "price": "6.59",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-07",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e058cfaa-200.jpg"
+      },
+      {
+        "date": "2026-01-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e2db0801-200.jpg"
       }
     ]
   },
@@ -10895,6 +10950,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "30/01",
+        "date": "2026-01-30",
+        "price": "9.99",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -11045,6 +11108,18 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Супа от миди",
+    "prices": [
+      {
+        "dateText": "30/01",
+        "date": "2026-01-30",
+        "price": "3.89",
+        "currency": "лв"
       }
     ],
     "images": []
@@ -12351,6 +12426,14 @@
         "dateText": "01-ви септември",
         "date": "2025-09-01",
         "price": "6.80",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "30/01",
+        "date": "2026-01-30",
+        "price": "6.81",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
