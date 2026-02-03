@@ -8076,5 +8076,33 @@
       "name": "Zuppa di vongole",
       "description": "Una zuppa calda e saporita fatta con vongole fresche, aromatizzata con erbe marine e spezie, spesso servita con pane o cracker."
     }
+  },
+  "ГАРНИТУРА Овчарска салата": {
+    "bg": {
+      "name": "Овчарска салата",
+      "description": "Овчарска салата е традиционно българско ястие, което представлява свежа салата от нарязани печени чушки, патладжани, домати, краставици и сирене, подправена с лют пипер и олио. Обикновено се сервира студена като гарнитура или лека закуска."
+    },
+    "en": {
+      "name": "Shepherd's Salad",
+      "description": "Shepherd's Salad is a traditional Bulgarian dish consisting of a fresh salad of chopped roasted peppers, eggplants, tomatoes, cucumbers, and cheese, seasoned with hot paprika and oil. It is typically served cold as a side dish or light snack."
+    },
+    "it": {
+      "name": "Insalata del Pastore",
+      "description": "L'Insalata del Pastore è un piatto tradizionale bulgaro che consiste in un'insalata fresca di peperoni arrostiti, melanzane, pomodori, cetrioli e formaggio, condito con paprika piccante e olio. Viene generalmente servita fredda come contorno o spuntino leggero."
+    }
+  },
+  "Гарнитура айсберг, спанак, авокадо и ленено семе": {
+    "bg": {
+      "name": "Гарнитура айсберг, спанак, авокадо и ленено семе",
+      "description": "Свежа и здравословна гарнитура, съчетаваща крехки листа айсберг, богат спанак, кремообразно авокадо и хрупкави ленени семена. Перфектна за започване на хранене или като допълнение към основното ястие."
+    },
+    "en": {
+      "name": "Iceberg lettuce, spinach, avocado, and flaxseed garnish",
+      "description": "A fresh and healthy garnish combining crisp iceberg lettuce, rich spinach, creamy avocado, and crunchy flaxseeds. Perfect as an appetizer or as a side to the main course."
+    },
+    "it": {
+      "name": "Guarnizione di lattuga iceberg, spinaci, avocado e semi di lino",
+      "description": "Una guarnizione fresca e salutare che combina croccante lattuga iceberg, ricco spinaci, avocado cremoso e semi di lino croccanti. Perfetta come antipasto o come accompagnamento al piatto principale."
+    }
   }
 }
