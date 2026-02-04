@@ -7313,6 +7313,25 @@
     ]
   },
   {
+    "name": "Пилешки късчета с доматен сос и пармезан",
+    "prices": [
+      {
+        "dateText": "04/02",
+        "date": "2026-02-04",
+        "price": "8.00",
+        "currency": "лв",
+        "weight": "0.25",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-02-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4553cd51-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Пилешки хапки",
     "prices": [
       {
@@ -7397,6 +7416,14 @@
         "dateText": "21-ви август",
         "date": "2025-08-21",
         "price": "5.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "04/02",
+        "date": "2026-02-04",
+        "price": "5.91",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -7908,6 +7935,14 @@
         "dateText": "03-ти септември",
         "date": "2025-09-03",
         "price": "4.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "04/02",
+        "date": "2026-02-04",
+        "price": "4.01",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -11813,6 +11848,14 @@
         "dateText": "19-ти август",
         "date": "2025-08-19",
         "price": "9.20",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "04/02",
+        "date": "2026-02-04",
+        "price": "9.19",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"

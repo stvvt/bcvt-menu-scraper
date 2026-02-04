@@ -8104,5 +8104,19 @@
       "name": "Guarnizione di lattuga iceberg, spinaci, avocado e semi di lino",
       "description": "Una guarnizione fresca e salutare che combina croccante lattuga iceberg, ricco spinaci, avocado cremoso e semi di lino croccanti. Perfetta come antipasto o come accompagnamento al piatto principale."
     }
+  },
+  "Пилешки късчета с доматен сос и пармезан": {
+    "bg": {
+      "name": "Пилешки късчета с доматен сос и пармезан",
+      "description": "Това е вкусно ястие, което включва парчета пилешко месо, приготвени до златисто, поднесени с наситен доматен сос и настърган пармезан, който добавя богат вкус и кремообразна текстура."
+    },
+    "en": {
+      "name": "Chicken Pieces with Tomato Sauce and Parmesan",
+      "description": "This is a tasty dish featuring chicken pieces cooked to a golden brown, served with a rich tomato sauce and grated Parmesan cheese, adding a deep flavor and creamy texture."
+    },
+    "it": {
+      "name": "Pezzi di pollo con salsa di pomodoro e parmigiano",
+      "description": "Questo è un piatto gustoso con pezzi di pollo cotti fino a diventare dorati, serviti con una salsa di pomodoro ricca e parmigiano grattugiato, che conferisce un sapore profondo e una consistenza cremosa."
+    }
   }
 }
