@@ -8118,5 +8118,19 @@
       "name": "Pezzi di pollo con salsa di pomodoro e parmigiano",
       "description": "Questo è un piatto gustoso con pezzi di pollo cotti fino a diventare dorati, serviti con una salsa di pomodoro ricca e parmigiano grattugiato, che conferisce un sapore profondo e una consistenza cremosa."
     }
+  },
+  "Шоколадови топчета": {
+    "bg": {
+      "name": "Шоколадови топчета",
+      "description": "Меки и крехки топчета, направени от шоколадово тесто или смес, често обвити с какао или натрошени ядки. Тези сладки деликатеси са популярни като десерт или сладка закуска, perfekte за всяка възраст."
+    },
+    "en": {
+      "name": "Chocolate Balls",
+      "description": "Soft and crumbly balls made from chocolate dough or mixture, often coated with cocoa powder or crushed nuts. These sweet treats are popular as a dessert or snack, suitable for all ages."
+    },
+    "it": {
+      "name": "Palline di cioccolato",
+      "description": "Morbidissime e friabili palline fatte da impasto o miscela di cioccolato, spesso ricoperte di cacao o noci tritate. Questi dolci sono popolari come dessert o merenda, adatti a tutte le età."
+    }
   }
 }

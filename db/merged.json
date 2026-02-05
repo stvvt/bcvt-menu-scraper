@@ -347,6 +347,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "05/02",
+        "date": "2026-02-05",
+        "price": "2.89",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5630,6 +5638,12 @@
         "date": "2025-11-03",
         "price": "4.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "05/02",
+        "date": "2026-02-05",
+        "price": "4.21",
+        "currency": "лв"
       }
     ],
     "images": []
@@ -6147,6 +6161,14 @@
         "dateText": "10-ти септември",
         "date": "2025-09-10",
         "price": "4.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/02",
+        "date": "2026-02-05",
+        "price": "4.91",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -7152,6 +7174,14 @@
         "dateText": "20-ти август",
         "date": "2025-08-20",
         "price": "7.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/02",
+        "date": "2026-02-05",
+        "price": "8.29",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
@@ -12871,6 +12901,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4618a6c6-200.webp"
       }
     ]
+  },
+  {
+    "name": "Шоколадови топчета",
+    "prices": [
+      {
+        "dateText": "05/02",
+        "date": "2026-02-05",
+        "price": "4.09",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Шоколадово брауни",
