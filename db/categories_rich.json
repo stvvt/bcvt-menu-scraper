@@ -8132,5 +8132,47 @@
       "name": "Palline di cioccolato",
       "description": "Morbidissime e friabili palline fatte da impasto o miscela di cioccolato, spesso ricoperte di cacao o noci tritate. Questi dolci sono popolari come dessert o merenda, adatti a tutte le età."
     }
+  },
+  "Бургер с телешко кюфте": {
+    "bg": {
+      "name": "Бургер с телешко кюфте",
+      "description": "Това е класически американски сандвич, състоящ се от месесто телешко кюфте, поставено в мек хляб, обикновено с добавки като салата, домати, лук и сосове."
+    },
+    "en": {
+      "name": "Beef Burger",
+      "description": "A classic American sandwich consisting of a juicy beef patty served in a soft bun, typically accompanied by lettuce, tomatoes, onions, and various sauces."
+    },
+    "it": {
+      "name": "Burger di manzo",
+      "description": "Un classico panino americano composto da un succulento hamburger di manzo, servito in un morbido panino, solitamente accompagnato da lattuga, pomodori, cipolle e salse."
+    }
+  },
+  "Овчарски пай със сос Болонезе": {
+    "bg": {
+      "name": "Овчарски пай със сос Болонезе",
+      "description": "Това е сърдечно ястие, което представлява смес от месо и зеленчуци, покрита с тънък слой тесто и изпечена до златисто. Във варианта със сос Болонезе, към месната смес се добавя богато доматено сосо, който придава насыщен вкус и аромат. Пайтото е популярно за обяд или вечеря, особено в семеен кръг."
+    },
+    "en": {
+      "name": "Shepherd's Pie with Bolognese Sauce",
+      "description": "This hearty dish features a mixture of meat and vegetables topped with a thin layer of pastry and baked until golden. The Bolognese sauce version includes a rich tomato-based sauce added to the meat mixture, giving it a flavorful and aromatic taste. It's a popular dish for lunch or dinner, especially in family gatherings."
+    },
+    "it": {
+      "name": "Torta del Pastore con Salsa Bolognese",
+      "description": "Questo piatto sostanzioso consiste in un mix di carne e verdure coperto da uno strato sottile di pasta e cotto fino a doratura. Nella variante con salsa Bolognese, si aggiunge una ricca salsa a base di pomodoro, che conferisce un sapore ricco e aromatico. È un piatto popolare per pranzo o cena, soprattutto in riunioni familiari."
+    }
+  },
+  "Сарми с телешко, булгур и зеленчуци": {
+    "bg": {
+      "name": "Сарми с телешко, булгур и зеленчуци",
+      "description": "Това е традиционно българско ястие, което включва внимателно увити сърми от ствари листа от киселело зеле или листа от лозови лози, пълнени със смес от мляно телешко месо, булгур и нарязани зеленчуци. След варене, те стават сочни и ароматни, идеални за сервирането им с кисело мляко или кисело зеле."
+    },
+    "en": {
+      "name": "Cabbage rolls with beef, bulgur, and vegetables",
+      "description": "This is a traditional Bulgarian dish consisting of carefully rolled cabbage leaves (made from sour cabbage or grape leaves), filled with a mixture of ground beef, bulgur, and chopped vegetables. After boiling, they become juicy and flavorful, ideal to be served with yogurt or pickled cabbage."
+    },
+    "it": {
+      "name": "Rotoli di cavolo con manzo, bulgur e verdure",
+      "description": "Questo è un piatto tradizionale bulgaro che consiste in foglie di cavolo (da cavolo acido o uva) arrotolate con cura e ripiene di un mix di carne di manzo macinata, bulgur e verdure tritate. Dopo la cottura diventano succose e saporite, da servire con yogurt o crauti."
+    }
   }
 }
