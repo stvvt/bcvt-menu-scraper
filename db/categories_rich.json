@@ -8174,5 +8174,19 @@
       "name": "Rotoli di cavolo con manzo, bulgur e verdure",
       "description": "Questo è un piatto tradizionale bulgaro che consiste in foglie di cavolo (da cavolo acido o uva) arrotolate con cura e ripiene di un mix di carne di manzo macinata, bulgur e verdure tritate. Dopo la cottura diventano succose e saporite, da servire con yogurt o crauti."
     }
+  },
+  "ГАРНИТУРА домати, краставици, чушки , нар": {
+    "bg": {
+      "name": "Гарнитура домати, краставици, чушки, нар",
+      "description": "Свежа и цветна гарнитура от нарязани домати, краставици, чушки и нар, която служи като салата или допълнение към основно ястие, характерна със своята хрупкава свежест и ярки вкусове."
+    },
+    "en": {
+      "name": "Garnish of tomatoes, cucumbers, peppers, and pomegranate",
+      "description": "A fresh and colorful garnish consisting of chopped tomatoes, cucumbers, peppers, and pomegranate, served as a salad or side dish, known for its crunchy freshness and vibrant flavors."
+    },
+    "it": {
+      "name": "Guarnizione di pomodori, cetrioli, peperoni e melograno",
+      "description": "Una fresca e colorata guarnizione composta da pomodori, cetrioli, peperoni e melograno tritati, servita come insalata o contorno, nota per la sua croccantezza rinfrescante e i sapori vivaci."
+    }
   }
 }
