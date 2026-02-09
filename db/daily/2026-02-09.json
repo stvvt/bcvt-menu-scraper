@@ -186,6 +186,22 @@
       "unit": "гр"
     },
     {
+      "name": "Мляко с ориз",
+      "price": "2.19",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/821f4adc-200.jpg",
+      "ean": "8043",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Протеинова торта",
+      "price": "5.81",
+      "currency": "лв",
+      "weight": "120",
+      "unit": "гр"
+    },
+    {
       "name": "Трицветен крем",
       "price": "3.89",
       "currency": "лв",
