@@ -8188,5 +8188,47 @@
       "name": "Guarnizione di pomodori, cetrioli, peperoni e melograno",
       "description": "Una fresca e colorata guarnizione composta da pomodori, cetrioli, peperoni e melograno tritati, servita come insalata o contorno, nota per la sua croccantezza rinfrescante e i sapori vivaci."
     }
+  },
+  "ГАРНИТУРА варени картофи с лук и маслина": {
+    "bg": {
+      "name": "Гарнитура варени картофи с лук и маслина",
+      "description": "Класическа българска гарнитура, състояща се от сварени картофи, подправени с нарязан лук и маслини, подходяща за поднасяне към месни ястия."
+    },
+    "en": {
+      "name": "Boiled potatoes with onions and olives",
+      "description": "A traditional Bulgarian side dish consisting of boiled potatoes seasoned with chopped onions and olives, perfect as an accompaniment to meat dishes."
+    },
+    "it": {
+      "name": "Patate bollite con cipolla e olive",
+      "description": "Un contorno tradizionale bulgaro di patate bollite condite con cipolla tagliata e olive, ideale per accompagnare piatti di carne."
+    }
+  },
+  "ГАРНИТУРА домат, патладжан, маслини и рикота": {
+    "bg": {
+      "name": "Гарнитура домат, патладжан, маслини и рикота",
+      "description": "Тази гарнитура включва свежи резени домати и патладжани, поднесени с маслини и кремообразна рикота. Това е класическо допълнение към месни ястия, което съчетава вкусната комбинация на сочните зеленчуци и млечния деликатес."
+    },
+    "en": {
+      "name": "Vegetable Medley with Tomato, Eggplant, Olives, and Ricotta",
+      "description": "This dish features fresh slices of tomatoes and eggplants, served with olives and creamy ricotta cheese. It is a popular side dish that complements meat dishes with its flavorful combination of juicy vegetables and dairy."
+    },
+    "it": {
+      "name": "Contorno di pomodori, melanzane, olive e ricotta",
+      "description": "Questo contorno include fette di pomodori e melanzane fresche, accompagnate da olive e ricotta cremosa. È un contorno classico che si abbina bene a piatti di carne grazie alla sua combinazione saporita di verdure succose e formaggio cremoso."
+    }
+  },
+  "Зелен боб плакия с кисело мляко": {
+    "bg": {
+      "name": "Зелен боб плакия с кисело мляко",
+      "description": "Това е традиционно българско ястие, приготвено от сварен зелен боб, подправен с пресни подправки и поднесен с кисело мляко. То е леко, освежаващо и популярно през летните месеци, подчертавайки есенцията на българската кухня."
+    },
+    "en": {
+      "name": "Green Beans Plakia with Yogurt",
+      "description": "This is a traditional Bulgarian dish made from boiled green beans, seasoned with fresh herbs and served with yogurt. It is light, refreshing, and popular during the summer months, highlighting the essence of Bulgarian cuisine."
+    },
+    "it": {
+      "name": "Fagioli Verdi Plakia con Yogurt",
+      "description": "Questo è un piatto tradizionale bulgaro fatto con fagioli verdi lessati, insaporiti con erbe fresche e serviti con yogurt. È leggero, rinfrescante e popolare durante i mesi estivi, evidenziando l'essenza della cucina bulgara."
+    }
   }
 }
