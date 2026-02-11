@@ -8230,5 +8230,19 @@
       "name": "Fagioli Verdi Plakia con Yogurt",
       "description": "Questo è un piatto tradizionale bulgaro fatto con fagioli verdi lessati, insaporiti con erbe fresche e serviti con yogurt. È leggero, rinfrescante e popolare durante i mesi estivi, evidenziando l'essenza della cucina bulgara."
     }
+  },
+  "Паниран карфиол": {
+    "bg": {
+      "name": "Паниран карфиол",
+      "description": "Паниран карфиол е ястие, приготвено от главата на карфиол, която се нарязва на парчета, овалва се в смес от брашно, яйца и галета и след това се пържи до златисто. Получава се хрупкава коричка отвън и мек, сочен вътрешност."
+    },
+    "en": {
+      "name": "Fried Cauliflower",
+      "description": "Fried cauliflower is a dish prepared from a cauliflower head cut into pieces, dipped in a mixture of flour, eggs, and breadcrumbs, then fried until golden. It has a crispy crust on the outside and tender, juicy interior."
+    },
+    "it": {
+      "name": "Fiore di cavolfiore impanato",
+      "description": "Il fiore di cavolfiore impanato è un piatto preparato con una testa di cavolfiore tagliata a pezzi, immersa in una miscela di farina, uova e pangrattato e poi fritta fino a doratura. Risulta croccante all'esterno e morbido e succoso all'interno."
+    }
   }
 }
