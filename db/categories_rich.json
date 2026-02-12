@@ -8244,5 +8244,19 @@
       "name": "Fiore di cavolfiore impanato",
       "description": "Il fiore di cavolfiore impanato è un piatto preparato con una testa di cavolfiore tagliata a pezzi, immersa in una miscela di farina, uova e pangrattato e poi fritta fino a doratura. Risulta croccante all'esterno e morbido e succoso all'interno."
     }
+  },
+  "Крем супа от нахут с тахан": {
+    "bg": {
+      "name": "Крем супа от нахут с тахан",
+      "description": "Това е гладка и кремообразна супа, приготвена от сварен нахут, обогатена с тахан (стиса от сусамови семена). Тя има мек, орехов вкус и се сервира топла, често с добавка на зехтин и прясно нарязан магданоз."
+    },
+    "en": {
+      "name": "Chickpea and Tahini Cream Soup",
+      "description": "This is a smooth and creamy soup made from cooked chickpeas, enriched with tahini (a paste made from sesame seeds). It has a mild, nutty flavor and is served warm, often garnished with olive oil and fresh chopped parsley."
+    },
+    "it": {
+      "name": "Zuppa cremosa di ceci e tahin",
+      "description": "È una zuppa liscia e cremosa fatta con ceci cotti, arricchita con tahin (una pasta di semi di sesamo). Ha un sapore delicato e nocciolato, servita calda con un filo di olio d'oliva e prezzemolo fresco tritato."
+    }
   }
 }
