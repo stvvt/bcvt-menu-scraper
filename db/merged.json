@@ -3820,6 +3820,25 @@
     ]
   },
   {
+    "name": "Козуначен мъфин с канела",
+    "prices": [
+      {
+        "dateText": "13/02",
+        "date": "2026-02-13",
+        "price": "0.61",
+        "currency": "лв",
+        "weight": "50",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-02-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e50e7f11-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Козуначен мъфин с локум",
     "prices": [
       {
@@ -4735,6 +4754,14 @@
         "dateText": "05-ти септември",
         "date": "2025-09-05",
         "price": "7.80",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "13/02",
+        "date": "2026-02-13",
+        "price": "8.10",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -13411,6 +13438,14 @@
         "dateText": "25-ти август",
         "date": "2025-08-25",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "13/02",
+        "date": "2026-02-13",
+        "price": "3.79",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"

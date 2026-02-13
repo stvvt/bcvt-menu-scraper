@@ -8258,5 +8258,19 @@
       "name": "Zuppa cremosa di ceci e tahin",
       "description": "È una zuppa liscia e cremosa fatta con ceci cotti, arricchita con tahin (una pasta di semi di sesamo). Ha un sapore delicato e nocciolato, servita calda con un filo di olio d'oliva e prezzemolo fresco tritato."
     }
+  },
+  "Козуначен мъфин с канела": {
+    "bg": {
+      "name": "Козуначен мъфин с канела",
+      "description": "Мъфин с мека, ароматна козуначена основа, обогатена с канела, която придава топъл и пролетен вкус. Идеален за закуска или следобеден десерт."
+    },
+    "en": {
+      "name": "Cinnamon Babka Muffin",
+      "description": "A muffin with a soft, aromatic babka base enriched with cinnamon, giving it a warm and spring-like flavor. Perfect for breakfast or an afternoon treat."
+    },
+    "it": {
+      "name": "Muffin alla cannella con babka",
+      "description": "Un muffin con una base morbida e aromatica di babka, arricchita con cannella, che conferisce un sapore caldo e primaverile. Ideale per colazione o una merenda pomeridiana."
+    }
   }
 }
