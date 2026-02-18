@@ -519,6 +519,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "18/02",
+        "date": "2026-02-18",
+        "price": "3.21",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -1271,6 +1279,20 @@
         "price": "2.50",
         "currency": "лв",
         "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА Боб с лютеница",
+    "prices": [
+      {
+        "dateText": "18/02",
+        "date": "2026-02-18",
+        "price": "1.51",
+        "currency": "лв",
+        "weight": "80",
         "unit": "гр"
       }
     ],
@@ -3566,6 +3588,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "18/02",
+        "date": "2026-02-18",
+        "price": "2.99",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3953,6 +3983,14 @@
         "dateText": "02-ри септември",
         "date": "2025-09-02",
         "price": "4.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "18/02",
+        "date": "2026-02-18",
+        "price": "4.91",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -6752,6 +6790,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "18/02",
+        "date": "2026-02-18",
+        "price": "3.21",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6948,6 +6994,14 @@
         "dateText": "27-ти август",
         "date": "2025-08-27",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "18/02",
+        "date": "2026-02-18",
+        "price": "2.89",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"

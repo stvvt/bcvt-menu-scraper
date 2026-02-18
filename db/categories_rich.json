@@ -8272,5 +8272,19 @@
       "name": "Muffin alla cannella con babka",
       "description": "Un muffin con una base morbida e aromatica di babka, arricchita con cannella, che conferisce un sapore caldo e primaverile. Ideale per colazione o una merenda pomeridiana."
     }
+  },
+  "ГАРНИТУРА Боб с лютеница": {
+    "bg": {
+      "name": "Боб с лютеница",
+      "description": "Това е традиционно българско ястие, което съчетава бял боб, сварен до мекота, с ароматна и леко пикантна лютеница — доматена паста с подправки и чушки. Често се сервира като гарнитура или самостоятелно ястие, подходящо за студени дни."
+    },
+    "en": {
+      "name": "Beans with Lutenitsa",
+      "description": "This is a traditional Bulgarian dish that combines soft-cooked white beans with aromatic and mildly spicy lutenitsa—a tomato and pepper paste with spices. It is often served as a side dish or as a main course, perfect for cold days."
+    },
+    "it": {
+      "name": "Fagioli con Lutenitsa",
+      "description": "Questo è un piatto tradizionale bulgaro che combina fagioli bianchi cotti fino a diventare morbidi, con la lutenitsa, una pasta di pomodoro e peperoni speziata e aromatica. Spesso viene servito come contorno o piatto principale, ideale per le giornate fredde."
+    }
   }
 }
