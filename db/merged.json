@@ -1455,6 +1455,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА Снежанка",
+    "prices": [
+      {
+        "dateText": "19/02",
+        "date": "2026-02-19",
+        "price": "2.09",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА Цезар",
     "prices": [
       {
@@ -2805,6 +2819,14 @@
         "dateText": "18-ти септември",
         "date": "2025-09-18",
         "price": "5.60",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "19/02",
+        "date": "2026-02-19",
+        "price": "5.59",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -4691,6 +4713,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6fcd1a46-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Кюфте от боб",
+    "prices": [
+      {
+        "dateText": "19/02",
+        "date": "2026-02-19",
+        "price": "2.50",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Кюфте от броколи с моцарела",
@@ -7185,6 +7221,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "19/02",
+        "date": "2026-02-19",
+        "price": "8.19",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -8733,6 +8777,20 @@
         "price": "9.00",
         "currency": "лв",
         "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пържена пъстърва",
+    "prices": [
+      {
+        "dateText": "19/02",
+        "date": "2026-02-19",
+        "price": "10.17",
+        "currency": "лв",
+        "weight": "300",
         "unit": "гр"
       }
     ],
