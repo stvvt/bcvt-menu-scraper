@@ -5,5 +5,5 @@ node dist/cli.js menu https://bcvt.eu/L/S/21254/m/Dirkhlbn --pretty > db/bcvt/da
 
 ./merge.sh db/bcvt/daily/*.json > db/bcvt/merged.json
 
-./categorize.sh
-./categorize_rich.sh
+./categorize.sh bcvt
+./categorize_rich.sh bcvt
