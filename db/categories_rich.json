@@ -8286,5 +8286,61 @@
       "name": "Fagioli con Lutenitsa",
       "description": "Questo è un piatto tradizionale bulgaro che combina fagioli bianchi cotti fino a diventare morbidi, con la lutenitsa, una pasta di pomodoro e peperoni speziata e aromatica. Spesso viene servito come contorno o piatto principale, ideale per le giornate fredde."
     }
+  },
+  "ГАРНИТУРА Снежанка": {
+    "bg": {
+      "name": "Гарнитура Снежанка",
+      "description": "Това е традиционна българска гарнитура, която включва вариации на задушени зеленчуци като моркови, зеле и картофи, подправени леко с подправки и сервирани като допълнение към основни ястия."
+    },
+    "en": {
+      "name": "Snezhanka Side Dish",
+      "description": "This is a traditional Bulgarian side dish featuring sautéed vegetables such as carrots, cabbage, and potatoes, lightly seasoned with spices and served as a complement to main courses."
+    },
+    "it": {
+      "name": "Contorno Snezanka",
+      "description": "Questo è un contorno tradizionale bulgaro che include verdure saltate come carote, cavolo e patate, leggermente condite con spezie e servite come accompagnamento ai piatti principali."
+    }
+  },
+  "Кюфте от боб": {
+    "bg": {
+      "name": "Кюфте от боб",
+      "description": "Това е вегетарианско ястие, при което сварен боб се оформя на малки кръгли кюфтенца, които се изпичат или запичат до златисто. Обикновено се сервира с лук, подправки и кисело мляко."
+    },
+    "en": {
+      "name": "Bean Patty",
+      "description": "This is a vegetarian dish where cooked beans are shaped into small round patties, which are baked or fried until golden. It is usually served with onions, spices, and yogurt."
+    },
+    "it": {
+      "name": "Polpette di fagioli",
+      "description": "Questo è un piatto vegetariano in cui i fagioli cotti vengono modellati in piccole polpette rotonde, che vengono cotte al forno o fritte fino a doratura. Solitamente viene servito con cipolle, spezie e yogurt."
+    }
+  },
+  "Пържена пъстърва": {
+    "bg": {
+      "name": "Пържена пъстърва",
+      "description": "Това е традиционно блюдо, приготвено от прясна риба пъстърва, която е пържена до златисто. Рибата е обикновено поръсена с малко сол и подправки, а се сервира гореща, често с лимон и свежи зеленчуци или картофи като гарнитура."
+    },
+    "en": {
+      "name": "Fried Trout",
+      "description": "This is a traditional dish made from fresh trout fish, fried until golden. The fish is usually sprinkled with a little salt and spices, and served hot, often with lemon and fresh vegetables or potatoes as a side dish."
+    },
+    "it": {
+      "name": "Trota fritta",
+      "description": "Questo è un piatto tradizionale preparato con trota fresca, fritta fino a doratura. Il pesce è solitamente condito con sale e spezie, e servito caldo, spesso con limone e verdure fresche o patate come contorno."
+    }
+  },
+  "Свински карета с ловджийски сос": {
+    "bg": {
+      "name": "Свински карета с ловджийски сос",
+      "description": "Вкусно ястие, приготвено от нежни свински филета, които се запичат до златисто и се сервират с богат, ароматен ловджийски сос, съчетаващ домати, гъби, лук и подправки."
+    },
+    "en": {
+      "name": "Pork tenderloin with hunter's sauce",
+      "description": "A delicious dish made from tender pork fillets, grilled to golden perfection and served with a rich, aromatic hunter's sauce, blending tomatoes, mushrooms, onions, and spices."
+    },
+    "it": {
+      "name": "Filetto di maiale con salsa da cacciatore",
+      "description": "Delizioso piatto preparato con teneri filetti di maiale, grigliati fino a doratura e serviti con una ricca salsa da cacciatore, che combina pomodori, funghi, cipolle e spezie."
+    }
   }
 }

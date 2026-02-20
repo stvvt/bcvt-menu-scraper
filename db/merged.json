@@ -3419,6 +3419,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "20/02",
+        "date": "2026-02-20",
+        "price": "4.01",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3912,6 +3920,10 @@
       {
         "date": "2025-07-25",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1573fd0-200.jpg"
+      },
+      {
+        "date": "2026-02-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e50e7f11-200.jpg"
       }
     ]
   },
@@ -8149,6 +8161,14 @@
         "currency": "лв",
         "weight": "130",
         "unit": "гр"
+      },
+      {
+        "dateText": "20/02",
+        "date": "2026-02-20",
+        "price": "4.30",
+        "currency": "лв",
+        "weight": "130",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -10763,6 +10783,20 @@
     ]
   },
   {
+    "name": "Свински карета с ловджийски сос",
+    "prices": [
+      {
+        "dateText": "20/02",
+        "date": "2026-02-20",
+        "price": "9.74",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Свински късчета с кисели краставички, гъби и сметана",
     "prices": [
       {
@@ -13253,9 +13287,22 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "20/02",
+        "date": "2026-02-20",
+        "price": "2.99",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-02-20",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ff681526-200.png"
+      }
+    ]
   },
   {
     "name": "Шоколадов фъдж с шам фъстък",
