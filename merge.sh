@@ -20,7 +20,7 @@ for file in "$@"; do
     echo "," >> "$temp_json"
   fi
   
-  # Strip db/daily/ prefix and .json suffix from filename
+  # Strip db/bcvt/daily/ prefix and .json suffix from filename
   basename_file=$(basename "$file" .json)
   jq --arg filename "$basename_file" '. + {"filename": $filename}' "$file" >> "$temp_json"
 done

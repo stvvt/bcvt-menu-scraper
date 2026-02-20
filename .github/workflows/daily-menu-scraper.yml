@@ -41,7 +41,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add db/
+          git add db/bcvt/
           git commit -m "Menu data for ${{ steps.date.outputs.date }}" || exit 0
           git push
 
