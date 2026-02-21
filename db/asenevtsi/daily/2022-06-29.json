@@ -1,0 +1,39 @@
+{
+  "date": "29.06.2022",
+  "meals": [
+    { "name": "Градинарска", "price": 3.10, "currency": "BGN" },
+    { "name": "Крем от моркови с джинджифил", "price": 3.10, "currency": "BGN" },
+    { "name": "Таратор", "price": 2.90, "currency": "BGN" },
+    { "name": "Топчета", "price": 3.30, "currency": "BGN" },
+
+    { "name": "Панагюрска (зеле, краставица, печен пипер, домат, чесън и целина)", "price": 5.50, "currency": "BGN" },
+
+    { "name": "Домашен сок 330мл (бъз, малина или ягода)", "price": 2.90, "currency": "BGN" },
+    { "name": "Кана домашен сок 1л (бъз, малина или ягода)", "price": 7.00, "currency": "BGN" },
+    { "name": "Цитронада 330мл (бъз, малина или ягода)", "price": 4.00, "currency": "BGN" },
+    { "name": "Кана цитронада 1л (бъз, малина или ягода)", "price": 11.00, "currency": "BGN" },
+
+    { "name": "Ориз със спанак и гъби", "price": 5.00, "currency": "BGN" },
+    { "name": "Шак шукa (яйца в доматен сос)", "price": 5.50, "currency": "BGN" },
+    { "name": "Пълнени пиперки с кайма и ориз", "price": 7.00, "currency": "BGN" },
+    { "name": "Запечено пилешко филе с броколи и пушена гауда върху паста фарфале със сос от сирена", "price": 7.50, "currency": "BGN" },
+    { "name": "Свински пържоли с картофи соте", "price": 8.00, "currency": "BGN" },
+    { "name": "Агнешко-телешка плескавица барбекю", "price": 7.50, "currency": "BGN" },
+    { "name": "Боб барбекю", "price": 5.80, "currency": "BGN" },
+    { "name": "Миш маш барбекю", "price": 6.90, "currency": "BGN" },
+    { "name": "Бъркани яйца с бекон и френска моцарела барбекю", "price": 6.00, "currency": "BGN" },
+    { "name": "Омлет барбекю", "price": 5.50, "currency": "BGN" },
+
+    { "name": "Миди барбекю", "price": 9.50, "currency": "BGN" },
+    { "name": "Пъстърва барбекю с печен картоф", "price": 12.50, "currency": "BGN" },
+    { "name": "Сафрид", "price": 13.00, "currency": "BGN" },
+
+    { "name": "Саламан комбо", "price": 19.90, "currency": "BGN" },
+    { "name": "Токио комбо", "price": 26.00, "currency": "BGN" },
+    { "name": "Нирвана комбо", "price": 14.20, "currency": "BGN" },
+
+    { "name": "Крем брюле", "price": 3.50, "currency": "BGN" },
+    { "name": "Торта Венеция", "price": 4.00, "currency": "BGN" },
+    { "name": "Торта Сахер", "price": 4.20, "currency": "BGN" }
+  ]
+}
