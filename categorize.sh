@@ -8,8 +8,9 @@ test ! -f db/${venue}/categories.json && echo '{}' > db/${venue}/categories.json
 jq -r --slurpfile existing db/${venue}/categories.json '
   map(select(.name | in($existing[0]) | not)) | .[].name
 ' db/${venue}/merged.json \
-  | tr '\n' '\0' \
-  | xargs -0 -I {} node categorize.mjs {} \
+  | while IFS= read -r dish; do
+      [ -n "$dish" ] && node categorize.mjs "$dish"
+    done \
   | jq -s 'add' \
   | jq 'input + .' - db/${venue}/categories.json > db/${venue}/categories_new.json \
-  && mv db/${venue}/categories_new.json db/${venue}/categories.json
+  && mv db/${venue}/categories_new.json db/${venue}/categories.json    
