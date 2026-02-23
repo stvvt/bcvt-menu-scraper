@@ -8342,5 +8342,33 @@
       "name": "Filetto di maiale con salsa da cacciatore",
       "description": "Delizioso piatto preparato con teneri filetti di maiale, grigliati fino a doratura e serviti con una ricca salsa da cacciatore, che combina pomodori, funghi, cipolle e spezie."
     }
+  },
+  "ГАРНИТУРА айсберг с риба тон и царевица": {
+    "bg": {
+      "name": "ГАРНИТУРА айсберг с риба тон и царевица",
+      "description": "Лека салата, съчетаваща свежи листа айсберг, парчета риба тон и сладка царевица. Подходяща за бърза и здравословна закуска или като освежаващ гарнитур към основното ястие."
+    },
+    "en": {
+      "name": "Iceberg Garnish with Tuna and Corn",
+      "description": "A light salad combining fresh iceberg lettuce leaves, pieces of tuna, and sweet corn. Perfect for a quick and healthy snack or a refreshing side dish to the main course."
+    },
+    "it": {
+      "name": "Guarnizione iceberg con tonno e mais",
+      "description": "Un'insalata leggera che combina foglie fresche di lattuga iceberg, pezzi di tonno e mais dolce. Ideale per uno spuntino veloce e salutare o come accompagnamento rinfrescante al piatto principale."
+    }
+  },
+  "Печен сладък картоф с билки": {
+    "bg": {
+      "name": "Печен сладък картоф с билки",
+      "description": "Традиционно популярно ястие, приготвено чрез изпеченето на сладки картофи, които се сервират с пресни билки като магданоз, рукола и копър. Тази кухня предлага комбинация от сладостта на картофа и свежестта на билките, създавайки вкусно и ароматно ястие."
+    },
+    "en": {
+      "name": "Baked Sweet Potato with Herbs",
+      "description": "A popular dish prepared by baking sweet potatoes, which are served with fresh herbs such as parsley, arugula, and dill. This dish combines the sweetness of the potato with the freshness of the herbs, creating a delicious and aromatic meal."
+    },
+    "it": {
+      "name": "Patata dolce al forno con erbe",
+      "description": "Piatto popolare preparato cuocendo al forno patate dolci, servite con erbe fresche come prezzemolo, rucola e aneto. Questa combinazione unisce la dolcezza delle patate con la freschezza delle erbe, creando un piatto gustoso e aromatico."
+    }
   }
 }
