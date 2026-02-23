@@ -225,16 +225,16 @@
   },
   "{}": {
     "bg": {
-      "name": "{}",
-      "description": "Ястие, което се състои от {основни съставки} и е популярно в българската кухня. Обикновено се приготвя чрез {начин на приготвяне} и е характерно със своя вкус и аромат."
+      "name": "Шопска салата",
+      "description": "Тази класическа българска салата се състои от нарязани домати, краставици, лук и биволско сирене, подправени с магданоз и олио. Това е свежо и ароматно ястие, което често се сервира като предястие или гарнитура."
     },
     "en": {
-      "name": "{}",
-      "description": "A dish made of {main ingredients} and popular in Bulgarian cuisine. It is usually prepared by {cooking method} and is known for its taste and aroma."
+      "name": "Shopska Salad",
+      "description": "This classic Bulgarian salad consists of chopped tomatoes, cucumbers, onions, and Bulgarian sirene cheese, seasoned with parsley and oil. It is a fresh and flavorful dish often served as an appetizer or side dish."
     },
     "it": {
-      "name": "{}",
-      "description": "Un piatto fatto di {ingredienti principali} e popolare nella cucina bulgara. Solitamente viene preparato con {metodo di cottura} ed è noto per il suo gusto e aroma."
+      "name": "Insalata Shopska",
+      "description": "Questa classica insalata bulgara è composta da pomodori, cetrioli, cipolle e formaggio sirene, condita con prezzemolo e olio. È un piatto fresco e saporito, spesso servito come antipasto o contorno."
     }
   },
   "Запеканка с пиле, гъби и броколи барбекю": {
@@ -1175,9 +1175,9 @@
       "description": "Un dessert leggero e rinfrescante, composto da strati di biscotti imbevuti di liquore, tra cui due tipi di mousse - uno più leggero e cremoso, e uno più dolce e denso, creando un gusto e una consistenza armoniosi."
     }
   },
-  "БИСКВИТЕНА С МАСКАРПОНЕ": {
+  "БИСКВИТЕНА ТОРТА С МАСКАРПОНЕ": {
     "bg": {
-      "name": "Бисквитена с Маскарпоне",
+      "name": "БИСКВИТЕНА ТОРТА С МАСКАРПОНЕ",
       "description": "Лека и кремообразна сладка извара, приготвена с напоени в кафе бисквити и слой от маскарпоне сирене. Това е популярен италиански десерт, който се сервира охладен и с богат вкус на кафе и сирене."
     },
     "en": {
@@ -1245,7 +1245,7 @@
       "description": "La zuppa di fagioli è un piatto tradizionale bulgaro preparato con fagioli, verdure, spezie e spesso con carne o salsiccia. Ha una consistenza densa e saporita, ed è popolare come piatto caldo e sostanzioso nei giorni freddi."
     }
   },
-  "БОРЩ": {
+  "БОРШ": {
     "bg": {
       "name": "Боршч",
       "description": "Боршч е традиционна българска супа, приготвяна основно от цвекло, което й придава характерния червен цвят. Често се сервира гореща с добавка на кисело мляко или сметана, и се поднася с хрупкави хлябове. Това ястие е любимо за зимните месеци и има богат вкус, който съчетава киселите и сладките нотки на цвеклото."
@@ -1259,7 +1259,7 @@
       "description": "Il borscht è una zuppa di verdure tradizionale, preparata principalmente con barbabietola, che conferisce il suo caratteristico colore rosso intenso. Viene spesso servito caldo con un cucchiaio di panna acida o yogurt e accompagnato da pane croccante. Questo piatto è molto popolare nei mesi invernali e ha un sapore ricco che combina note acidule e dolci della barbabietola."
     }
   },
-  "БРАUNI В КРЕМ КАРАМЕЛ": {
+  "БРАУНИ В КРЕМ КАРАМЕЛ": {
     "bg": {
       "name": "Брауни в крем карамел",
       "description": "Шоколадовият брауни се занася върху кремообразен карамелен сос, създавайки сочен десерт, който съчетава богатството на тъмния шоколад с деликатната сладост и карамеления вкус на карамеления сос."
@@ -1357,9 +1357,9 @@
       "description": "Questo è un piatto tradizionale bulgaro composto da una combinazione di verdure fresche, stufate e condite con spezie aromatiche. Viene generalmente servito come piatto principale o contorno, ideale per l'estate e la primavera."
     }
   },
-  "ГРАХ ЯЧНИЯ": {
+  "ГРАХ ЯХНИЯ": {
     "bg": {
-      "name": "Грах ячния",
+      "name": "Грах яхния",
       "description": "Традиционно българско ястие, приготвено от зелени грах и фасул, варени в ароматен бульон с подправки. Обикновено се сервира топло и е част от зимното меню."
     },
     "en": {
@@ -1469,7 +1469,7 @@
       "description": "Un piatto tradizionale bulgaro preparato con sottili fettine di carne impanate e fritte fino a doratura. Viene servito con contorno di cavolo e carote lessati, fondendo la morbidezza della carne con la freschezza delle verdure."
     }
   },
-  "ДОМАШЕНА КРЕМ С ХРУПКАВА МОЦАРЕЛА И ПЕСТО": {
+  "ДОМАШНА КРЕМ С ХРУПКАВА МОЦАРЕЛА И ПЕСТО": {
     "bg": {
       "name": "Домашен крем с хрупкава моцарела и песто",
       "description": "Вкусен и кремообразен десерт, приготвен с мек домашен крем и гарниран с хрупкава моцарела и ароматен песто. Перфектен за завършек на всяко хранене."
@@ -1483,9 +1483,9 @@
       "description": "Un delizioso e cremoso dessert preparato con morbida crema fatta in casa, guarnito con mozzarella croccante e pesto aromatico. Perfetto per concludere qualsiasi pasto."
     }
   },
-  "ДОМАШЕНА КРЕМ СУПА С МОЦАРЕЛА И ПЕСТО": {
+  "ДОМАШНА КРЕМ СУПА С МОЦАРЕЛА И ПЕСТО": {
     "bg": {
-      "name": "Домашена крем супа с моцарела и песто",
+      "name": "ДОМАШНА крем супа с моцарела и песто",
       "description": "Топла, кремообразна супа с мек вкус на моцарела и ароматен домашен песто, сервирана топла за уютен обяд или вечеря."
     },
     "en": {
@@ -1609,7 +1609,7 @@
       "description": "Una deliziosa sformato preparato con pezzi di maiale, funghi succosi e patate tenere, insaporito con salsa barbecue. Cotto al forno fino a doratura, con una crosta croccante e invitante sopra."
     }
   },
-  "ЗАПЕЧЕН БОБ СЪС СВИНСКИ КЮШЕТА": {
+  "ЗАПЕЧЕН БОБ СЪС СВИНСКИ КЮФТЕТА": {
     "bg": {
       "name": "Запечен боб със свински кюфтета",
       "description": "Традиционно българско ястие, приготвено със сварен боб, който се поставя в гюне и се запича във фурната заедно с апетитни свински кюфтета. Смесицата от кремообразен боб и сочни кюфтета създава богато и искрящо на вкус ястие, което е любимо на мнозина."
@@ -1735,10 +1735,10 @@
       "description": "Il risotto verde è un cremoso piatto a base di riso Arborio, mescolato con verdure fresche e aromatiche come spinaci, borragine fresca, prezzemolo e basilico. Spesso viene servito con parmigiano grattugiato e olio d'oliva, rappresentando una variante salutare e fresca del tradizionale risotto italiano."
     }
   },
-  "ЗЕЛЕНЧУКОВ БОРЩ": {
+  "ЗЕЛЕНЧУКОВ БОРШ": {
     "bg": {
-      "name": "Зеленчукков борщ",
-      "description": "Зеленчукът борщ е традиционна българска супа, приготвена от смес от прясно или варено зеленчуци като зеле, моркови, картофи и домати. Той е богат на вкус и витамини, с характерен цвят и аромат, носещ усещане за топлина и домашен уют."
+      "name": "Зеленчукков БОРШ",
+      "description": "Зеленчукът БОРШ е традиционна българска супа, приготвена от смес от прясно или варено зеленчуци като зеле, моркови, картофи и домати. Той е богат на вкус и витамини, с характерен цвят и аромат, носещ усещане за топлина и домашен уют."
     },
     "en": {
       "name": "Vegetable Borscht",
@@ -1959,9 +1959,9 @@
       "description": "Un piatto cremoso preparato con patate bollite frullate, mescolate con latte, burro e condimenti, servito come zuppa leggera fredda o piatto laterale."
     }
   },
-  "КАРТОФЕНА ЯЧНИЯ": {
+  "КАРТОФЕНА ЯХНИЯ": {
     "bg": {
-      "name": "Картофена ячния",
+      "name": "Картофена яхния",
       "description": "Това е традиционно българско ястие, приготвено от картофи, яйца и подправки. Картофите се нарязват на кръгчета или кубчета и се варят, след което се смесват с разбити яйца и се запичат до златиста коричка. Ястието е вкусно, засищащо и често се сервира като основно ястие или гарнитура."
     },
     "en": {
@@ -2057,7 +2057,7 @@
       "description": "Questo piatto consiste in fette di cetriolo fresco disposte su una piccola placchetta di formaggio. Sopra si versa una riduzione di balsamico — una salsa densa e caramellata con una nota acidula che arricchisce il sapore. Decorato con semi di sesamo freschi, apporta un aroma nocciolato e croccantezza."
     }
   },
-  "КРЕМ БРИОЛЕ": {
+  "КРЕМ БРЮЛЕ": {
     "bg": {
       "name": "Крем брюле",
       "description": "Крем брюле е класически френски десерт, съставен от гладък, богат ванилов крем, покрит с крехка карамелизирана захарна коричка. След като се сервира, горната захарна кора се чупи с лъжица, разкривайки крема вътре."
@@ -2309,9 +2309,9 @@
       "description": "Lesha è un'insalata tradizionale bulgara a base di verdure fresche tritate finemente, come cetrioli, pomodori, peperoni e cipolle, condita con prezzemolo e olio d'oliva. Viene solitamente servita fredda come piatto rinfrescante durante le giornate calde."
     }
   },
-  "ЛЕЩА ЯЧНИЯ": {
+  "ЛЕЩА ЯХНИЯ": {
     "bg": {
-      "name": "Леща ячния",
+      "name": "Леща яхния",
       "description": "Традиционно българско ястие, приготвено от сварена леща, която е меко и кремообразно плодче, подправена с подправки и по желание с мазнина или кисело мляко. Обикновено се сервира като основно ястие или гарнитура, особено популярна през студените месеци."
     },
     "en": {
@@ -2407,7 +2407,7 @@
       "description": "La banitsa al latte è un piatto tradizionale bulgaro che consiste in una pasta simile a una torta, preparata con latte fresco e formaggio. È soffice, con una crosta dorata e un interno morbido e umido. Di solito viene servita calda ed è popolare a colazione o come pranzo leggero."
     }
   },
-  "МУСАКА С МИСЕЛО МЛЯКО": {
+  "МУСАКА С КИСЕЛО МЛЯКО": {
     "bg": {
       "name": "Мусака с месо и мляко",
       "description": "Класическо българско ястие, приготвено от слоесто печено картофи, месо и заливка с млечен сос. Обикновено се сервира топла, с богат вкус и кремообразна текстура."
@@ -2421,7 +2421,7 @@
       "description": "Un piatto tradizionale bulgaro fatto di strati di patate al forno, carne e coperto con una salsa cremosa a base di latte. Solitamente servito caldo, ha un sapore ricco e una consistenza vellutata."
     }
   },
-  "МУСАКА С НИСЕЛО МЛЯКО": {
+  "МУСАКА С КИСЕЛО МЛЯКО": {
     "bg": {
       "name": "Мусака с ниско мляко",
       "description": "Класическо българско ястие, приготвено от слоеста комбинация от картофи, месо и зеленчуци, покрита с богат сос и залята с ниско мляко, което придава мекота и кремообразност."
@@ -2785,7 +2785,7 @@
       "description": "Questo piatto è composto da fegatini di pollo avvolti in sarmale di carne di maiale e riso, cotti al forno sotto una ricca salsa besamel cremosa. Adatto a coloro che amano piatti cremosi e a base di carne."
     }
   },
-  "ПИЛЕШКА ПЪРЖОЛА ОТ БУТ БАРБЕКЬЮ С ГАРНИТУРА": {
+  "ПИЛЕШКА ПЪРЖОЛА ОТ БУТ БАРБЕКЮ С ГАРНИТУРА": {
     "bg": {
       "name": "Пилешка пържола от бут барбекю с гарнитура",
       "description": "Голяма пилешка пържола, приготвена на скара с ароматен барбекю сос, сервирана с разнообразни гарнитури като пържени картофи, салата или гарнитура от задушени зеленчуци. Подходящо за любителите на месо и вкусна, смела кухня."
@@ -2799,7 +2799,7 @@
       "description": "Una grande cotoletta di pollo alla griglia con salsa barbecue aromatica, servita con contorni come patatine fritte, insalata o verdure al vapore. Ideale per gli amanti della carne e di piatti gustosi e sostanziosi."
     }
   },
-  "ПИЛЕШКА ПЪРЖОЛА ОТ БУТ БАРБЕКЬЮ С КАРТОФЕНА САЛАТА": {
+  "ПИЛЕШКА ПЪРЖОЛА ОТ БУТ БАРБЕКЮ С КАРТОФЕНА САЛАТА": {
     "bg": {
       "name": "Пилешка пържола от бут барбекю с картофена салата",
       "description": "Традиционно българско ястие, приготвено от пържено пиле, мариновано с барбекю сос и сервирано с пресна картофена салата, която е освежаваща и подхожда перфектно към богатството на вкусовете."
@@ -2813,7 +2813,7 @@
       "description": "Un piatto tradizionale bulgaro composto da pollo alla griglia marinato con salsa barbecue, accompagnato da un'insalata di patate fresca e rinfrescante che si abbina perfettamente ai sapori intensi."
     }
   },
-  "ПИЛЕШКА ПЪРЖОЛА ОТ БУТ БАРБЕКЬЮ СЪС ЗЕЛЕ И КОРКОВИ": {
+  "ПИЛЕШКА ПЪРЖОЛА ОТ БУТ БАРБЕКЮ СЪС ЗЕЛЕ И КОРКОВИ": {
     "bg": {
       "name": "Пилешка пържола от бут барбекю със зеле и коркови",
       "description": "Това ястие представлява скара от месо на пиле, приготвена на грил, със страни от свежо зеле и коркови гъби. Месото е добре овкусено и сочно, а комбинацията със зеле и гъбите придава свежест и богатство на вкуса."
@@ -2869,7 +2869,7 @@
       "description": "Questo piatto presenta succose ali di pollo marinate in una salsa barbecue aromatica e grigliate fino a ottenere un colore dorato. Accompagnate da cavolo e carote fresche e tritate, offrono un sapore equilibrato con una dolcezza delicata e un tocco piccante, perfetto per gli amanti della carne e del barbecue."
     }
   },
-  "ПИЛЕШКИ КЮШЕТА ОТ БУТ С ГЪБИ И СМЕТАНА ВЪРХУ ОРИЗ БАРБЕКЮ": {
+  "ПИЛЕШКИ КЮФТЕТА ОТ БУТ С ГЪБИ И СМЕТАНА ВЪРХУ ОРИЗ БАРБЕКЮ": {
     "bg": {
       "name": "Пилешки кюфтета от бут с гъби и сметана върху ориз Барбекю",
       "description": "Това ястие включва сочни пилешки кюфтета, приготвени от прясно пилешко месо, поднесени с гъбена сос и богата сметана. Всичко това е разположено върху плъстък слой ароматен ориз, гарниран с барбекю сос за допълнителен вкус."
@@ -3009,10 +3009,10 @@
       "description": "Piacevole piatto bulgaro fatto con manzo, cotto fino a diventare morbido e insaporito con spezie tradizionali. Questo piatto vegano è popolare durante i periodi di digiuno religioso e apprezzato per il suo sapore ricco e la consistenza delicata."
     }
   },
-  "ПУШКА": {
+  "ПУЕШКА": {
     "bg": {
-      "name": "Пушка",
-      "description": "Пушка е традиционно българско ястие, което представлява печени или пържени месни топки, обикновено направени от смесено месо и подправки. Те са сочни, ароматни и често сервират с гарнитура като картофи или зеленчуци."
+      "name": "ПУЕШКА",
+      "description": "ПУЕШКА е традиционно българско ястие, което представлява печени или пържени месни топки, обикновено направени от смесено месо и подправки. Те са сочни, ароматни и често сервират с гарнитура като картофи или зеленчуци."
     },
     "en": {
       "name": "Poushka",
@@ -3023,9 +3023,9 @@
       "description": "La poushka è un piatto tradizionale bulgaro composto da polpette di carne cotte al forno o fritte, preparate con un misto di carne e spezie. Sono succose e aromatiche, solitamente accompagnate da contorni di patate o verdure."
     }
   },
-  "ПУШКО ЛЮТИКА": {
+  "ПУЕШКОЛЮТИКА": {
     "bg": {
-      "name": "Пушко Лютика",
+      "name": "ПУЕШКОЛютика",
       "description": "Традиционно българско ястие, представляващо смес от печени чушки и домати, овкусени с билки, което се сервира като апетитна и лека закуска или предястие."
     },
     "en": {
@@ -3037,9 +3037,9 @@
       "description": "Un piatto tradizionale bulgaro che consiste in una miscela di peperoni e pomodori arrostiti, aromatizzati con erbe, servito come antipasto gustoso e leggero."
     }
   },
-  "ПУШКО МЕСО С ОРИЗ И ЗЕЛЕНЧУЦИ НА ФУРНА": {
+  "ПУЕШКОМЕСО С ОРИЗ И ЗЕЛЕНЧУЦИ НА ФУРНА": {
     "bg": {
-      "name": "Пушко месо с ориз и зеленчуци на фурна",
+      "name": "ПУЕШКОмесо с ориз и зеленчуци на фурна",
       "description": "Тази ястие включва бавно печено месо, обикновено свинско или телешко, което се сервира с въвличен ориз и разнообразни зеленчуци, като моркови, картофи и грах. Месото е добре овкусено и печено до златисто, а оризът и зеленчуците се допълват с ароматни подправки, като чубрица и черен пипер. Това е уютно и пълно с вкус ястие, което е популярна домашна рецепта в България."
     },
     "en": {
@@ -3051,9 +3051,9 @@
       "description": "Questo piatto include carne cotta lentamente, solitamente di maiale o manzo, servita con riso soffice e una varietà di verdure come carote, patate e piselli. La carne è ben insaporita e cotta fino a diventare dorata, mentre riso e verdure sono arricchiti con spezie aromatiche come paprika e pepe nero. È un piatto comfort food ricco di sapore, molto popolare come ricetta casalinga in Bulgaria."
     }
   },
-  "ПУШКО С ПРЯНО ЗЕЛЕ НА ФУРНА": {
+  "ПУЕШКОС ПРЯНО ЗЕЛЕ НА ФУРНА": {
     "bg": {
-      "name": "Пушко с пряно зеле на фурна",
+      "name": "ПУЕШКОс пряно зеле на фурна",
       "description": "Това е традиционно българско ястие, приготвено чрез печене на свинско месо (обикновено месо от бут или плешка) върху слой пряно, задушено зеле. Месото е оформено като пухкава пържола или късове, които се поставят върху зелевата гарнитура и се пекат в тава до златисто. Ястието се сервира топло и е популярна зимна рецепта, характеризираща се с богат вкус и аромат."
     },
     "en": {
@@ -3457,7 +3457,7 @@
       "description": "Questo piatto comprende succosi braciole di maiale al collo, cotti fino a diventare dorati, serviti con patate arrosto aromatiche, aglio grattugiato e aneto fresco. È un piatto bulgaro classico, ricco di sapore e aroma."
     }
   },
-  "СВИНСКИ КЮШЕТА С ЛУК И ГЪБИ БАРБЕКЮ": {
+  "СВИНСКИ КЮФТЕТА С ЛУК И ГЪБИ БАРБЕКЮ": {
     "bg": {
       "name": "Свински кюфтета с лук и гъби барбекю",
       "description": "Тази ястие представлява сочни свински кюфтета, приготвени на скара или барбекю, и сервирани с ароматен сос от лук и гъби. Кюфтетата са добре подправени и имат характерен вкус, който се допълва от богатството на соуса."
@@ -3471,7 +3471,7 @@
       "description": "Questo piatto consiste in polpette di maiale succose grigliate o cotte alla brace, servite con una salsa aromatica di cipolla e funghi. Le polpette sono ben condite e hanno un sapore caratteristico, arricchito dalla ricchezza della salsa."
     }
   },
-  "СВИНСКИ КЮШЕТА С ЛУК, ГЪБИ, ЛЕК ВИНЕН СОС И КАРТОФЕНО ПЮРЕ БАРБЕКЬЮ": {
+  "СВИНСКИ КЮФТЕТА С ЛУК, ГЪБИ, ЛЕК ВИНЕН СОС И КАРТОФЕНО ПЮРЕ БАРБЕКЮ": {
     "bg": {
       "name": "Свинки кюфтета с лук, гъби, лек винен сос и картофено пюре барбекю",
       "description": "Това ястие включва сочни свински кюфтета, приготвени с ароматен лук и гъби, сервирани с лек винен сос и гарнирани с кремообразно картофено пюре с барбекю вкус."
@@ -3485,7 +3485,7 @@
       "description": "Questo piatto comprende succulente polpette di maiale preparate con cipolle aromatiche e funghi, servite con una salsa di vino leggera e accompagnate da purè di patate cremoso con sapore di barbecue."
     }
   },
-  "СВИНСКО В ГРЧКИ СТИЛ": {
+  "СВИНСКО В ГРЪЦКИ СТИЛ": {
     "bg": {
       "name": "Свинско в гръцки стил",
       "description": "Това ястие съчетава нежни парчета свинско месо, подправени с ароматни гръцки подправки, и се сервира с ориз или картофи, обикновено със сос от домати и маслини. Приготвя се бавно, за да се запази сочността и да се наслади ароматът на традиционните гръцки подправки."
@@ -3527,9 +3527,9 @@
       "description": "Piato tradizionale bulgaro preparato con carne di maiale tagliata a pezzi e riso cotto con spezie e verdure. Solitamente servito caldo, è popolare per i pasti quotidiani."
     }
   },
-  "СВИНСКО С ПРЯНО ЗЕЛЕ НА ФУРНА": {
+  "СВИНСКО С ПРЯСНО ЗЕЛЕ НА ФУРНА": {
     "bg": {
-      "name": "Свинско с пряно зеле на фурна",
+      "name": "СВИНСКО С ПРЯСНО ЗЕЛЕ НА ФУРНА",
       "description": "Това ястие включва парчета месо от свинско в сос, сервирани с прясно зелево зеле, което е печено до златистокафяво в пещта. Месото е крехко и с богат вкус, а зелето е ароматно и допринася за сочността на ястието."
     },
     "en": {
@@ -3611,7 +3611,7 @@
       "description": "Questo piatto presenta spaghetti classici serviti con una pasta ricca di olive, prezzemolo aromatico e aglio. Si completa con parmigiano grattugiato e una salsa barbecue, che conferiscono sapore e aroma extra."
     }
   },
-  "СПАГЕТИ С ЧЕСЪНОВИ ГЪБ": {
+  "СПАГЕТИ С ЧЕСЪНОВИ ГЪБИ": {
     "bg": {
       "name": "Спагети с чеснови гъби",
       "description": "Това ястие представлява паста поднесена с ароматни и прожарени чеснови гъби. Текстурата е деликатна, а вкусът – наситен с чеснов аромат, който допълва леката и крехка паста."
@@ -4101,7 +4101,7 @@
       "description": "Questo piatto include un tenero filetto di dentice preparato alla griglia, che conferisce un aroma e un sapore caratteristici. Viene servito con contorno di patate al forno, dorate e morbide all'interno. Un abbinamento perfetto tra pesce e un classico contorno."
     }
   },
-  "ХЕК ПАДЕ С КАРТОФЕНА САЛАТА": {
+  "ХЕК ПАНЕ С КАРТОФЕНА САЛАТА": {
     "bg": {
       "name": "Хек пaде с картофена салата",
       "description": "Това ястие включва печени парчета хек, сервирани с класическа картофена салата, приготвена с варени картофи, майонеза и подправки. Хекът е деликатна риба с фин вкус, а салатата допълва ястието с омекотяващите си и свежи вкусове."
@@ -4269,7 +4269,7 @@
       "description": "Questo piatto comprende uova fritte in una terracotta con sugo di pomodoro, spezie e talvolta formaggio, tipico della regione di Panoorka in Bulgaria. Di solito viene servito caldo, spesso con del pane."
     }
   },
-  "ЯЧНИЯ ОТ СВИНСКО ПО ГРАДИНАРСКИ": {
+  "ЯХНИЯ ОТ СВИНСКО ПО ГРАДИНАРСКИ": {
     "bg": {
       "name": "Ячен от свинско по градинарски",
       "description": "Това е традиционно българско ястие, приготвено от свинско месо и яйца, обикновено с добавка на зеленчуци като моркови, грах и картофи. Месото се нарязва на малки парчета, сварява се и се смесва с разбити яйца, след което се задушава до пълна готовност. Ястието се сервира топло, често с пресен магданоз."
@@ -4281,6 +4281,174 @@
     "it": {
       "name": "Uova con maiale in stile giardiniere",
       "description": "Questo è un piatto tradizionale bulgaro preparato con carne di maiale e uova, solitamente con aggiunta di verdure come carote, piselli e patate. La carne di maiale viene tagliata a pezzetti, bollita e mescolata con uova sbattute, quindi stufata fino a completa cottura. Il piatto viene servito caldo, spesso guarnito con prezzemolo fresco."
+    }
+  },
+  "Крем от броколи": {
+    "bg": {
+      "name": "Крем от броколи",
+      "description": "Кремообразна супа, приготвена с пресен броколи, билки и подправки, обикновено сервиран топъл. Идеална е за зимни дни и е богата на витамини."
+    },
+    "en": {
+      "name": "Broccoli Cream",
+      "description": "A creamy soup made with fresh broccoli, herbs, and spices, typically served hot. Perfect for winter days and rich in vitamins."
+    },
+    "it": {
+      "name": "Crema di broccoli",
+      "description": "Una zuppa cremosa preparata con broccoli freschi, erbe e spezie, solitamente servita calda. Ideale per i giorni invernali ed è ricca di vitamine."
+    }
+  },
+  "Миди на барбекю с копър, чесън и магданоз": {
+    "bg": {
+      "name": "Миди на барбекю с копър, чесън и магданоз",
+      "description": "Това е вкусно ястие, при което свежи миди се приготвят на скара или грил и се поднасят с натрошен пресен копър, чесън и магданоз, създавайки ароматна и сочна храна, която е популярна за летните барбекюта."
+    },
+    "en": {
+      "name": "Grilled Mussels with Dill, Garlic, and Parsley",
+      "description": "This is a delicious dish where fresh mussels are cooked on a barbecue or grill and served with chopped fresh dill, garlic, and parsley, creating a fragrant and juicy meal popular for summer barbecues."
+    },
+    "it": {
+      "name": "Cozze alla griglia con aneto, aglio e prezzemolo",
+      "description": "Questo è un piatto delizioso in cui le cozze fresche vengono cotte alla griglia o sulla griglia e servite con aneto fresco tritato, aglio e prezzemolo, creando un pasto aromatico e succoso, molto popolare per le grigliate estive."
+    }
+  },
+  "Нирвана комбо (хосо сьомга 6бр, нирвана 6бр, филаделфия пушена сьомга 4бр)": {
+    "bg": {
+      "name": "Нирвана комбо",
+      "description": "Комбинация от различни видове суши с деликатни рибни вкусове. Включва 6 броя хосо сьомга, 6 броя нирвана и 4 броя филаделфия пушена сьомга."
+    },
+    "en": {
+      "name": "Nirvana Combo",
+      "description": "A sushi combo featuring delicate fish flavors. Includes 6 pieces of hosomaki salmon, 6 pieces of nirvana, and 4 pieces of smoked salmon Philadelphia."
+    },
+    "it": {
+      "name": "Combo Nirvana",
+      "description": "Una combinazione di sushi con delicati sapori di pesce. Include 6 pezzi di hosomaki al salmone, 6 pezzi di nirvana e 4 pezzi di Philadelphia con salmone affumicato."
+    }
+  },
+  "Пилешка": {
+    "bg": {
+      "name": "Пилешка",
+      "description": "Класическо българско ястие, приготвено от месо на пилешко месо, обикновено задушено или печени, с ароматни подправки и гарнитура. Често се сервира с гарнитури като ориз, картофи или зеленчуци."
+    },
+    "en": {
+      "name": "Chicken dish",
+      "description": "A classic Bulgarian dish made from chicken meat, usually stewed or roasted, with aromatic spices and served with side dishes like rice, potatoes, or vegetables."
+    },
+    "it": {
+      "name": "Piatti di pollo",
+      "description": "Un classico piatto bulgaro preparato con carne di pollo, solitamente stufata o al forno, con spezie aromatiche e contorni come riso, patate o verdure."
+    }
+  },
+  "Пуешко с ориз и зеленчуци на фурна": {
+    "bg": {
+      "name": "Пуешко с ориз и зеленчуци на фурна",
+      "description": "Класическо ястие, приготвено с крехки парчета пуешко месо, смесени с ароматен ориз и свежи зеленчуци като моркови, пипер и грах. Всичко се пече на фурна до златиста коричка, като се получава вкусно, сочно и засищащо блюдо."
+    },
+    "en": {
+      "name": "Turkey with rice and vegetables baked",
+      "description": "A classic dish featuring tender pieces of turkey meat combined with fragrant rice and fresh vegetables like carrots, peppers, and peas. Baked in the oven until golden and crispy, it results in a delicious, juicy, and filling meal."
+    },
+    "it": {
+      "name": "Tacchino con riso e verdure al forno",
+      "description": "Un piatto classico che presenta teneri pezzi di tacchino accompagnati da riso aromatico e verdure fresche come carote, peperoni e piselli. Cotto al forno fino a ottenere una crosta dorata, produce un piatto gustoso, succoso e saziante."
+    }
+  },
+  "Пържени кюфтета от домашно смляно месо поднесени с печени картофи с копър, чесън и лютеница": {
+    "bg": {
+      "name": "Пържени кюфтета с печени картофи",
+      "description": "Това ястие включва пържени кюфтета, приготвени от домашно смляно месо, поднесени с печени картофи, подправени с копър, чесън и лютеница. Кюфтетата са сочни и ароматни, а картофите са златисти и хрупкави, идеални за съчетание."
+    },
+    "en": {
+      "name": "Fried Meatballs with Roasted Potatoes",
+      "description": "This dish includes fried meatballs made from homemade ground meat, served with roasted potatoes seasoned with dill, garlic, and red pepper spread (lutenitsa). The meatballs are juicy and flavorful, while the potatoes are golden and crispy, making a perfect combination."
+    },
+    "it": {
+      "name": "Polpette fritte con patate arrosto",
+      "description": "Questo piatto comprende polpette fritte fatte con carne macinata fatta in casa, servite con patate arrosto condite con aneto, aglio e pasta di peperone piccante (lutenitsa). Le polpette sono succose e aromatiche, e le patate sono dorate e croccanti, ideali da abbinare."
+    }
+  },
+  "Пъстра салата (зеле, червено зеле, моркови, магданоз, зелена и червена чушка)": {
+    "bg": {
+      "name": "Пъстра салата",
+      "description": "Това е свежа и цветна салата, приготвена от нарязано зеле, червено зеле, моркови, магданоз, зелена и червена чушка. Идеална за лека закуска или гарнитура, тя е хрупкава и изпълнена с ярки вкусове и цветове."
+    },
+    "en": {
+      "name": "Colorful Salad",
+      "description": "This is a fresh and colorful salad made from chopped cabbage, red cabbage, carrots, parsley, green and red bell peppers. Perfect as a light snack or side dish, it is crunchy and bursting with vibrant flavors and colors."
+    },
+    "it": {
+      "name": "Insalata colorata",
+      "description": "Questa è un'insalata fresca e colorata preparata con cavolo bianco, cavolo rosso, carote, prezzemolo, peperoni verdi e rossi. Ideale come spuntino leggero o contorno, è croccante e ricca di sapori vivaci e colori."
+    }
+  },
+  "Салмон комбо (футомаки скарида 6бр, салмон рол 4бр, норвежка гора 4бр, нигири сьомга 2бр)": {
+    "bg": {
+      "name": "Салмон комбо",
+      "description": "Това ястие представлява асортимент от японска суши кухня, включващ 6 футомаки скарида, 4 салмон рол, 4 норвежка гора и 2 нигири сьомга. Това е разнообразно предложение за любителите на рибата и сушито."
+    },
+    "en": {
+      "name": "Salmon Combo",
+      "description": "This dish is a variety of Japanese sushi, including 6 shrimp futomaki, 4 salmon rolls, 4 Norwegian forest rolls, and 2 salmon nigiri. It offers a diverse selection for sushi and fish lovers."
+    },
+    "it": {
+      "name": "Combo di Salmone",
+      "description": "Questo piatto è una selezione di sushi giapponese, comprensiva di 6 futomaki di gamberi, 4 roll di salmone, 4 roll Norvegia e 2 nigiri di salmone. Offre una varietà adatta agli amanti del sushi e del pesce."
+    }
+  },
+  "Свински врат на барбекю с гъбен сос и картофено пюре": {
+    "bg": {
+      "name": "Свински врат на барбекю с гъбен сос и картофено пюре",
+      "description": "Това ястие представлява сочен и ароматен свински врат, приготвен на барбекю, който е златисто-кафяв и с приятна хрупкава корочка. Сервира се с богат гъбен сос, който придава землист и наситен вкус, и кремообразно картофено пюре, което перфектно допълва ястието."
+    },
+    "en": {
+      "name": "Pork Neck on Barbecue with Mushroom Sauce and Mashed Potatoes",
+      "description": "This dish features juicy and flavorful pork neck grilled to a golden-brown, with a crispy exterior. It is served with a rich mushroom sauce, providing an earthy and savory taste, and creamy mashed potatoes that perfectly complement the dish."
+    },
+    "it": {
+      "name": "Collo di maiale al barbecue con salsa di funghi e purè di patate",
+      "description": "Questo piatto presenta un succoso e aromatico collo di maiale cotto alla griglia fino a ottenere una crosta dorata e croccante. È accompagnato da una ricca salsa di funghi, che aggiunge un sapore terroso e intenso, e da un cremoso purè di patate che completa perfettamente il piatto."
+    }
+  },
+  "Селска чушчена манджа с яйце и сирене": {
+    "bg": {
+      "name": "Селска чушчена манджа с яйце и сирене",
+      "description": "Това е традиционно българско ястие, което се приготвя от нарязани чушки, домати, лук и подправки, като се вари до получаване на гъста, ароматна супа. В края се добавят разбито яйце и натрошено сирене, които придават богатство и кремообразна текстура."
+    },
+    "en": {
+      "name": "Rustic Pepper Stew with Egg and Cheese",
+      "description": "This is a traditional Bulgarian dish made from chopped peppers, tomatoes, onions, and spices, simmered to create a thick, flavorful stew. Towards the end, beaten eggs and crumbled cheese are added, enriching the dish with a creamy texture."
+    },
+    "it": {
+      "name": "Stufato rustico di peperoni con uovo e formaggio",
+      "description": "Questo è un piatto tradizionale bulgaro preparato con peperoni tagliati, pomodori, cipolle e spezie, cotti fino ad ottenere una zuppa densa e saporita. Alla fine, vengono aggiunte uova sbattute e formaggio sbriciolato, che arricchiscono il piatto con una consistenza cremosa."
+    }
+  },
+  "Токио комбо (футомаки смоук 6бр, дракон 4бр, фюжън 4бр, катрина 4бр, нигири сьомга 3бр)": {
+    "bg": {
+      "name": "Токио комбо",
+      "description": "Това е сет от суши ястия, включващ различни видове суши ролки и нигири. Включва 6 бр футомаки смоук, 4 бр дракон, 4 бр фюжън, 4 бр катрина и 3 бр сьомга нигири. Идеално за любителите на японската кухня, които искат да опитат разнообразие от вкусове в едно меню."
+    },
+    "en": {
+      "name": "Tokyo Combo",
+      "description": "This is a sushi set that includes various types of sushi rolls and nigiri. It features 6 smoked futomaki, 4 dragon rolls, 4 fusion rolls, 4 Katrina rolls, and 3 salmon nigiri. Perfect for those who love Japanese cuisine and want to try a variety of flavors in one meal."
+    },
+    "it": {
+      "name": "Combo Tokyo",
+      "description": "Un set di sushi che include diversi tipi di rotoli di sushi e nigiri. Contiene 6 futomaki smoked, 4 rotoli dragon, 4 rotoli fusion, 4 rotoli Katrina e 3 nigiri di salmone. Ideale per gli appassionati di cucina giapponese che vogliono assaggiare un'ampia varietà di sapori in un solo pasto."
+    }
+  },
+  "Чийзкейк \"Biskoff\"": {
+    "bg": {
+      "name": "Чийзкейк Biskoff",
+      "description": "Лека и кремообразна торта със слой на крем сирене, съчетан с бисквитена основа. Идеално за любителите на сладкото и изискания вкус."
+    },
+    "en": {
+      "name": "Biskoff Cheesecake",
+      "description": "A light and creamy cake with a cream cheese layer, combined with a biscuit base. Perfect for sweet lovers and those seeking a refined taste."
+    },
+    "it": {
+      "name": "Cheesecake Biskoff",
+      "description": "Una torta leggera e cremosa con uno strato di formaggio cremoso, abbinata a una base di biscotto. Ideale per gli amanti dei dolci e dei gusti raffinati."
     }
   }
 }

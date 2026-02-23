@@ -1,0 +1,324 @@
+{
+  "Балканска салата (патладжан, печени чушки, белени домати, натрошено сирене, магданоз, зехтин)": {
+    "bg": {
+      "name": "Балканска салата",
+      "description": "Тази салата е типична за балканските кухни и включва печени патладжани, печени чушки, белени домати, натрошено сирене, магданоз и зехтин. Тя е свежа, ароматна и подходяща като лека закуска или предястие."
+    },
+    "en": {
+      "name": "Balkan Salad",
+      "description": "This salad is typical for Balkan cuisines and includes roasted eggplants, roasted peppers, peeled tomatoes, crumbled cheese, parsley, and olive oil. It is fresh, fragrant, and suitable as a light snack or appetizer."
+    },
+    "it": {
+      "name": "Insalata Balcanica",
+      "description": "Questa insalata è tipica delle cucine balcaniche e comprende melanzane arrostite, peperoni arrostiti, pomodori pelati, formaggio sbriciolato, prezzemolo e olio d'oliva. È fresca, aromatica e adatta come spuntino leggero o antipasto."
+    }
+  },
+  "Домашна бисквитена торта": {
+    "bg": {
+      "name": "Домашна бисквитена торта",
+      "description": "Класическа българска десертна торта, приготвена от редуващи се бисквити, напоени с подсладен и ароматизиран крем, често с добавени орехи или ядки. Обикновено се украсява с шоколад или плодове."
+    },
+    "en": {
+      "name": "Homemade Biscuit Cake",
+      "description": "A traditional Bulgarian dessert cake made of layered biscuits soaked in sweetened and flavored cream, often with added nuts or walnuts. Usually decorated with chocolate or fruits."
+    },
+    "it": {
+      "name": "Torta di biscotti fatta in casa",
+      "description": "Una tradizionale torta dessert bulgara composta da strati di biscotti imbevuti di crema dolce e aromatizzata, spesso con noci o noci tritate. Generalmente decorata con cioccolato o frutta."
+    }
+  },
+  "Казан диби": {
+    "bg": {
+      "name": "Казан диби",
+      "description": "Казан диби е традиционно българско ястие, представляващо вид гювече или къкри с месо, зеленчуци и подправки, приготвено в глинен съд. Това ястие е богато на вкусове и често се сервира за специални случаи."
+    },
+    "en": {
+      "name": "Kazan Dibi",
+      "description": "Kazan Dibi is a traditional Bulgarian dish, consisting of meat, vegetables, and spices cooked in a clay pot. It is rich in flavor and often served during special occasions."
+    },
+    "it": {
+      "name": "Kazan Dibi",
+      "description": "Kazan Dibi è un piatto tradizionale bulgaro, composto da carne, verdure e spezie cucinati in una pentola di terracotta. È ricco di sapore e viene spesso servito in occasioni speciali."
+    }
+  },
+  "Картофена крем супа с домашни крутони": {
+    "bg": {
+      "name": "Картофена крем супа с домашни крутони",
+      "description": "Топла, гладка супа, приготвена от сварени картофи, пюрирани до кремообразна консистенция, обогатена с бистра бульона и леко подправена с подправки. Върху нея се добавят хрупкави домашни крутони, които допринасят за контраста на текстурите."
+    },
+    "en": {
+      "name": "Potato Cream Soup with Homemade Croutons",
+      "description": "A warm, smooth soup made from boiled potatoes blended into a creamy consistency, enriched with clear broth and lightly seasoned with spices. Topped with crispy homemade croutons, providing a delightful contrast in textures."
+    },
+    "it": {
+      "name": "Zuppa di purea di patate con crostini fatti in casa",
+      "description": "Una zuppa calda e vellutata preparata con patate bollite, frullate fino a ottenere una consistenza cremosa, arricchita con brodo limpido e leggermente speziata. Sopra viene aggiunta una manciata di crostini fatti in casa croccanti, che offrono un piacevole contrasto di consistenze."
+    }
+  },
+  "Крем супа от червена леща": {
+    "bg": {
+      "name": "Крем супа от червена леща",
+      "description": "Топла и кремообразна супа, приготвена от червена леща, която се вари до мека и се пасира до гладка консистенция. Обикновено се поднася с малко зехтин или сметана и върху нея може да се добавят подправки като къри или кориандър."
+    },
+    "en": {
+      "name": "Red Lentil Cream Soup",
+      "description": "A warm and creamy soup made from red lentils, cooked until soft and blended until smooth. Typically served with a drizzle of olive oil or cream, and sometimes garnished with spices like curry or coriander."
+    },
+    "it": {
+      "name": "Zuppa cremosa di lenticchie rosse",
+      "description": "Una zuppa calda e cremosa preparata con lenticchie rosse, cotte fino a diventare morbide e frullate fino ad ottenere una consistenza liscia. Generalmente viene servita con un filo di olio d'oliva o panna, e può essere arricchita con spezie come curry o coriandolo."
+    }
+  },
+  "Омлет с пушено пилешко с гарнитура домати": {
+    "bg": {
+      "name": "Омлет с пушено пилешко с гарнитура домати",
+      "description": "Класическо ястие, съчетаващо пухкав омлет, приготвен от разбити яйца, с добавено пушено пилешко месо за богат вкус и гарнитура от свежи, зрели домати. Поднася се топло, подходящо за закуска или лек обяд."
+    },
+    "en": {
+      "name": "Omelette with smoked chicken and tomato side",
+      "description": "A classic dish featuring a fluffy omelette made from beaten eggs, filled with smoked chicken for a rich flavor, served with a side of fresh, ripe tomatoes. Best enjoyed warm, suitable for breakfast or a light lunch."
+    },
+    "it": {
+      "name": "Frittata con pollo affumicato e pomodori",
+      "description": "Piatti classico che combina una soffice frittata fatta di uova sbattute, con pollo affumicato per un sapore ricco e una guarnizione di pomodori freschi e maturi. Servito caldo, ideale per la colazione o un pranzo leggero."
+    }
+  },
+  "Пилешка супа": {
+    "bg": {
+      "name": "Пилешка супа",
+      "description": "Топла и заושבана супа, приготвена с парчета пилешко месо, зеленчуци като моркови, картофи, лук и целина, варени до мекота. Обикновено се поднася с пресен магданоз и парче хляб."
+    },
+    "en": {
+      "name": "Chicken Soup",
+      "description": "A warm and hearty soup made with pieces of chicken, vegetables such as carrots, potatoes, onions, and celery, cooked until tender. Usually served with fresh parsley and a slice of bread."
+    },
+    "it": {
+      "name": "Zuppa di pollo",
+      "description": "Una zuppa calda e sostanziosa preparata con pezzi di pollo, verdure come carote, patate, cipolle e sedano, cotte fino a diventare tenere. Di solito servita con prezzemolo fresco e una fetta di pane."
+    }
+  },
+  "Пилешки късчета със сос от сирена и броколи върху пюре от картоф": {
+    "bg": {
+      "name": "Пилешки късчета със сос от сирена и броколи върху пюре от картофи",
+      "description": "Класическо ястие с пюре от картофи, върху което са наредени пухкави пилешки късчета, покрити с кремообразен сос от сирена и свежи броколи. Това ястие комбинира нежността на пилешкото месо с богатството на сирената и хрупкавостта на броколите, съчетавайки се в уютен и вкусен обяд или вечеря."
+    },
+    "en": {
+      "name": "Chicken pieces with cheese sauce and broccoli over mashed potatoes",
+      "description": "A classic dish featuring mashed potatoes topped with tender chicken pieces, covered in a creamy cheese sauce and fresh broccoli. This meal combines the tenderness of chicken with the richness of cheese and the crunch of broccoli, making a cozy and delicious lunch or dinner."
+    },
+    "it": {
+      "name": "Pezzetti di pollo con salsa di formaggio e broccoli su purea di patate",
+      "description": "Un piatto classico con purea di patate, sopra cui sono adagiate morbide pezzetti di pollo, coperti da una salsa cremosa di formaggio e broccoli freschi. Questo piatto combina la tenerezza del pollo con la ricchezza del formaggio e la croccantezza dei broccoli, offrendoti un pranzo o una cena accoglienti e gustosi."
+    }
+  },
+  "Пица на ден - Голяма (АСТИ: домашен сос, кашкавал, шунка, бекон, пушено пилешко, топено сирене, маслини, кисели краставички)": {
+    "bg": {
+      "name": "Пица на ден - Голяма",
+      "description": "Голяма пица с домашен сос, кашкавал, шунка, бекон, пушено пилешко, топено сирене, маслини и кисели краставички. Перфектна за споделяне и наслада."
+    },
+    "en": {
+      "name": "Daily Pizza - Large",
+      "description": "A large pizza topped with homemade sauce, cheese, ham, bacon, smoked chicken, processed cheese, olives, and pickles. Perfect for sharing and enjoyment."
+    },
+    "it": {
+      "name": "pizza del giorno - grande",
+      "description": "Una grande pizza con salsa fatta in casa, formaggio, prosciutto, pancetta, pollo affumicato, formaggio fuso, olive e cetriolini. Perfetta da condividere e gustare."
+    }
+  },
+  "Пълнени чушки с домашно мляно месо и сос бешамел": {
+    "bg": {
+      "name": "Пълнени чушки с домашно мляно месо и сос бешамел",
+      "description": "Класическо българско ястие, което включва печени пълнени чушки, обикновено с домашно мляно месо (смес от свинско и телешко), подправено с лук, ориз и подправки. Чушките се сервират с богата сос бешамел, който създава кремообразна текстура и допълнителен вкус."
+    },
+    "en": {
+      "name": "Stuffed Peppers with Homemade Minced Meat and Béchamel Sauce",
+      "description": "A classic Bulgarian dish consisting of oven-baked stuffed peppers filled with homemade minced meat (a mix of pork and beef), seasoned with onion, rice, and spices. The peppers are served with a rich Béchamel sauce, which adds a creamy texture and enhances the flavor."
+    },
+    "it": {
+      "name": "Peperoni ripieni con carne macinata fatta in casa e salsa Bechamel",
+      "description": "Un piatto tradizionale bulgaro che consiste in peperoni ripieni, tipicamente con carne macinata fatta in casa (una miscela di maiale e manzo), aromatizzata con cipolla, riso e spezie. I peperoni sono serviti con una ricca salsa Bechamel, che conferisce una consistenza cremosa e un gusto aggiuntivo."
+    }
+  },
+  "Свежи салати с киноа (свежи салати, киноа, печени чушки, домати, яйце, сирене, дресинг)": {
+    "bg": {
+      "name": "Свежи салати с киноа",
+      "description": "Свежа и лека салата, съчетаваща киноа, печени чушки, свежи домати, варено яйце и сирене, обилно покрита с дресинг. Перфектна за освежаващ обяд или лека вечеря."
+    },
+    "en": {
+      "name": "Fresh salads with quinoa",
+      "description": "A fresh and light salad combining quinoa, roasted peppers, fresh tomatoes, boiled egg, and cheese, topped with a dressing. Perfect for a refreshing lunch or a light dinner."
+    },
+    "it": {
+      "name": "Insalate fresche con quinoa",
+      "description": "Un'insalata fresca e leggera che combina quinoa, peperoni arrostiti, pomodori freschi, uovo sodo e formaggio, arricchita con un condimento. Perfetta per un pranzo rinfrescante o una cena leggera."
+    }
+  },
+  "Свинско шарено месо на плоча с гръцка салата, пържени картофки и млечен дип с тиквички": {
+    "bg": {
+      "name": "Свинско шарено месо на плоча с гръцка салата, пържени картофки и млечен дип с тиквички",
+      "description": "Това ястие включва нарязано свинско месо, задушено и подправено с разнообразни подправки, сервирано върху гореща плоча. към него се поднася свежа гръцка салата с домати, краставици, маслини и сирене фета. В extras има златисти пържени картофки и кремообразен млечен дип с настъргани тиквички."
+    },
+    "en": {
+      "name": "Pork Sharoeno Meat on a Plate with Greek Salad, Fried Potatoes, and Dairy Dip with Zucchini",
+      "description": "This dish features sliced pork meat cooked with a variety of spices, served hot on a plate. It is accompanied by a fresh Greek salad with tomatoes, cucumbers, olives, and feta cheese. The side includes crispy fried potatoes and a creamy dairy dip with grated zucchini."
+    },
+    "it": {
+      "name": "Carne di maiale Sharoeno su piatto con insalata greca, patatine fritte e salsa cremosa di latte con zucchine",
+      "description": "Questo piatto comprende carne di maiale a fette, cotta con varie spezie, servita su un piatto caldo. Accompagnato da una fresca insalata greca con pomodori, cetrioli, olive e formaggio feta. Come contorno ci sono patatine fritte dorate e una salsa cremosa di latte con zucchine grattugiate."
+    }
+  },
+  "Супа със свински джолан": {
+    "bg": {
+      "name": "Супа със свински джолан",
+      "description": "Тази богата и ароматна супа се приготвя с бавно варено свински джолан, който придава наситен вкус и мека текстура. Обикновено се сервира гореща, с добавка на пресни подправки и зеленчуци, което я прави перфектна за студените дни."
+    },
+    "en": {
+      "name": "Pork Hock Soup",
+      "description": "This rich and flavorful soup is made with slowly cooked pork hock, which imparts a hearty taste and tender texture. It is typically served hot, garnished with fresh herbs and vegetables, making it perfect for cold days."
+    },
+    "it": {
+      "name": "Zuppa con stinco di maiale",
+      "description": "Questa zuppa ricca e saporita è preparata con stinco di maiale cotto lentamente, che conferisce un sapore intenso e una consistenza morbida. Viene solitamente servita calda, con aggiunta di erbe fresche e verdure, ideale per le giornate fredde."
+    }
+  },
+  "Торта малинов сатен": {
+    "bg": {
+      "name": "Торта Малинов Сатен",
+      "description": "Лека и елегантна торта с меки слоеве, обагрени с ярък малинов вкус, покрити със сатенено гладък крем, който придава непреодолим блясък и деликатна текстура."
+    },
+    "en": {
+      "name": "Malina Satin Cake",
+      "description": "A light and elegant cake with soft layers infused with a vibrant raspberry flavor, covered in satin-smooth cream that gives an irresistible shine and delicate texture."
+    },
+    "it": {
+      "name": "Torta Satin alla Mirtillo",
+      "description": "Una torta leggera ed elegante con strati morbidi aromatizzati al lampone, coperti con una crema setosa che conferisce un aspetto lucido e una texture delicata."
+    }
+  },
+  "Торта с маскарпоне и бял шоколад": {
+    "bg": {
+      "name": "Торта с маскарпоне и бял шоколад",
+      "description": "Изискана и нежна торта, състояща се от слоеве мек маскарпоне и богат бял шоколад, обикновено украсена с шоколадови парчета или плодове. Перфектен десерт за специални поводи."
+    },
+    "en": {
+      "name": "Mascarpone and White Chocolate Cake",
+      "description": "An elegant and delicate cake made of layers of soft mascarpone cheese and rich white chocolate, usually decorated with chocolate pieces or fruits. A perfect dessert for special occasions."
+    },
+    "it": {
+      "name": "Torta con mascarpone e cioccolato bianco",
+      "description": "Una torta elegante e delicata composta da strati di morbido mascarpone e ricco cioccolato bianco, solitamente decorata con pezzi di cioccolato o frutta. Perfetta come dolce per occasioni speciali."
+    }
+  },
+  "Торта със зелен чай и зест от лимон": {
+    "bg": {
+      "name": "Торта със зелен чай и зест от лимон",
+      "description": "Лека и ароматна торта, приготвена с финес чрез използването на зелен чай като основен вкус и свеж лимон за зест, която придава цитрусова нотка и освежаващ финал."
+    },
+    "en": {
+      "name": "Green Tea and Lemon Zest Cake",
+      "description": "A light and fragrant cake made with green tea as the main flavor and fresh lemon zest, giving it a citrusy note and a refreshing finish."
+    },
+    "it": {
+      "name": "Torta al tè verde e scorza di limone",
+      "description": "Una torta leggera e profumata preparata con tè verde come gusto principale e scorza di limone fresca, che conferisce una nota agrumata e un finale rinfrescante."
+    }
+  },
+  "Торта три шоколада": {
+    "bg": {
+      "name": "Торта три шоколада",
+      "description": "Десерт със слоеста структура, който включва три вида шоколад: бял, млечен и натурален тъмен шоколад. Всеки слой има различен цвят и вкус, създавайки богат и кремообразен вкус, който се разтапя в устата."
+    },
+    "en": {
+      "name": "Three Chocolate Cake",
+      "description": "A layered dessert that includes three types of chocolate: white, milk, and dark chocolate. Each layer has a different color and flavor, creating a rich and creamy taste that melts in your mouth."
+    },
+    "it": {
+      "name": "Torta tre cioccolati",
+      "description": "Un dolce a strati che include tre tipi di cioccolato: bianco, al latte e fondente. Ogni strato ha un colore e un sapore diversi, creando un gusto ricco e cremoso che si scioglie in bocca."
+    }
+  },
+  "Тортия с хрупкаво пиле с домат и свежи салати, пържени картофки и чеснов сос": {
+    "bg": {
+      "name": "Тортия с хрупкаво пиле с домат и свежи салати, пържени картофки и чеснов сос",
+      "description": "Това е вкусно и сочно ястие, съчетаващо тънка тортила с добре подправено, хрупкаво пиле, свежи домати и салати, придружени от хрупкави пържени картофки и ароматен чеснов сос."
+    },
+    "en": {
+      "name": "Tortilla with crispy chicken, tomato and fresh salads, fried potatoes, and garlic sauce",
+      "description": "This is a delicious and juicy dish featuring a thin tortilla filled with well-seasoned, crispy chicken, fresh tomatoes and salads, served with crispy fried potatoes and a fragrant garlic sauce."
+    },
+    "it": {
+      "name": "Tortilla con pollo croccante, pomodoro e insalate fresche, patate fritte e salsa all'aglio",
+      "description": "Questo è un piatto gustoso e succoso che consiste in una tortilla sottile ripiena di pollo croccante ben condita, pomodori freschi e insalate, accompagnato da patate fritte croccanti e una salsa all'aglio aromatica."
+    }
+  },
+  "Трио кюфтенца от киноа и тиквички с млечен сос": {
+    "bg": {
+      "name": "Трио кюфтенца от киноа и тиквички с млечен сос",
+      "description": "Леки и сочни кюфтенца, приготвени от киноа и тиквички, сервирани с кремообразен млечен сос. Перфектно ястие за любителите на вегетарианската кухня."
+    },
+    "en": {
+      "name": "Quinoa and Zucchini Meatballs Trio with Milk Sauce",
+      "description": "Light and juicy meatballs made from quinoa and zucchini, served with a creamy milk sauce. A perfect dish for vegetarians."
+    },
+    "it": {
+      "name": "Trio di polpette di quinoa e zucchine con salsa al latte",
+      "description": "Polpette leggere e succose fatte di quinoa e zucchine, servite con una salsa al latte cremosa. Un piatto perfetto per gli amanti della cucina vegetariana."
+    }
+  },
+  "Цяла пъстърва с картофена салата с червен лук": {
+    "bg": {
+      "name": "Цяла пъстърва с картофена салата с червен лук",
+      "description": "Това ястие включва цяла прясна пъстърва, приготвена на скара или фурна, сервирана с охлаждаща картофена салата, смесена с нарязан червен лук и лек винегрет. Пъстървата е деликатна и ароматна, а салатата освежаващ акомпанимент."
+    },
+    "en": {
+      "name": "Whole Trout with Potato Salad and Red Onion",
+      "description": "This dish features a whole fresh trout, cooked on the grill or oven, served with a cooling potato salad mixed with chopped red onions and a light vinaigrette. The trout is delicate and flavorful, while the salad provides a refreshing side."
+    },
+    "it": {
+      "name": "Trota intera con insalata di patate e cipolla rossa",
+      "description": "Questo piatto include una trota fresca intera, cucinata alla griglia o al forno, servita con un'insalata di patate rinfrescante, mescolata con cipolla rossa tritata e un leggero vinaigrette. La trota è delicata e aromatica, mentre l'insalata la accompagna in modo rinfrescante."
+    }
+  },
+  "Чийзкейк със зелени смокини": {
+    "bg": {
+      "name": "Чийзкейк със зелени смокини",
+      "description": "Кремообразен чийзкейк, който се отличава с нежна текстура и богат вкус, допълнен с пресни зелени смокини, които придават освежаващ и сладък нюанс."
+    },
+    "en": {
+      "name": "Cheesecake with Green Figs",
+      "description": "A creamy cheesecake characterized by a smooth texture and rich flavor, complemented by fresh green figs that add a refreshing and sweet touch."
+    },
+    "it": {
+      "name": "Cheesecake con Fichi Verdi",
+      "description": "Una cheesecake cremosa caratterizzata da una consistenza morbida e un sapore ricco, arricchita da fichi verdi freschi che donano un tocco rinfrescante e dolce."
+    }
+  },
+  "Чийзкейк със сладко от боровинки": {
+    "bg": {
+      "name": "Чийзкейк със сладко от боровинки",
+      "description": "Класически десерт с гладка кремообразна плънка от сирене, поставена върху тънък бисквитен блат, обогатена с ароматно сладко от боровинки, което придава свежа и плодова нотка."
+    },
+    "en": {
+      "name": "Blueberry Jam Cheesecake",
+      "description": "A classic dessert featuring a smooth cream cheese filling atop a thin biscuit crust, enriched with fragrant blueberry jam, adding a fresh and fruity note."
+    },
+    "it": {
+      "name": "Cheesecake con marmellata di mirtilli",
+      "description": "Dolce classico con una crema di formaggio liscia sopra una base sottile di biscotto, arricchita con marmellata di mirtilli aromatica, che dona un tocco fresco e fruttato."
+    }
+  },
+  "Ябълков пай с йогурт без захар": {
+    "bg": {
+      "name": "Ябълков пай с йогурт без захар",
+      "description": "Лек и здравословен десерт, който представлява сочни парчета ябълки, обвити в тънко тесто и поднесени с кремообразен йогурт без захар. Подходящ за всеки, който търси вкусна и полезна сладка изненада."
+    },
+    "en": {
+      "name": "Apple Pie with Unsweetened Yogurt",
+      "description": "A light and healthy dessert featuring juicy apple pieces wrapped in thin pastry, served with creamy unsweetened yogurt. Perfect for those looking for a tasty and wholesome sweet treat."
+    },
+    "it": {
+      "name": "Torta di mele con yogurt senza zucchero",
+      "description": "Un dessert leggero e salutare con pezzi succosi di mela avvolti in una pasta sottile, accompagnato da cremose yogurt senza zucchero. Ideale per chi cerca una dolcezza gustosa e salutare."
+    }
+  }
+}
