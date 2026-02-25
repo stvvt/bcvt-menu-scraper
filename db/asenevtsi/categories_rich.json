@@ -1189,20 +1189,6 @@
       "description": "Un dolce leggero e cremoso fatto con biscotti impregni di caffè e uno strato di formaggio mascarpone. È un dessert italiano popolare servito freddo con un sapore ricco di caffè e formaggio."
     }
   },
-  "БИСКВИТЕНА ТОРТА С МАСКАРПОНЕ": {
-    "bg": {
-      "name": "БИСКВИТЕНА ТОРТА С МАСКАРПОНЕ",
-      "description": "Лека и пухкава торта, съставена от слоеве бишкоти, напоени с кафе или ликьор, и пълнеж от крем маскарпоне, който е богат и кремообразен, допълнен с малки парченца шоколад или какао."
-    },
-    "en": {
-      "name": "Ladyfingers Cake with Mascarpone",
-      "description": "A light and fluffy cake made of layers of ladyfingers soaked in coffee or liqueur, filled with a rich and creamy mascarpone cheese filling, often complemented with small pieces of chocolate or cocoa."
-    },
-    "it": {
-      "name": "Torta di savoiardi con mascarpone",
-      "description": "Una torta leggera e soffice composta da strati di savoiardi imbevuti di caffè o liquore, farcita con una crema di mascarpone ricca e cremosa, spesso arricchita con piccoli pezzi di cioccolato o cacao."
-    }
-  },
   "БОБ БАРБЕКЮ": {
     "bg": {
       "name": "Боб барбекю",
@@ -2419,20 +2405,6 @@
     "it": {
       "name": "Moussaka con carne e latte",
       "description": "Un piatto tradizionale bulgaro fatto di strati di patate al forno, carne e coperto con una salsa cremosa a base di latte. Solitamente servito caldo, ha un sapore ricco e una consistenza vellutata."
-    }
-  },
-  "МУСАКА С КИСЕЛО МЛЯКО": {
-    "bg": {
-      "name": "Мусака с ниско мляко",
-      "description": "Класическо българско ястие, приготвено от слоеста комбинация от картофи, месо и зеленчуци, покрита с богат сос и залята с ниско мляко, което придава мекота и кремообразност."
-    },
-    "en": {
-      "name": "Moussaka with Low-fat Milk",
-      "description": "A traditional Bulgarian dish made of layered potatoes, meat, and vegetables, topped with a rich sauce and baked with low-fat milk, giving it a soft and creamy texture."
-    },
-    "it": {
-      "name": "Moussaka con latte scremato",
-      "description": "Un piatto tradizionale bulgaro composto da strati di patate, carne e verdure, coperto con un ricco sugo e cotto con latte scremato, che conferisce morbidezza e cremosità."
     }
   },
   "Млечна баница": {
