@@ -8370,5 +8370,33 @@
       "name": "Patata dolce al forno con erbe",
       "description": "Piatto popolare preparato cuocendo al forno patate dolci, servite con erbe fresche come prezzemolo, rucola e aneto. Questa combinazione unisce la dolcezza delle patate con la freschezza delle erbe, creando un piatto gustoso e aromatico."
     }
+  },
+  "Гарнитура зеле, моркови, червена чушка, лук, ленено семе": {
+    "bg": {
+      "name": "Гарнитура зеле, моркови, червена чушка, лук, ленено семе",
+      "description": "Това е здравословна и свежа гарнитура от нарязано зеле, настъргани моркови, червена чушка, лук и ленено семе. Тази комбинация е често използвана като допълнение към основни ястия, добавяйки вкус и текстура, както и полезни съставки."
+    },
+    "en": {
+      "name": "Side dish of cabbage, carrots, red pepper, onion, flaxseed",
+      "description": "This is a healthy and fresh side dish made from chopped cabbage, grated carrots, a red pepper, onion, and flaxseed. This combination is commonly used as an accompaniment to main dishes, adding flavor, texture, and nutritional benefits."
+    },
+    "it": {
+      "name": "Contorno di cavolo, carote, peperone rosso, cipolla, semi di lino",
+      "description": "Questo è un contorno salutare e fresco preparato con cavolo tritato, carote grattugiate, peperone rosso, cipolla e semi di lino. Questa combinazione è spesso usata come accompagnamento ai piatti principali, aggiungendo sapore, consistenza e benefici nutrizionali."
+    }
+  },
+  "Пълнени чушки с дърпано телешко, ориз и зеленчуци": {
+    "bg": {
+      "name": "Пълнени чушки с дърпано телешко, ориз и зеленчуци",
+      "description": "Това ястие включва свежи чушки, пълнени с месо от телешко, смесено с ориз и зеленчуци, след което са запечени до златиста коричка. Подходящо е като основно ястие, съчетаващо богати вкусове и ароматни подправки."
+    },
+    "en": {
+      "name": "Stuffed peppers with pulled beef, rice, and vegetables",
+      "description": "This dish features fresh peppers filled with pulled beef, rice, and vegetables, then baked until golden. It is a hearty main course blending rich flavors and aromatic spices."
+    },
+    "it": {
+      "name": "Peperoni ripieni con carne di manzo sfilacciata, riso e verdure",
+      "description": "Questo piatto include peperoni freschi ripieni di carne di manzo sfilacciata, riso e verdure, poi cotti al forno fino a doratura. Ideale come portata principale, combina sapori ricchi e spezie aromatiche."
+    }
   }
 }
