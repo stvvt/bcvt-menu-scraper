@@ -9,7 +9,7 @@ jq -r --slurpfile existing db/${venue}/categories.json '
   map(select(.name | in($existing[0]) | not)) | .[].name
 ' db/${venue}/merged.json \
   | while IFS= read -r dish; do
-      [ -n "$dish" ] && node categorize.mjs "$dish"
+      [ -n "$dish" ] && node categorize.mjs "$dish" | tee /dev/tty
     done \
   | jq -s 'add' \
   | jq 'input + .' - db/${venue}/categories.json > db/${venue}/categories_new.json \
