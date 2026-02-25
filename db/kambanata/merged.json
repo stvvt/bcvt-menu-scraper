@@ -12,6 +12,48 @@
     "images": []
   },
   {
+    "name": "БОБ ЯХНИЯ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 3.53,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "БОБ ЯХНИЯ С БОЛЯРСКИ КЮФТЕТА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 4.86,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "БОЛЯРСКИ КЮФТЕТА НА СКАРА СЪС ЗЕЛЕВА САЛАТА И ДОМАШНА ЛЮТЕНИЦА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 4.86,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Бисквитена торта с маскарпоне и нутела",
     "prices": [
       {
@@ -19,6 +61,14 @@
         "date": "2026-02-23",
         "price": 4.04,
         "currency": "EUR"
+      },
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 4.04,
+        "currency": "EUR",
+        "weight": 150,
+        "unit": "гр"
       }
     ],
     "images": []
@@ -31,6 +81,34 @@
         "date": "2026-02-23",
         "price": 4.86,
         "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГРИЛОВАНИ ТИКВИЧКИ С ТИРОКАФТЕРИ И БРУСКЕТИ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 6.7,
+        "currency": "EUR",
+        "weight": 320,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГРЪЦКА САЛАТА С ХРУПКАВО ПИЛЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 8.38,
+        "currency": "EUR",
+        "weight": 400,
+        "unit": "гр"
       }
     ],
     "images": []
@@ -60,6 +138,20 @@
     "images": []
   },
   {
+    "name": "ДОМАШНА ПЪРЛЕНКА / ЧЕСНОВА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 2.5,
+        "currency": "EUR",
+        "weight": 250,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Домашна пърленка / чеснова 250гр",
     "prices": [
       {
@@ -84,6 +176,20 @@
     "images": []
   },
   {
+    "name": "ЗАПЕЧЕНА ПИЛЕШКА ПЪРЖОЛА ОТ БУТ ВЪРХУ ПЮРЕ ОТ КАРТОФИ, МИКС ЗЕЛЕНИ САЛАТКИ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 5.06,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Запеканка с пилешко филе, броколи, крема сирене, картофи и моцарела",
     "prices": [
       {
@@ -91,6 +197,48 @@
         "date": "2026-02-23",
         "price": 4.86,
         "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "КАПРЕЗЕ АВОКАДО",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 7.97,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "КРЕМ БРОКОЛИ СЪС СИНЬО СИРЕНЕ И КРУТОНИ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 2.51,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "мл"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "КРЕМ КАРАМЕЛ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 2.51,
+        "currency": "EUR",
+        "weight": 150,
+        "unit": "гр"
       }
     ],
     "images": []
@@ -132,6 +280,48 @@
     "images": []
   },
   {
+    "name": "ЛАЗАНЯ СЪС СИРЕНА, ГАРНИТУРА ДОМАТИ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 4.55,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "МАЛИНОВА ТОРТА С МАСКАРПОНЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 3.83,
+        "currency": "EUR",
+        "weight": 150,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "МАРГАРИТА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 5.57,
+        "currency": "EUR",
+        "weight": 410,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Малинова торта с маскарпоне",
     "prices": [
       {
@@ -163,6 +353,14 @@
         "date": "2026-02-23",
         "price": 3.83,
         "currency": "EUR"
+      },
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 3.83,
+        "currency": "EUR",
+        "weight": 150,
+        "unit": "гр"
       }
     ],
     "images": []
@@ -187,6 +385,214 @@
         "date": "2026-02-23",
         "price": 3.32,
         "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПАТЕШКИ ВОДЕНИЧКИ С ОРИЗ И ЗЕЛЕН ЛУК",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 5.06,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПЕПЕРОНЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 8.13,
+        "currency": "EUR",
+        "weight": 490,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПЕЧЕН ПАТЛАДЖАН С РОЗОВИ ДОМАТИ И СИРЕНЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 7.11,
+        "currency": "EUR",
+        "weight": 400,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПИЛЕШКА СУПА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 2.3,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "мл"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПИЦА БУРАТА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 9.35,
+        "currency": "EUR",
+        "weight": 550,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПИЦА ЗЛАТЕН BBQ СОС",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 7.36,
+        "currency": "EUR",
+        "weight": 500,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПИЦА КАПРЕЗЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 6.19,
+        "currency": "EUR",
+        "weight": 500,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПИЦА КАПРЕЗЕ - ПЕПЕРОНЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 8.59,
+        "currency": "EUR",
+        "weight": 530,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПИЦА ОТ ПАРМА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 7.97,
+        "currency": "EUR",
+        "weight": 480,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПИЦА С ПУШЕНА СЬОМГА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 8.38,
+        "currency": "EUR",
+        "weight": 450,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПИЦА С ТЕЛЕШКИ СУДЖУК",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 9.15,
+        "currency": "EUR",
+        "weight": 530,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПРЯСНА ТУРШИЯ “КАМБАНАТА”",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 2.51,
+        "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПЪЛНОЗЪРНЕСТА БАГЕТА СЪС СЕМЕНА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 0.87,
+        "currency": "EUR",
+        "weight": 110,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПЪЛНОЗЪРНЕСТО ХЛЕБЧЕ С ПУШЕНА СЬОМГА, КРЕМА СИРЕНЕ, АЙСБЕРГ, ДОМАТИ, ЧЕРВЕН ЛУК И КАПЕРСИ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 5.57,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ПЪРЖЕНИ ЧУШКИ, РОЗОВ ДОМАТ, ТИРОКАФТЕРИ И БРУСКЕТИ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 7.82,
+        "currency": "EUR",
+        "weight": 400,
+        "unit": "гр"
       }
     ],
     "images": []
@@ -396,6 +802,88 @@
     "images": []
   },
   {
+    "name": "САЛАТА БУРАТА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 8.59,
+        "currency": "EUR",
+        "weight": 400,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "САЛАТА ОТ РЯПА С МОРКОВИ И ЦЕЛИНА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 2.5,
+        "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "СВИНСКО МЕСЦЕ / ПЛЕШКА / С ПУШЕН БЕКОН И ОРИЗ НА ФУРНА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 4.86,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "СКАЛОПИНИ ОТ ТЕЛЕШКО КОНТРА ФИЛЕ С ЛИМОВ СОС И КАПЕРСИ ВЪРХУ ИМПЕРАТОРСКИ ОРИЗ С ПАРМЕЗАН И МАСЛО",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 6.6,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "СОЧНИ ТЕЛЕШКИ КЮФТЕНЦА С ТРЮФЕЛ КАРТОФКИ, ПАРМЕЗАН И ЧЕРИ ДОМАТ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 6.6,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "СПАНАЧЕНА СУПА СЪС СИРЕНЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 2.51,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "мл"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Салата Бурата 400гр (розови домати, печен патладжан, рукола, песто босилек)",
     "prices": [
       {
@@ -480,6 +968,48 @@
     "images": []
   },
   {
+    "name": "ТАРАТОР",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 2,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "мл"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ТЕЛЕШКА ДЖОЛАН ЧОРБА С МАНАТАРКИ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 3.53,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "мл"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ТЕЛЕШКО ВАРЕНО",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 4.6,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "мл"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Таратор (копър, орехи, чесън)",
     "prices": [
       {
@@ -523,6 +1053,20 @@
         "date": "2026-02-23",
         "price": 3.02,
         "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ФРЕНСКО КОЗЕ СИРЕНЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 9.25,
+        "currency": "EUR",
+        "weight": 300,
+        "unit": "гр"
       }
     ],
     "images": []
@@ -576,6 +1120,34 @@
     "images": []
   },
   {
+    "name": "ЦЕДЕНО КИСЕЛО МЛЯКО С ОРЕХИ И КАРАМЕЛ ДУЛСЕ ДЕ ЛЕЧЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 3.53,
+        "currency": "EUR",
+        "weight": 150,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ЦЕЗАР С ХРУПКАВИ КАЛМАРИ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 9.41,
+        "currency": "EUR",
+        "weight": 320,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Цедено кисело мляко с орехи и карамел Дулсе де Лече",
     "prices": [
       {
@@ -595,6 +1167,48 @@
         "date": "2026-02-23",
         "price": 9.41,
         "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ЧЕТИРИ СИРЕНА",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 7.62,
+        "currency": "EUR",
+        "weight": 460,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ЧЕТИРИ СИРЕНА С ПЕПЕРОНЕ",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 8.64,
+        "currency": "EUR",
+        "weight": 460,
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ЧИЙЗКЕЙК СНИКЪРС",
+    "prices": [
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 3.83,
+        "currency": "EUR",
+        "weight": 150,
+        "unit": "гр"
       }
     ],
     "images": []
@@ -643,6 +1257,14 @@
         "date": "2026-02-24",
         "price": 4.55,
         "currency": "EUR"
+      },
+      {
+        "dateText": "2026-02-25",
+        "date": "2026-02-25",
+        "price": 4.55,
+        "currency": "EUR",
+        "weight": 350,
+        "unit": "гр"
       }
     ],
     "images": []

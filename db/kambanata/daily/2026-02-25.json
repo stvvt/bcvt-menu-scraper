@@ -1,0 +1,327 @@
+{
+  "date": "2026-02-25",
+  "meals": [
+    {
+      "name": "ПЪЛНОЗЪРНЕСТА БАГЕТА СЪС СЕМЕНА",
+      "price": 0.87,
+      "currency": "EUR",
+      "weight": 110,
+      "unit": "гр"
+    },
+    {
+      "name": "ДОМАШНА ПЪРЛЕНКА / ЧЕСНОВА",
+      "price": 2.50,
+      "currency": "EUR",
+      "weight": 250,
+      "unit": "гр"
+    },
+    {
+      "name": "ПРЯСНА ТУРШИЯ “КАМБАНАТА”",
+      "price": 2.51,
+      "currency": "EUR",
+      "weight": null,
+      "unit": null
+    },
+    {
+      "name": "САЛАТА ОТ РЯПА С МОРКОВИ И ЦЕЛИНА",
+      "price": 2.50,
+      "currency": "EUR",
+      "weight": null,
+      "unit": null
+    },
+    {
+      "name": "ТЕЛЕШКО ВАРЕНО",
+      "price": 4.60,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "мл"
+    },
+    {
+      "name": "ТЕЛЕШКА ДЖОЛАН ЧОРБА С МАНАТАРКИ",
+      "price": 3.53,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "мл"
+    },
+    {
+      "name": "КРЕМ БРОКОЛИ СЪС СИНЬО СИРЕНЕ И КРУТОНИ",
+      "price": 2.51,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "мл"
+    },
+    {
+      "name": "СПАНАЧЕНА СУПА СЪС СИРЕНЕ",
+      "price": 2.51,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "мл"
+    },
+    {
+      "name": "ПИЛЕШКА СУПА",
+      "price": 2.30,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "мл"
+    },
+    {
+      "name": "ТАРАТОР",
+      "price": 2.00,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "мл"
+    },
+    {
+      "name": "ПЪЛНОЗЪРНЕСТО ХЛЕБЧЕ С ПУШЕНА СЬОМГА, КРЕМА СИРЕНЕ, АЙСБЕРГ, ДОМАТИ, ЧЕРВЕН ЛУК И КАПЕРСИ",
+      "price": 5.57,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "СОЧНИ ТЕЛЕШКИ КЮФТЕНЦА С ТРЮФЕЛ КАРТОФКИ, ПАРМЕЗАН И ЧЕРИ ДОМАТ",
+      "price": 6.60,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "СКАЛОПИНИ ОТ ТЕЛЕШКО КОНТРА ФИЛЕ С ЛИМОВ СОС И КАПЕРСИ ВЪРХУ ИМПЕРАТОРСКИ ОРИЗ С ПАРМЕЗАН И МАСЛО",
+      "price": 6.60,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "СВИНСКО МЕСЦЕ / ПЛЕШКА / С ПУШЕН БЕКОН И ОРИЗ НА ФУРНА",
+      "price": 4.86,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "ЗАПЕЧЕНА ПИЛЕШКА ПЪРЖОЛА ОТ БУТ ВЪРХУ ПЮРЕ ОТ КАРТОФИ, МИКС ЗЕЛЕНИ САЛАТКИ",
+      "price": 5.06,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "ПАТЕШКИ ВОДЕНИЧКИ С ОРИЗ И ЗЕЛЕН ЛУК",
+      "price": 5.06,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "БОЛЯРСКИ КЮФТЕТА НА СКАРА СЪС ЗЕЛЕВА САЛАТА И ДОМАШНА ЛЮТЕНИЦА",
+      "price": 4.86,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "БОБ ЯХНИЯ С БОЛЯРСКИ КЮФТЕТА",
+      "price": 4.86,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "ЛАЗАНЯ СЪС СИРЕНА, ГАРНИТУРА ДОМАТИ",
+      "price": 4.55,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "Чушчена манджа с мус от сирена",
+      "price": 4.55,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "БОБ ЯХНИЯ",
+      "price": 3.53,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "ЧИЙЗКЕЙК СНИКЪРС",
+      "price": 3.83,
+      "currency": "EUR",
+      "weight": 150,
+      "unit": "гр"
+    },
+    {
+      "name": "КРЕМ КАРАМЕЛ",
+      "price": 2.51,
+      "currency": "EUR",
+      "weight": 150,
+      "unit": "гр"
+    },
+    {
+      "name": "Бисквитена торта с маскарпоне и нутела",
+      "price": 4.04,
+      "currency": "EUR",
+      "weight": 150,
+      "unit": "гр"
+    },
+    {
+      "name": "Морковена торта",
+      "price": 3.83,
+      "currency": "EUR",
+      "weight": 150,
+      "unit": "гр"
+    },
+    {
+      "name": "МАЛИНОВА ТОРТА С МАСКАРПОНЕ",
+      "price": 3.83,
+      "currency": "EUR",
+      "weight": 150,
+      "unit": "гр"
+    },
+    {
+      "name": "ЦЕДЕНО КИСЕЛО МЛЯКО С ОРЕХИ И КАРАМЕЛ ДУЛСЕ ДЕ ЛЕЧЕ",
+      "price": 3.53,
+      "currency": "EUR",
+      "weight": 150,
+      "unit": "гр"
+    },
+    {
+      "name": "ГРЪЦКА САЛАТА С ХРУПКАВО ПИЛЕ",
+      "price": 8.38,
+      "currency": "EUR",
+      "weight": 400,
+      "unit": "гр"
+    },
+    {
+      "name": "ГРИЛОВАНИ ТИКВИЧКИ С ТИРОКАФТЕРИ И БРУСКЕТИ",
+      "price": 6.70,
+      "currency": "EUR",
+      "weight": 320,
+      "unit": "гр"
+    },
+    {
+      "name": "ПЪРЖЕНИ ЧУШКИ, РОЗОВ ДОМАТ, ТИРОКАФТЕРИ И БРУСКЕТИ",
+      "price": 7.82,
+      "currency": "EUR",
+      "weight": 400,
+      "unit": "гр"
+    },
+    {
+      "name": "САЛАТА БУРАТА",
+      "price": 8.59,
+      "currency": "EUR",
+      "weight": 400,
+      "unit": "гр"
+    },
+    {
+      "name": "КАПРЕЗЕ АВОКАДО",
+      "price": 7.97,
+      "currency": "EUR",
+      "weight": 350,
+      "unit": "гр"
+    },
+    {
+      "name": "ФРЕНСКО КОЗЕ СИРЕНЕ",
+      "price": 9.25,
+      "currency": "EUR",
+      "weight": 300,
+      "unit": "гр"
+    },
+    {
+      "name": "ЦЕЗАР С ХРУПКАВИ КАЛМАРИ",
+      "price": 9.41,
+      "currency": "EUR",
+      "weight": 320,
+      "unit": "гр"
+    },
+    {
+      "name": "ПЕЧЕН ПАТЛАДЖАН С РОЗОВИ ДОМАТИ И СИРЕНЕ",
+      "price": 7.11,
+      "currency": "EUR",
+      "weight": 400,
+      "unit": "гр"
+    },
+    {
+      "name": "ПИЦА БУРАТА",
+      "price": 9.35,
+      "currency": "EUR",
+      "weight": 550,
+      "unit": "гр"
+    },
+    {
+      "name": "ПИЦА ОТ ПАРМА",
+      "price": 7.97,
+      "currency": "EUR",
+      "weight": 480,
+      "unit": "гр"
+    },
+    {
+      "name": "ПИЦА С ПУШЕНА СЬОМГА",
+      "price": 8.38,
+      "currency": "EUR",
+      "weight": 450,
+      "unit": "гр"
+    },
+    {
+      "name": "ПИЦА ЗЛАТЕН BBQ СОС",
+      "price": 7.36,
+      "currency": "EUR",
+      "weight": 500,
+      "unit": "гр"
+    },
+    {
+      "name": "ПИЦА КАПРЕЗЕ",
+      "price": 6.19,
+      "currency": "EUR",
+      "weight": 500,
+      "unit": "гр"
+    },
+    {
+      "name": "ПИЦА КАПРЕЗЕ - ПЕПЕРОНЕ",
+      "price": 8.59,
+      "currency": "EUR",
+      "weight": 530,
+      "unit": "гр"
+    },
+    {
+      "name": "ПИЦА С ТЕЛЕШКИ СУДЖУК",
+      "price": 9.15,
+      "currency": "EUR",
+      "weight": 530,
+      "unit": "гр"
+    },
+    {
+      "name": "ЧЕТИРИ СИРЕНА С ПЕПЕРОНЕ",
+      "price": 8.64,
+      "currency": "EUR",
+      "weight": 460,
+      "unit": "гр"
+    },
+    {
+      "name": "МАРГАРИТА",
+      "price": 5.57,
+      "currency": "EUR",
+      "weight": 410,
+      "unit": "гр"
+    },
+    {
+      "name": "ПЕПЕРОНЕ",
+      "price": 8.13,
+      "currency": "EUR",
+      "weight": 490,
+      "unit": "гр"
+    },
+    {
+      "name": "ЧЕТИРИ СИРЕНА",
+      "price": 7.62,
+      "currency": "EUR",
+      "weight": 460,
+      "unit": "гр"
+    }
+  ]
+}
