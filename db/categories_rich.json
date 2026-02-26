@@ -8398,5 +8398,19 @@
       "name": "Peperoni ripieni con carne di manzo sfilacciata, riso e verdure",
       "description": "Questo piatto include peperoni freschi ripieni di carne di manzo sfilacciata, riso e verdure, poi cotti al forno fino a doratura. Ideale come portata principale, combina sapori ricchi e spezie aromatiche."
     }
+  },
+  "ГАРНИТУРА моркови с кълнове и семена": {
+    "bg": {
+      "name": "Гарнитура моркови с кълнове и семена",
+      "description": "Тази свежа и ароматна гарнитура съчетава настъргани моркови с пресни кълнове и хрупкави семена, създавайки балансирано и здравословно допълнение към различни ястия."
+    },
+    "en": {
+      "name": "Carrot Garnish with Sprouts and Seeds",
+      "description": "This fresh and fragrant garnish combines grated carrots with fresh sprouts and crunchy seeds, creating a balanced and healthy addition to various dishes."
+    },
+    "it": {
+      "name": "Guarnizione di carote con germogli e semi",
+      "description": "Questa insalata fresca e aromatica combina carote grattugiate con germogli freschi e semi croccanti, creando un aggiunta equilibrata e salutare a diversi piatti."
+    }
   }
 }

@@ -1853,6 +1853,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА моркови с кълнове и семена",
+    "prices": [
+      {
+        "dateText": "26/02",
+        "date": "2026-02-26",
+        "price": "3.13",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА цвекло, моркови и ябълки",
     "prices": [
       {
@@ -7402,9 +7416,22 @@
         "date": "2025-07-11",
         "price": "5.60",
         "currency": "лв"
+      },
+      {
+        "dateText": "26/02",
+        "date": "2026-02-26",
+        "price": "6.81",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-02-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7962ee03-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пиле фрикасе",
@@ -10034,6 +10061,14 @@
         "dateText": "14-ти ноември",
         "date": "2025-11-14",
         "price": "2.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "26/02",
+        "date": "2026-02-26",
+        "price": "3.91",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -13036,6 +13071,14 @@
         "dateText": "27-ти октомври",
         "date": "2025-10-27",
         "price": "3.20",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "26/02",
+        "date": "2026-02-26",
+        "price": "3.21",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
