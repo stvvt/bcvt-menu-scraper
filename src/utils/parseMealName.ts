@@ -17,6 +17,21 @@ interface ModelParsedMealName {
 
 type MealNameParserClient = Pick<OpenAI, 'chat'>;
 
+const NORMALIZE_MEAL_NAME_SYSTEM_PROMPT = `
+You normalize a string representing a meal name.
+
+Rules:
+
+* Strip numbers in parentheses from meal names e.g. (1,3,7) or /1,3,7/ (those are allergens)
+* Extract weight/quantity found usually near the end of meal name into a "weight" prop (numeric, e.g. 110, 400)
+* Extract the unit of measurement into a unit prop (e.g. гр, мл)
+* Extract any parenthesised or slash-enclosed descriptive text usually at the end of the meal name into a subtitle prop (e.g. домати, краставици, моцарела...)
+* The name field must be clean — no weight, unit, allergen numbers, or subtitle text
+* Omit any property that has no value — do not output null props
+* Use гр for grams (not г)
+* Apply sentence case to the name field — capitalize the first letter of the first word only, except for proper nouns which should retain their capitalization (e.g. place names, brand names, culinary proper nouns like Брюле or Филаделфия).
+`;
+
 interface ParseMealNameOptions {
   throwOnError?: boolean;
 }
@@ -105,7 +120,6 @@ export async function parseMealName(
   client?: MealNameParserClient,
   options: ParseMealNameOptions = {}
 ): Promise<ParsedMealName> {
-  console.log('model', model);
   const fallbackResult: ParsedMealName = { name: rawName.trim() || rawName, normalizedName: rawName.trim() || rawName };
 
   if (!rawName || !rawName.trim()) {
@@ -120,7 +134,7 @@ export async function parseMealName(
       messages: [
         {
           role: 'system',
-          content: 'You extract structured meal-name fields from Bulgarian menu text. Be conservative: when unsure, keep the original meal name and return null for uncertain optional fields.',
+          content: NORMALIZE_MEAL_NAME_SYSTEM_PROMPT,
         },
         {
           role: 'user',
@@ -131,7 +145,7 @@ export async function parseMealName(
         type: 'json_schema',
         json_schema: PARSE_MEAL_NAME_SCHEMA,
       },
-      max_tokens: 120,
+      reasoning_effort: null
     });
 
     const content = response.choices[0]?.message?.content;
