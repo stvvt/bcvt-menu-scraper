@@ -65,7 +65,7 @@ yargs(hideBin(process.argv))
           alias: 'm',
           type: 'string',
           description: 'OpenAI model to use',
-          default: 'gpt-4.1-mini',
+          default: process.env.OPENAI_MODEL,
         } as const)
         .option('pretty', {
           alias: 'p',

@@ -2,6 +2,7 @@ import OpenAI from 'openai';
 
 export interface ParsedMealName {
   name: string;
+  normalizedName: string;
   weight?: number;
   unit?: string;
   subtitle?: string;
@@ -43,11 +44,12 @@ const PARSE_MEAL_NAME_SCHEMA = {
     additionalProperties: false,
     properties: {
       name: { type: 'string' },
+      normalizedName: { type: 'string' },
       weight: { type: ['number', 'null'] },
       unit: { type: ['string', 'null'] },
       subtitle: { type: ['string', 'null'] },
     },
-    required: ['name', 'weight', 'unit', 'subtitle'],
+    required: ['name', 'normalizedName', 'weight', 'unit', 'subtitle'],
   },
 } as const;
 
@@ -82,7 +84,8 @@ function normalizeParsedMealName(rawName: string, parsed: ModelParsedMealName): 
     : undefined;
 
   return {
-    name: normalizedName,
+    name: rawName,
+    normalizedName,
     ...(normalizedWeight !== undefined ? { weight: normalizedWeight } : {}),
     ...(normalizedUnit ? { unit: normalizedUnit } : {}),
     ...(normalizedSubtitle ? { subtitle: normalizedSubtitle } : {}),
@@ -90,21 +93,20 @@ function normalizeParsedMealName(rawName: string, parsed: ModelParsedMealName): 
 }
 
 function getOpenAiClient(): OpenAI {
-  const apiKey = process.env.OPENAI_API_KEY;
-  if (!apiKey) {
-    throw new Error('OPENAI_API_KEY is required to parse meal names');
-  }
-
-  return new OpenAI({ apiKey });
+  return new OpenAI({
+    apiKey: process.env.OPENAI_API_KEY,
+    baseURL: process.env.OPENAI_BASE_URL,
+  });
 }
 
 export async function parseMealName(
   rawName: string,
-  model = 'gpt-4.1-mini',
+  model: string,
   client?: MealNameParserClient,
   options: ParseMealNameOptions = {}
 ): Promise<ParsedMealName> {
-  const fallbackResult: ParsedMealName = { name: rawName.trim() || rawName };
+  console.log('model', model);
+  const fallbackResult: ParsedMealName = { name: rawName.trim() || rawName, normalizedName: rawName.trim() || rawName };
 
   if (!rawName || !rawName.trim()) {
     return fallbackResult;
