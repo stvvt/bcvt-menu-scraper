@@ -1598,6 +1598,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "27/02",
+        "date": "2026-02-27",
+        "price": "3.77",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -9513,6 +9521,14 @@
         "dateText": "24-ти ноември",
         "date": "2025-11-24",
         "price": "4.50",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "27/02",
+        "date": "2026-02-27",
+        "price": "5.59",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
