@@ -33,6 +33,7 @@ describe('parseMealName', () => {
     const result = await parseMealName('Бяла чабата 120г', 'gpt-4.1-mini', mockClient);
 
     expect(result).toEqual({
+      rawName: 'Бяла чабата 120г',
       name: 'Бяла чабата',
       weight: 120,
       unit: 'гр',
@@ -58,6 +59,7 @@ describe('parseMealName', () => {
     const result = await parseMealName('Таратор (копър, орехи, чесън)', 'gpt-4.1-mini', mockClient);
 
     expect(result).toEqual({
+      rawName: 'Таратор (копър, орехи, чесън)',
       name: 'Таратор',
       subtitle: 'копър, орехи, чесън',
     });
@@ -86,6 +88,7 @@ describe('parseMealName', () => {
     );
 
     expect(result).toEqual({
+      rawName: 'Салата Бурата 400гр (розови домати, печен патладжан, рукола, песто босилек)',
       name: 'Салата Бурата',
       weight: 400,
       unit: 'гр',
@@ -107,6 +110,6 @@ describe('parseMealName', () => {
     const rawName = 'Пълнозърнеста багета 120гр';
     const result = await parseMealName(rawName, 'gpt-4.1-mini', mockClient);
 
-    expect(result).toEqual({ name: rawName });
+    expect(result).toEqual({ rawName, name: rawName });
   });
 });

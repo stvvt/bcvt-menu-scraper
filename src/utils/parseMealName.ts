@@ -1,8 +1,8 @@
 import OpenAI from 'openai';
 
 export interface ParsedMealName {
+  rawName: string;
   name: string;
-  normalizedName: string;
   weight?: number;
   unit?: string;
   subtitle?: string;
@@ -59,12 +59,11 @@ const PARSE_MEAL_NAME_SCHEMA = {
     additionalProperties: false,
     properties: {
       name: { type: 'string' },
-      normalizedName: { type: 'string' },
       weight: { type: ['number', 'null'] },
       unit: { type: ['string', 'null'] },
       subtitle: { type: ['string', 'null'] },
     },
-    required: ['name', 'normalizedName', 'weight', 'unit', 'subtitle'],
+    required: ['name', 'weight', 'unit', 'subtitle'],
   },
 } as const;
 
@@ -99,8 +98,8 @@ function normalizeParsedMealName(rawName: string, parsed: ModelParsedMealName): 
     : undefined;
 
   return {
-    name: rawName,
-    normalizedName,
+    rawName,
+    name: normalizedName,
     ...(normalizedWeight !== undefined ? { weight: normalizedWeight } : {}),
     ...(normalizedUnit ? { unit: normalizedUnit } : {}),
     ...(normalizedSubtitle ? { subtitle: normalizedSubtitle } : {}),
@@ -120,7 +119,7 @@ export async function parseMealName(
   client?: MealNameParserClient,
   options: ParseMealNameOptions = {}
 ): Promise<ParsedMealName> {
-  const fallbackResult: ParsedMealName = { name: rawName.trim() || rawName, normalizedName: rawName.trim() || rawName };
+  const fallbackResult: ParsedMealName = { rawName, name: rawName.trim() || rawName };
 
   if (!rawName || !rawName.trim()) {
     return fallbackResult;
@@ -145,8 +144,12 @@ export async function parseMealName(
         type: 'json_schema',
         json_schema: PARSE_MEAL_NAME_SCHEMA,
       },
-      reasoning_effort: null
+      temperature: 0,
+      // @ts-ignore
+      reasoning_effort: 'none'
     });
+
+    // console.log(JSON.stringify(response, null, 2));
 
     const content = response.choices[0]?.message?.content;
     if (!content) {
