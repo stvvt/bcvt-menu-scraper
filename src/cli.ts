@@ -4,8 +4,10 @@ import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 import { scrapeMenuUrl, type MenuData } from './scraper';
 import { parseMealName } from './utils/parseMealName';
+import { mergeDailyMenus, type DailyMenu } from './merge';
 import { config } from 'dotenv';
 import fs from 'fs/promises';
+import path from 'path';
 import normalizeMeal from './utils/normalizeMeal';
 
 config({ path: '.env.local', debug: false });
@@ -130,6 +132,55 @@ yargs(hideBin(process.argv))
           ? JSON.stringify(output, null, 2)
           : JSON.stringify(output);
         console.log(jsonOutput);
+      } catch (error) {
+        console.error('Error:', error instanceof Error ? error.message : String(error));
+        process.exit(1);
+      }
+    }
+  )
+  .command(
+    'merge <files..>',
+    'Merge daily menu files into a single price/image history index',
+    (yargs) => {
+      return yargs
+        .positional('files', {
+          describe: 'Daily menu JSON files to merge',
+          type: 'string',
+          array: true,
+          demandOption: true,
+        } as const)
+        .option('output', {
+          alias: 'o',
+          type: 'string',
+          description: 'Output file (defaults to stdout)',
+        } as const)
+        .option('pretty', {
+          alias: 'p',
+          type: 'boolean',
+          description: 'Pretty print JSON output',
+          default: true,
+        } as const);
+    },
+    async (argv: any) => {
+      try {
+        const inputs: Array<{ filename: string; data: DailyMenu }> = [];
+        for (const file of argv.files as string[]) {
+          const raw = await fs.readFile(file, 'utf8');
+          const data = JSON.parse(raw) as DailyMenu;
+          const filename = path.basename(file, '.json');
+          inputs.push({ filename, data });
+        }
+        const merged = mergeDailyMenus(inputs);
+        const jsonOutput = argv.pretty
+          ? JSON.stringify(merged, null, 2)
+          : JSON.stringify(merged);
+
+        if (argv.output) {
+          await fs.writeFile(argv.output, jsonOutput);
+          console.error(`Output written to ${argv.output}`);
+        } else {
+          console.log(jsonOutput);
+        }
       } catch (error) {
         console.error('Error:', error instanceof Error ? error.message : String(error));
         process.exit(1);

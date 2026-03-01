@@ -1,0 +1,13 @@
+{
+  "date": "2026-02-28",
+  "meals": [
+    {
+      "name": "TEST MEAL 1",
+      "price": 15.00
+    },
+    {
+      "name": "Test meal 2",
+      "price": 20.00
+    }
+  ]
+}

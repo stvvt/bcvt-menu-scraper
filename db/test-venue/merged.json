@@ -1,0 +1,38 @@
+[
+  {
+    "name": "TEST MEAL 1",
+    "prices": [
+      {
+        "dateText": "2026-02-28",
+        "date": "2026-02-28",
+        "price": 15,
+        "currency": "лв"
+      },
+      {
+        "dateText": "2026-03-01",
+        "date": "2026-03-01",
+        "price": 10,
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Test meal 2",
+    "prices": [
+      {
+        "dateText": "2026-02-28",
+        "date": "2026-02-28",
+        "price": 20,
+        "currency": "лв"
+      },
+      {
+        "dateText": "2026-03-01",
+        "date": "2026-03-01",
+        "price": 30,
+        "currency": "лв"
+      }
+    ],
+    "images": []
+  }
+]
