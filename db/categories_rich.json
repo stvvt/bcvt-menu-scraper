@@ -8412,5 +8412,19 @@
       "name": "Guarnizione di carote con germogli e semi",
       "description": "Questa insalata fresca e aromatica combina carote grattugiate con germogli freschi e semi croccanti, creando un aggiunta equilibrata e salutare a diversi piatti."
     }
+  },
+  "Бургер с пилешко филе": {
+    "bg": {
+      "name": "Бургер с пилешко филе",
+      "description": "Класически бързо хранене, които се състои от печени или запържени пилешки филета, поставени в хартиена или препечена хлебна пита, обикновено с добавка на маруля, домати, сосове и сирене. Това ястие е популярно за бързо похапване и е популярна алтернатива на традиционния хамбургер."
+    },
+    "en": {
+      "name": "Chicken Fillet Burger",
+      "description": "A classic fast food item consisting of breaded or grilled chicken fillet placed in a bun, often with lettuce, tomatoes, sauces, and cheese. It is popular for quick meals and serves as an alternative to the traditional hamburger."
+    },
+    "it": {
+      "name": "Burger con filetto di pollo",
+      "description": "Un classico fast food costituito da un filetto di pollo impanato o alla griglia inserito in un panino, solitamente accompagnato da lattuga, pomodori, salse e formaggio. È molto popolare per un pasto veloce ed è un'alternativa al tradizionale hamburger."
+    }
   }
 }
