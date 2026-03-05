@@ -8426,5 +8426,33 @@
       "name": "Burger con filetto di pollo",
       "description": "Un classico fast food costituito da un filetto di pollo impanato o alla griglia inserito in un panino, solitamente accompagnato da lattuga, pomodori, salse e formaggio. È molto popolare per un pasto veloce ed è un'alternativa al tradizionale hamburger."
     }
+  },
+  "Болярска Сиренка": {
+    "bg": {
+      "name": "Болярска Сиренка",
+      "description": "Традиционно българско ястие, представляващо сирене, поднесено с майонеза и чесън, често гарнирано с краставички или зеленчуци. Обикновено е студено, като предястие или лека закуска."
+    },
+    "en": {
+      "name": "Bolyarska Sirenka",
+      "description": "A traditional Bulgarian dish consisting of cheese served with mayonnaise and garlic, often garnished with cucumbers or vegetables. Usually served cold as an appetizer or light snack."
+    },
+    "it": {
+      "name": "Bolyarska Sirenka",
+      "description": "Un piatto tradizionale bulgaro che consiste in formaggio accompagnato con maionese e aglio, spesso decorato con cetrioli o verdure. Servito generalmente freddo come antipasto o snack leggero."
+    }
+  },
+  "Парче вегетарианска пица": {
+    "bg": {
+      "name": "Парче вегетарианска пица",
+      "description": "Това е парче от хрупкава тестена основа, покрита с богат слой доматен сос, сирене и различни зеленчуци като пипер, гъби, маслини и кубчета царевица. Забележително е със своя богат вкус и разнообразие от свежи съставки."
+    },
+    "en": {
+      "name": "Vegetarian Pizza Slice",
+      "description": "This is a slice of crispy dough base topped with a rich layer of tomato sauce, cheese, and various vegetables such as peppers, mushrooms, olives, and corn kernels. It is notable for its flavor richness and a variety of fresh ingredients."
+    },
+    "it": {
+      "name": "Fetta di pizza vegetariana",
+      "description": "Una fetta di croccante base di pasta sovrastata da un ricco strato di salsa di pomodoro, formaggio e diverse verdure come peperoni, funghi, olive e mais. È conosciuta per il suo sapore ricco e la varietà di ingredienti freschi."
+    }
   }
 }

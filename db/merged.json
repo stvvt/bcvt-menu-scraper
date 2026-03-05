@@ -575,6 +575,20 @@
     ]
   },
   {
+    "name": "Болярска Сиренка",
+    "prices": [
+      {
+        "dateText": "05/03",
+        "date": "2026-03-05",
+        "price": "4.21",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Болярска баница вита",
     "prices": [
       {
@@ -6453,6 +6467,25 @@
     "images": []
   },
   {
+    "name": "Парче вегетарианска пица",
+    "prices": [
+      {
+        "dateText": "05/03",
+        "date": "2026-03-05",
+        "price": "4.60",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-03-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bbd374af-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Парче пица Маргарита",
     "prices": [
       {
@@ -8413,9 +8446,22 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "05/03",
+        "date": "2026-03-05",
+        "price": "4.91",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-03-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/87a76a21-200.jpg"
+      }
+    ]
   },
   {
     "name": "Полента със сирене, кашкавал и червен пипер",
@@ -9803,9 +9849,22 @@
         "date": "2025-08-06",
         "price": "4.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "05/03",
+        "date": "2026-03-05",
+        "price": "5.48",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-03-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/24876855-200.jpg"
+      }
+    ]
   },
   {
     "name": "Салата домати, патладжан, маслини и рикота",
