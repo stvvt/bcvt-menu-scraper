@@ -1,0 +1,604 @@
+{
+  "Бисквитена торта с маскарпоне и нутела": {
+    "bg": {
+      "name": "Бисквитена торта с маскарпоне и нутела",
+      "description": "Крема напитка с нежен вкус, създадена от слоеста комбинация от бисквити, облепени с маскарпоне и Нутела, която е разтапяща се в устата и подходяща за десерт."
+    },
+    "en": {
+      "name": "Cookies Cake with Mascarpone and Nutella",
+      "description": "A creamy dessert featuring layers of biscuits soaked in a sweet mascarpone cheese mixture and spread with Nutella, creating a rich and indulgent treat."
+    },
+    "it": {
+      "name": "Torta di biscotti con mascarpone e Nutella",
+      "description": "Un dolce cremoso a strati con biscotti imbevuti in una miscela dolce di mascarpone e spalmati con Nutella, creando un dessert ricco e goloso."
+    }
+  },
+  "Бургер с хрупкав кашкавал, домати, краставици, айсберг, млечно-чеснов сос и пържени картофи": {
+    "bg": {
+      "name": "Бургер с хрупкав кашкавал, домати, краставици, айсберг, млечно-чеснов сос и пържени картофи",
+      "description": "Този бургер включва сочна и сочна месна или растителна плънка, покрита с растял хрупкав кашкавал. Той е гарниран с пресни филийки домати и краставици, свежи листа айсберг салата и се сервира с богат млечно-чеснов сос. Подава се с хрупкави пържени картофи."
+    },
+    "en": {
+      "name": "Burger with Crispy Cheese, Tomatoes, Cucumbers, Iceberg Lettuce, Creamy Garlic Sauce, and French Fries",
+      "description": "This burger features a juicy patty topped with crispy melted cheese, fresh slices of tomatoes and cucumbers, crunchy iceberg lettuce, and is served with a rich creamy garlic sauce. It comes with crispy French fries on the side."
+    },
+    "it": {
+      "name": "Hamburger con formaggio croccante, pomodori, cetrioli, lattuga iceberg, salsa all'aglio e patatine fritte",
+      "description": "Questo hamburger include un succulento ripieno di carne o vegetale, coperto da formaggio croccante fuso. È accompagnato da fette di pomodoro e cetriolo freschi, lattuga iceberg croccante e viene servito con una ricca salsa all'aglio e patatine fritte croccanti."
+    }
+  },
+  "Гриловани тиквички с тирокафтери и брускети 320гр": {
+    "bg": {
+      "name": "Гриловани тиквички с тирокафтери и брускети 320гр",
+      "description": "Това ястие включва нежно гриловани тиквички, сервирани с кремообразен тирокафтери сос и кр crispчки брускети. Идеално за леко лятно похапване или като апетитна предястие."
+    },
+    "en": {
+      "name": "Grilled Zucchini with Tirokafteri and Breads 320g",
+      "description": "This dish features tender grilled zucchinis served with a creamy Tirokafteri sauce and crunchy bread slices. Perfect for a light summer snack or an appetizer."
+    },
+    "it": {
+      "name": "Zucchine grigliate con Tirokafteri e Bruschette 320g",
+      "description": "Questo piatto comprende zucchine grigliate tenere, accompagnate da una cremosa salsa Tirokafteri e croccanti fette di pane. Ideale come spuntino leggero estivo o come antipasto."
+    }
+  },
+  "Мусака": {
+    "bg": {
+      "name": "Мусака",
+      "description": "Мусака е традиционно българско ястие, което се приготвя с слоесто комбиниране на картофи, месо (обикновено агнешко или смес от свинско и телешко), зеленчуци и topped с богата заливка от яйца и кисело мляко. Основната идея е да се получи гъста, ароматна запеканка с наситен вкус."
+    },
+    "en": {
+      "name": "Moussaka",
+      "description": "Moussaka is a traditional Bulgarian dish made with layered potatoes, minced meat (usually lamb or a mix of pork and beef), vegetables, and topped with a rich egg and yogurt sauce. The main idea is to create a thick, flavorful casserole with a hearty taste."
+    },
+    "it": {
+      "name": "Moussaka",
+      "description": "La moussaka è un piatto tradizionale bulgaro preparato con strati di patate, carne macinata (solitamente agnello o un mix di maiale e manzo), verdure, e coperto con una salsa ricca di uova e yogurt. Il risultato è una parmigiana densa e saporita, con un gusto intenso."
+    }
+  },
+  "Домашна пърленка / чеснова 250гр": {
+    "bg": {
+      "name": "Домашна пърленка / чеснова 250гр",
+      "description": "Традиционно българско печено тесто, подобно на плосък хляб, изпечено на скара или тиган. Освежаващо и ароматно, често поднасяно с чесън и зехтин, подходящо като апетитен старт или допълнение към основното ястие."
+    },
+    "en": {
+      "name": "Homemade Flatbread / Garlic 250g",
+      "description": "A traditional Bulgarian baked flatbread, similar to a pancake or tortilla, cooked on a grill or pan. Refreshingly aromatic, often served with garlic and olive oil, ideal as a starter or side dish."
+    },
+    "it": {
+      "name": "Pane piatto fatto in casa / Aglio 250g",
+      "description": "Un tipico pane piatto bulgaro cotto al forno, simile a una piadina o a una tortilla, preparato su griglia o in padella. Rinfrescante e aromatico, spesso servito con aglio e olio d'oliva, perfetto come antipasto o accompagnamento."
+    }
+  },
+  "Домашна супа топчета": {
+    "bg": {
+      "name": "Домашна супа топчета",
+      "description": "Това е традиционна българска супа, приготвена с фино смлени месни топчета, сварени в ароматен бульон, обикновено с добавка на ориз, зеленчуци и подправки. Тази супа е любима за семейството и се сервира топла, често с прясна питка."
+    },
+    "en": {
+      "name": "Homemade Meatball Soup",
+      "description": "This is a traditional Bulgarian soup made with finely minced meat meatballs cooked in a fragrant broth. It typically includes rice, vegetables, and spices, served hot and often accompanied by fresh bread."
+    },
+    "it": {
+      "name": "Zuppa di polpette fatta in casa",
+      "description": "Questa è una zuppa tradizionale bulgara preparata con polpette di carne finemente tritate, cotte in un brodo aromatico. Di solito include riso, verdure e spezie, servita calda e spesso accompagnata da pane fresco."
+    }
+  },
+  "Запеканка с пилешко филе, броколи, крема сирене, картофи и моцарела": {
+    "bg": {
+      "name": "Запеканка с пилешко филе, броколи, крема сирене, картофи и моцарела",
+      "description": "Това е топла, вкусна ястие, приготвено с слоеве от пълнозърнест картоф, крехко пилешко филе, свежи броколи и разтопена моцарела. Всичко е покрито с крема сирене, което придава кремообразна текстура и богат вкус. След изпичане се получава апетитна, златиста коричка."
+    },
+    "en": {
+      "name": "Baked chicken and broccoli casserole with cream cheese, potatoes, and mozzarella",
+      "description": "This is a warm, tasty dish made with layers of hearty potatoes, tender chicken fillet, fresh broccoli, and melted mozzarella. It is topped with cream cheese, giving it a creamy texture and rich flavor. When baked, it develops a delicious golden crust."
+    },
+    "it": {
+      "name": "Sformato di pollo e broccoli con formaggio cremoso, patate e mozzarella",
+      "description": "Questo è un piatto caldo e gustoso, preparato con strati di patate nutrienti, filetto di pollo tenero, broccoli freschi e mozzarella fusa. È ricoperto di formaggio cremoso, che dona una consistenza vellutata e un sapore ricco. Dopo la cottura, si ottiene una crosticina dorata e invitante."
+    }
+  },
+  "Капрезе авокадо 350гр (чери домати, бейби моцарела, песто босилек, рукола)": {
+    "bg": {
+      "name": "Капрезе авокадо 350гр (чери домати, бейби моцарела, песто босилек, рукола)",
+      "description": "Лека и освежаваща салата, съчетаваща кремообразно авокадо с сочни чери домати, нежна бейби моцарела, ароматно песто босилек и свежа рукола. Идеално за любителите на балансирани и вкусни съчетания."
+    },
+    "en": {
+      "name": "Avocado Caprese 350g (cherry tomatoes, baby mozzarella, basil pesto, arugula)",
+      "description": "A light and refreshing salad combining creamy avocado with juicy cherry tomatoes, tender baby mozzarella, aromatic basil pesto, and fresh arugula. Perfect for those who enjoy balanced and flavorful combinations."
+    },
+    "it": {
+      "name": "Caprese avocado 350g (pomodorini, mozzarelline, pesto al basilico, rucola)",
+      "description": "Un'insalata leggera e rinfrescante che combina avocado cremoso con pomodorini succosi, tenera mozzarelline, aromatico pesto al basilico e rucola fresca. Ideale per chi apprezza abbinamenti equilibrati e gustosi."
+    }
+  },
+  "Крем зеленчукова супа с крутони": {
+    "bg": {
+      "name": "Крем зеленчукова супа с крутони",
+      "description": "Топла и гъста супа, приготвена от гладко пасиран зеленчуков бульон, съдържаща смес от различни зеленчуци като моркови, целина, картофи и пащърнак. Сервира се с кротони – хрупкави хлябови кръгчета, поднесени върху супата за допълнителен вкус и текстура."
+    },
+    "en": {
+      "name": "Vegetable Cream Soup with Croutons",
+      "description": "A warm and thick soup made from a smooth vegetable broth blended with a mixture of vegetables such as carrots, celery, potatoes, and parsnips. It is served with croutons – crispy bread chunks added on top for texture and flavor."
+    },
+    "it": {
+      "name": "Zuppa cremosa di verdure con crostini",
+      "description": "Una zuppa calda e densa preparata con un brodo di verdure passato al mixer, contenente una miscela di verdure come carote, sedano, patate e pastinaca. Si serve con crostini – croccanti pezzi di pane sopra la zuppa per un tocco di sapore e consistenza."
+    }
+  },
+  "Малинова торта с маскарпоне": {
+    "bg": {
+      "name": "Малинова торта с маскарпоне",
+      "description": "Класическа българска торта, която съчетава свежестта на малините с кремообразна маскарпоне плънка. Основната структура е изпечена бисквитена основа, покрита с слой от малиново сладко и богата маскарпоне смес, украсена с свежи малини."
+    },
+    "en": {
+      "name": "Raspberry Torte with Mascarpone",
+      "description": "A classic Bulgarian cake that combines the freshness of raspberries with a creamy mascarpone filling. It features a baked biscuit base topped with raspberry jam and a rich mascarpone mixture, decorated with fresh raspberries."
+    },
+    "it": {
+      "name": "Torta di lamponi con mascarpone",
+      "description": "Una classica torta bulgara che unisce la freschezza dei lamponi con un ripieno cremoso di mascarpone. La base è composta da biscotti cotti, coperta da uno strato di marmellata di lamponi e una ricca miscela di mascarpone, decorata con lamponi freschi."
+    }
+  },
+  "Маргарита 410гр (ароматен доматен сос, моцарела, босилеково песто)": {
+    "bg": {
+      "name": "Маргарита 410гр (ароматен доматен сос, моцарела, босилеково песто)",
+      "description": "Класическа пица Маргарита с тегло 410 грама, приготвена върху тънко тесто с богат ароматен доматен сос, разстлан равномерно. Върху соса е разпръсната кремообразна моцарела, а върху нея е поставена свежа босилекова паста (песто), която придава характерен аромат и зелена цвят."
+    },
+    "en": {
+      "name": "Margherita 410g (aromatic tomato sauce, mozzarella, basil pesto)",
+      "description": "A classic Margherita pizza weighing 410 grams, made on a thin crust with a rich aromatic tomato sauce spread evenly. On top of the sauce is a layer of creamy mozzarella, and garnished with fresh basil pesto, which adds a distinctive aroma and green color."
+    },
+    "it": {
+      "name": "Margherita 410g (sugo di pomodoro aromatico, mozzarella, pesto di basilico)",
+      "description": "Una classica pizza Margherita del peso di 410 grammi, preparata su una base sottile con un ricco e aromatico sugo di pomodoro distribuito uniformemente. Sopra il sugo è disponibile uno strato di mozzarella cremosa, decorata con pesto di basilico fresco, che conferisce un aroma caratteristico e un colore verde."
+    }
+  },
+  "Морковена торта": {
+    "bg": {
+      "name": "Морковена торта",
+      "description": "Морковена торта е изискан десерт, приготвен от фина настъргана морковена смес, обикновено с добавени орехи и канела, сгъната в пухкаво тесто и покрита с крема сирене. Тази торта е популярна заради сочната си текстура и богат вкус, който съчетава сладостта на морковите с хладния крем."
+    },
+    "en": {
+      "name": "Carrot Cake",
+      "description": "Carrot cake is a sophisticated dessert made from finely grated carrots, usually mixed with walnuts and cinnamon, folded into a light batter and topped with cream cheese frosting. This cake is popular for its moist texture and rich flavor, combining the sweetness of carrots with a cool cream."
+    },
+    "it": {
+      "name": "Torta di carote",
+      "description": "La torta di carote è un dessert raffinato preparato con carote finemente grattugiate, solitamente con noci e cannella, mescolate in un impasto soffice e coperto con crema al formaggio. Questa torta è popolare per la sua consistenza umida e il sapore ricco, che combina la dolcezza delle carote con una fresca crema."
+    }
+  },
+  "Омлет със спанак и сирене, гарнитура домати": {
+    "bg": {
+      "name": "Омлет със спанак и сирене, гарнитура домати",
+      "description": "Класическо българско ястие, което съчетава пухкав омлет, богат със свежи спанак и разтопено сирене, сервирано с сочни домати като гарнитура. Тази комбинация е популярна за закуска или лека вечеря."
+    },
+    "en": {
+      "name": "Omelette with Spinach and Cheese, served with Tomatoes",
+      "description": "A classic Bulgarian dish featuring a fluffy omelette filled with fresh spinach and melted cheese, served with juicy tomatoes on the side. This combination is popular for breakfast or a light dinner."
+    },
+    "it": {
+      "name": "Omelette con spinaci e formaggio, accompagnato da pomodori",
+      "description": "Un piatto bulgaro classico che combina una soffice omelette ripiena di spinaci freschi e formaggio fuso, servita con pomodori succosi come contorno. Questa combinazione è popolare per colazione o una cena leggera."
+    }
+  },
+  "Ориз басмати със сотирани зеленчуци": {
+    "bg": {
+      "name": "Ориз Басмати със сотирани зеленчуци",
+      "description": "Деликатно ароматен бял ориз от сорта Басмати, съчетан с цветни и свежи зеленчуци, сотирани до златисто. Подходящо като самостоятелно ястие или гарнитура, това меню предлага хармонично съчетание на вкусове и аромати."
+    },
+    "en": {
+      "name": "Basmati Rice with Sautéed Vegetables",
+      "description": "Delicately fragrant white Basmati rice combined with colorful and fresh vegetables sautéed until golden. Suitable as a standalone dish or a side, this meal offers a harmonious blend of flavors and aromas."
+    },
+    "it": {
+      "name": "Riso Basmati con Verdure Saltate",
+      "description": "Delicato riso bianco Basmati con verdure colorate e fresche, saltate fino a diventare dorate. Ideale come piatto principale o contorno, questa pietanza offre un'armonia di sapori e profumi."
+    }
+  },
+  "Пепероне 490гр (доматен сос, италиански пикантен салам, моцарела)": {
+    "bg": {
+      "name": "Пепероне 490гр (доматен сос, италиански пикантен салам, моцарела)",
+      "description": "Класическа пица с тънко тесто, покрита с богат доматен сос, разтопена моцарела и италиански пикантен салам пепероне, създаващ балансиран вкус с малко лютивина."
+    },
+    "en": {
+      "name": "Pepperoni 490g (tomato sauce, spicy Italian salami, mozzarella)",
+      "description": "A classic pizza with a thin crust topped with rich tomato sauce, melted mozzarella, and spicy Italian pepperoni, offering a balanced flavor with a hint of spiciness."
+    },
+    "it": {
+      "name": "Pepperoni 490g (salsa di pomodoro, salame piccante italiano, mozzarella)",
+      "description": "Una classica pizza con crosta sottile, coperta di ricco sugo di pomodoro, mozzarella filante e salame piccante italiano, che offre un sapore equilibrato con un tocco di piccante."
+    }
+  },
+  "Печен патладжан с розови домати и сирене 400гр (чесън, копър, дресинг от магданоз)": {
+    "bg": {
+      "name": "Печен патладжан с розови домати и сирене 400гр (чесън, копър, дресинг от магданоз)",
+      "description": "Това е ароматно ястие, което включва печени патладжани, обслужени с розови домати и сирене. Вкусът се допълва с чесън, копър и магданозов дресинг, придаващ свежест и хармония на ястието."
+    },
+    "en": {
+      "name": "Baked Eggplant with Pink Tomatoes and Cheese 400g (garlic, dill, parsley dressing)",
+      "description": "This flavorful dish features baked eggplants served with pink tomatoes and cheese. The taste is enhanced with garlic, dill, and parsley dressing, adding freshness and harmony."
+    },
+    "it": {
+      "name": "Melanzane al forno con pomodori rosa e formaggio 400g (aglio, aneto, condimento di prezzemolo)",
+      "description": "Questo piatto saporito include melanzane al forno, servite con pomodori rosa e formaggio. Il gusto è completato con aglio, aneto e condimento di prezzemolo, che conferiscono freschezza e armonia."
+    }
+  },
+  "Пилешка супа": {
+    "bg": {
+      "name": "Пилешка супа",
+      "description": "Тази класическа супа се приготвя със свеж пилешки месо, зеленчуци като моркови, картофи и лук, и ароматни подправки. Подобрява се с варен ориз или фиде, за богата и уютна вкусова комбинация."
+    },
+    "en": {
+      "name": "Chicken Soup",
+      "description": "This classic soup is made with fresh chicken meat, vegetables such as carrots, potatoes, and onions, and seasoned with aromatic spices. It is often enriched with cooked rice or vermicelli for a hearty and comforting flavor."
+    },
+    "it": {
+      "name": "Zuppa di pollo",
+      "description": "Questa classica zuppa è preparata con carne di pollo fresca, verdure come carote, patate e cipolle, e speziata con aromi. Spesso viene arricchita con riso cotto o vermicelli per un sapore ricco e rassicurante."
+    }
+  },
+  "Пица Бурата 550гр (ароматен доматен сос, моцарела, прошуто крудо, рукола, чери домати)": {
+    "bg": {
+      "name": "Пица Бурата 550гр (ароматен доматен сос, моцарела, прошуто крудо, рукола, чери домати)",
+      "description": "Това е италианска пица с дебса, пухкава кора, покрита с ароматен доматен сос и богато количество моцарела. Върху нея са наредени тънки парчета прошуто крудо, свежа рукола и сочни чери домати, които допълват богатия и изискан вкус."
+    },
+    "en": {
+      "name": "Bufala Pizza 550g (aromatic tomato sauce, mozzarella, prosciutto crudo, arugula, cherry tomatoes)",
+      "description": "This is an Italian-style pizza with a thick, fluffy crust topped with aromatic tomato sauce and plenty of mozzarella. It is garnished with thin slices of prosciutto crudo, fresh arugula, and juicy cherry tomatoes, creating a rich and sophisticated flavor experience."
+    },
+    "it": {
+      "name": "Pizza Bufala 550g (sugo di pomodoro aromatico, fiordilatte, prosciutto crudo, rucola, pomodorini)",
+      "description": "Questa è una pizza in stile italiano con una crosta spessa e soffice, coperta da un aromatico sugo di pomodoro e abbondante fiordilatte. Sopra ci sono fette sottili di prosciutto crudo, rucola fresca e pomodorini succosi, che completano un gusto ricco ed elegante."
+    }
+  },
+  "Пица Златен BBQ сос 500гр (бекон, моцарела, маслини, червен лук, царевица)": {
+    "bg": {
+      "name": "Пица Златен BBQ сос 500гр",
+      "description": "Тази пица се отличава с богат вкус на BBQ сос, покрита с парчета бекон, разтопена моцарела, маслини, червен лук и царевица. Идеална за любителите на сочни и ароматни пици."
+    },
+    "en": {
+      "name": "Golden BBQ Pizza 500g",
+      "description": "This pizza features a rich BBQ sauce base, topped with bacon pieces, melted mozzarella, olives, red onion, and corn. Perfect for those who enjoy juicy and flavorful pizzas."
+    },
+    "it": {
+      "name": "Pizza BBQ d'Oro 500g",
+      "description": "Questa pizza presenta una base ricca di salsa BBQ, coperta con pezzi di bacon, mozzarella fusa, olive, cipolla rossa e mais. Ideale per gli amanti di pizze succose e aromatiche."
+    }
+  },
+  "Пица Капрезе 500гр (доматен сос, бейби моцарела, чери домат, маслини, босилеково песто)": {
+    "bg": {
+      "name": "Пица Капрезе 500гр (доматен сос, бейби моцарела, чери домат, маслини, босилеково песто)",
+      "description": "Класическа италианска пица с тънко тесто, покрита с доматен сос, малки топки бейби моцарела, свежи чери домати, маслини и ароматно босилеково песто. Лека, свежа и изпълнена с ярки вкусове."
+    },
+    "en": {
+      "name": "Caprese Pizza 500g (tomato sauce, baby mozzarella, cherry tomatoes, olives, basil pesto)",
+      "description": "A classic Italian-style thin crust pizza topped with tomato sauce, small balls of baby mozzarella, fresh cherry tomatoes, olives, and fragrant basil pesto. Light, fresh, and bursting with vibrant flavors."
+    },
+    "it": {
+      "name": "Pizza Caprese 500g (salsa di pomodoro, mozzarella baby, pomodorini, olive, pesto di basilico)",
+      "description": "Una classica pizza italiana con crosta sottile, coperta di salsa di pomodoro, piccole palline di mozzarella baby, pomodorini freschi, olive e aroma di pesto di basilico. Leggera, fresca e ricca di sapori vivaci."
+    }
+  },
+  "Пица Капрезе-Пепероне 530гр (доматен сос, бейби моцарела, италиански пикантен салам, чери домат, маслини, босилеково песто)": {
+    "bg": {
+      "name": "Пица Капрезе-Пепероне 530гр",
+      "description": "Тази пица съчетава класическа и любима комбинация от сладкия доматен сос и меката бейби моцарела, допълнени с италиански пикантен салам и свежи чери домати. Маслините и босилековото песто добавят финален щрих към богатия вкус, създавайки ароматно и удовлетворяващо ястие."
+    },
+    "en": {
+      "name": "Caprese-Pepperoni Pizza 530g",
+      "description": "This pizza features a classic and beloved combination of sweet tomato sauce and soft baby mozzarella, complemented by Italian spicy salami and fresh cherry tomatoes. Olives and basil pesto add a final touch to the rich flavor, creating a fragrant and satisfying dish."
+    },
+    "it": {
+      "name": "Pizza Caprese-Peperoni 530g",
+      "description": "Questa pizza combina una classica e amata combinazione di dolce salsa di pomodoro e morbida mozzarella baby, arricchita da salame piccante italiano e pomodorini freschi. Olive e pesto al basilico completano il gusto ricco, creando un piatto aromatico e soddisfacente."
+    }
+  },
+  "Пица от Парма 480гр (доматен сос, моцарела, прошуто крудо, чери домати, пармезан, рукола)": {
+    "bg": {
+      "name": "Пица от Парма 480гр (доматен сос, моцарела, прошуто крудо, чери домати, пармезан, рукола)",
+      "description": "Тази пица е класическо италиано ястие с тънко тестено основание, покрито с богат доматен сос, нежна моцарела, деликатно прошуто крудо, свежи чери домати, настърган пармезан и свежа рукола на върха, което придава пикантен и свеж вкус."
+    },
+    "en": {
+      "name": "Parma Pizza 480g (tomato sauce, mozzarella, prosciutto crudo, cherry tomatoes, Parmesan, arugula)",
+      "description": "This pizza features a thin crust topped with rich tomato sauce, tender mozzarella, delicate prosciutto crudo, fresh cherry tomatoes, grated Parmesan, and a handful of arugula, offering a flavorful and fresh Italian experience."
+    },
+    "it": {
+      "name": "Pizza di Parma 480g (sugo di pomodoro, mozzarella, prosciutto crudo, pomodorini, Parmigiano, rucola)",
+      "description": "Questa pizza ha una base sottile coperta con un ricco sugo di pomodoro, morbida mozzarella, prosciutto crudo delicato, pomodorini freschi, Parmigiano grattugiato e rucola fresca, offrendo un gusto italiano saporito e fresco."
+    }
+  },
+  "Пица с пушена сьомга 450гр (крема сирене, каперси, червен лук, чери домати, рукола)": {
+    "bg": {
+      "name": "Пица с пушена сьомга 450гр (крема сирене, каперси, червен лук, чери домати, рукола)",
+      "description": "Тази пица е класическо италианско ястие, обзаведено с тънка коричка и богато покритие от пушена сьомга, крема сирене, каперси, нарязан червен лук, сочни чери домати и свежа рукола. Перфектна за любителите на морските деликатеси и свежи вкусове."
+    },
+    "en": {
+      "name": "Pizza with smoked salmon 450g (cream cheese, capers, red onion, cherry tomatoes, arugula)",
+      "description": "This pizza features a thin crust topped generously with smoked salmon, cream cheese, capers, sliced red onion, juicy cherry tomatoes, and fresh arugula. A perfect choice for lovers of seafood and fresh flavors."
+    },
+    "it": {
+      "name": "Pizza con salmone affumicato 450g (formaggio cremoso, capperi, cipolla rossa, pomodorini, rucola)",
+      "description": "Questa pizza presenta una crosta sottile ricoperta abbondantemente di salmone affumicato, formaggio cremoso, capperi, cipolla rossa a fette, pomodorini succosi e rucola fresca. Ideale per gli amanti dei frutti di mare e dei gusti freschi."
+    }
+  },
+  "Пица с телешки суджук 530гр (доматен сос, моцарела, маслини, гъби, яйце, BBQ сос)": {
+    "bg": {
+      "name": "Пица с телешки суджук 530гр (доматен сос, моцарела, маслини, гъби, яйце, BBQ сос)",
+      "description": "Уредена и вкусна пица с телешки суджук, като основа лежи доматен сос и сирене моцарела. Добавени са маслини, гъби и яйце за богатство на вкуса, а към нея е поднесен BBQ сос за пикантен завършек."
+    },
+    "en": {
+      "name": "Pizza with Beef Sutzu 530g (tomato sauce, mozzarella, olives, mushrooms, egg, BBQ sauce)",
+      "description": "A delicious and hearty pizza topped with beef sutzu, with a base of tomato sauce and mozzarella cheese. It includes olives, mushrooms, and an egg for richness, finished with BBQ sauce for a spicy touch."
+    },
+    "it": {
+      "name": "Pizza con salsiccia di manzo 530g (salsa di pomodoro, mozzarella, olive nere, funghi, uovo, salsa BBQ)",
+      "description": "Una pizza gustosa e sostanziosa con salsiccia di manzo, con una base di salsa di pomodoro e mozzarella. Aggiunte olive nere, funghi e un uovo per ricchezza di sapori, completata con salsa BBQ per un tocco piccante."
+    }
+  },
+  "Прясна туршия \"Камбаната\"": {
+    "bg": {
+      "name": "Прясна туршия \"Камбаната\"",
+      "description": "Тази туршия е типично българско подправено ястие, приготвено с прясно зеленчуци като краставици, чушки, зеле и моркови, консервирани в оцет и подправки. Има свеж вкус и е популярна като гарнитура към различни основни ястия и като допълнение към масата през цялата година."
+    },
+    "en": {
+      "name": "Fresh Pickled Vegetables \"The Bell\"",
+      "description": "This pickle is a typical Bulgarian seasoned dish made from fresh vegetables such as cucumbers, peppers, cabbage, and carrots, preserved in vinegar and spices. It has a fresh taste and is popular as a side dish to various main courses and as an addition to the table throughout the year."
+    },
+    "it": {
+      "name": "Verdure sottaceto fresche \"La Campana\"",
+      "description": "Questa conserve è un piatto tipico bulgaro preparato con verdure fresche come cetrioli, peperoni, cavolo e carote, conservate in aceto e spezie. Ha un sapore fresco ed è popolare come contorno a diversi piatti principali e come aggiunta alla tavola durante tutto l'anno."
+    }
+  },
+  "Пълнозърнеста багета със семена 110гр": {
+    "bg": {
+      "name": "Пълнозърнеста багета със семена 110гр",
+      "description": "Тази багета е изработена от пълнозърнесто тесто и е обогатена със смесица от семена, които придават допълнителна хрупкавина и аромат. Тя е подходяща за закуска, сандвичи или като допълнение към различни ястия."
+    },
+    "en": {
+      "name": "Whole grain baguette with seeds 110g",
+      "description": "This baguette is made from whole grain dough and enriched with a mixture of seeds, adding extra crunch and flavor. Ideal for breakfast, sandwiches, or as an accompaniment to various dishes."
+    },
+    "it": {
+      "name": "Baguette integrale con semi 110g",
+      "description": "Questa baguette è realizzata con pasta integrale e arricchita con una miscela di semi, che conferiscono un tocco croccante e aromatico. Adatta per la colazione, panini o come accompagnamento a diversi piatti."
+    }
+  },
+  "Пържени чушки, розов домат, тирокафтери и брускети 400гр": {
+    "bg": {
+      "name": "Пържени чушки, розов домат, тирокафтери и брускети 400гр",
+      "description": "Това ястие включва пържени чушки, свеж розов домат, тирокафтери (традиционни български сирена) и брускети (хрупкави препечени филии хляб). Подходящо за любителите на свежи и ароматни вкусове."
+    },
+    "en": {
+      "name": "Fried peppers, pink tomato, tyrokaftari, and bruschetta 400g",
+      "description": "This dish features fried peppers, fresh pink tomato, tyrokaftari (traditional Bulgarian cheeses), and bruschetta (crispy toasted bread slices). Perfect for those who enjoy fresh and aromatic flavors."
+    },
+    "it": {
+      "name": "Peperoni fritti, pomodoro rosa, tyrokaftari e bruschetta 400g",
+      "description": " quest piatto include peperoni fritti, fresco pomodoro rosa, tyrokaftari (formaggi tradizionali bulgari) e bruschetta (fette di pane tostato croccante). Ideale per gli amanti di sapori freschi e aromatici."
+    }
+  },
+  "Руло Стефани с пюре от картофи и печен сос": {
+    "bg": {
+      "name": "Руло Стефани с пюре от картофи и печен сос",
+      "description": "Класическо българско ястие, представляващо руло от рядко нарязано телешко месо, напълнено с богата плънка от гъби, лук и подправки, след което е запечено до златисто. Сервира се с кремообразно пюре от картофи и печен сос, който допълва богатия вкус на ястието."
+    },
+    "en": {
+      "name": "Stefani Roll with Mashed Potatoes and Baked Sauce",
+      "description": "A classic Bulgarian dish featuring a roll of thinly sliced beef, filled with a rich mixture of mushrooms, onions, and spices, then baked until golden. Served with creamy mashed potatoes and a baked sauce that complements the dish's rich flavor."
+    },
+    "it": {
+      "name": "Involtini alla Stefani con purè di patate e salsa al forno",
+      "description": "Un piatto classico bulgaro con un involtino di carne di manzo sottilmente affettata, farcito con un ricco composto di funghi, cipolle e spezie, quindi cotto al forno fino a doratura. Servito con purè di patate cremoso e una salsa al forno che arricchisce il sapore del piatto."
+    }
+  },
+  "Салата Бурата 400гр (розови домати, печен патладжан, рукола, песто босилек)": {
+    "bg": {
+      "name": "Салата Бурата 400гр",
+      "description": "Свежа салата с розови домати, печени патладжани, рукола и ароматно песто от босилек. Лека и ароматна, перфектна за летните дни."
+    },
+    "en": {
+      "name": "Burata Salad 400g",
+      "description": "A fresh salad featuring pink tomatoes, roasted eggplant, arugula, and fragrant basil pesto. Light and flavorful, perfect for summer days."
+    },
+    "it": {
+      "name": "Insalata Burrata 400g",
+      "description": "Insalata fresca con pomodori rosa, melanzane arrostite, rucola e pesto al basilico aromatico. Leggera e saporita, ideale per le giornate estive."
+    }
+  },
+  "Салата от ряпа с моркови и целина": {
+    "bg": {
+      "name": "Салата от ряпа с моркови и целина",
+      "description": "Свежа и хрупкава салата, съчетаваща настъргани ряпа, моркови и целина. Подходяща като лека закуска или гарнитура към основно ястие, с леко кисел вкус и натурална ароматна свежест."
+    },
+    "en": {
+      "name": "Radish, Carrot, and Celery Salad",
+      "description": "A fresh and crunchy salad combining grated radish, carrots, and celery. Suitable as a light snack or a side dish to main courses, with a mildly tangy flavor and natural aromatic freshness."
+    },
+    "it": {
+      "name": "Insalata di ravanelli, carote e sedano",
+      "description": "Un'insalata fresca e croccante che combina ravanelli grattugiati, carote e sedano. Ideale come spuntino leggero o contorno a piatti principali, con un sapore leggermente aspro e una freschezza aromatica naturale."
+    }
+  },
+  "Свински ребърца с кисело зеле на фурна": {
+    "bg": {
+      "name": "Свински ребърца с кисело зеле на фурна",
+      "description": "Класическо българско ястие, приготвено със свински ребра, които се изваряват и залагат върху слой кисело зеле. Печени във фурна до златиста коричка, това ястие комбинира сочността на месото с киселия вкус на зелето, създавайки уютен и наситен аромат."
+    },
+    "en": {
+      "name": "Pork Ribs with Sauerkraut Baked in the Oven",
+      "description": "A traditional Bulgarian dish made with pork ribs, boiled and layered over sauerkraut. Baked in the oven until golden crust forms, this dish combines the juiciness of the meat with the tangy flavor of the cabbage, creating a cozy and rich aroma."
+    },
+    "it": {
+      "name": "Costine di maiale con crauti al forno",
+      "description": "Un piatto tradizionale bulgaro preparato con costine di maiale, bollite e poi cotte al forno sopra crauti. Cuocendo fino a ottenere una crosticina dorata, questo piatto combina la succosità della carne con il sapore acido dei crauti, creando un aroma avvolgente e ricco."
+    }
+  },
+  "Таратор (копър, орехи, чесън)": {
+    "bg": {
+      "name": "Таратор (копър, орехи, чесън)",
+      "description": "Студена българска супа, приготвена от кисело мляко, краставици, копър, чесън и орехи. Обикновено се сервира студена във летните месеци, освежаваща и с приятен вкус на чесън и копър."
+    },
+    "en": {
+      "name": "Tarator (dill, walnuts, garlic)",
+      "description": "A cold Bulgarian soup made from yogurt, cucumbers, dill, garlic, and walnuts. It is typically served chilled during the summer months, refreshing with a pleasant taste of garlic and dill."
+    },
+    "it": {
+      "name": "Tarator (aneto, noci, aglio)",
+      "description": "Una zuppa fredda bulgara fatta con yogurt, cetrioli, aneto, aglio e noci. Si serve generalmente fredda durante l'estate, rinfrescante e con un sapore piacevole di aglio e aneto."
+    }
+  },
+  "Телешки винен кебап с ароматен ориз басмати": {
+    "bg": {
+      "name": "Телешки винен кебап с ароматен ориз басмати",
+      "description": "Класическо българско ястие, приготвено със сочни парчета телешко месо, бавно сварени в богата винена сос и поднесени с ароматен ориз басмати. Това ястие съчетава богатството на месото с деликатния аромат и текстура на ориза, създавайки вкусна и уютна рецепта."
+    },
+    "en": {
+      "name": "Beef Wine Kebab with Fragrant Basmati Rice",
+      "description": "A classic Bulgarian dish featuring tender pieces of beef slowly cooked in a rich wine sauce and served with fragrant Basmati rice. This dish combines the richness of the meat with the delicate aroma and texture of the rice, creating a delicious and comforting meal."
+    },
+    "it": {
+      "name": "Kebab di manzo al vino con riso Basmati aromatico",
+      "description": "Un piatto classico bulgaro che include teneri pezzi di manzo cotti lentamente in una ricca salsa di vino e serviti con riso Basmati aromatico. Questo piatto combina la ricchezza della carne con il delicato aroma e la consistenza del riso, creando un bib gourmand delizioso e confortante."
+    }
+  },
+  "Телешко варено": {
+    "bg": {
+      "name": "Телешко варено",
+      "description": "Класическо българско ястие, приготвено чрез бавно варене на телешко месо в бульон, до пълна мекота. Обикновено се сервира с варени зеленчуци и картофи, като се подправя с прости подправки като сол, черен пипер и магданоз."
+    },
+    "en": {
+      "name": "Boiled Veal",
+      "description": "A classic Bulgarian dish made by slowly boiling veal meat in broth until tender. It is usually served with boiled vegetables and potatoes, seasoned simply with salt, black pepper, and parsley."
+    },
+    "it": {
+      "name": "Vitello bollito",
+      "description": "Un piatto classico bulgaro preparato facendo sobbollire lentamente la carne di vitello in brodo fino a che diventa tenera. Di solito viene servito con verdure bollite e patate, insaporito con sale, pepe nero e prezzemolo."
+    }
+  },
+  "Тиквеник с орехи": {
+    "bg": {
+      "name": "Тиквеник с орехи",
+      "description": "Тиквеник с орехи е традиционно българско сладко ястие, приготвено от тънък тестен слой с плънка от настъргана тиква, захар, канела и натрошени орехи. След навиване, се пече до златисто и се поръсва със захарна пудра или мед. Това е ароматен десерт, който съчетава сладостта на тиквата и хрупкавостта на орехите."
+    },
+    "en": {
+      "name": "Pumpkin pie with walnuts",
+      "description": "Pumpkin pie with walnuts is a traditional Bulgarian sweet dish made from thin pastry layers filled with grated pumpkin, sugar, cinnamon, and crushed walnuts. It is rolled up, baked until golden, and sprinkled with powdered sugar or honey. A fragrant dessert combining the sweetness of pumpkin and the crunchiness of walnuts."
+    },
+    "it": {
+      "name": "Torta di zucca con noci",
+      "description": "Torta di zucca con noci è un dolce tradizionale bulgaro preparato con sottili strati di pasta ripieni di zucca grattugiata, zucchero, cannella e noci sbriciolate. Dopo la cottura, viene servita calda o fredda, spesso con una spolverata di zucchero a velo o miele. È un dessert aromatico che unisce la dolcezza della zucca alla croccantezza delle noci."
+    }
+  },
+  "Френско козе сирене 300гр (микс зелени салатки, сладко от нар, кашу, цвекло, френски дресинг)": {
+    "bg": {
+      "name": "Френско козе сирене 300гр (микс зелени салатки, сладко от нар, кашу, цвекло, френски дресинг)",
+      "description": "Това е изискан салатен микс с 300 грама френско козе сирене, съчетаващо свежи зелени салатки, сладко от нар, хрупкаво кашу, цвекло и елегантен френски дресинг. Перфектно за любителите на деликатесни комбинации."
+    },
+    "en": {
+      "name": "French Goat Cheese 300g (mix of green salads, pomegranate jam, cashews, beetroot, French dressing)",
+      "description": "An elegant salad mix featuring 300 grams of French goat cheese, combined with fresh green salads, pomegranate jam, crunchy cashews, beetroot, and an elegant French dressing. Perfect for lovers of refined flavor combinations."
+    },
+    "it": {
+      "name": "Formaggio di capra francese 300g (mix di insalate verdi, composta di melograno, anacardi, barbabietola, salsa francese)",
+      "description": "Un raffinato mix di insalate con 300 grammi di formaggio di capra francese, abbinato a insalate verdi fresche, composta di melograno, anacardi croccanti, barbabietola e una elegante salsa francese. Ideale per gli amanti delle combinazioni di sapori sofisticati."
+    }
+  },
+  "Хот дог с пушен сос, шарена сол и пържени картофи": {
+    "bg": {
+      "name": "Хот дог с пушен сос, шарена сол и пържени картофи",
+      "description": "Това е класическа комбинация от меко сосено кълбо, обвито в хрупкава хлябчена пита, гарнирано с ароматен пушен сос, шарена сол за допълнителен вкус и порция пресни пържени картофи. Един вкусен и удовлетворяващ сандвич, идеален за бърз обяд или вечеря."
+    },
+    "en": {
+      "name": "Hot Dog with Smoked Sauce, Colorful Salt, and Fried Potatoes",
+      "description": "This is a classic combination of a soft sausage wrapped in a crispy bun, topped with aromatic smoked sauce, colorful salt for extra flavor, and a serving of freshly fried potatoes. A delicious and satisfying sandwich, perfect for a quick lunch or dinner."
+    },
+    "it": {
+      "name": "Hot Dog con salsa affumicata, sale colorato e patatine fritte",
+      "description": "Una combinazione classica di un morbido bastoncino avvolto in un panino croccante, guarnito con salsa affumicata aromatica, sale colorato per un sapore extra e una porzione di patatine fritte fresche. Un panino delizioso e soddisfacente, ideale per un pranzo o una cena veloce."
+    }
+  },
+  "Хрупкава бяла риба с айсберг, киноа и домати": {
+    "bg": {
+      "name": "Хрупкава бяла риба с айсберг, киноа и домати",
+      "description": "Това е сочна бяла риба, която е приготвена до съвършена хрупкава коричка, сервирана с свежи листа айсберг, леко сварена киноа и сочни домати. Разнообразието от текстури и свежестта на съставките го правят привлекателно и освежаващо ястие."
+    },
+    "en": {
+      "name": "Crispy White Fish with Iceberg Lettuce, Quinoa, and Tomatoes",
+      "description": "This dish features juicy white fish cooked to a crispy perfection, served with fresh iceberg lettuce, lightly cooked quinoa, and juicy tomatoes. The variety of textures and the freshness of the ingredients make it an appealing and refreshing meal."
+    },
+    "it": {
+      "name": "Pesce bianco croccante con lattuga iceberg, quinoa e pomodori",
+      "description": "Questo piatto presenta un delizioso pesce bianco, cotto fino a ottenere una croccante crosta, accompagnato da lattuga iceberg fresca, quinoa leggermente cotta e pomodori succosi. La varietà di consistenze e la freschezza degli ingredienti lo rendono un pasto attraente e rinfrescante."
+    }
+  },
+  "Цедено кисело мляко с орехи и карамел Дулсе де Лече": {
+    "bg": {
+      "name": "Цедено кисело мляко с орехи и карамел Дулсе де Лече",
+      "description": "Това ястие комбинира традиционно българско кисело мляко, цедено за по-гладка текстура, със свежи орехи и богат сладък карамел Дулсе де Лече. Получава се кремообразна и ароматна десертна комбинация, която е както освежаваща, така и удовлетворяваща."
+    },
+    "en": {
+      "name": "Strained Yogurt with Walnuts and Dulce de Leche Caramel",
+      "description": "This dish combines traditional Bulgarian strained yogurt, for a smooth texture, with fresh walnuts and rich sweet Dulce de Leche caramel. It results in a creamy, aromatic dessert that is both refreshing and satisfying."
+    },
+    "it": {
+      "name": "Yogurt filtrato con noci e caramello Dulce de Leche",
+      "description": "Questo piatto combina yogurt bulgaro tradizionale filtrato, per una consistenza liscia, con noci fresche e un ricco caramello Dulce de Leche. Ottieni un dessert cremoso e aromatico, sia rinfrescante che soddisfacente."
+    }
+  },
+  "Цезар с хрупкави калмари 320гр (айсберг, чери домати, цезар дресинг, пармезан и крутони)": {
+    "bg": {
+      "name": "Цезар с хрупкави калмари 320гр (айсберг, чери домати, цезар дресинг, пармезан и крутони)",
+      "description": "Това е свеж и апетитен салат с продълговати крутони, сочни чери домати, свежи листа айсберг, деликатни крехки калмари, подправени с класически цезар дресинг, пармезан и хрупкави крутони за допълнителен вкус и текстура."
+    },
+    "en": {
+      "name": "Caesar with crispy calamari 320g (iceberg, cherry tomatoes, Caesar dressing, Parmesan, and croutons)",
+      "description": "This is a fresh and appetizing salad featuring crispy calamari rings, juicy cherry tomatoes, crisp iceberg lettuce, and crunchy croutons, all tossed in a classic Caesar dressing with Parmesan cheese for a delightful taste and texture."
+    },
+    "it": {
+      "name": "Caesar con calamari croccanti 320g (lattuga iceberg, pomodorini, condimento Caesar, Parmigiano e crostini)",
+      "description": "È un'insalata fresca e gustosa con anelli di calamari croccanti, pomodorini succosi, lattuga iceberg croccante e crostini, tutti mescolati con un classico condimento Caesar e Parmigiano, per un sapore e una consistenza deliziosi."
+    }
+  },
+  "Четири сирена 460гр (сметана, синьо сирене, пармезан, топено сирене, моцарела, рукола)": {
+    "bg": {
+      "name": "Четири сирена 460гр (сметана, синьо сирене, пармезан, топено сирене, моцарела, рукола)",
+      "description": "Класическо италианско пица с богат асортимент от четири вида сирена: кремообразна сметана, силно синьо сирене, ароматен пармезан, меко топено сирене и разтопена моцарела, гарнирана със свежи листа рукола. Тази пица е пълна с вкус и кремообразна текстура, която ще удовлетворява любителите на сиренето."
+    },
+    "en": {
+      "name": "Four Cheeses 460g (cream, blue cheese, Parmesan, processed cheese, mozzarella, arugula)",
+      "description": "A classic Italian-style pizza topped with a rich mix of four cheeses: creamy sour cream, sharp blue cheese, flavorful Parmesan, soft processed cheese, and melted mozzarella, garnished with fresh arugula leaves. This pizza offers a full, cheesy flavor and a creamy texture that cheese lovers will enjoy."
+    },
+    "it": {
+      "name": "Quattro Formaggi 460g (panna, gorgonzola, parmigiano, formaggio filante, mozzarella, rucola)",
+      "description": "Classica pizza in stile italiano con una ricca combinazione di quattro formaggi: panna cremosa, gorgonzola forte, parmigiano aromatico, formaggio filante morbido e mozzarella fusa, arricchita con foglie di rucola fresca. Questa pizza è ricca di sapore e di una consistenza cremosa, ideale per gli amanti del formaggio."
+    }
+  },
+  "Четири сирена с Пепероне 460гр (сметана, синьо сирене, пармезан, топено сирене, моцарела)": {
+    "bg": {
+      "name": "Четири сирена с Пепероне 460гр",
+      "description": "Френската пица с пълна хармония от четири вида сирена – синьо сирене, пармезан, топено сирене и моцарела – допълнена с кръгли парченца пепероне, поднесена със слой сметана за кремообразен вкус."
+    },
+    "en": {
+      "name": "Four Cheeses with Pepperoni 460g",
+      "description": "A delicious pizza featuring a blend of four cheeses: blue cheese, Parmesan, processed cheese, and mozzarella, topped with slices of pepperoni and served with a layer of cream for a rich, creamy flavor."
+    },
+    "it": {
+      "name": "Quattro Formaggi con Pepperoni 460g",
+      "description": "Una deliziosa pizza con una miscela di quattro formaggi: gorgonzola, parmigiano, formaggio fuso e mozzarella, arricchita con fette di pepperoni e servita con uno strato di panna per un sapore ricco e cremoso."
+    }
+  },
+  "Чийзкейк с малини и бял шоколад": {
+    "bg": {
+      "name": "Чийзкейк с малини и бял шоколад",
+      "description": "Класически десерт с крехка бисквитена основа, богат крем от сирене, който е ароматизиран с ванилия, и е украсен с пресни малини и разтопен бял шоколад. Този чийзкейк впечатлява с нежната си текстура и съчетава сладостта на шоколада с леката киселинност на малините."
+    },
+    "en": {
+      "name": "Cheesecake with Raspberries and White Chocolate",
+      "description": "A classic dessert featuring a crumbly biscuit base, a rich cream cheese filling flavored with vanilla, topped with fresh raspberries and melted white chocolate. It impresses with its delicate texture and combines the sweetness of chocolate with the subtle tartness of raspberries."
+    },
+    "it": {
+      "name": "Cheesecake con lamponi e cioccolato bianco",
+      "description": "Un classico dessert con una base croccante di biscotto, una ricca crema di formaggio aromatizzata alla vaniglia, decorata con lamponi freschi e cioccolato bianco sciolto. Il cheesecake sorprende per la sua consistenza delicata e il suo abbinamento tra la dolcezza del cioccolato e l'acidità soffice dei lamponi."
+    }
+  }
+}

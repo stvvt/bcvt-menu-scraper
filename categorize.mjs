@@ -3,6 +3,8 @@ import OpenAI from 'openai';
 
 config({ path: '.env.local', debug: false });
 
+const CATEGORIES = 'закуски, супи, салати, десерти, предястия, основни ястия, гарнитури, напитки';
+
 /**
  * Categorize a dish
  * 
@@ -16,19 +18,18 @@ async function categorizeDish(dishName) {
   });
 
   const response = await openai.chat.completions.create({
-    model: 'openai/gpt-5-nano',
+    model: 'openai/gpt-4.1-nano',
     messages: [
       {
-        role: 'system', 
-        content: "Ти си асистент, който категоризира ястия в една от следните категории: закуски, супи, салати, десерти, предястия, основни ястия, гарнитури, напитки. Отговорът ти трябва да е точно една от изброените!"
+        role: 'system',
+        content: `Категоризирай ястие в: ${CATEGORIES}. Отговори само с категорията.`
       },
       {
-        role: 'user', 
-        content: `Категоризирай ястието "${dishName}"`
+        role: 'user',
+        content: dishName
       }
     ],
-    n: 1,
-    max_tokens: 550
+    max_tokens: 20
   });
 
   return response.choices[0].message.content;

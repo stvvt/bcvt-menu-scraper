@@ -121,6 +121,28 @@ The BCVT menu scraper extracts structured restaurant menu data:
 }
 ```
 
+## Meal Name Parser
+
+Standalone utility to extract structured fields from a scraped meal name with OpenAI.
+
+### Environment
+
+- `OPENAI_API_KEY` - required for `parseMealName`
+
+### Example
+
+```ts
+import { parseMealName } from 'bcvt-menu';
+
+const parsed = await parseMealName('Салата Бурата 400гр (розови домати, печен патладжан, рукола, песто босилек)');
+// => {
+//   name: 'Салата Бурата',
+//   weight: 400,
+//   unit: 'гр',
+//   subtitle: 'розови домати, печен патладжан, рукола, песто босилек'
+// }
+```
+
 ## License
 
 MIT 

@@ -3,6 +3,7 @@ import { extractMenuData } from './utils/extractMenuData';
 export interface MenuData {
   date: string;
   meals: Array<{
+    rawName?: string;
     name: string;
     price: string;
     currency?: string;
@@ -10,6 +11,7 @@ export interface MenuData {
     ean?: string;
     weight?: string;
     unit?: string;
+    subtitle?: string;
   }>;
 }
 

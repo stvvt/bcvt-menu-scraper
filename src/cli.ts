@@ -2,7 +2,15 @@
 
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
-import { scrapeMenuUrl } from './scraper';
+import { scrapeMenuUrl, type MenuData } from './scraper';
+import { parseMealName } from './utils/parseMealName';
+import { mergeDailyMenus, type DailyMenu } from './merge';
+import { config } from 'dotenv';
+import fs from 'fs/promises';
+import path from 'path';
+import normalizeMeal from './utils/normalizeMeal';
+
+config({ path: '.env.local', debug: false });
 
 yargs(hideBin(process.argv))
   .command(
@@ -47,6 +55,138 @@ yargs(hideBin(process.argv))
       }
     }
   )
+  .command(
+    'parse-meal <name>',
+    'Parse a raw meal name into structured fields (name, weight, unit, subtitle)',
+    (yargs) => {
+      return yargs
+        .positional('name', {
+          describe: 'Raw meal name to parse',
+          type: 'string',
+          demandOption: true,
+        } as const)
+        .option('model', {
+          alias: 'm',
+          type: 'string',
+          description: 'OpenAI model to use',
+          default: process.env.OPENAI_MODEL,
+        } as const)
+        .option('pretty', {
+          alias: 'p',
+          type: 'boolean',
+          description: 'Pretty print JSON output',
+          default: true,
+        } as const);
+    },
+    async (argv: any) => {
+      try {
+        const parsed = await parseMealName(argv.name, argv.model, undefined, { throwOnError: true });
+        const jsonOutput = argv.pretty
+          ? JSON.stringify(parsed, null, 2)
+          : JSON.stringify(parsed);
+
+        console.log(jsonOutput);
+      } catch (error) {
+        console.error('Error:', error instanceof Error ? error.message : String(error));
+        process.exit(1);
+      }
+    }
+  )
+  .command(
+    'normalize-daily-menu <file>',
+    'Normalize meal names in a daily menu file',
+    (yargs) => {
+      return yargs
+        .positional('file', {
+          describe: 'Daily menu file to normalize',
+          type: 'string',
+          demandOption: true,
+        } as const)
+        .option('model', {
+          alias: 'm',
+          type: 'string',
+          description: 'OpenAI model to use',
+          default: process.env.OPENAI_MODEL!,
+        } as const)
+        .option('pretty', {
+          alias: 'p',
+          type: 'boolean',
+          description: 'Pretty print JSON output',
+          default: true,
+        } as const);
+    },
+    async (argv) => {
+      try {
+        const file = await fs.readFile(argv.file, 'utf8');
+        const data = JSON.parse(file) as MenuData;
+        const normalizedMeals: MenuData['meals'] = [];
+        for (const meal of data.meals) {
+          const normalizedMeal = await normalizeMeal(meal, argv.model);
+          normalizedMeals.push(normalizedMeal);
+        }
+        const output = {
+          ...data,
+          meals: normalizedMeals,
+        }
+        const jsonOutput = argv.pretty
+          ? JSON.stringify(output, null, 2)
+          : JSON.stringify(output);
+        console.log(jsonOutput);
+      } catch (error) {
+        console.error('Error:', error instanceof Error ? error.message : String(error));
+        process.exit(1);
+      }
+    }
+  )
+  .command(
+    'merge <files..>',
+    'Merge daily menu files into a single price/image history index',
+    (yargs) => {
+      return yargs
+        .positional('files', {
+          describe: 'Daily menu JSON files to merge',
+          type: 'string',
+          array: true,
+          demandOption: true,
+        } as const)
+        .option('output', {
+          alias: 'o',
+          type: 'string',
+          description: 'Output file (defaults to stdout)',
+        } as const)
+        .option('pretty', {
+          alias: 'p',
+          type: 'boolean',
+          description: 'Pretty print JSON output',
+          default: true,
+        } as const);
+    },
+    async (argv: any) => {
+      try {
+        const inputs: Array<{ filename: string; data: DailyMenu }> = [];
+        for (const file of argv.files as string[]) {
+          const raw = await fs.readFile(file, 'utf8');
+          const data = JSON.parse(raw) as DailyMenu;
+          const filename = path.basename(file, '.json');
+          inputs.push({ filename, data });
+        }
+        const merged = mergeDailyMenus(inputs);
+        const jsonOutput = argv.pretty
+          ? JSON.stringify(merged, null, 2)
+          : JSON.stringify(merged);
+
+        if (argv.output) {
+          await fs.writeFile(argv.output, jsonOutput);
+          console.error(`Output written to ${argv.output}`);
+        } else {
+          console.log(jsonOutput);
+        }
+      } catch (error) {
+        console.error('Error:', error instanceof Error ? error.message : String(error));
+        process.exit(1);
+      }
+    }
+  )
   .version('1.0.0')
   .help()
   .alias('help', 'h')
@@ -55,4 +195,5 @@ yargs(hideBin(process.argv))
   .example('$0 https://example.com --pretty', 'Scrape with pretty-printed JSON')
   .example('$0 https://example.com -o result.json', 'Save output to a file')
   .example('$0 menu https://bcvt.eu/L/S/21254/m/Dirkhlbn --pretty', 'Scrape Bulgarian menu')
+  .example('$0 parse-meal "Салата Бурата 400гр (розови домати, песто)"', 'Parse a meal name with LLM')
   .parse(); 
