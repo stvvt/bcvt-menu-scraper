@@ -8454,5 +8454,19 @@
       "name": "Fetta di pizza vegetariana",
       "description": "Una fetta di croccante base di pasta sovrastata da un ricco strato di salsa di pomodoro, formaggio e diverse verdure come peperoni, funghi, olive e mais. È conosciuta per il suo sapore ricco e la varietà di ingredienti freschi."
     }
+  },
+  "Млечен крем с шоколад": {
+    "bg": {
+      "name": "Млечен крем с шоколад",
+      "description": "Кремообразен десерт, приготвен от мляко, захар и какао, обикновено поднесен студен. Идеално за любителите на шоколада и млечните вкусове."
+    },
+    "en": {
+      "name": "Milk Chocolate Cream",
+      "description": "A creamy dessert made from milk, sugar, and cocoa, typically served chilled. Perfect for lovers of chocolate and dairy flavors."
+    },
+    "it": {
+      "name": "Crema di cioccolato al latte",
+      "description": "Dessert cremoso fatto con latte, zucchero e cacao, generalmente servito freddo. Ideale per gli amanti del cioccolato e dei sapori lattiero-caseari."
+    }
   }
 }

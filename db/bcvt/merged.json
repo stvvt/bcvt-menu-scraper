@@ -1130,6 +1130,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/03",
+        "date": "2026-03-09",
+        "price": "2.31",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5564,6 +5572,20 @@
         "price": "2.99",
         "currency": "лв",
         "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Млечен крем с шоколад",
+    "prices": [
+      {
+        "dateText": "09/03",
+        "date": "2026-03-09",
+        "price": "3.21",
+        "currency": "лв",
+        "weight": "150",
         "unit": "гр"
       }
     ],
