@@ -8468,5 +8468,47 @@
       "name": "Crema di cioccolato al latte",
       "description": "Dessert cremoso fatto con latte, zucchero e cacao, generalmente servito freddo. Ideale per gli amanti del cioccolato e dei sapori lattiero-caseari."
     }
+  },
+  "ГАРНИТУРА зелена салата с домати и краставици": {
+    "bg": {
+      "name": "Гарнитура - зелена салата с домати и краставици",
+      "description": "Свежа и лека гарнитура, съдържаща пресни зелени листа, нарязани домати и краставици. Обикновено се сервира като придружение към месни ястия, допринасяйки с хрупкавост и свежест."
+    },
+    "en": {
+      "name": "Side dish - green salad with tomatoes and cucumbers",
+      "description": "A fresh and light side dish consisting of fresh green leaves, chopped tomatoes, and cucumbers. Typically served as an accompaniment to meat dishes, adding crunch and freshness."
+    },
+    "it": {
+      "name": "Contorno - insalata verde con pomodori e cetrioli",
+      "description": "Un contorno fresco e leggero che include foglie verdi fresche, pomodori tagliati e cetrioli. Di solito si serve come accompagnamento a piatti di carne, contribuendo con croccantezza e freschezza."
+    }
+  },
+  "Скир с червени плодове": {
+    "bg": {
+      "name": "Скир с червени плодове",
+      "description": "Това е лесен и освежаващ десерт, който съчетава традиционния български кисело мляко с пресни или замразени червени плодове като ягоди, череши, малини и боровинки. Този кремообразен микс е перфектен за летните жеги или като здравословен завършек на всяко хранене."
+    },
+    "en": {
+      "name": "Skyr with Red Fruits",
+      "description": "This is a simple and refreshing dessert combining traditional Bulgarian yogurt with fresh or frozen red fruits such as strawberries, cherries, raspberries, and blueberries. This creamy mix is perfect for summer days or as a healthy finish to any meal."
+    },
+    "it": {
+      "name": "Skyr con frutti rossi",
+      "description": "Questo è un dolce semplice e rinfrescante che combina lo yogurt bulgaro tradizionale con frutti rossi freschi o congelati come fragole, ciliegie, lamponi e mirtilli. Questa crema è perfetta per le giornate estive o come fine salutare di ogni pasto."
+    }
+  },
+  "Сьомга филе върху картофено кюфте с аспержи и сос беарнез": {
+    "bg": {
+      "name": "Сьомга филе върху картофено кюфте с аспержи и сос беарнез",
+      "description": "Вкусно и изискано ястие, съчетаващо прясно филе от сьомга, поставено върху меко картофено кюфте, гарнирано с свежи аспержи и богата сос беарнез. Това е перфектен избор за ценители на морските деликатеси и елегантна кухня."
+    },
+    "en": {
+      "name": "Salmon fillet on potato cake with asparagus and béarnaise sauce",
+      "description": "A delicious and sophisticated dish featuring fresh salmon fillet served atop a soft potato cake, accompanied by fresh asparagus and rich béarnaise sauce. Perfect for seafood lovers and those seeking elegant cuisine."
+    },
+    "it": {
+      "name": "Filetto di salmone su tortino di patate con asparagi e salsa béarnaise",
+      "description": "Un piatto delizioso ed elegante che presenta un filetto di salmone fresco su un morbido tortino di patate, accompagnato da asparagi freschi e una ricca salsa béarnaise. Ideale per amanti dei frutti di mare e della cucina raffinata."
+    }
   }
 }
