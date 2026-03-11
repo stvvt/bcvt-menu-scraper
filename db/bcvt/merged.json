@@ -209,6 +209,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "11/03",
+        "date": "2026-03-11",
+        "price": "3.89",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -493,6 +501,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cf936690-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Бифтек по хабургски",
+    "prices": [
+      {
+        "dateText": "11/03",
+        "date": "2026-03-11",
+        "price": "7.43",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Боб на фурна",
@@ -1558,6 +1580,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "11/03",
+        "date": "2026-03-11",
+        "price": "2.93",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -1767,6 +1797,20 @@
         "price": "3.13",
         "currency": "лв",
         "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА зелена салата със синьо сирене и бейби царевица",
+    "prices": [
+      {
+        "dateText": "11/03",
+        "date": "2026-03-11",
+        "price": "3.13",
+        "currency": "лв",
+        "weight": "90",
         "unit": "гр"
       }
     ],
@@ -3473,6 +3517,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8179fe7-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Италианска макаронена салата",
+    "prices": [
+      {
+        "dateText": "11/03",
+        "date": "2026-03-11",
+        "price": "4.89",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Кавърма с телешко месо и яйце",
@@ -5748,6 +5806,14 @@
         "dateText": "22-ри август",
         "date": "2025-08-22",
         "price": "5.80",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "11/03",
+        "date": "2026-03-11",
+        "price": "6.10",
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
@@ -8830,9 +8896,22 @@
         "date": "2025-06-27",
         "price": "3.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "11/03",
+        "date": "2026-03-11",
+        "price": "3.21",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-03-11",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/296d78bf-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пълнен патладжан с кайма и зеленчуци",
@@ -10278,6 +10357,14 @@
         "dateText": "21/01",
         "date": "2026-01-21",
         "price": "3.79",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "11/03",
+        "date": "2026-03-11",
+        "price": "4.89",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"

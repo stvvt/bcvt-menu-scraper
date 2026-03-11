@@ -8510,5 +8510,47 @@
       "name": "Filetto di salmone su tortino di patate con asparagi e salsa béarnaise",
       "description": "Un piatto delizioso ed elegante che presenta un filetto di salmone fresco su un morbido tortino di patate, accompagnato da asparagi freschi e una ricca salsa béarnaise. Ideale per amanti dei frutti di mare e della cucina raffinata."
     }
+  },
+  "Бифтек по хабургски": {
+    "bg": {
+      "name": "Бифтек по хабургски",
+      "description": "Класическо ястие, приготвено от дебел къс месо, обикновено телешко, пържено или гриловано до златисто. Обикновено е поднесено с гарнитура от пържени картофи или зеленчуци. Типично за българските ресторанти, това ястие е популярна и любима опция за бързо обяд или вечеря."
+    },
+    "en": {
+      "name": "Hamburg Steak",
+      "description": "A classic dish made from a thick cut of meat, usually beef, cooked by frying or grilling to a golden brown. It is typically served with a side of fried potatoes or vegetables. A popular and beloved choice for a quick lunch or dinner in Bulgarian restaurants."
+    },
+    "it": {
+      "name": "Bistecca all'hamburghese",
+      "description": "Un piatto classico preparato con un pezzo spesso di carne, di solito manzo, cotto alla griglia o in padella fino a ottenere un colore dorato. Di solito viene servito con contorni di patate fritte o verdure. È una scelta popolare e amata per pranzo o cena nei ristoranti bulgari."
+    }
+  },
+  "ГАРНИТУРА зелена салата със синьо сирене и бейби царевица": {
+    "bg": {
+      "name": "Гарнитура зелена салата със синьо сирене и бейби царевица",
+      "description": "Тази свежа и крехка салата съчетава зеленолистни зеленчуци, като маруля и спанак, с кръгли парчета бейби царевица и парчета синьо сирене. Подправена е с леко солен вкус и, в зависимост от варианта, може да съдържа зехтин и оцет."
+    },
+    "en": {
+      "name": "Green Salad with Blue Cheese and Baby Corn",
+      "description": "This fresh and crisp salad combines leafy greens such as lettuce and spinach with small pieces of baby corn and chunks of blue cheese. It is lightly seasoned with salt and can include olive oil and vinegar as dressing."
+    },
+    "it": {
+      "name": "Insalata verde con formaggio blu e baby mais",
+      "description": "Questa fresca e croccante insalata combina verdure a foglia come lattuga e spinaci con piccoli pezzi di baby mais e quadrati di formaggio blu. È condita con un tocco di sale e può includere olio d'oliva e aceto come condimento."
+    }
+  },
+  "Италианска макаронена салата": {
+    "bg": {
+      "name": "Италианска макаронена салата",
+      "description": "Популярно студено ястие, състоящо се от сварени макарони, смесени с различни свежи зеленчуци, като домати, краставици и маслини, подправени с ароматни подправки и зехтин."
+    },
+    "en": {
+      "name": "Italian Pasta Salad",
+      "description": "A popular cold dish made with cooked pasta mixed with fresh vegetables such as tomatoes, cucumbers, and olives, seasoned with herbs and olive oil."
+    },
+    "it": {
+      "name": "Insalata di pasta italiana",
+      "description": "Un piatto freddo popolare fatto con pasta cotta mescolata con verdure fresche come pomodori, cetrioli e olive, insaporito con erbe aromatiche e olio d'oliva."
+    }
   }
 }
