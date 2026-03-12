@@ -8552,5 +8552,19 @@
       "name": "Insalata di pasta italiana",
       "description": "Un piatto freddo popolare fatto con pasta cotta mescolata con verdure fresche come pomodori, cetrioli e olive, insaporito con erbe aromatiche e olio d'oliva."
     }
+  },
+  "Сарми с кълцано пилешко, ориз и зеленчуци": {
+    "bg": {
+      "name": "Сарми с кълцано пилешко, ориз и зеленчуци",
+      "description": "Това ястие представлява листа от зеле, пълни с вкусна смес от кълцано пилешко месо, ориз и ситно нарязани зеленчуци. След пълненето, сармите се варят на бавен огън до мекота, а често се сервират със сос от кисело мляко или доматен сос."
+    },
+    "en": {
+      "name": "Chicken and Rice Stuffed Cabbage Rolls",
+      "description": "This dish consists of cabbage leaves stuffed with a flavorful mixture of ground chicken, rice, and finely chopped vegetables. The rolls are simmered until tender and are often served with a yogurt or tomato-based sauce."
+    },
+    "it": {
+      "name": "Involtini di cavolo con pollo tritato, riso e verdure",
+      "description": "Questo piatto consiste in foglie di cavolo ripiene di un saporito mix di pollo tritato, riso e verdure finemente tritate. Gli involtini vengono cotti in umido fino a quando sono teneri e spesso serviti con una salsa allo yogurt o a base di pomodoro."
+    }
   }
 }

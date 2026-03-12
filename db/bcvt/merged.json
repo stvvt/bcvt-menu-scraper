@@ -1748,6 +1748,14 @@
         "currency": "лв",
         "weight": "80",
         "unit": "гр"
+      },
+      {
+        "dateText": "12/03",
+        "date": "2026-03-12",
+        "price": "2.74",
+        "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -3207,6 +3215,14 @@
         "dateText": "16/01",
         "date": "2026-01-16",
         "price": "4.11",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "12/03",
+        "date": "2026-03-12",
+        "price": "4.50",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
@@ -10887,6 +10903,20 @@
     "images": []
   },
   {
+    "name": "Сарми с кълцано пилешко, ориз и зеленчуци",
+    "prices": [
+      {
+        "dateText": "12/03",
+        "date": "2026-03-12",
+        "price": "4.91",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Сарми с нахут и два вида ориз",
     "prices": [
       {
@@ -13622,7 +13652,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-03-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/028e9856-200.jpg"
+      }
+    ]
   },
   {
     "name": "Чушка бюрек",
