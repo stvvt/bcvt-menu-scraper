@@ -12092,6 +12092,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/03",
+        "date": "2026-03-13",
+        "price": "3.89",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -12138,9 +12146,22 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/03",
+        "date": "2026-03-13",
+        "price": "3.21",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-03-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b51d5c0b-200.jpg"
+      }
+    ]
   },
   {
     "name": "Супа от миди",
