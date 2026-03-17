@@ -15,6 +15,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "17/03",
+        "date": "2026-03-17",
+        "price": "7.30",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -5221,6 +5229,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "17/03",
+        "date": "2026-03-17",
+        "price": "9.19",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -6696,6 +6712,25 @@
       {
         "date": "2025-11-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/960f7fae-200.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Парче пица с пилешко, царевица и топено сирене",
+    "prices": [
+      {
+        "dateText": "17/03",
+        "date": "2026-03-17",
+        "price": "5.91",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-03-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ac579d38-200.jpg"
       }
     ]
   },
@@ -9699,6 +9734,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/98b7a0b4-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Салата варени картофи със сушен домат и каперси",
+    "prices": [
+      {
+        "dateText": "17/03",
+        "date": "2026-03-17",
+        "price": "5.67",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Салата гуакамоле",

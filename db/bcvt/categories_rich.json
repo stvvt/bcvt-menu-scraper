@@ -8566,5 +8566,33 @@
       "name": "Involtini di cavolo con pollo tritato, riso e verdure",
       "description": "Questo piatto consiste in foglie di cavolo ripiene di un saporito mix di pollo tritato, riso e verdure finemente tritate. Gli involtini vengono cotti in umido fino a quando sono teneri e spesso serviti con una salsa allo yogurt o a base di pomodoro."
     }
+  },
+  "Парче пица с пилешко, царевица и топено сирене": {
+    "bg": {
+      "name": "Пица с пилешко, царевица и топено сирене",
+      "description": "Кратко и вкусно ястие, представлява парче пица с тънка кора, което е покрито с крехки парчета пилешко месо, сладка царевица и топено сирене, разтопено до златисто и вкусно състояние."
+    },
+    "en": {
+      "name": "Pizza with chicken, corn, and melted cheese",
+      "description": "A short and tasty dish, featuring a slice of thin-crust pizza topped with tender pieces of chicken, sweet corn, and melted cheese, baked to a golden and delicious state."
+    },
+    "it": {
+      "name": "Pizza con pollo, mais e formaggio fuso",
+      "description": "Un piatto breve e gustoso, rappresentato da una fetta di pizza con crosta sottile, ricoperta da teneri pezzi di pollo, mais dolce e formaggio fuso, cotto fino a uno stato dorato e saporito."
+    }
+  },
+  "Салата варени картофи със сушен домат и каперси": {
+    "bg": {
+      "name": "Салата варени картофи със сушен домат и каперси",
+      "description": "Това е свежа салата, съставена от топли варени картофи, нарязани на малки парчета, допълнени със сушени домати и кротки каперси. Перфектна за лека вечеря или като гарнитура към основно ястие."
+    },
+    "en": {
+      "name": "Boiled Potatoes Salad with Sun-Dried Tomato and Capers",
+      "description": "A fresh salad made from warm boiled potatoes chopped into small pieces, complemented with sun-dried tomatoes and mild capers. Perfect as a light dinner or as a side dish to a main course."
+    },
+    "it": {
+      "name": "Insalata di Patate Lessate con Pomodori Secchi e Capperi",
+      "description": "Un'insalata fresca composta da patate lessate calde, tagliate a pezzi piccoli, arricchita con pomodori secchi e capperi delicati. Ideale per una cena leggera o come contorno a un piatto principale."
+    }
   }
 }
