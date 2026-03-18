@@ -8594,5 +8594,33 @@
       "name": "Insalata di Patate Lessate con Pomodori Secchi e Capperi",
       "description": "Un'insalata fresca composta da patate lessate calde, tagliate a pezzi piccoli, arricchita con pomodori secchi e capperi delicati. Ideale per una cena leggera o come contorno a un piatto principale."
     }
+  },
+  "Гарнитура зеле, моркови, домат и краставица": {
+    "bg": {
+      "name": "Гарнитура зеле, моркови, домат и краставица",
+      "description": "Това е свежа и цветна гарнитура, състояща се от нарязано зелено зеле, моркови, зрели домати и краставици. Често се сервира като странично ястие към месни или рибни деликатеси, и е характерна за българската кухня заради свежестта и разнообразието на съставките."
+    },
+    "en": {
+      "name": "Vegetable Side Dish with Cabbage, Carrots, Tomato, and Cucumber",
+      "description": "This is a fresh and colorful side dish made from chopped green cabbage, carrots, ripe tomatoes, and cucumbers. It is often served as a side to meat or fish dishes and is characteristic of Bulgarian cuisine for its freshness and variety of ingredients."
+    },
+    "it": {
+      "name": "Contorno di cavolo, carote, pomodoro e cetriolo",
+      "description": "Questo è un contorno fresco e colorato composto da cavolo verde tritato, carote, pomodori maturi e cetrioli. Viene spesso servito come contorno a piatti di carne o pesce ed è caratteristico della cucina bulgara per la sua freschezza e la varietà di ingredienti."
+    }
+  },
+  "Свинско месо със зелен боб": {
+    "bg": {
+      "name": "Свинско месо със зелен боб",
+      "description": "Традиционно българско ястие, приготвено с парчета свинско месо и пресен зелен боб, готвени бавно с подправки и домати, до пика на ароматите и мекотата на месото."
+    },
+    "en": {
+      "name": "Pork with green beans",
+      "description": "A traditional Bulgarian dish prepared with pork chunks and fresh green beans, slowly cooked with spices and tomatoes until tender and flavorful."
+    },
+    "it": {
+      "name": "Maiale con fagiolini verdi",
+      "description": "Un piatto tradizionale bulgaro con pezzi di carne di maiale e fagiolini verdi freschi, cucinati lentamente con spezie e pomodori fino a diventare teneri e saporiti."
+    }
   }
 }
