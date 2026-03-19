@@ -12946,9 +12946,22 @@
         "date": "2025-08-07",
         "price": "9.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "19/03",
+        "date": "2026-03-19",
+        "price": "9.51",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-03-19",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/83e7f1f4-200.jpg"
+      }
+    ]
   },
   {
     "name": "Телешко филе с винен сос",
