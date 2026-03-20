@@ -8622,5 +8622,47 @@
       "name": "Maiale con fagiolini verdi",
       "description": "Un piatto tradizionale bulgaro con pezzi di carne di maiale e fagiolini verdi freschi, cucinati lentamente con spezie e pomodori fino a diventare teneri e saporiti."
     }
+  },
+  "Крем супа от гъби": {
+    "bg": {
+      "name": "Крем супа от гъби",
+      "description": "Тази крем супа се приготвя от пресни или готварски гъби, които се сваряват и пасират до гладка текстура. Обикновено е обогатена с малко сметана и подправки като чесън, лук и магданоз, като се сервира топла. Тази супа е кремообразна и ароматна, идеална като starter за зимни вечери."
+    },
+    "en": {
+      "name": "Cream Mushroom Soup",
+      "description": "This cream soup is made from fresh or cooked mushrooms, boiled and pureed to a smooth texture. It is usually enriched with a little cream and seasoned with garlic, onion, and parsley, served hot. The soup is creamy and flavorful, perfect as a starter for winter evenings."
+    },
+    "it": {
+      "name": "Zuppa cremosa ai funghi",
+      "description": "Questa zuppa cremosa è preparata con funghi freschi o cotti, lessati e frullati fino a ottenere una consistenza liscia. Solitamente viene arricchita con un po' di panna e condimenti come aglio, cipolla e prezzemolo, servita calda. È cremosa e aromatic, ideale come antipasto per le serate invernali."
+    }
+  },
+  "Кюфтета от моркови с мед и тиквени семки": {
+    "bg": {
+      "name": "Кюфтета от моркови с мед и тиквени семки",
+      "description": "Този вегетариански деликатес представлява малки кюфтета, направени от настъргани моркови, които са смесени с мед и поръсени с тиквени семки. Те са обвити в леко запечена коричка и имат сладък и леко орехов вкус, който ги прави идеално за закуска или лека закуска през деня."
+    },
+    "en": {
+      "name": "Carrot Meatballs with Honey and Pumpkin Seeds",
+      "description": "This vegetarian delicacy features small meatballs made from grated carrots, mixed with honey and sprinkled with pumpkin seeds. They are lightly baked until golden, offering a sweet and nutty flavor, making them perfect for breakfast or a light snack during the day."
+    },
+    "it": {
+      "name": "Polpette di carote con miele e semi di zucca",
+      "description": "Questa delizia vegetariana consiste in piccole polpette fatte di carote grattugiate, mescolate con miele e cosparse di semi di zucca. Sono leggermente cotte al forno fino a doratura, offrendo un sapore dolce e nocciolato, ideale per la colazione o uno spuntino leggero durante la giornata."
+    }
+  },
+  "Салата домати, краставици, печена чушка и маслини": {
+    "bg": {
+      "name": "Доматена салата с краставици, печена чушка и маслини",
+      "description": "Свежа и лека салата, състояща се от нарязани сочни домати, хрупкави краставици, ароматна печена чушка и маслини, подправена с малко зехтин и сол."
+    },
+    "en": {
+      "name": "Tomato, Cucumber, Roasted Pepper, and Olives Salad",
+      "description": "A fresh and light salad made of sliced juicy tomatoes, crunchy cucumbers, fragrant roasted pepper, and olives, seasoned with a little olive oil and salt."
+    },
+    "it": {
+      "name": "Insalata di pomodori, cetrioli, peperone arrostito e olive",
+      "description": "Un'insalata fresca e leggera composta da pomodori succosi tagliati, cetrioli croccanti, peperone arrostito aromatico e olive, condita con un po' di olio d'oliva e sale."
+    }
   }
 }
