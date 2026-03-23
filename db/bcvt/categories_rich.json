@@ -8664,5 +8664,33 @@
       "name": "Insalata di pomodori, cetrioli, peperone arrostito e olive",
       "description": "Un'insalata fresca e leggera composta da pomodori succosi tagliati, cetrioli croccanti, peperone arrostito aromatico e olive, condita con un po' di olio d'oliva e sale."
     }
+  },
+  "Пилешко филе със сос беарнез, запечено с броколи и кашкавал": {
+    "bg": {
+      "name": "Пилешко филе със сос беарнез, запечено с броколи и кашкавал",
+      "description": "Класическо ястие с печени пилешки филета, покрити с богати и гладко сос беарнез, запечени заедно с свежи броколи и настърган кашкавал, който се разтапя и създава апетитна коричка."
+    },
+    "en": {
+      "name": "Chicken fillet with Béarnaise sauce, baked with broccoli and cheese",
+      "description": "A classic dish featuring baked chicken fillets topped with rich Béarnaise sauce, baked together with fresh broccoli and grated cheese, which melts and forms an appetizing crust."
+    },
+    "it": {
+      "name": "Filetto di pollo con salsa Béarnaise, al forno con broccoli e formaggio",
+      "description": "Un piatto classico con filetti di pollo al forno, coperti di ricca salsa Béarnaise, cotti insieme a broccoli freschi e formaggio grattugiato, che si scioglie e forma una crosta invitante."
+    }
+  },
+  "Сандвич с моцарела и яйце": {
+    "bg": {
+      "name": "Сандвич с моцарела и яйце",
+      "description": "Този сандвич представлява топъл сутрешен или обеден сандвич, който съдържа прясна моцарела и сварено яйце между две парчета хрупкав хляб. Често се поднася с малко зехтин или босилек за допълнителен вкус."
+    },
+    "en": {
+      "name": "Sandwich with mozzarella and egg",
+      "description": "This sandwich is a warm breakfast or lunch option that contains fresh mozzarella and a boiled egg tucked between two slices of crispy bread. It is often served with a drizzle of olive oil or basil for extra flavor."
+    },
+    "it": {
+      "name": "Panino con mozzarella e uovo",
+      "description": "Questo panino è un'opzione calda per colazione o pranzo che contiene mozzarella fresca e un uovo sodo all'interno di due fette di pane croccante. Spesso viene servito con un filo di olio d'oliva o basilico per un sapore in più."
+    }
   }
 }
