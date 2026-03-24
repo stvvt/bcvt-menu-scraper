@@ -8692,5 +8692,19 @@
       "name": "Panino con mozzarella e uovo",
       "description": "Questo panino è un'opzione calda per colazione o pranzo che contiene mozzarella fresca e un uovo sodo all'interno di due fette di pane croccante. Spesso viene servito con un filo di olio d'oliva o basilico per un sapore in più."
     }
+  },
+  "Чийзкейк Бискоф": {
+    "bg": {
+      "name": "Чийзкейк Бискоф",
+      "description": "Този десерт е кремообразен чийзкейк с богат вкус на сирене и крехка бисквитена основа. Обикновено е покрит с плодове или ганаш, придаващи допълнителен аромат и елегантен завършек."
+    },
+    "en": {
+      "name": "Biscoff Cheesecake",
+      "description": "This dessert is a creamy cheesecake with a rich cheese flavor and a crisp biscuit base. It is usually topped with fruits or ganache, adding extra flavor and an elegant finish."
+    },
+    "it": {
+      "name": "Cheesecake Biscoff",
+      "description": "Questo dolce è una cheesecake cremosa con un intenso sapore di formaggio e una base croccante di biscotti. Solitamente è decorato con frutta o ganache, per un tocco di gusto in più e un aspetto elegante."
+    }
   }
 }
