@@ -13881,6 +13881,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "25/03",
+        "date": "2026-03-25",
+        "price": "4.21",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
