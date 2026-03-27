@@ -7492,6 +7492,25 @@
     "images": []
   },
   {
+    "name": "Печено пилешко бутче",
+    "prices": [
+      {
+        "dateText": "27/03",
+        "date": "2026-03-27",
+        "price": "7.00",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-03-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/db1b1754-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Печено прясно зеле",
     "prices": [
       {
@@ -13398,9 +13417,22 @@
         "date": "2025-07-04",
         "price": "8.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "27/03",
+        "date": "2026-03-27",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-03-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1387b93e-200.jpg"
+      }
+    ]
   },
   {
     "name": "Тортила със сирена",

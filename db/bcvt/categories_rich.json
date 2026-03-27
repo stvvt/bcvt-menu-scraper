@@ -8706,5 +8706,19 @@
       "name": "Cheesecake Biscoff",
       "description": "Questo dolce è una cheesecake cremosa con un intenso sapore di formaggio e una base croccante di biscotti. Solitamente è decorato con frutta o ganache, per un tocco di gusto in più e un aspetto elegante."
     }
+  },
+  "Печено пилешко бутче": {
+    "bg": {
+      "name": "Печено пилешко бутче",
+      "description": "Класическо българско ястие, приготвено от цяло пилешко бутче, предварително подправено със сол, пипер и любимите подправки, след което печени до златиста коричка. Обикновено сервирано с гарнитура от свежи зеленчуци или варен ориз, това ястие е сочен и ароматен избор за семейна вечеря."
+    },
+    "en": {
+      "name": "Roasted Chicken Thigh",
+      "description": "A classic Bulgarian dish made from a whole chicken thigh, pre-seasoned with salt, pepper, and favorite spices, then roasted until golden brown. Usually served with a side of fresh vegetables or boiled rice, this dish is juicy and aromatic, perfect for a family dinner."
+    },
+    "it": {
+      "name": "Coscia di pollo arrosto",
+      "description": "Un piatto classico bulgaro preparato con una coscia di pollo intera, precondita con sale, pepe e spezie preferite, quindi arrostita fino a doratura. Di solito servita con contorno di verdure fresche o riso bollito, questa pietanza è succosa e aromatica, ideale per una cena in famiglia."
+    }
   }
 }
