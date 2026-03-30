@@ -8720,5 +8720,19 @@
       "name": "Coscia di pollo arrosto",
       "description": "Un piatto classico bulgaro preparato con una coscia di pollo intera, precondita con sale, pepe e spezie preferite, quindi arrostita fino a doratura. Di solito servita con contorno di verdure fresche o riso bollito, questa pietanza è succosa e aromatica, ideale per una cena in famiglia."
     }
+  },
+  "Пилешки сърца с праз и бекон": {
+    "bg": {
+      "name": "Пилешки сърца с праз и бекон",
+      "description": "Това е традиционно българско ястие, което включва нежни пилешки сърца, сотирани със свеж праз и крекотъв бекон. Ястието има богат вкус и е популярно като апетитна + основна ястие в българската кухня."
+    },
+    "en": {
+      "name": "Chicken hearts with leeks and bacon",
+      "description": "This is a traditional Bulgarian dish featuring tender chicken hearts sautéed with fresh leeks and crispy bacon. It is known for its rich flavor and is popular as an appetizer or main course in Bulgarian cuisine."
+    },
+    "it": {
+      "name": "Cuore di pollo con porri e pancetta",
+      "description": "Questo è un piatto tradizionale bulgaro che include teneri cuori di pollo saltati con porri freschi e pancetta croccante. È conosciuto per il suo sapore ricco ed è popolare come antipasto o piatto principale nella cucina bulgara."
+    }
   }
 }
