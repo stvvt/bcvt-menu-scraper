@@ -8734,5 +8734,47 @@
       "name": "Cuore di pollo con porri e pancetta",
       "description": "Questo è un piatto tradizionale bulgaro che include teneri cuori di pollo saltati con porri freschi e pancetta croccante. È conosciuto per il suo sapore ricco ed è popolare come antipasto o piatto principale nella cucina bulgara."
     }
+  },
+  "Гарнитура зелена салата със сушен домат и маслини": {
+    "bg": {
+      "name": "Зелена салата със сушен домат и маслини",
+      "description": "Просторна и освежаваща гарнитура, състояща се от свежа зелена салата, допълнена с ароматни сушени домати и маслини, които добавят солен и богат вкус. Това ястие е идеално като акомпанимент към основни ястия или като лека предястие."
+    },
+    "en": {
+      "name": "Green salad with sun-dried tomato and olives",
+      "description": "A light and refreshing side dish consisting of fresh green lettuce, complemented with aromatic sun-dried tomatoes and olives, which add a salty and rich flavor. It is ideal as a side or a light appetizer."
+    },
+    "it": {
+      "name": "Insalata verde con pomodoro secco e olive",
+      "description": "Un contorno leggero e rinfrescante a base di lattuga verde fresca, arricchito da pomodori secchi aromatici e olive, che conferiscono un sapore salato e ricco. È perfetto come accompagnamento o come antipasto leggero."
+    }
+  },
+  "Клуб сандвич": {
+    "bg": {
+      "name": "Клуб сандвич",
+      "description": "Клуб сандвич е богат и засищащ сандвич, традиционно съставен от три парчета хляб, между които има слой от кръвно месо, шунка, препечен бекон, свежи зеленчуци и сосове. Обикновено е нарязан на триъгълни парчета и се сервира като бързо и вкусно хранене за обяд или следобедна почивка."
+    },
+    "en": {
+      "name": "Club Sandwich",
+      "description": "A club sandwich is a hearty and filling sandwich traditionally made with three slices of bread, layered with cooked chicken or turkey, crispy bacon, fresh lettuce, tomato slices, and mayonnaise or other sauces. It is usually cut into triangles and served as a quick, delicious meal for lunch or a snack."
+    },
+    "it": {
+      "name": "Panino Club",
+      "description": "Il panino club è un panino ricco e saziante, tipicamente realizzato con tre fette di pane tra cui strati di pollo o tacchino cotto, bacon croccante, lattuga fresca, pomodori e salse come maionese. Solitamente viene tagliato in triangoli e servito come pasto rapido e saporito per pranzo o merenda."
+    }
+  },
+  "Свински късчета с гъби и сос , гарнирани с ориз": {
+    "bg": {
+      "name": "Свински късчета с гъби и сос, гарнирани с ориз",
+      "description": "Това е сочна и ароматна ястие, състоящо се от малки парчета свинско месо, приготвени с гъби и богат сос. Поднася се с гарнитура от мек, сварен ориз, който перфектно допълва вкусовата комбинация."
+    },
+    "en": {
+      "name": "Pork pieces with mushrooms and sauce, served with rice",
+      "description": "A juicy and flavorful dish consisting of small pieces of pork cooked with mushrooms and a rich sauce. It is served with a side of soft, cooked rice, which perfectly complements the taste."
+    },
+    "it": {
+      "name": "Pezzi di maiale con funghi e salsa, serviti con riso",
+      "description": "Un piatto succoso e aromatico composto da piccoli pezzi di maiale cucinati con funghi e una ricca salsa. Viene servito con un contorno di riso morbido e cotto, che si sposa perfettamente con il sapore."
+    }
   }
 }
