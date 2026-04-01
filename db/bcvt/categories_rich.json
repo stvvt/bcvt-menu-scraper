@@ -8776,5 +8776,61 @@
       "name": "Pezzi di maiale con funghi e salsa, serviti con riso",
       "description": "Un piatto succoso e aromatico composto da piccoli pezzi di maiale cucinati con funghi e una ricca salsa. Viene servito con un contorno di riso morbido e cotto, che si sposa perfettamente con il sapore."
     }
+  },
+  "Пандишпаново руло с крем": {
+    "bg": {
+      "name": "Пандишпаново руло с крем",
+      "description": "Класическо българско сладко изкушение, представлява пухкаво и деликатно пандишпаново тесто, навито около богат крем, често ванилов или шоколадов, и покрито с глазура или пудра захар."
+    },
+    "en": {
+      "name": "Sponge Cake Roll with Cream",
+      "description": "A classic Bulgarian sweet treat consisting of a fluffy and delicate sponge cake rolled around a rich cream, often vanilla or chocolate flavored, and covered with glaze or powdered sugar."
+    },
+    "it": {
+      "name": "Rotolo di Pan di Spagna con Crema",
+      "description": "Un classico dolce bulgaro che consiste in una soffice e delicata torta pan di Spagna arrotolata attorno a una ricca crema, spesso al gusto di vaniglia o cioccolato, e coperta con glassa o zucchero a velo."
+    }
+  },
+  "Сарми с кълцано месо и ориз": {
+    "bg": {
+      "name": "Сарми с кълцано месо и ориз",
+      "description": "Това традиционно българско ястие представлява пролетни листа кисело зеле, пълнени с кълцано месо, ориз и подправки, след което са сварени или запечени. Обикновено се сервират с кисело мляко или сос."
+    },
+    "en": {
+      "name": "Cabbage rolls with minced meat and rice",
+      "description": "A traditional Bulgarian dish made of sour cabbage leaves filled with minced meat, rice, and spices, then cooked or baked. Typically served with yogurt or sauce."
+    },
+    "it": {
+      "name": "Involtini di cavolo con carne macinata e riso",
+      "description": "Un piatto tradizionale bulgaro costituito da foglie di cavolo acido ripiene di carne macinata, riso e spezie, poi cotte o al forno. Solitamente servite con yogurt o salsa."
+    }
+  },
+  "Супа минестроне": {
+    "bg": {
+      "name": "Супа минестроне",
+      "description": "Супа минестроне е италианска зеленчукова супа, която съдържа различни зеленчуци, боб, паста или ориз и често се подправя с пармезан. Това е питателно и уютно ястие, подходящо за всяко време на годината."
+    },
+    "en": {
+      "name": "Minestrone Soup",
+      "description": "Minestrone is an Italian vegetable soup that includes a variety of vegetables, beans, pasta or rice, and is often flavored with Parmesan cheese. It is a hearty and comforting dish suitable for any time of the year."
+    },
+    "it": {
+      "name": "Zuppa minestrone",
+      "description": "La zuppa minestrone è una zuppa italiana di verdure che contiene varie verdure, fagioli, pasta o riso, e spesso è aromatizzata con Parmigiano. È un piatto sostanzioso e confortante, adatto a ogni stagione."
+    }
+  },
+  "Тортила с телешко месо": {
+    "bg": {
+      "name": "Тортила с телешко месо",
+      "description": "Това ястие представлява мексикански стил тортила, пълнена с меко, подправено телешко месо, зеленчуци и сос. Обикновено се сервира топла и е популярно като бързо и вкусно меню."
+    },
+    "en": {
+      "name": "Tortilla with beef",
+      "description": "This dish features a tortilla filled with tender, seasoned beef, vegetables, and sauce. It is usually served warm and is a popular quick and tasty meal."
+    },
+    "it": {
+      "name": "Tortilla con carne bovina",
+      "description": "Questo piatto consiste in una tortilla ripiena di carne bovina tenera e condita, verdure e salsa. Viene solitamente servita calda ed è un pasto rapido e gustoso."
+    }
   }
 }
