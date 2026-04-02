@@ -13367,6 +13367,20 @@
     "images": []
   },
   {
+    "name": "Торта мус",
+    "prices": [
+      {
+        "dateText": "02/04",
+        "date": "2026-04-02",
+        "price": "3.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Торта Парфе",
     "prices": [
       {

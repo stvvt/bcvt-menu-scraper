@@ -8832,5 +8832,19 @@
       "name": "Tortilla con carne bovina",
       "description": "Questo piatto consiste in una tortilla ripiena di carne bovina tenera e condita, verdure e salsa. Viene solitamente servita calda ed è un pasto rapido e gustoso."
     }
+  },
+  "Торта мус": {
+    "bg": {
+      "name": "Торта мус",
+      "description": "Торта мус е лек и въздушен десерт, съставен от слоеве шоколадов мус и бисквити или блатове. Обикновено се украсява с шоколадова глазура или плодове, като е подходящ за завършек на празничен обяд или вечеря."
+    },
+    "en": {
+      "name": "Mousse Cake",
+      "description": "Mousse cake is a light and airy dessert made of layers of chocolate mousse and biscuits or sponge layers. It is typically decorated with chocolate glaze or fruits, making it a perfect finish for a festive lunch or dinner."
+    },
+    "it": {
+      "name": "Torta mousse",
+      "description": "La torta mousse è un dolce leggero e aerato, composto da strati di mousse al cioccolato e biscotti o pan di spagna. Di solito è decorata con glassa al cioccolato o frutta, ideale come dessert finale per un pranzo o una cena festiva."
+    }
   }
 }
