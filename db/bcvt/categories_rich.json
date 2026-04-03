@@ -8846,5 +8846,19 @@
       "name": "Torta mousse",
       "description": "La torta mousse è un dolce leggero e aerato, composto da strati di mousse al cioccolato e biscotti o pan di spagna. Di solito è decorata con glassa al cioccolato o frutta, ideale come dessert finale per un pranzo o una cena festiva."
     }
+  },
+  "ГАРНИТУРА доамти , краставици и маслини": {
+    "bg": {
+      "name": "Гарнитура доамти, краставици и маслини",
+      "description": "Лека и освежаваща гарнитура, състояща се от пресни домати, хрупкави краставици и маслини с нежна солена нотка. Перфектно допълнение към всяко основно ястие."
+    },
+    "en": {
+      "name": "Garnish of tomatoes, cucumbers, and olives",
+      "description": "A light and refreshing garnish made with fresh tomatoes, crunchy cucumbers, and olives with a mild salty note. Perfect as a side dish to any main course."
+    },
+    "it": {
+      "name": "Contorno di pomodori, cetrioli e olive",
+      "description": "Un contorno leggero e rinfrescante composto da pomodori freschi, cetrioli croccanti e olive con una lieve nota salata. Perfetto come accompagnamento a qualsiasi piatto principale."
+    }
   }
 }
