@@ -8860,5 +8860,19 @@
       "name": "Contorno di pomodori, cetrioli e olive",
       "description": "Un contorno leggero e rinfrescante composto da pomodori freschi, cetrioli croccanti e olive con una lieve nota salata. Perfetto come accompagnamento a qualsiasi piatto principale."
     }
+  },
+  "Пилешки воденички с ориз": {
+    "bg": {
+      "name": "Пилешки воденички с ориз",
+      "description": "Класическо българско ястие, приготвено от пилешки воденички (глава, шийка, сърце и др.) сварени или задушени заедно с ароматен български ориз, подправки и свежи подправки. Обикновено се сервира горещо и е популярно за семейни обеди."
+    },
+    "en": {
+      "name": "Chicken Giblets with Rice",
+      "description": "A traditional Bulgarian dish made from chicken giblets (neck, heart, gizzards, and other parts), cooked together with fragrant Bulgarian rice, spices, and fresh herbs. Usually served hot and popular for family dinners."
+    },
+    "it": {
+      "name": "Cuori di pollo con riso",
+      "description": "Un piatto tradizionale bulgaro preparato con cuore di pollo, gizzards, collo e altri pezzi, cucinati insieme con riso aromatico bulgaro, spezie e erbe fresche. Generalmente servito caldo ed è popolare per pranzi in famiglia."
+    }
   }
 }
