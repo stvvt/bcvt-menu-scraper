@@ -8874,5 +8874,19 @@
       "name": "Cuori di pollo con riso",
       "description": "Un piatto tradizionale bulgaro preparato con cuore di pollo, gizzards, collo e altri pezzi, cucinati insieme con riso aromatico bulgaro, spezie e erbe fresche. Generalmente servito caldo ed è popolare per pranzi in famiglia."
     }
+  },
+  "Задушен грах с ориз и моркови": {
+    "bg": {
+      "name": "Задушен грах с ориз и моркови",
+      "description": "Това е традиционно българско ястие, приготвено със зърнен зелен грах, който се задушава с парчета моркови и се сервира с ароматен ориз. Ястието е леко, вкусно и хранително, често използвано като основно или като гарнитура."
+    },
+    "en": {
+      "name": "Stewed peas with rice and carrots",
+      "description": "This is a traditional Bulgarian dish made with green peas, which are stewed with pieces of carrots and served with fragrant rice. The dish is light, tasty, and nutritious, often served as a main course or side dish."
+    },
+    "it": {
+      "name": "Piselli stufati con riso e carote",
+      "description": "Questo è un piatto tradizionale bulgaro preparato con piselli verdi, stufati con pezzi di carote e serviti con riso aromatico. Il piatto è leggero, gustoso e nutriente, spesso servito come piatto principale o contorno."
+    }
   }
 }

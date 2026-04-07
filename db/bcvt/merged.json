@@ -1450,6 +1450,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/04",
+        "date": "2026-04-07",
+        "price": "2.54",
+        "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -2773,6 +2781,20 @@
         "price": "8.50",
         "currency": "лв",
         "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Задушен грах с ориз и моркови",
+    "prices": [
+      {
+        "dateText": "07/04",
+        "date": "2026-04-07",
+        "price": "2.54",
+        "currency": "лв",
+        "weight": "150",
         "unit": "гр"
       }
     ],
@@ -10641,6 +10663,14 @@
         "currency": "лв",
         "weight": "0.2",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/04",
+        "date": "2026-04-07",
+        "price": "4.30",
+        "currency": "лв",
+        "weight": "0.2",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -11308,6 +11338,14 @@
         "dateText": "03-ти ноември",
         "date": "2025-11-03",
         "price": "10.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/04",
+        "date": "2026-04-07",
+        "price": "10.89",
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
