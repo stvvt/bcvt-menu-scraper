@@ -8356,6 +8356,14 @@
         "currency": "лв",
         "weight": "350",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/04",
+        "date": "2026-04-08",
+        "price": "8.31",
+        "currency": "лв",
+        "weight": "350",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -10790,6 +10798,14 @@
         "dateText": "06/01",
         "date": "2026-01-06",
         "price": "3.79",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "08/04",
+        "date": "2026-04-08",
+        "price": "4.01",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
