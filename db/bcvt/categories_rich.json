@@ -8888,5 +8888,19 @@
       "name": "Piselli stufati con riso e carote",
       "description": "Questo è un piatto tradizionale bulgaro preparato con piselli verdi, stufati con pezzi di carote e serviti con riso aromatico. Il piatto è leggero, gustoso e nutriente, spesso servito come piatto principale o contorno."
     }
+  },
+  "Шоколадово парфе": {
+    "bg": {
+      "name": "Шоколадово парфе",
+      "description": "Леко и пухкаво десертно ястие, приготвено с богат шоколадов крем, който се сервира охладен. Обикновено се гарнира с какао, шоколадови стърготини или плодове."
+    },
+    "en": {
+      "name": "Chocolate Parfait",
+      "description": "A light and fluffy dessert made with rich chocolate cream, served chilled. Typically garnished with cocoa powder, chocolate shavings, or fruits."
+    },
+    "it": {
+      "name": "Parfait al cioccolato",
+      "description": "Un dessert leggero e soffice preparato con crema di cioccolato ricca, servito freddo. Di solito decorato con cacao in polvere, scaglie di cioccolato o frutta."
+    }
   }
 }
