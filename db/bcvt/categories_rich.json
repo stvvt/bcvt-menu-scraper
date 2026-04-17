@@ -8902,5 +8902,19 @@
       "name": "Parfait al cioccolato",
       "description": "Un dessert leggero e soffice preparato con crema di cioccolato ricca, servito freddo. Di solito decorato con cacao in polvere, scaglie di cioccolato o frutta."
     }
+  },
+  "Пълнен картоф с бекон и кашкавал": {
+    "bg": {
+      "name": "Пълнен картоф с бекон и кашкавал",
+      "description": "Това е вкусно ястие, при което голям картоф се изрязва, залива се с нагорещен бекон и настърган кашкавал, след което се пече във фурна до златист цвят. Получава се сочен и ароматен пълнен картоф с богат вкус."
+    },
+    "en": {
+      "name": "Baked potato with bacon and cheese",
+      "description": "A delicious dish where a large potato is hollowed out, filled with crispy bacon and grated cheese, then baked in the oven until golden. It results in a juicy and flavorful stuffed potato."
+    },
+    "it": {
+      "name": "Patata ripiena con pancetta e formaggio",
+      "description": "Un delizioso piatto in cui una grande patata viene svuotata, riempita con pancetta croccante e formaggio grattugiato, e poi cotta al forno fino a doratura. Risulta in una patata ripiena succosa e saporita."
+    }
   }
 }
