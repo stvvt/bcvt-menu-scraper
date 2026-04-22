@@ -10629,6 +10629,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "22/04",
+        "date": "2026-04-22",
+        "price": "5.57",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -11979,6 +11987,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2ab8c711-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Свинско с праз и гъби",
+    "prices": [
+      {
+        "dateText": "22/04",
+        "date": "2026-04-22",
+        "price": "8.90",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Свинско с прясно зеле",

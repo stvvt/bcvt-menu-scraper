@@ -8916,5 +8916,19 @@
       "name": "Patata ripiena con pancetta e formaggio",
       "description": "Un delizioso piatto in cui una grande patata viene svuotata, riempita con pancetta croccante e formaggio grattugiato, e poi cotta al forno fino a doratura. Risulta in una patata ripiena succosa e saporita."
     }
+  },
+  "Свинско с праз и гъби": {
+    "bg": {
+      "name": "Свинско с праз и гъби",
+      "description": "Това е сочно и апетитно ястие, приготвено от крехко свинско месо, което се задушава с нарязани праз лук и гъби. Обикновено се сервира топло, придружено от гарнитура като картофи или ориз, и е популярно заради богатия си вкус и аромат."
+    },
+    "en": {
+      "name": "Pork with leeks and mushrooms",
+      "description": "This is a juicy and appetizing dish made from tender pork, cooked with sliced leeks and mushrooms. Usually served hot, accompanied by side dishes like potatoes or rice, and is popular for its rich flavor and aroma."
+    },
+    "it": {
+      "name": "Maiale con porri e funghi",
+      "description": "Questo è un piatto succoso e appetitoso preparato con tenero maiale, cucinato con porri affettati e funghi. Viene solitamente servito caldo, con contorni come patate o riso, ed è apprezzato per il suo sapore ricco e aroma."
+    }
   }
 }
