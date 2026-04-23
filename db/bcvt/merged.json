@@ -3558,6 +3558,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/04",
+        "date": "2026-04-23",
+        "price": "2.89",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -4292,6 +4300,14 @@
         "dateText": "04-ти септември",
         "date": "2025-09-04",
         "price": "0.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "23/04",
+        "date": "2026-04-23",
+        "price": "1.17",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -6221,6 +6237,14 @@
         "dateText": "04-ти септември",
         "date": "2025-09-04",
         "price": "6.90",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "23/04",
+        "date": "2026-04-23",
+        "price": "7.24",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
