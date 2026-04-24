@@ -8930,5 +8930,19 @@
       "name": "Maiale con porri e funghi",
       "description": "Questo è un piatto succoso e appetitoso preparato con tenero maiale, cucinato con porri affettati e funghi. Viene solitamente servito caldo, con contorni come patate o riso, ed è apprezzato per il suo sapore ricco e aroma."
     }
+  },
+  "Свински късчета със сушен домат, сметана и черен ориз": {
+    "bg": {
+      "name": "Свински късчета със сушен домат, сметана и черен ориз",
+      "description": "Меко свинско месо, готвено с ароматни сушени домати, богата сметана и подправки, сервирано с черен ориз, който добавя цвят и вкус. Това ястие се характеризира с изтънчен вкус и балансирана текстура."
+    },
+    "en": {
+      "name": "Pork chunks with dried tomato, cream, and black rice",
+      "description": "Tender pork pieces cooked with flavorful dried tomatoes, rich cream, and spices, served alongside black rice, which provides color and a unique taste. The dish is known for its refined flavor and balanced texture."
+    },
+    "it": {
+      "name": "Pezzi di maiale con pomodori secchi, panna e riso nero",
+      "description": "Tenere pezzi di maiale cucinati con pomodori secchi aromatici, panna ricca e spezie, serviti con riso nero che aggiunge colore e sapore. Questo piatto si distingue per il suo gusto raffinato e la sua consistenza equilibrata."
+    }
   }
 }
