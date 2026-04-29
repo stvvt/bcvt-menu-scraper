@@ -172,11 +172,18 @@
       "unit": "гр"
     },
     {
+      "name": "Бадемов крем",
+      "price": "3.89",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fefe4a0d-200.jpg",
+      "ean": "8062",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Крем с чия и бял шоколад",
       "price": "3.60",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c0ee4b6a-200.jpg",
-      "ean": "8040",
       "weight": "150",
       "unit": "гр"
     },
@@ -195,6 +202,13 @@
       "unit": "гр"
     },
     {
+      "name": "Торта Парфе",
+      "price": "4.01",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Торта с вишни и крем бискоф",
       "price": "5.48",
       "currency": "лв",
@@ -209,6 +223,13 @@
       "unit": "гр"
     },
     {
+      "name": "Шоколадова торта",
+      "price": "5.91",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Шоколадови топчета",
       "price": "4.09",
       "currency": "лв",
@@ -219,6 +240,13 @@
       "name": "Шоколадово брауни",
       "price": "2.99",
       "currency": "лв"
+    },
+    {
+      "name": "Шоколадово парфе",
+      "price": "4.01",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
     },
     {
       "name": "Чабата с бекон",
