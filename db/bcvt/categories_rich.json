@@ -8944,5 +8944,33 @@
       "name": "Pezzi di maiale con pomodori secchi, panna e riso nero",
       "description": "Tenere pezzi di maiale cucinati con pomodori secchi aromatici, panna ricca e spezie, serviti con riso nero che aggiunge colore e sapore. Questo piatto si distingue per il suo gusto raffinato e la sua consistenza equilibrata."
     }
+  },
+  "ГАРНИТУРА домати, краставици, печена чушка и маслини": {
+    "bg": {
+      "name": "Гарнитура домати, краставици, печена чушка и маслини",
+      "description": "Свежа и леко солена гарнитура, съчетаваща нарязани зрели домати и краставици, печени чушки и маслини. Подходящо за есенно или лятно меню, тази гарнитура е чудесно допълнение към основни ястия."
+    },
+    "en": {
+      "name": "Side dish with tomatoes, cucumbers, roasted pepper, and olives",
+      "description": "A fresh and slightly salty side dish combining sliced ripe tomatoes and cucumbers, roasted peppers, and olives. Perfect for summer or autumn meals, this garnish complements main dishes beautifully."
+    },
+    "it": {
+      "name": "Contorno con pomodori, cetrioli, peperoni arrosto e olive",
+      "description": "Un contorno fresco e leggermente salato che combina pomodori maturi e cetrioli affettati, peperoni arrostiti e olive. Ideale per pasti estivi o autunnali, questo contorno è un ottimo accompagnamento ai piatti principali."
+    }
+  },
+  "Торта с вишни и крем бискоф": {
+    "bg": {
+      "name": "Торта с вишни и крем бискоф",
+      "description": "Лека и въздушна торта, слоеста и богата на вкус. Основата е бисквитена кора, покрита с плътен ванилов крем бискоф, който е гладък, пухкав и ароматен. Между слоевете се поставят сочни вишни, добавяйки свежест и сладко-кисел вкус. Върху тортата се украсява с прясно вишне и трошени бисквити, създавайки красив и апетитен финал."
+    },
+    "en": {
+      "name": "Cherry and Biscuit Cream Cake",
+      "description": "A light and airy cake with layered richness. The base is a biscuit crust topped with a dense vanilla biscotti cream, which is smooth, fluffy, and aromatic. Juicy cherries are placed between the layers, adding freshness and a sweet-tart flavor. The cake is decorated with fresh cherries and crushed biscuits, creating a beautiful and appetizing finish."
+    },
+    "it": {
+      "name": "Torta con Ciliegie e Crema Biscotto",
+      "description": "Una torta leggera e ariosa, composta da strati e ricca di sapore. La base è una crosta di biscotti, coperta da una cremosa crema biscotto alla vaniglia, liscia, soffice e aromatica. Tra gli strati si trovano ciliegie succose, che aggiungono freschezza e un gusto dolce-aspro. La torta è decorata con ciliegie fresche e biscotti sbriciolati, creando un risultato bello e appetitoso."
+    }
   }
 }
