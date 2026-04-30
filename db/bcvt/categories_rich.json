@@ -8972,5 +8972,19 @@
       "name": "Torta con Ciliegie e Crema Biscotto",
       "description": "Una torta leggera e ariosa, composta da strati e ricca di sapore. La base è una crosta di biscotti, coperta da una cremosa crema biscotto alla vaniglia, liscia, soffice e aromatica. Tra gli strati si trovano ciliegie succose, che aggiungono freschezza e un gusto dolce-aspro. La torta è decorata con ciliegie fresche e biscotti sbriciolati, creando un risultato bello e appetitoso."
     }
+  },
+  "Омлет със сирене и кашкавал": {
+    "bg": {
+      "name": "Омлет със сирене и кашкавал",
+      "description": "Класическо ястие, приготвено от разбити яйца, към които се добавят сирене и кашкавал, след което се изпържва на тиган до златиста коричка. Обикновено се сервира топло и е перфектно за закуска или бързо хранене."
+    },
+    "en": {
+      "name": "Omelette with Cheese and Kashkaval",
+      "description": "A classic dish made from beaten eggs mixed with cheese and kashkaval, then fried in a pan until golden. Usually served warm and is perfect for breakfast or a quick meal."
+    },
+    "it": {
+      "name": "Frittata con Formaggio e Kashkaval",
+      "description": "Un piatto classico preparato con uova sbattute a cui si aggiungono formaggio e kashkaval, poi cotto in padella fino a doratura. Di solito servito caldo ed è perfetto per colazione o un pasto veloce."
+    }
   }
 }

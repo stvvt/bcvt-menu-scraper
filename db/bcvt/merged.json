@@ -6430,6 +6430,20 @@
     ]
   },
   {
+    "name": "Омлет със сирене и кашкавал",
+    "prices": [
+      {
+        "dateText": "30/04",
+        "date": "2026-04-30",
+        "price": "4.91",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Орехов крем",
     "prices": [
       {
@@ -8403,9 +8417,22 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "30/04",
+        "date": "2026-04-30",
+        "price": "6.45",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-04-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1092a9eb-200.jpg"
+      }
+    ]
   },
   {
     "name": "Пилешко бутче с гъбен сос",
