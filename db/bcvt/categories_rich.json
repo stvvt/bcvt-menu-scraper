@@ -8986,5 +8986,19 @@
       "name": "Frittata con Formaggio e Kashkaval",
       "description": "Un piatto classico preparato con uova sbattute a cui si aggiungono formaggio e kashkaval, poi cotto in padella fino a doratura. Di solito servito caldo ed è perfetto per colazione o un pasto veloce."
     }
+  },
+  "Крем с вишни": {
+    "bg": {
+      "name": "Крем с вишни",
+      "description": "Лек и освежаващ десерт, приготвен с кремообразна основа и свежи вишни. Обикновено се сервира охладен и е популярен в топлите месеци заради своята приятна кисело-сладка нотка."
+    },
+    "en": {
+      "name": "Cherry Cream",
+      "description": "A light and refreshing dessert made with a creamy base and fresh cherries. Typically served chilled, it is popular during warm months for its pleasantly sweet-tart flavor."
+    },
+    "it": {
+      "name": "Crema alle Ciliegie",
+      "description": "Un dessert leggero e rinfrescante preparato con una base cremosa e ciliegie fresche. Solitamente servito freddo, è popolare durante i mesi caldi per il suo sapore dolce-amarognolo."
+    }
   }
 }
