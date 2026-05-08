@@ -9000,5 +9000,33 @@
       "name": "Crema alle Ciliegie",
       "description": "Un dessert leggero e rinfrescante preparato con una base cremosa e ciliegie fresche. Solitamente servito freddo, è popolare durante i mesi caldi per il suo sapore dolce-amarognolo."
     }
+  },
+  "Спагети с доматен сос и кашкавал": {
+    "bg": {
+      "name": "Спагети с доматен сос и кашкавал",
+      "description": "Класическо италианско ястие, включващо паста спагети, покрита с богат, ароматен доматен сос, гарнирана с настърган кашкавал, който се разтопява върху топлите спагети."
+    },
+    "en": {
+      "name": "Spaghetti with Tomato Sauce and Cheddar",
+      "description": "A classic Italian dish featuring spaghetti pasta topped with a rich, flavorful tomato sauce, garnished with grated cheddar cheese that melts over the hot pasta."
+    },
+    "it": {
+      "name": "Spaghetti con salsa di pomodoro e formaggio",
+      "description": "Un piatto classico italiano che consiste in spaghetti con una salsa di pomodoro saporita e ricca, guarnito con formaggio grattugiato che si scioglie sugli spaghetti caldi."
+    }
+  },
+  "Яхния от спанак и ориз": {
+    "bg": {
+      "name": "Яхния от спанак и ориз",
+      "description": "Това е традиционно българско ястие, приготвено от пресен спанак, сварен и смесен с ориз, подправки и обикновено обилно полято с мазнина. Ястието е вкусно, здравословно и често се сервира като основно блюдо, особено през пролетните и летните месеци."
+    },
+    "en": {
+      "name": "Spinach and Rice Stew",
+      "description": "This is a traditional Bulgarian dish made from fresh spinach, cooked and mixed with rice, spices, and usually generously drizzled with fat. The dish is tasty, healthy, and often served as a main course, especially in spring and summer."
+    },
+    "it": {
+      "name": "Stufato di spinaci e riso",
+      "description": "Questo è un piatto tradizionale bulgaro preparato con spinaci freschi, cotti e mescolati con riso, spezie e solitamente conditi abbondantemente con grasso. Il piatto è saporito, salutare e spesso servito come piatto principale, specialmente durante la primavera e l'estate."
+    }
   }
 }
