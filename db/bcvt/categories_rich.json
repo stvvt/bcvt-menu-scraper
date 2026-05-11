@@ -9028,5 +9028,19 @@
       "name": "Stufato di spinaci e riso",
       "description": "Questo è un piatto tradizionale bulgaro preparato con spinaci freschi, cotti e mescolati con riso, spezie e solitamente conditi abbondantemente con grasso. Il piatto è saporito, salutare e spesso servito come piatto principale, specialmente durante la primavera e l'estate."
     }
+  },
+  "Бейби картофи запечени със сирене и кашкавал": {
+    "bg": {
+      "name": "Бейби картофи запечени със сирене и кашкавал",
+      "description": "Младите, миниатюрни картофи се запичат до златисто и хрупкаво покритие, обилно покрити със сирене и кашкавал, което се разтапя и създава апетитна кора. Това ястие е ароматна и сочна гарнитура или предястие, което се сервира топло."
+    },
+    "en": {
+      "name": "Baby Potatoes Baked with Cheese and Cheddar",
+      "description": "Young, miniature potatoes are baked until golden and crispy on the outside, generously topped with cheese and cheddar, which melt to form an appetizing crust. This dish is a flavorful and juicy side or appetizer served warm."
+    },
+    "it": {
+      "name": "Patate baby al forno con formaggio e cheddar",
+      "description": "Piccole patate giovani vengono cotte al forno fino a ottenere una crosta dorata e croccante, abbondantemente ricoperte di formaggio e cheddar che si sciolgono, creando una crosta appetitosa. Questo piatto è un contorno o antipasto saporito e succoso, servito caldo."
+    }
   }
 }
