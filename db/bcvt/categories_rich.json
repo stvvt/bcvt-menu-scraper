@@ -9042,5 +9042,19 @@
       "name": "Patate baby al forno con formaggio e cheddar",
       "description": "Piccole patate giovani vengono cotte al forno fino a ottenere una crosta dorata e croccante, abbondantemente ricoperte di formaggio e cheddar che si sciolgono, creando una crosta appetitosa. Questo piatto è un contorno o antipasto saporito e succoso, servito caldo."
     }
+  },
+  "Пил. пържола от бут запечена със сушен домат и пушен кашкавал": {
+    "bg": {
+      "name": "Пилешка пържола от бут запечена със сушен домат и пушен кашкавал",
+      "description": "Това е риба с кожа, отрязана от крак или бут на пилешко месо, която се пече във фурна. Тя е обикновено маринована и се сервира с добавени сушени домати и пушен кашкавал, който придава богат вкус и аромат."
+    },
+    "en": {
+      "name": "Baked chicken thigh from drumstick with dried tomato and smoked cheese",
+      "description": "This dish features a chicken thigh, typically from the leg or drumstick, baked in the oven. It is commonly marinated and topped with dried tomatoes and smoked cheese, adding rich flavor and aroma."
+    },
+    "it": {
+      "name": "Pollo al forno con pomodoro secco e formaggio affumicato",
+      "description": "Si tratta di una coscia di pollo, solitamente dalla zampa o dal sovracoscia, cotta al forno. Viene solitamente marinata e servita con pomodori secchi e formaggio affumicato, che conferiscono un sapore ricco e aroma."
+    }
   }
 }
