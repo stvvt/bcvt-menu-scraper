@@ -9056,5 +9056,19 @@
       "name": "Pollo al forno con pomodoro secco e formaggio affumicato",
       "description": "Si tratta di una coscia di pollo, solitamente dalla zampa o dal sovracoscia, cotta al forno. Viene solitamente marinata e servita con pomodori secchi e formaggio affumicato, che conferiscono un sapore ricco e aroma."
     }
+  },
+  "Сарми с ориз и червена леща": {
+    "bg": {
+      "name": "Сарми с ориз и червена леща",
+      "description": "Традиционно българско ястие, приготвено като малки пакетчета от прегънати листа зеленчуци (най-често от кисело зеле или лозови листа), пълнени с микс от ориз и червена леща. Те се варят на бавен огън в ароматен бульон и се сервират топли, често с кисело мляко или томатен сос."
+    },
+    "en": {
+      "name": "Sarmi with rice and red lentils",
+      "description": "A traditional Bulgarian dish consisting of small bundles made from vegetable leaves (most commonly sour cabbage or grape leaves), stuffed with a mix of rice and red lentils. They are simmered in a flavorful broth and served warm, often with yogurt or tomato sauce."
+    },
+    "it": {
+      "name": "Sarmi con riso e lenticchie rosse",
+      "description": "Piatti tradizionale bulgaro che consiste in piccoli pacchetti di foglie di verdura (solitamente cavolo acido o foglie di vite), ripieni di un mix di riso e lenticchie rosse. Cuociono lentamente in un brodo aromatico e si servono caldi, spesso con yogurt o salsa di pomodoro."
+    }
   }
 }

@@ -11572,6 +11572,25 @@
     "images": []
   },
   {
+    "name": "Сарми с ориз и червена леща",
+    "prices": [
+      {
+        "dateText": "13/05",
+        "date": "2026-05-13",
+        "price": "4.21",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-05-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7be05a17-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Сарми с телешко, булгур и зеленчуци",
     "prices": [
       {
