@@ -93,6 +93,24 @@
       "unit": "гр"
     },
     {
+      "name": "Парче пица с пикантен салам и моцарела",
+      "price": "4.91",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/960f7fae-200.jpg",
+      "ean": "6393",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Парче пица със сирена",
+      "price": "4.91",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eee6a298-200.jpg",
+      "ean": "6421",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
       "name": "Печен свински джолан с моркови и картофи",
       "price": "8.90",
       "currency": "лв",
@@ -155,8 +173,6 @@
       "name": "Лимоново парфе",
       "price": "2.80",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/edfbfa09-200.jpg",
-      "ean": "8058",
       "weight": "150",
       "unit": "гр"
     },
@@ -171,8 +187,6 @@
       "name": "Мини еклери",
       "price": "2.99",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c8cf3403-200.jpg",
-      "ean": "8130",
       "weight": "170",
       "unit": "гр"
     },
