@@ -177,6 +177,15 @@
       "unit": "гр"
     },
     {
+      "name": "Крем с фибри",
+      "price": "2.89",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c38c47d9-200.jpg",
+      "ean": "8064",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Лимоново парфе",
       "price": "2.80",
       "currency": "лв",
@@ -196,8 +205,6 @@
       "name": "Мини еклери",
       "price": "2.99",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c8cf3403-200.jpg",
-      "ean": "8130",
       "weight": "170",
       "unit": "гр"
     },
