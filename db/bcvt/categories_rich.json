@@ -9070,5 +9070,19 @@
       "name": "Sarmi con riso e lenticchie rosse",
       "description": "Piatti tradizionale bulgaro che consiste in piccoli pacchetti di foglie di verdura (solitamente cavolo acido o foglie di vite), ripieni di un mix di riso e lenticchie rosse. Cuociono lentamente in un brodo aromatico e si servono caldi, spesso con yogurt o salsa di pomodoro."
     }
+  },
+  "Бургер с кюфте от сьомга": {
+    "bg": {
+      "name": "Бургер с кюфте от сьомга",
+      "description": "Това е съвременен бургер, в който основната съставка е кюфте, приготвено от прясна сьомга. Кюфтето е сочно и ароматно, сервирано в мек бретцел хлебчета с добавени свежи зеленчуци и сос, което го прави здравословна и вкусна алтернатива на традиционните бургери."
+    },
+    "en": {
+      "name": "Salmon Patty Burger",
+      "description": "A modern burger with a patty made from fresh salmon. The patty is juicy and fragrant, served in soft buns with fresh vegetables and sauce, making it a healthy and tasty alternative to traditional burgers."
+    },
+    "it": {
+      "name": "Burger con polpetta di salmone",
+      "description": "Un burger moderno con una polpetta fatta con salmone fresco. La polpetta è succosa e aromatica, servita in panini morbidi con verdure fresche e salsa, offrendo un'alternativa salutare e gustosa ai burger tradizionali."
+    }
   }
 }
