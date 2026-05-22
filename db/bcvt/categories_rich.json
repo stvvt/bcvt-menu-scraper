@@ -9084,5 +9084,33 @@
       "name": "Burger con polpetta di salmone",
       "description": "Un burger moderno con una polpetta fatta con salmone fresco. La polpetta è succosa e aromatica, servita in panini morbidi con verdure fresche e salsa, offrendo un'alternativa salutare e gustosa ai burger tradizionali."
     }
+  },
+  "ГАРНИТУРА айсберг, спанак, краставица и репички": {
+    "bg": {
+      "name": "Гарнитура айсберг, спанак, краставица и репички",
+      "description": "Комбинация от свежи салатни зеленчуци, включваща хрупкави листа айсберг, меки листа спанак, ситно нарязани краставици и кръгли, освежаващи репички. Тази гарнитура е популярна като допълнение към основни ястия и придава свежест и хрупкавост на всяко хранене."
+    },
+    "en": {
+      "name": "Salad Garnish: Iceberg Lettuce, Spinach, Cucumber, and Radishes",
+      "description": "A fresh mix of salad vegetables including crunchy iceberg lettuce, tender spinach, finely sliced cucumbers, and round, refreshing radishes. This garnish is a popular accompaniment to main dishes, adding freshness and crunch to any meal."
+    },
+    "it": {
+      "name": "Guarnizione di insalata: lattuga iceberg, spinaci, cetriolo e ravanelli",
+      "description": "Una combinazione di verdure fresche da insalata, che include foglie croccanti di lattuga iceberg, foglie tenere di spinaci, cetrioli finemente affettati e ravanelli rotondi e rinfrescanti. Questa guarnizione è un accompagnamento popolare ai piatti principali, donando freschezza e croccantezza a ogni pasto."
+    }
+  },
+  "Салата айсберг, спанак, краставици, репички": {
+    "bg": {
+      "name": "Салата айсберг, спанак, краставици, репички",
+      "description": "Свежа салата, съчетаваща хрупкавия айсберг и леко горчивия спанак, с кр crispни краставици и свежи репички, идеална за лятна разхлада."
+    },
+    "en": {
+      "name": "Iceberg Lettuce, Spinach, Cucumbers, Radishes Salad",
+      "description": "A fresh salad combining crunchy iceberg lettuce and mildly bitter spinach with crisp cucumbers and fresh radishes, perfect for a summer refresh."
+    },
+    "it": {
+      "name": "Insalata di lattuga Iceberg, spinaci, cetrioli, ravanelli",
+      "description": "Un'insalata fresca che combina lattuga Iceberg croccante e spinaci leggermente amari, con cetrioli croccanti e ravanelli freschi, ideale per una rinfrescate estiva."
+    }
   }
 }
