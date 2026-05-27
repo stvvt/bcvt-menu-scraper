@@ -123,6 +123,15 @@
       "unit": "гр"
     },
     {
+      "name": "Парче пица със сметана, гъби и шунка",
+      "price": "5.01",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d1d81839-200.jpg",
+      "ean": "6396",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Печен кашкавал в кори",
       "price": "5.01",
       "currency": "лв",
@@ -201,8 +210,6 @@
       "name": "Протеинова торта",
       "price": "5.81",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/411f899c-200.jpg",
-      "ean": "8029",
       "weight": "120",
       "unit": "гр"
     },
