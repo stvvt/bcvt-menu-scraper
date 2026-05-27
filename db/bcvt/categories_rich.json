@@ -9112,5 +9112,19 @@
       "name": "Insalata di lattuga Iceberg, spinaci, cetrioli, ravanelli",
       "description": "Un'insalata fresca che combina lattuga Iceberg croccante e spinaci leggermente amari, con cetrioli croccanti e ravanelli freschi, ideale per una rinfrescate estiva."
     }
+  },
+  "Печени картофи с билки": {
+    "bg": {
+      "name": "Печени картофи с билки",
+      "description": "Това ястие представлява картофи, изпечени до златист цвят, обилно подправени с пресни билки като магданоз, риган и мащерка. Обикновено се сервира като гарнитура към месни ястия или като самостоятелно вегетарианско ястие."
+    },
+    "en": {
+      "name": "Baked Potatoes with Herbs",
+      "description": "This dish consists of potatoes baked until golden, generously seasoned with fresh herbs such as parsley, oregano, and thyme. It is commonly served as a side dish to meat or as a vegetarian main."
+    },
+    "it": {
+      "name": "Patate al forno con erbe",
+      "description": "Questo piatto è costituito da patate cotte al forno fino a doratura, abbondantemente insaporite con erbe fresche come prezzemolo, origano e timo. Viene spesso servito come contorno a piatti di carne o come piatto vegetariano."
+    }
   }
 }
