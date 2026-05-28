@@ -9126,5 +9126,19 @@
       "name": "Patate al forno con erbe",
       "description": "Questo piatto è costituito da patate cotte al forno fino a doratura, abbondantemente insaporite con erbe fresche come prezzemolo, origano e timo. Viene spesso servito come contorno a piatti di carne o come piatto vegetariano."
     }
+  },
+  "Пилешка пържола от бут пълнена със спанак и рикота": {
+    "bg": {
+      "name": "Пилешка пържола от бут пълнена със спанак и рикота",
+      "description": "Пилешка пържола е тънък стек от бутовете на пилешкото месо, който е внимателно филетиран и леко почернен. Тази пържола е пълнена със смес от спанак и рикота кремообразен сирене, после внимателно се пържи до златисто и сочни. Това ястие е ароматно, с богат вкус и приятна текстура, отлична за лека и вкусна вечеря."
+    },
+    "en": {
+      "name": "Chicken thigh steak stuffed with spinach and ricotta",
+      "description": "A chicken thigh steak is a thin slice from the thigh of the chicken, carefully filleted and slightly flattened. This steak is stuffed with a mixture of spinach and creamy ricotta cheese, then carefully fried until golden and juicy. The dish is aromatic, with a rich flavor and pleasant texture, making it suitable for a light and tasty dinner."
+    },
+    "it": {
+      "name": "Bistecca di coscia di pollo ripiena di spinaci e ricotta",
+      "description": "Una bistecca di coscia di pollo è una fetta sottile proveniente dalla coscia di pollo, accuratamente filettata e leggermente appiattita. Questa bistecca è farcita con un mix di spinaci e formaggio ricotta cremoso, poi cucinata con cura fino a doratura e succosità. È un piatto aromatico, dal sapore ricco e dalla consistenza piacevole, ideale per una cena leggera e saporita."
+    }
   }
 }
