@@ -9140,5 +9140,19 @@
       "name": "Bistecca di coscia di pollo ripiena di spinaci e ricotta",
       "description": "Una bistecca di coscia di pollo è una fetta sottile proveniente dalla coscia di pollo, accuratamente filettata e leggermente appiattita. Questa bistecca è farcita con un mix di spinaci e formaggio ricotta cremoso, poi cucinata con cura fino a doratura e succosità. È un piatto aromatico, dal sapore ricco e dalla consistenza piacevole, ideale per una cena leggera e saporita."
     }
+  },
+  "Пилешко филе с ловджийски сос": {
+    "bg": {
+      "name": "Пилешко филе с ловджийски сос",
+      "description": "Пилешко филе, поднесено с богат и ароматен сос, приготвен с микс от гъби, домати, лук и подправки. Това ястие е популярно стипано и апетитно за любителите на мазни и ароматни меса."
+    },
+    "en": {
+      "name": "Chicken fillet with hunter's sauce",
+      "description": "Chicken fillet served with a rich and aromatic sauce made with a mix of mushrooms, tomatoes, onions, and spices. This dish is popular for its flavorful and hearty taste."
+    },
+    "it": {
+      "name": "Filetto di pollo con salsa del cacciatore",
+      "description": "Filetto di pollo servito con una salsa ricca e aromatica, preparata con un mix di funghi, pomodori, cipolle e spezie. Questo piatto è popolare per il suo sapore forte e sostanzioso."
+    }
   }
 }
