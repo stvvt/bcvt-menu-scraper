@@ -547,6 +547,25 @@
     "images": []
   },
   {
+    "name": "Бифтек по хамбургски",
+    "prices": [
+      {
+        "dateText": "02/06",
+        "date": "2026-06-02",
+        "price": "7.43",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-06-02",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3c2e6081-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Боб на фурна",
     "prices": [
       {
@@ -2039,6 +2058,12 @@
         "dateText": "23/03",
         "date": "2026-03-23",
         "price": "2.86",
+        "currency": "лв"
+      },
+      {
+        "dateText": "02/06",
+        "date": "2026-06-02",
+        "price": "3.13",
         "currency": "лв"
       }
     ],

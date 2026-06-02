@@ -9154,5 +9154,19 @@
       "name": "Filetto di pollo con salsa del cacciatore",
       "description": "Filetto di pollo servito con una salsa ricca e aromatica, preparata con un mix di funghi, pomodori, cipolle e spezie. Questo piatto è popolare per il suo sapore forte e sostanzioso."
     }
+  },
+  "Бифтек по хамбургски": {
+    "bg": {
+      "name": "Бифтек по хамбургски",
+      "description": "Класическо ястие, приготвено от плосък кюфтета, изпечени на скара или тиган и поднесени с гарнитура от пържени картофи или салата. Обикновено е подправено със сол и пипер, и може да бъде сервирано с кетчуп или сос по избор."
+    },
+    "en": {
+      "name": "Hamburg-style Beefsteak",
+      "description": "A classic dish made of flattened beef patties grilled or pan-fried, served with a side of fried potatoes or salad. Typically seasoned with salt and pepper, and can be accompanied by ketchup or a sauce of choice."
+    },
+    "it": {
+      "name": "Bistecca alla hamburgese",
+      "description": "Un piatto classico preparato con bistecche di manzo schiacciate, grigliate o fritte in padella, servite con contorno di patatine fritte o insalata. Solitamente conditi con sale e pepe, può essere accompagnato da ketchup o salse a scelta."
+    }
   }
 }
