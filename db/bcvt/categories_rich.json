@@ -9168,5 +9168,19 @@
       "name": "Bistecca alla hamburgese",
       "description": "Un piatto classico preparato con bistecche di manzo schiacciate, grigliate o fritte in padella, servite con contorno di patatine fritte o insalata. Solitamente conditi con sale e pepe, può essere accompagnato da ketchup o salse a scelta."
     }
+  },
+  "Сарми с агнешко, ориз и булгур": {
+    "bg": {
+      "name": "Сарми с агнешко, ориз и булгур",
+      "description": "Това ястие се състои от сърми, приготвени с месо от агне, смесено с ориз и булгур. Тази комбинация се увива във прясна зелка или лозови листа и се готви бавно в ароматен бульон, получавайки богат вкус и мекота."
+    },
+    "en": {
+      "name": "Lamb Stuffed Cabbage Rolls with Rice and Bulgur",
+      "description": "This dish consists of cabbage rolls filled with lamb meat mixed with rice and bulgur. The rolls are wrapped in fresh cabbage or grape leaves and slowly cooked in a fragrant broth, resulting in a rich flavor and tenderness."
+    },
+    "it": {
+      "name": "Involtini di agnello con riso e bulgur",
+      "description": "Questo piatto è composto da involtini di verza o foglie di vite riempiti con carne di agnello mescolata con riso e bulgur. Gli involtini vengono cotti lentamente in un brodo aromatico, ottenendo un sapore ricco e una consistenza morbida."
+    }
   }
 }

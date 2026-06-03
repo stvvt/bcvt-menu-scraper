@@ -11644,6 +11644,20 @@
     ]
   },
   {
+    "name": "Сарми с агнешко, ориз и булгур",
+    "prices": [
+      {
+        "dateText": "03/06",
+        "date": "2026-06-03",
+        "price": "10.17",
+        "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Сарми с кайма и ориз",
     "prices": [
       {
@@ -12860,12 +12874,7 @@
         "unit": "гр"
       }
     ],
-    "images": [
-      {
-        "date": "2026-06-03",
-        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/30b98bca-200.jpg"
-      }
-    ]
+    "images": []
   },
   {
     "name": "Суджук на скара",
@@ -15212,12 +15221,7 @@
         "unit": "гр"
       }
     ],
-    "images": [
-      {
-        "date": "2026-06-03",
-        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bc5b449c-200.jpg"
-      }
-    ]
+    "images": []
   },
   {
     "name": "Ягодово парфе",

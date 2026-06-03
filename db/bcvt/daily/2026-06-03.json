@@ -125,6 +125,13 @@
       "unit": "гр"
     },
     {
+      "name": "Сарми с агнешко, ориз и булгур",
+      "price": "10.17",
+      "currency": "лв",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
       "name": "Тас кебап с телешко месо",
       "price": "11.11",
       "currency": "лв",
@@ -152,6 +159,24 @@
       "unit": "гр"
     },
     {
+      "name": "Ванилов пудинг",
+      "price": "2.99",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/65dcd3d2-200.jpg",
+      "ean": "8117",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Вишнева торта",
+      "price": "5.50",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ab9856a2-200.webp",
+      "ean": "8022",
+      "weight": "0.15",
+      "unit": "гр"
+    },
+    {
       "name": "Масленки с локум",
       "price": "2.50",
       "currency": "лв",
@@ -168,27 +193,42 @@
       "unit": "гр"
     },
     {
+      "name": "Орехов крем",
+      "price": "3.89",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8814772-200.jpg",
+      "ean": "8133"
+    },
+    {
+      "name": "Скалички",
+      "price": "4.50",
+      "currency": "лв",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Студен чийзкейк с мента и сладко от портокали",
       "price": "5.50",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/30b98bca-200.jpg",
-      "ean": "8051",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Торта с вишни и крем бискоф",
+      "price": "5.48",
+      "currency": "лв",
       "weight": "150",
       "unit": "гр"
     },
     {
       "name": "Шоколадово брауни",
       "price": "2.99",
-      "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3e06338-200.jpg",
-      "ean": "8014"
+      "currency": "лв"
     },
     {
       "name": "Ягодова торта с крем с фибри",
       "price": "4.91",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bc5b449c-200.jpg",
-      "ean": "8111",
       "weight": "150",
       "unit": "гр"
     },
