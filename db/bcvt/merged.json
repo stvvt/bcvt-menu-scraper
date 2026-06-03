@@ -12860,7 +12860,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-06-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/30b98bca-200.jpg"
+      }
+    ]
   },
   {
     "name": "Суджук на скара",
@@ -15197,9 +15202,22 @@
         "date": "2025-07-17",
         "price": "4.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "03/06",
+        "date": "2026-06-03",
+        "price": "4.91",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-06-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bc5b449c-200.jpg"
+      }
+    ]
   },
   {
     "name": "Ягодово парфе",
