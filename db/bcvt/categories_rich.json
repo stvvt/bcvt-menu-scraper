@@ -9182,5 +9182,47 @@
       "name": "Involtini di agnello con riso e bulgur",
       "description": "Questo piatto è composto da involtini di verza o foglie di vite riempiti con carne di agnello mescolata con riso e bulgur. Gli involtini vengono cotti lentamente in un brodo aromatico, ottenendo un sapore ricco e una consistenza morbida."
     }
+  },
+  "ГАРНИТУРА листна салата с домат и синьо сирене": {
+    "bg": {
+      "name": "Гарнитура листна салата с домат и синьо сирене",
+      "description": "Листна салата, свежа и хрупкава, поднесена с кръгли резенчета зрели домати и парчета от разтопено синьо сирене, което добавя богат вкус и кремообразна текстура към ястието."
+    },
+    "en": {
+      "name": "Side dish: Leafy salad with tomato and blue cheese",
+      "description": "A fresh and crunchy leafy salad served with round slices of ripe tomatoes and pieces of melted blue cheese, adding a rich flavor and creamy texture to the dish."
+    },
+    "it": {
+      "name": "Contorno: Insalata di foglie con pomodori e formaggio blu",
+      "description": "Un'insalata di foglie fresca e croccante, servita con fette rotonde di pomodori maturi e pezzi di formaggio blu fuso, che aggiungono un sapore ricco e una consistenza cremosa al piatto."
+    }
+  },
+  "Канелени рулца": {
+    "bg": {
+      "name": "Канелени рулца",
+      "description": "Меки и ароматни тестени рулца, пълнени с захар и канела, които се изпичат до златисто и се сервират топли или студени. Обикновено се пират с чай или кафе, и са популярна сладка закуска или десерт."
+    },
+    "en": {
+      "name": "Cinnamon Rolls",
+      "description": "Soft and fragrant dough rolls filled with sugar and cinnamon, baked until golden brown. Usually served warm or cold, commonly enjoyed with tea or coffee as a sweet snack or dessert."
+    },
+    "it": {
+      "name": "Girelle alla cannella",
+      "description": "Pegni di pasta morbida e profumata ripieni di zucchero e cannella, cotti fino a diventare dorati. Solitamente serviti caldi o freddi, accompagnati da tè o caffè, come dolce spuntino o dessert."
+    }
+  },
+  "Листна салата с домат и синьо сирене": {
+    "bg": {
+      "name": "Листна салата с домат и синьо сирене",
+      "description": "Листна салата със свежи зелени листа, нарязани сочни домати и парчета синьо сирене. Това е леко и освежаващо ястие, което съчетава богатството на натуралните вкусове и кремообразната текстура на синьото сирене."
+    },
+    "en": {
+      "name": "Leaf Salad with Tomato and Blue Cheese",
+      "description": "A fresh leaf salad with green leafy vegetables, juicy sliced tomatoes, and chunks of blue cheese. This dish is light and refreshing, blending natural flavors with the creamy texture of blue cheese."
+    },
+    "it": {
+      "name": "Insalata di foglie con pomodoro e formaggio blu",
+      "description": "Un'insalata fresca di foglie verdi, pomodori succosi tagliati e pezzi di formaggio blu. È un piatto leggero e rinfrescante che combina i sapori naturali con la consistenza cremosa del formaggio blu."
+    }
   }
 }
