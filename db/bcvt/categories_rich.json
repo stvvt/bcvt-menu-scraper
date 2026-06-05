@@ -9224,5 +9224,19 @@
       "name": "Insalata di foglie con pomodoro e formaggio blu",
       "description": "Un'insalata fresca di foglie verdi, pomodori succosi tagliati e pezzi di formaggio blu. È un piatto leggero e rinfrescante che combina i sapori naturali con la consistenza cremosa del formaggio blu."
     }
+  },
+  "Задушени яйца в доматен сос със сирене": {
+    "bg": {
+      "name": "Задушени яйца в доматен сос със сирене",
+      "description": "Ястие, приготвено със сурови яйца, които се задушават в богат, ароматен доматен сос, обогатен с разтопено сирене. Обикновено се сервира топло, като закуска или обяд, и има кремообразна текстура и наситен вкус."
+    },
+    "en": {
+      "name": "Poached Eggs in Tomato Sauce with Cheese",
+      "description": "A dish made with eggs gently poached in a rich, flavorful tomato sauce, enriched with melted cheese. Usually served warm as a breakfast or lunch, it has a creamy texture and a savory taste."
+    },
+    "it": {
+      "name": "Uova in umido con salsa di pomodoro e formaggio",
+      "description": "Piatto preparato con uova pochée in una salsa di pomodoro ricca e aromatica, arricchita con formaggio fuso. Solitamente servito caldo come colazione o pranzo, ha una consistenza cremosa e un sapore saporito."
+    }
   }
 }
