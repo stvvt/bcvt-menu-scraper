@@ -9238,5 +9238,19 @@
       "name": "Uova in umido con salsa di pomodoro e formaggio",
       "description": "Piatto preparato con uova pochée in una salsa di pomodoro ricca e aromatica, arricchita con formaggio fuso. Solitamente servito caldo come colazione o pranzo, ha una consistenza cremosa e un sapore saporito."
     }
+  },
+  "ГАРНИТУРА Гръцка салата": {
+    "bg": {
+      "name": "Гръцка салата",
+      "description": "Традиционна гръцка салата, състояща се от свежи домати, краставици, червен лук, маслини и сирене фета, подправени с зехтин и риган. Това е освежаващо и ароматно ястие, което често се сервира като гарнитура или лека закуска."
+    },
+    "en": {
+      "name": "Greek salad",
+      "description": "A traditional Greek salad consisting of fresh tomatoes, cucumbers, red onions, olives, and feta cheese, seasoned with olive oil and oregano. It is a refreshing and flavorful dish, often served as a side or light meal."
+    },
+    "it": {
+      "name": "Insalata greca",
+      "description": "Una tradizionale insalata greca composta da pomodori freschi, cetrioli, cipolle rosse, olive e formaggio feta, aromatizzata con olio d'oliva e origano. È un piatto rinfrescante e saporito, spesso servito come contorno o pasto leggero."
+    }
   }
 }
