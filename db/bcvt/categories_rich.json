@@ -9252,5 +9252,33 @@
       "name": "Insalata greca",
       "description": "Una tradizionale insalata greca composta da pomodori freschi, cetrioli, cipolle rosse, olive e formaggio feta, aromatizzata con olio d'oliva e origano. È un piatto rinfrescante e saporito, spesso servito come contorno o pasto leggero."
     }
+  },
+  "Картофено кюфте с пушена пъстърва": {
+    "bg": {
+      "name": "Картофено кюфте с пушена пъстърва",
+      "description": "Това ястие представлява кръгли кюфтета, направени от настъргани картофи, обогатени с парченца пушена пъстърва. Те са познати със своята сочност и деликатен вкус, съчетаващ земната сладост на картофите с приятната соленост и димния аромат на пушената риба."
+    },
+    "en": {
+      "name": "Potato kofte with smoked trout",
+      "description": "This dish features round kofte made from grated potatoes, enriched with pieces of smoked trout. They are known for their juiciness and delicate flavor, combining the earthy sweetness of potatoes with the pleasant saltiness and smoky aroma of the fish."
+    },
+    "it": {
+      "name": "Kofta di patate con trota affumicata",
+      "description": "Questo piatto presenta delle kofte rotonde fatte da patate grattugiate, arricchite con pezzetti di trota affumicata. Sono note per la loro succosità e il sapore delicato, che combina la dolcezza terrosa delle patate con la salinità piacevole e il aroma affumicato del pesce."
+    }
+  },
+  "Торта ягодово парфе": {
+    "bg": {
+      "name": "Ягодово парфе торта",
+      "description": "Ягодово парфе торта е десерт, състоящ се от слоеве свежо ягодово пюре, кремообразен крем и бисквитени или захаросани бисквити. Той е охладено и леко сладко ястие, което се сервира като финал на хранене, подходящо за летните дни."
+    },
+    "en": {
+      "name": "Strawberry Parfait Cake",
+      "description": "Strawberry parfait cake is a dessert made of layers of fresh strawberry puree, creamy filling, and biscuit or sugared biscuit layers. It is a chilled, lightly sweet dish served as a finale to a meal, perfect for summer days."
+    },
+    "it": {
+      "name": "Torta allo yogurt di fragola",
+      "description": "La torta allo yogurt di fragola è un dolce composto da strati di purea di fragola fresca, crema cremosa e biscotti o biscotti zuccherati. È un piatto freddo e leggero, servito come fine pasto, ideale per le giornate estive."
+    }
   }
 }
