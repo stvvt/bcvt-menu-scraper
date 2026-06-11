@@ -9280,5 +9280,19 @@
       "name": "Torta allo yogurt di fragola",
       "description": "La torta allo yogurt di fragola è un dolce composto da strati di purea di fragola fresca, crema cremosa e biscotti o biscotti zuccherati. È un piatto freddo e leggero, servito come fine pasto, ideale per le giornate estive."
     }
+  },
+  "ГАРНИТУРА домати , краставици и маслини": {
+    "bg": {
+      "name": "Гарнитура домати, краставици и маслини",
+      "description": "Свежа и лека гарнитура, състояща се от нарязани домати, краставици и маслини, сервирана катоComplement към основното ястие, обикновено с малко зехтин и прясна подправка."
+    },
+    "en": {
+      "name": "Tomato, Cucumber, and Olive Garnish",
+      "description": "A fresh and light garnish made from chopped tomatoes, cucumbers, and olives, served as a side dish often with a drizzle of olive oil and herbs."
+    },
+    "it": {
+      "name": "Guarnizione di pomodori, cetrioli e olive",
+      "description": "Una fresca e leggera guarnizione composta da pomodori tagliati, cetrioli e olive, servita come contorno con un filo di olio d'oliva e erbe."
+    }
   }
 }
