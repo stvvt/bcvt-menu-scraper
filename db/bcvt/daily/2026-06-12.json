@@ -50,6 +50,24 @@
       "unit": "гр"
     },
     {
+      "name": "Супа минестроне",
+      "price": "3.91",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8cd9864e-200.jpg",
+      "ean": "5021",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Таратор",
+      "price": "2.89",
+      "currency": "лв",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d92da2a5-200.jpg",
+      "ean": "5044",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
       "name": "Боб на фурна",
       "price": "3.50",
       "currency": "лв",
@@ -146,8 +164,6 @@
       "name": "Вишнева торта",
       "price": "5.50",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ab9856a2-200.webp",
-      "ean": "8022",
       "weight": "0.15",
       "unit": "гр"
     },
@@ -155,8 +171,6 @@
       "name": "Еклерова торта",
       "price": "4.21",
       "currency": "лв",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/2a6303e8-200.webp",
-      "ean": "8020",
       "weight": "150",
       "unit": "гр"
     },
