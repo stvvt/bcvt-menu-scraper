@@ -9294,5 +9294,19 @@
       "name": "Guarnizione di pomodori, cetrioli e olive",
       "description": "Una fresca e leggera guarnizione composta da pomodori tagliati, cetrioli e olive, servita come contorno con un filo di olio d'oliva e erbe."
     }
+  },
+  "Омлет със суджук": {
+    "bg": {
+      "name": "Омлет със суджук",
+      "description": "Класическо българско ястие, което съчетава пухкав омлет, приготвен от яйца, и парчета от ароматен суджук - традиционна българска колбаса, придаваща му богат вкус."
+    },
+    "en": {
+      "name": "Omelette with Sujuk",
+      "description": "A classic Bulgarian dish that combines a fluffy omelette made from eggs with slices of aromatic Sujuk - a traditional Bulgarian sausage, giving it a rich flavor."
+    },
+    "it": {
+      "name": "Omelette con sujuk",
+      "description": "Un classico piatto bulgaro che combina un soffice omelette a base di uova con fette di aromatico sujuk - una salsiccia tradizionale bulgara, che ne conferisce un sapore ricco."
+    }
   }
 }
