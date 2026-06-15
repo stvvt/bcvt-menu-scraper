@@ -9308,5 +9308,19 @@
       "name": "Omelette con sujuk",
       "description": "Un classico piatto bulgaro che combina un soffice omelette a base di uova con fette di aromatico sujuk - una salsiccia tradizionale bulgara, che ne conferisce un sapore ricco."
     }
+  },
+  "Скумрия на фурна с печни картофи": {
+    "bg": {
+      "name": "Скумрия на фурна с печни картофи",
+      "description": "Това е класическо българско ястие, приготвено с пресен рибен филе от скумрия, запечено във фурната. Обикновено се сервира с ароматни печени картофи, подправени с добавки като розмарин и зехтин, което прави ястието изключително вкусно и ароматно."
+    },
+    "en": {
+      "name": "Baked mackerel with roasted potatoes",
+      "description": "This is a classic Bulgarian dish prepared with fresh mackerel fillet baked in the oven. It is typically served with fragrant roasted potatoes seasoned with herbs like rosemary and olive oil, making it a delicious and flavorful meal."
+    },
+    "it": {
+      "name": "Sgombro al forno con patate arrosto",
+      "description": "Questo è un piatto classico bulgaro preparato con filetti di sgombro freschi cotti al forno. Viene solitamente servito con patate arrosto aromatiche condite con erbe come rosmarino e olio d'oliva, rendendo il piatto delizioso e ricco di sapore."
+    }
   }
 }
