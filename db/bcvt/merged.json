@@ -3702,6 +3702,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "17/06",
+        "date": "2026-06-17",
+        "price": "3.81",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -7608,6 +7616,12 @@
         "date": "2025-10-29",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "17/06",
+        "date": "2026-06-17",
+        "price": "3.72",
+        "currency": "лв"
       }
     ],
     "images": []
@@ -9201,6 +9215,14 @@
         "currency": "лв",
         "weight": "130",
         "unit": "гр"
+      },
+      {
+        "dateText": "17/06",
+        "date": "2026-06-17",
+        "price": "4.69",
+        "currency": "лв",
+        "weight": "130",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -9308,6 +9330,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/589e4716-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Плодов микс",
+    "prices": [
+      {
+        "dateText": "17/06",
+        "date": "2026-06-17",
+        "price": "4.69",
+        "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Плодова торта",
@@ -9881,6 +9917,14 @@
         "dateText": "21-ви август",
         "date": "2025-08-21",
         "price": "3.80",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "17/06",
+        "date": "2026-06-17",
+        "price": "3.79",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
@@ -12689,6 +12733,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "17/06",
+        "date": "2026-06-17",
+        "price": "3.13",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -15278,6 +15330,14 @@
         "dateText": "13/04",
         "date": "2026-04-13",
         "price": "5.09",
+        "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "17/06",
+        "date": "2026-06-17",
+        "price": "5.67",
         "currency": "лв",
         "weight": "200",
         "unit": "гр"

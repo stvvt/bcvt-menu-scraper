@@ -9322,5 +9322,19 @@
       "name": "Sgombro al forno con patate arrosto",
       "description": "Questo è un piatto classico bulgaro preparato con filetti di sgombro freschi cotti al forno. Viene solitamente servito con patate arrosto aromatiche condite con erbe come rosmarino e olio d'oliva, rendendo il piatto delizioso e ricco di sapore."
     }
+  },
+  "Плодов микс": {
+    "bg": {
+      "name": "Плодов микс",
+      "description": "Разнообразие от свежи плодове като ябълки, банани, грейпфрути и ягоди, нарязани и подредени в купа, за да предложат освежаващ и здравословен десерт или закуска."
+    },
+    "en": {
+      "name": "Fruit Mix",
+      "description": "A variety of fresh fruits such as apples, bananas, grapefruits, and strawberries, sliced and arranged in a bowl, offering a refreshing and healthy dessert or snack."
+    },
+    "it": {
+      "name": "Misto di Frutta",
+      "description": "Una varietà di frutta fresca come mele, banane, pompelmi e fragole, affettata e disposta in una ciotola, offrendo un dessert o uno spuntino rinfrescante e salutare."
+    }
   }
 }
