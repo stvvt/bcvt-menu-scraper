@@ -9336,5 +9336,19 @@
       "name": "Misto di Frutta",
       "description": "Una varietà di frutta fresca come mele, banane, pompelmi e fragole, affettata e disposta in una ciotola, offrendo un dessert o uno spuntino rinfrescante e salutare."
     }
+  },
+  "Пилешко бутче с картофено пюре и гъбен сос": {
+    "bg": {
+      "name": "Пилешко бутче с картофено пюре и гъбен сос",
+      "description": "Класическо ястие, съчетаващо соченото пилешко бутче, кремообразно картофено пюре и богат гъбен сос. Поднася се топло, като идеално съчетава деликатен вкус и приятна текстура."
+    },
+    "en": {
+      "name": "Chicken leg with mashed potatoes and mushroom sauce",
+      "description": "A classic dish featuring tender chicken leg served with creamy mashed potatoes and a rich mushroom sauce. Usually enjoyed hot, offering a delightful combination of flavors and textures."
+    },
+    "it": {
+      "name": "Coscia di pollo con purè di patate e salsa ai funghi",
+      "description": "Un piatto classico che combina un tenero cosciotto di pollo con un cremoso purè di patate e una ricca salsa ai funghi. Servito caldo, offre un'esperienza di gusto ricca e avvolgente."
+    }
   }
 }
