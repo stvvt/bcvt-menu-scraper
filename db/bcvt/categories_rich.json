@@ -9350,5 +9350,19 @@
       "name": "Coscia di pollo con purè di patate e salsa ai funghi",
       "description": "Un piatto classico che combina un tenero cosciotto di pollo con un cremoso purè di patate e una ricca salsa ai funghi. Servito caldo, offre un'esperienza di gusto ricca e avvolgente."
     }
+  },
+  "Печено сирене със семена": {
+    "bg": {
+      "name": "Печено сирене със семена",
+      "description": "Това ястие представлява топло сирене, което е обилно поръсено с различни семена, като сусам, слънчоглед или ленено семе, и запечено до златисто. Обикновено се сервира като апетитна закуска или предястие, често придружено с прясна или сушена билка."
+    },
+    "en": {
+      "name": "Baked cheese with seeds",
+      "description": "This dish consists of warm cheese generously sprinkled with various seeds such as sesame, sunflower, or flax, then baked until golden. It is commonly served as a tasty snack or appetizer, often accompanied by fresh or dried herbs."
+    },
+    "it": {
+      "name": "Formaggio al forno con semi",
+      "description": "Questo piatto consiste in formaggio caldo, abbondantemente cosparso di diversi semi come sesamo, semi di girasole o lino, e cotto al forno fino a doratura. Viene spesso servito come antipasto o spuntino, accompagnato da erbe fresche o essiccate."
+    }
   }
 }
