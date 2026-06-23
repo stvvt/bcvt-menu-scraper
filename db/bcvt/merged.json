@@ -12827,6 +12827,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/06",
+        "date": "2026-06-23",
+        "price": "3.13",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
