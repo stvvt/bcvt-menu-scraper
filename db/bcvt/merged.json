@@ -884,9 +884,22 @@
         "date": "2025-06-25",
         "price": "3.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "26/06",
+        "date": "2026-06-26",
+        "price": "3.21",
+        "currency": "лв",
+        "weight": "195",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-06-26",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/59231e1c-200.jpg"
+      }
+    ]
   },
   {
     "name": "Боровинкова торта",
@@ -3613,6 +3626,14 @@
         "dateText": "10-ти октомври",
         "date": "2025-10-10",
         "price": "4.50",
+        "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "26/06",
+        "date": "2026-06-26",
+        "price": "4.89",
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
