@@ -9364,5 +9364,19 @@
       "name": "Formaggio al forno con semi",
       "description": "Questo piatto consiste in formaggio caldo, abbondantemente cosparso di diversi semi come sesamo, semi di girasole o lino, e cotto al forno fino a doratura. Viene spesso servito come antipasto o spuntino, accompagnato da erbe fresche o essiccate."
     }
+  },
+  "Омлет със спанак и гъби": {
+    "bg": {
+      "name": "Омлет със спанак и гъби",
+      "description": "Класическо ястие, приготвено от разбити яйца, към които се добавят свеж спанак и гъби, запържени до златисто. Подходящо е за закуска или лек обяд, с богат вкус и хранителна стойност."
+    },
+    "en": {
+      "name": "Omelette with Spinach and Mushrooms",
+      "description": "A classic dish made from beaten eggs with fresh spinach and mushrooms added, cooked until golden. Suitable for breakfast or a light lunch, with a rich flavor and nutritional value."
+    },
+    "it": {
+      "name": "Uova strapazzate con spinaci e funghi",
+      "description": "Un piatto classico preparato con uova sbattute, a cui si aggiungono spinaci freschi e funghi, cotti fino a doratura. Adatto per colazione o un pranzo leggero, con un sapore ricco e valore nutrizionale."
+    }
   }
 }
