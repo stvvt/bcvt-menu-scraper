@@ -40,15 +40,28 @@ export function extractMenuData(html: string): MenuData | null {
 
     const [weight, unit] = weightElement.length > 0 ? weightElement.text().trim().split(' ') : [];
 
-    // Parse price and currency (e.g., "4.20 лв" -> price: "4.20", currency: "лв")
-    const priceMatch = priceText.match(/(\d+\.\d+)\s*(лв)/);
-    
-    if (!name || !priceMatch) {
+    // Parse price and currency. The source dropped лв and now publishes euro
+    // only (e.g. "1.02 €"). Prefer the euro amount when present — this also
+    // selects the trailing "2.05 €" from a dual "4.20 лв. / 2.05 €" display —
+    // and fall back to лв only when no euro is shown.
+    const euroMatch = priceText.match(/(\d+\.\d+)\s*€/);
+    const levMatch = priceText.match(/(\d+\.\d+)\s*(лв)/);
+
+    let price: string;
+    let currency: string;
+    if (euroMatch) {
+      price = euroMatch[1];
+      currency = 'EUR';
+    } else if (levMatch) {
+      price = levMatch[1];
+      currency = levMatch[2].trim();
+    } else {
       return;
     }
 
-    const price = priceMatch[1];
-    const currency = priceMatch[2].trim();
+    if (!name) {
+      return;
+    }
 
     // Extract image URL and EAN
     const { imageUrl, ean } = scrapeMealImage($, name);
