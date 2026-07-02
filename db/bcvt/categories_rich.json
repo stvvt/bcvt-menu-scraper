@@ -9378,5 +9378,19 @@
       "name": "Uova strapazzate con spinaci e funghi",
       "description": "Un piatto classico preparato con uova sbattute, a cui si aggiungono spinaci freschi e funghi, cotti fino a doratura. Adatto per colazione o un pranzo leggero, con un sapore ricco e valore nutrizionale."
     }
+  },
+  "Салата домати с печена чушка": {
+    "bg": {
+      "name": "Салата домати с печена чушка",
+      "description": "Свежа салата, съставена от зрели домати и печена червена чушка, обикновено подправена с малко зехтин, сол и пресен магданоз. Често се сервира като гарнитура или лека летна храна."
+    },
+    "en": {
+      "name": "Tomato and Roasted Pepper Salad",
+      "description": "A fresh salad made of ripe tomatoes and roasted red pepper, typically seasoned with a bit of olive oil, salt, and fresh parsley. Usually served as a side dish or a light summer meal."
+    },
+    "it": {
+      "name": "Insalata di pomodori e peperoni arrostiti",
+      "description": "Un'insalata fresca composta da pomodori maturi e peperoni rossi arrostiti, di solito condita con un po' di olio d'oliva, sale e prezzemolo fresco. Spesso servita come contorno o pasto leggero estivo."
+    }
   }
 }
