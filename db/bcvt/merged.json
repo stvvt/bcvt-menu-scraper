@@ -1471,14 +1471,6 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "2.81",
-        "currency": "EUR",
-        "weight": "150",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -1705,14 +1697,6 @@
         "date": "2026-01-14",
         "price": "3.72",
         "currency": "лв",
-        "weight": "100",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.90",
-        "currency": "EUR",
         "weight": "100",
         "unit": "гр"
       }
@@ -2368,14 +2352,6 @@
         "date": "2026-01-14",
         "price": "3.91",
         "currency": "лв",
-        "weight": "100",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "2.00",
-        "currency": "EUR",
         "weight": "100",
         "unit": "гр"
       }
@@ -3738,14 +3714,6 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.79",
-        "currency": "EUR",
-        "weight": "250",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -3913,14 +3881,6 @@
         "date": "2026-01-29",
         "price": "1.99",
         "currency": "лв",
-        "weight": "150",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.02",
-        "currency": "EUR",
         "weight": "150",
         "unit": "гр"
       }
@@ -4116,14 +4076,6 @@
         "date": "2025-09-24",
         "price": "2.80",
         "currency": "лв",
-        "weight": "300",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.43",
-        "currency": "EUR",
         "weight": "300",
         "unit": "гр"
       }
@@ -4959,14 +4911,6 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.84",
-        "currency": "EUR",
-        "weight": "150",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -5327,14 +5271,6 @@
         "date": "2026-02-10",
         "price": "1.99",
         "currency": "лв",
-        "weight": "70",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.02",
-        "currency": "EUR",
         "weight": "70",
         "unit": "гр"
       }
@@ -5706,14 +5642,6 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "3.17",
-        "currency": "EUR",
-        "weight": "300",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -5770,14 +5698,6 @@
         "date": "2025-12-16",
         "price": "8.90",
         "currency": "лв",
-        "weight": "300",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "4.55",
-        "currency": "EUR",
         "weight": "300",
         "unit": "гр"
       }
@@ -6133,14 +6053,6 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.28",
-        "currency": "EUR",
-        "weight": "150",
-        "unit": "гр"
       }
     ],
     "images": []
@@ -6243,14 +6155,6 @@
         "date": "2026-01-01",
         "price": "2.99",
         "currency": "лв",
-        "weight": "170",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.53",
-        "currency": "EUR",
         "weight": "170",
         "unit": "гр"
       }
@@ -7003,14 +6907,6 @@
         "date": "2026-01-28",
         "price": "3.60",
         "currency": "лв",
-        "weight": "250",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.84",
-        "currency": "EUR",
         "weight": "250",
         "unit": "гр"
       }
@@ -8795,14 +8691,6 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "2.30",
-        "currency": "EUR",
-        "weight": "250",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -9574,14 +9462,6 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "2.40",
-        "currency": "EUR",
-        "weight": "300",
-        "unit": "гр"
       }
     ],
     "images": []
@@ -9773,14 +9653,6 @@
         "date": "2026-01-08",
         "price": "5.81",
         "currency": "лв",
-        "weight": "120",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "2.97",
-        "currency": "EUR",
         "weight": "120",
         "unit": "гр"
       }
@@ -10177,14 +10049,6 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.94",
-        "currency": "EUR",
-        "weight": "200",
-        "unit": "гр"
       }
     ],
     "images": []
@@ -10274,14 +10138,6 @@
         "date": "2026-01-23",
         "price": "1.99",
         "currency": "лв",
-        "weight": "150",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.02",
-        "currency": "EUR",
         "weight": "150",
         "unit": "гр"
       }
@@ -11757,14 +11613,6 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "3.32",
-        "currency": "EUR",
-        "weight": "200",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -11835,14 +11683,6 @@
         "date": "2026-01-07",
         "price": "4.01",
         "currency": "лв",
-        "weight": "200",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "2.05",
-        "currency": "EUR",
         "weight": "200",
         "unit": "гр"
       }
@@ -13314,14 +13154,6 @@
         "currency": "лв",
         "weight": "180",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.84",
-        "currency": "EUR",
-        "weight": "180",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -13986,14 +13818,6 @@
         "date": "2026-06-15",
         "price": "3.52",
         "currency": "лв",
-        "weight": "300",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.80",
-        "currency": "EUR",
         "weight": "300",
         "unit": "гр"
       }
@@ -14697,14 +14521,6 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "2.30",
-        "currency": "EUR",
-        "weight": "150",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -15277,14 +15093,6 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "3.07",
-        "currency": "EUR",
-        "weight": "200",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -15310,14 +15118,6 @@
         "date": "2026-01-01",
         "price": "5.01",
         "currency": "лв",
-        "weight": "200",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "2.56",
-        "currency": "EUR",
         "weight": "200",
         "unit": "гр"
       }
@@ -15660,12 +15460,6 @@
         "date": "2026-06-15",
         "price": "4.01",
         "currency": "лв"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "2.05",
-        "currency": "EUR"
       }
     ],
     "images": [
@@ -15766,14 +15560,6 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "4.70",
-        "currency": "EUR",
-        "weight": "200",
-        "unit": "гр"
       }
     ],
     "images": [
@@ -15829,14 +15615,6 @@
         "date": "2026-01-08",
         "price": "2.89",
         "currency": "лв",
-        "weight": "150",
-        "unit": "гр"
-      },
-      {
-        "dateText": "02/07",
-        "date": "2026-07-02",
-        "price": "1.48",
-        "currency": "EUR",
         "weight": "150",
         "unit": "гр"
       }
