@@ -19,7 +19,8 @@ export interface PriceEntry {
   unit?: string;
 }
 
-// Bulgaria's fixed euro-changeover peg: лв per EUR.
+// Bulgaria's fixed euro-changeover peg: лв per EUR. Set by Council Regulation
+// (EU) 2025/1408; the irrevocable rate is 1.95583 лв = 1 EUR.
 const LEV_PER_EUR = 1.95583;
 
 // Convert a price entry to integer EUR cents for cross-currency comparison,

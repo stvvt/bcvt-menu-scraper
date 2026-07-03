@@ -96,6 +96,30 @@ describe('mergeDailyMenus cross-currency dedup', () => {
     expect(prices[0]).toMatchObject({ price: '8.90' });
   });
 
+  it('unparseable price in a cross-currency pair is not silently merged', () => {
+    const prices = pricesFor('Риба', [
+      daily('2025-09-05', '05/09', [
+        { name: 'Риба', price: 'по договаряне', currency: 'лв' },
+      ]),
+      daily('2026-07-03', '03/07', [
+        { name: 'Риба', price: '4.55', currency: 'EUR' },
+      ]),
+    ]);
+    expect(prices).toHaveLength(2);
+  });
+
+  it('unrecognized currency pairing counts as changed, never suppressed', () => {
+    const prices = pricesFor('Риба', [
+      daily('2025-09-05', '05/09', [
+        { name: 'Риба', price: '8.90', currency: 'лв' },
+      ]),
+      daily('2026-07-03', '03/07', [
+        { name: 'Риба', price: '4.55', currency: 'USD' },
+      ]),
+    ]);
+    expect(prices).toHaveLength(2);
+  });
+
   it('rounding boundary: near-miss conversion counts as a real change', () => {
     // 8.99 лв / 1.95583 = 4.5965 -> 460 cents; 4.59 EUR -> 459 cents
     const prices = pricesFor('Риба', [
