@@ -2,7 +2,7 @@ export interface DailyMenu {
   date: string;
   meals: Array<{
     name: string;
-    price: number;
+    price: string;
     currency?: string;
     imageUrl?: string;
     weight?: string;
@@ -13,10 +13,35 @@ export interface DailyMenu {
 export interface PriceEntry {
   dateText: string;
   date: string;
-  price: number;
+  price: string;
   currency: string;
   weight?: string;
   unit?: string;
+}
+
+// Bulgaria's fixed euro-changeover peg: лв per EUR.
+const LEV_PER_EUR = 1.95583;
+
+// Convert a price entry to integer EUR cents for cross-currency comparison,
+// or null when the currency isn't one we can convert. Integer cents avoid
+// floating-point equality artifacts.
+function toEurCents(entry: PriceEntry): number | null {
+  const amount = parseFloat(entry.price);
+  if (Number.isNaN(amount)) return null;
+  if (entry.currency === 'EUR') return Math.round(amount * 100);
+  if (entry.currency === 'лв') return Math.round((amount / LEV_PER_EUR) * 100);
+  return null;
+}
+
+// Two entries carry the same price when they match after normalizing to EUR
+// at the fixed peg. Same-currency entries compare raw values as before; an
+// unrecognized currency pairing counts as changed (never silently suppressed).
+function pricesEqual(a: PriceEntry, b: PriceEntry): boolean {
+  if (a.currency === b.currency) return a.price === b.price;
+  const aCents = toEurCents(a);
+  const bCents = toEurCents(b);
+  if (aCents === null || bCents === null) return false;
+  return aCents === bCents;
 }
 
 export interface ImageEntry {
@@ -69,8 +94,7 @@ export function mergeDailyMenus(
       const prev = prices[prices.length - 1];
       if (
         !prev ||
-        prev.price !== p.price ||
-        prev.currency !== p.currency ||
+        !pricesEqual(prev, p) ||
         prev.weight !== p.weight ||
         prev.unit !== p.unit
       ) {
