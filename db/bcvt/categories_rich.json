@@ -9392,5 +9392,19 @@
       "name": "Insalata di pomodori e peperoni arrostiti",
       "description": "Un'insalata fresca composta da pomodori maturi e peperoni rossi arrostiti, di solito condita con un po' di olio d'oliva, sale e prezzemolo fresco. Spesso servita come contorno o pasto leggero estivo."
     }
+  },
+  "Ориз с целина и морков": {
+    "bg": {
+      "name": "Ориз с целина и морков",
+      "description": "Класическо ястие, приготвено с ароматен ориз, свежа целина и моркови, задушени до мека консистенция и добре овкусени. Това вкусно и здравословно ястие е популярно като гарнитура или самостоятелно меню."
+    },
+    "en": {
+      "name": "Rice with Celery and Carrots",
+      "description": "A classic dish made with fragrant rice, fresh celery, and carrots, simmered until tender and well seasoned. This tasty and healthy dish is popular as a side or a main course."
+    },
+    "it": {
+      "name": "Riso con sedano e carote",
+      "description": "Un piatto classico preparato con riso aromatico, sedano fresco e carote, stufati fino a ottenere una consistenza morbida e ben conditi. Questo piatto gustoso e salutare è popolare come contorno o come piatto principale."
+    }
   }
 }

@@ -6946,6 +6946,25 @@
     ]
   },
   {
+    "name": "Ориз с целина и морков",
+    "prices": [
+      {
+        "dateText": "06/07",
+        "date": "2026-07-06",
+        "price": "1.69",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-07-06",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/05a05e5d-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Ориз с чушка и лук",
     "prices": [
       {
