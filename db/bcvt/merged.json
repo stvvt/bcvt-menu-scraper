@@ -11259,6 +11259,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/07",
+        "date": "2026-07-07",
+        "price": "2.50",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -13776,6 +13784,14 @@
         "date": "2025-08-25",
         "price": "11.50",
         "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/07",
+        "date": "2026-07-07",
+        "price": "6.20",
+        "currency": "EUR",
         "weight": "150",
         "unit": "гр"
       }
