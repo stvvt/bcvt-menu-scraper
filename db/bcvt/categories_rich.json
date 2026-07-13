@@ -9406,5 +9406,19 @@
       "name": "Riso con sedano e carote",
       "description": "Un piatto classico preparato con riso aromatico, sedano fresco e carote, stufati fino a ottenere una consistenza morbida e ben conditi. Questo piatto gustoso e salutare è popolare come contorno o come piatto principale."
     }
+  },
+  "Бургер с гриловани зеленчуци и ементал": {
+    "bg": {
+      "name": "Бургер с гриловани зеленчуци и ементал",
+      "description": "Ароматен бургер, в който мекичка хлебна филия съдържа свежи гриловани зеленчуци като тиквички, чушки и лук, гарнирани с разтопен ементал сорт сирене. Идеално съчетание за любителите на вегетарианските ястия със свеж вкус."
+    },
+    "en": {
+      "name": "Burger with Grilled Vegetables and Emmental",
+      "description": "A flavorful burger featuring a soft bun filled with freshly grilled vegetables such as zucchinis, peppers, and onions, topped with melted Emmental cheese. A perfect choice for lovers of vegetarian dishes with a fresh taste."
+    },
+    "it": {
+      "name": "Burger con verdure grigliate ed Emmental",
+      "description": "Un gustoso burger con un pane morbido farcito con verdure grigliate come zucchine, peperoni e cipolle, coperto con formaggio Emmental fuso. Una scelta perfetta per gli amanti di piatti vegetariani dal sapore fresco."
+    }
   }
 }
