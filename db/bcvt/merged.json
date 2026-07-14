@@ -2259,6 +2259,18 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА микс салати с домати и бейби моцарела",
+    "prices": [
+      {
+        "dateText": "14/07",
+        "date": "2026-07-14",
+        "price": "2.90",
+        "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА моркови и ябълки",
     "prices": [
       {
@@ -5672,6 +5684,18 @@
     ]
   },
   {
+    "name": "Лаврак с печени картофи",
+    "prices": [
+      {
+        "dateText": "14/07",
+        "date": "2026-07-14",
+        "price": "6.20",
+        "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Лазаня с печени зеленчуци и моцарела",
     "prices": [
       {
@@ -6140,6 +6164,18 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c40441f7-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Микс салати с домати и бейби моцарела",
+    "prices": [
+      {
+        "dateText": "14/07",
+        "date": "2026-07-14",
+        "price": "5.10",
+        "currency": "EUR"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Милинки",
@@ -7244,6 +7280,20 @@
     ]
   },
   {
+    "name": "Пармиджана",
+    "prices": [
+      {
+        "dateText": "14/07",
+        "date": "2026-07-14",
+        "price": "2.56",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Парфе пъпеш",
     "prices": [
       {
@@ -7454,6 +7504,18 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Паста Алиолио",
+    "prices": [
+      {
+        "dateText": "14/07",
+        "date": "2026-07-14",
+        "price": "2.00",
+        "currency": "EUR"
       }
     ],
     "images": []
@@ -10357,6 +10419,18 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a0287fde-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Ризото с гъби",
+    "prices": [
+      {
+        "dateText": "14/07",
+        "date": "2026-07-14",
+        "price": "3.70",
+        "currency": "EUR"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Руло \"Бяло кадифе\"",

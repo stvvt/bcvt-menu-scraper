@@ -9420,5 +9420,89 @@
       "name": "Burger con verdure grigliate ed Emmental",
       "description": "Un gustoso burger con un pane morbido farcito con verdure grigliate come zucchine, peperoni e cipolle, coperto con formaggio Emmental fuso. Una scelta perfetta per gli amanti di piatti vegetariani dal sapore fresco."
     }
+  },
+  "ГАРНИТУРА микс салати с домати и бейби моцарела": {
+    "bg": {
+      "name": "Гарнитура микс салати с домати и бейби моцарела",
+      "description": "Микс салати с пресни домати и деликатна бейби моцарела, сервирани като свеж и лек гарнитурен компонент към основното ястие. Идеално балансирно съчетание на вкусове и текстури."
+    },
+    "en": {
+      "name": "Mixed salads garnish with tomatoes and baby mozzarella",
+      "description": "A mix of fresh salads with ripe tomatoes and delicate baby mozzarella, served as a fresh and light garnish component to the main dish. An ideal balance of flavors and textures."
+    },
+    "it": {
+      "name": "Prezzemolo misto con pomodori e mozzarella baby",
+      "description": "Un mix di insalate fresche con pomodori maturi e delicata mozzarella baby, servite come un fresco e leggero contorno. Perfetto equilibrio di sapori e consistenze."
+    }
+  },
+  "Лаврак с печени картофи": {
+    "bg": {
+      "name": "Лаврак с печени картофи",
+      "description": "Това е класическо българско ястие, съчетаващо прясна лавракова риба, която е добре почистена и приготвена на грил или тиган, с гарнитура от печени картофи. Картофите са нарязани на кубчета или филийки и изпечени до златисто, обикновено подправени с подправки като розмарин, черен пипер и сол. Ястието е популярно сред морските деликатеси в България и е характерно със свежия вкус на рибата и хрупкавата коричка на картофите."
+    },
+    "en": {
+      "name": "Sea bass with roasted potatoes",
+      "description": "This is a classic Bulgarian dish consisting of fresh sea bass, which is well-cleaned and cooked on a grill or pan, served with roasted potatoes. The potatoes are cut into cubes or slices and baked until golden, usually seasoned with herbs such as rosemary, black pepper, and salt. The dish is popular among seafood in Bulgaria and is characterized by the fresh taste of fish and crispy roasted potatoes."
+    },
+    "it": {
+      "name": "Ora con patate arrosto",
+      "description": "Questo è un piatto classico bulgaro composto da orata fresca, ben pulita e cotta alla griglia o in padella, accompagnata da patate arrosto. Le patate sono tagliate a cubetti o a fette e cotte fino a doratura, spesso condite con erbe come rosmarino, pepe nero e sale. Il piatto è molto popolare tra i piatti di pesce in Bulgaria, noto per il gusto fresco del pesce e la croccantezza delle patate arrosto."
+    }
+  },
+  "Микс салати с домати и бейби моцарела": {
+    "bg": {
+      "name": "Микс салати с домати и бейби моцарела",
+      "description": "Представлява свежа салата от различни зелени листни зеленчуци, сочни домати и малки топки бейби моцарела, подправени с лека дресингова смес."
+    },
+    "en": {
+      "name": "Mixed Salad with Tomatoes and Baby Mozzarella",
+      "description": "A fresh salad composed of various leafy greens, juicy tomatoes, and small balls of baby mozzarella, seasoned with a light dressing."
+    },
+    "it": {
+      "name": "Insalata mista con pomodori e mozzarella babys",
+      "description": "Un'insalata fresca composta da diverse foglie di verdure, pomodori succosi e piccole palline di mozzarella babys, condita con una leggera salsa dressing."
+    }
+  },
+  "Пармиджана": {
+    "bg": {
+      "name": "Пармиджана",
+      "description": "Пармиджана е традиционно италианско ястие, приготвено с слоеста комбинация от пържени филии патладжан, доматен сос и настърган пармезан сирене, запечени до златист цвят."
+    },
+    "en": {
+      "name": "Eggplant Parmesan",
+      "description": "Eggplant Parmesan is a traditional Italian dish made with layered fried eggplant slices, tomato sauce, and grated Parmesan cheese, baked until golden."
+    },
+    "it": {
+      "name": "Parmigiana",
+      "description": "La parmigiana è un piatto tradizionale italiano composto da fette di melanzane fritte, salsa di pomodoro e formaggio Parmigiano grattugiato, cotto al forno fino a doratura."
+    }
+  },
+  "Паста Алиолио": {
+    "bg": {
+      "name": "Паста Алиолио",
+      "description": "Класическо италианско ястие, приготвено с паста (обикновено спагети) и сос алиолио — смес от пресов чесън, зехтин и малко сол, което придава силен аромат и пикантен вкус."
+    },
+    "en": {
+      "name": "Pasta Aiolio",
+      "description": "A classic Italian dish made with pasta (usually spaghetti) and aioli sauce — a mixture of pressed garlic, olive oil, and a little salt, giving a strong aroma and spicy flavor."
+    },
+    "it": {
+      "name": "Pasta Aliolio",
+      "description": "Un piatto classico italiano preparato con pasta (generalmente spaghetti) e salsa alioli — una miscela di aglio schiacciato, olio d'oliva e un po' di sale, che conferisce un aroma intenso e un sapore piccante."
+    }
+  },
+  "Ризото с гъби": {
+    "bg": {
+      "name": "Ризото с гъби",
+      "description": "Кремообразно италианско ястие, приготвено с крехък ориз, сварен в ароматен бульон и обогатен с месести гъби. Обикновено се поднася топло, гарнирано с пармезан и свежи подправки."
+    },
+    "en": {
+      "name": "Mushroom Risotto",
+      "description": "A creamy Italian dish made with tender rice cooked in a flavorful broth and enriched with hearty mushrooms. Usually served warm, garnished with Parmesan cheese and fresh herbs."
+    },
+    "it": {
+      "name": "Risotto ai funghi",
+      "description": "Piatti cremoso italiano preparato con riso tenero cotto in un brodo saporito e arricchito con funghi sostanziosi. Di solito servito caldo, decorato con parmigiano e erbe fresche."
+    }
   }
 }
