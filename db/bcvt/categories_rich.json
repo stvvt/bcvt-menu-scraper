@@ -9504,5 +9504,33 @@
       "name": "Risotto ai funghi",
       "description": "Piatti cremoso italiano preparato con riso tenero cotto in un brodo saporito e arricchito con funghi sostanziosi. Di solito servito caldo, decorato con parmigiano e erbe fresche."
     }
+  },
+  "ГАРНИТУРА салата спанак, киноа и домат": {
+    "bg": {
+      "name": "Гарнитура салата спанак, киноа и домат",
+      "description": "Лека и свежа салата, съчетаваща пресен спанак, зърнена киноа и зрели домати. Подходяща като допълнение към основни ястия, с богати витамини и минерали."
+    },
+    "en": {
+      "name": "Side Salad of Spinach, Quinoa, and Tomato",
+      "description": "A light and fresh salad combining fresh spinach, quinoa grains, and ripe tomatoes. Perfect as a side dish, rich in vitamins and minerals."
+    },
+    "it": {
+      "name": "Insalata di contorno spinaci, quinoa e pomodori",
+      "description": "Un'insalata leggera e fresca che combina spinaci freschi, quinoa e pomodori maturi. Ideale come contorno, ricca di vitamine e minerali."
+    }
+  },
+  "Салата спанак, киноа и домат": {
+    "bg": {
+      "name": "Салата спанак, киноа и домат",
+      "description": "Свежа салата, съчетаваща натуралния вкус на спанак, полезната киноа и сочните домати. Перфектна за леки обяди и за онези, които търсят здравословна и вкусна комбинация."
+    },
+    "en": {
+      "name": "Spinach, Quinoa, and Tomato Salad",
+      "description": "A fresh salad combining the natural flavors of spinach, nutritious quinoa, and juicy tomatoes. Perfect for a light lunch and for those seeking a healthy and tasty combination."
+    },
+    "it": {
+      "name": "Insalata di spinaci, quinoa e pomodoro",
+      "description": "Un'insalata fresca che combina i sapori naturali degli spinaci, della quinoa nutriente e dei pomodori succosi. Ideale per un pranzo leggero e per chi cerca una combinazione sana e gustosa."
+    }
   }
 }
