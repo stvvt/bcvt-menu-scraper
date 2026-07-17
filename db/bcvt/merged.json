@@ -6861,6 +6861,14 @@
         "date": "2025-07-24",
         "price": "3.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "17/07",
+        "date": "2026-07-17",
+        "price": "1.79",
+        "currency": "EUR",
+        "weight": "0.25",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -15162,6 +15170,14 @@
         "date": "2025-07-11",
         "price": "4.00",
         "currency": "лв"
+      },
+      {
+        "dateText": "17/07",
+        "date": "2026-07-17",
+        "price": "2.05",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": []
