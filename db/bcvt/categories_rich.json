@@ -9532,5 +9532,19 @@
       "name": "Insalata di spinaci, quinoa e pomodoro",
       "description": "Un'insalata fresca che combina i sapori naturali degli spinaci, della quinoa nutriente e dei pomodori succosi. Ideale per un pranzo leggero e per chi cerca una combinazione sana e gustosa."
     }
+  },
+  "Кюфтета с гъбен сос": {
+    "bg": {
+      "name": "Кюфтета с гъбен сос",
+      "description": "Това ястие представлява кръгли месни кюфтета, приготвени от смесени меса като свинско и телешко, сервирани с богат и кремообразен гъбен сос, който се приготвя от пресни гъби, сметана и подправки."
+    },
+    "en": {
+      "name": "Meatballs with Mushroom Sauce",
+      "description": "This dish features round meatballs made from a mixture of meats such as pork and beef, served with a rich and creamy mushroom sauce prepared from fresh mushrooms, cream, and seasonings."
+    },
+    "it": {
+      "name": "Polpette con salsa di funghi",
+      "description": "Questo piatto presenta polpette di carne fatte con un misto di carni come maiale e manzo, servite con una salsa di funghi ricca e cremosa preparata con funghi freschi, panna e spezie."
+    }
   }
 }
