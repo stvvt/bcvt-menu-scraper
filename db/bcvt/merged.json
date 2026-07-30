@@ -968,6 +968,25 @@
     "images": []
   },
   {
+    "name": "Бургер с дърпано свинско месо",
+    "prices": [
+      {
+        "dateText": "30/07",
+        "date": "2026-07-30",
+        "price": "5.62",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-07-30",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8ad52c2a-200.jpg"
+      }
+    ]
+  },
+  {
     "name": "Бургер с дърпано телешко",
     "prices": [
       {

@@ -9546,5 +9546,19 @@
       "name": "Polpette con salsa di funghi",
       "description": "Questo piatto presenta polpette di carne fatte con un misto di carni come maiale e manzo, servite con una salsa di funghi ricca e cremosa preparata con funghi freschi, panna e spezie."
     }
+  },
+  "Бургер с дърпано свинско месо": {
+    "bg": {
+      "name": "Бургер с дърпано свинско месо",
+      "description": "Този бургер съдържа мек бриош баница, напълнена с богато и сочено дърпано свинско месо, подправено с ароматни подправки. Добавят се свежи зеленчуци като салата, домати и лук, както и сос по избор, които допълват богатия вкус и създават удовлетворяващо ястие."
+    },
+    "en": {
+      "name": "Pulled Pork Burger",
+      "description": "This burger features a soft brioche bun filled with rich and juicy pulled pork, seasoned with aromatic spices. It is complemented with fresh vegetables such as lettuce, tomatoes, and onions, along with a choice of sauce, creating a hearty and satisfying meal."
+    },
+    "it": {
+      "name": "Burger con maiale sfilacciato",
+      "description": "Questo panino include un soffice panino di brioche ripieno di maiale sfilacciato, ricco e succoso, insaporito con spezie aromatiche. Viene completato con verdure fresche come lattuga, pomodori e cipolle, e una salsa a scelta, offrendo un pasto ricco e soddisfacente."
+    }
   }
 }
