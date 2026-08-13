@@ -9560,5 +9560,19 @@
       "name": "Burger con maiale sfilacciato",
       "description": "Questo panino include un soffice panino di brioche ripieno di maiale sfilacciato, ricco e succoso, insaporito con spezie aromatiche. Viene completato con verdure fresche come lattuga, pomodori e cipolle, e una salsa a scelta, offrendo un pasto ricco e soddisfacente."
     }
+  },
+  "Кюфте от червена леща, чушка и сушен домат": {
+    "bg": {
+      "name": "Кюфте от червена леща, чушка и сушен домат",
+      "description": "Вкусно и здравословно ястие, приготвено от пресована червена леща, смесена с нарязани чушки и сушени домати. Формовано като кюфте, което е леко запечено или изпържено до златисто. Това ястие е популярно вегетарианско предложение, богато на протеини и с богат вкус."
+    },
+    "en": {
+      "name": "Red Lentil, Pepper, and Dried Tomato Patty",
+      "description": "A tasty and healthy dish made from mashed red lentils mixed with chopped peppers and dried tomatoes. Formed into a patty that is lightly baked or fried until golden. It's a popular vegetarian option, rich in proteins and full of flavor."
+    },
+    "it": {
+      "name": "Polpetta di lenticchie rosse, peperoni e pomodori secchi",
+      "description": "Un piatto gustoso e salutare preparato con purea di lenticchie rosse, mescolata con peperoni tritati e pomodori secchi. Formata come una polpetta, leggermente cotta in forno o fritta fino a doratura. È un'opzione vegetariana popolare, ricca di proteine e di sapore."
+    }
   }
 }
