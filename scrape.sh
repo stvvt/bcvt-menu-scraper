@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "Use ./bcvt-scrape.sh instead"
+exit 0
+
 # scrape the menu from the website using compiled JS
 node dist/cli.js menu https://bcvt.eu/L/S/21254/m/Dirkhlbn --pretty > db/bcvt/daily/$(date +%Y-%m-%d).json
 
