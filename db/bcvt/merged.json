@@ -2391,6 +2391,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/08",
+        "date": "2026-08-14",
+        "price": "1.45",
+        "currency": "EUR",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -3581,6 +3589,10 @@
       {
         "date": "2025-07-17",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0f40f929-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/693cf801-200.webp"
       }
     ]
   },
@@ -4547,6 +4559,10 @@
       {
         "date": "2026-08-04",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/51ffc9ef-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/51ffc9ef-200.webp"
       }
     ]
   },
@@ -8628,6 +8644,10 @@
       {
         "date": "2025-09-26",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/440e7441-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/440e7441-200.webp"
       }
     ]
   },
@@ -8915,6 +8935,10 @@
       {
         "date": "2025-07-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b4e09d46-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/793e0e23-200.webp"
       }
     ]
   },
@@ -10351,12 +10375,24 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/08",
+        "date": "2026-08-14",
+        "price": "2.00",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2026-07-10",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/81ad3a5f-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f169bf79-200.webp"
       }
     ]
   },
@@ -12059,6 +12095,10 @@
       {
         "date": "2025-07-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/78fca265-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1e540d8e-200.webp"
       }
     ]
   },
@@ -13136,12 +13176,24 @@
         "currency": "лв",
         "weight": "350",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/08",
+        "date": "2026-08-14",
+        "price": "3.50",
+        "currency": "EUR",
+        "weight": "350",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-29",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1f9fcb3b-200.png"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1f9fcb3b-200.webp"
       }
     ]
   },
@@ -13237,7 +13289,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/44dcdd05-200.webp"
+      }
+    ]
   },
   {
     "name": "Селски картофи",
@@ -15173,12 +15230,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/08",
+        "date": "2026-08-14",
+        "price": "1.15",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7ee6aabf-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d102785a-200.webp"
       }
     ]
   },
@@ -15360,12 +15429,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/08",
+        "date": "2026-08-14",
+        "price": "1.65",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-10-27",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5889a5b2-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5889a5b2-200.webp"
       }
     ]
   },
@@ -15535,6 +15616,10 @@
       {
         "date": "2025-12-30",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/83cc07e5-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/83cc07e5-200.webp"
       }
     ]
   },
@@ -15762,12 +15847,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "14/08",
+        "date": "2026-08-14",
+        "price": "1.60",
+        "currency": "EUR",
+        "weight": "80",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-10-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ca2b17ec-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ca2b17ec-200.webp"
       }
     ]
   },
@@ -15903,7 +16000,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8bd01f6f-200.webp"
+      }
+    ]
   },
   {
     "name": "Шоколадово брауни",
@@ -15941,6 +16043,10 @@
       {
         "date": "2025-11-19",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3e06338-200.jpg"
+      },
+      {
+        "date": "2026-08-14",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c3e06338-200.webp"
       }
     ]
   },
