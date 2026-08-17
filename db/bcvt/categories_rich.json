@@ -9574,5 +9574,19 @@
       "name": "Polpetta di lenticchie rosse, peperoni e pomodori secchi",
       "description": "Un piatto gustoso e salutare preparato con purea di lenticchie rosse, mescolata con peperoni tritati e pomodori secchi. Formata come una polpetta, leggermente cotta in forno o fritta fino a doratura. È un'opzione vegetariana popolare, ricca di proteine e di sapore."
     }
+  },
+  "Тиквичка бюрек": {
+    "bg": {
+      "name": "Тиквичка бюрек",
+      "description": "Тиквичка бюрек е вкусно българско ястие, което се приготвя с тънки кори за баница, пълнени с нарязани тиквички, яйца, сирене и подправки. След като се навие, се пече до златисто и се сервира топло или студено като апетитна закуска или лека вечеря."
+    },
+    "en": {
+      "name": "Zucchini Burek",
+      "description": "Zucchini burek is a delicious Bulgarian dish made with thin filo pastry sheets filled with chopped zucchinis, eggs, cheese, and herbs. It is rolled up, baked until golden, and served warm or cold as a tasty breakfast or light dinner."
+    },
+    "it": {
+      "name": "Burek di zucchine",
+      "description": "Il burek di zucchine è un delizioso piatto bulgaro preparato con sottili fogli di pasta filo ripieni di zucchine tritate, uova, formaggio e spezie. Dopo averlo arrotolato, viene cotto al forno fino a doratura e servito caldo o freddo come appetitosa colazione o cena leggera."
+    }
   }
 }
