@@ -9588,5 +9588,19 @@
       "name": "Burek di zucchine",
       "description": "Il burek di zucchine è un delizioso piatto bulgaro preparato con sottili fogli di pasta filo ripieni di zucchine tritate, uova, formaggio e spezie. Dopo averlo arrotolato, viene cotto al forno fino a doratura e servito caldo o freddo come appetitosa colazione o cena leggera."
     }
+  },
+  "Огретен от тиквички": {
+    "bg": {
+      "name": "Огретен от тиквички",
+      "description": "Това е топло ястие, приготвено от нарязани тиквички, покрити с кремообразен сос, обикновено с добавена настъргана сирене, и запечено до златиста коричка."
+    },
+    "en": {
+      "name": "Zucchini Gratin",
+      "description": "This is a baked dish made from sliced zucchinis covered with a creamy sauce, usually topped with grated cheese, and baked until golden brown."
+    },
+    "it": {
+      "name": "Gratin di zucchine",
+      "description": "Questo è un piatto al forno fatto con zucchine affettate, ricoperto da una salsa cremosa, spesso con formaggio grattugiato, e cotto fino a doratura."
+    }
   }
 }
