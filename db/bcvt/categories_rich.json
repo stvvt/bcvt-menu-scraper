@@ -9602,5 +9602,19 @@
       "name": "Gratin di zucchine",
       "description": "Questo è un piatto al forno fatto con zucchine affettate, ricoperto da una salsa cremosa, spesso con formaggio grattugiato, e cotto fino a doratura."
     }
+  },
+  "Торта портокалово парфе": {
+    "bg": {
+      "name": "Торта портокалово парфе",
+      "description": "Лека и освежаваща десертна торта, съставена от слоеве меко портокалово парфе и крехки бисквити. Идеално за летните дни, с изразен аромат на портокал и мека текстура."
+    },
+    "en": {
+      "name": "Orange Parfait Cake",
+      "description": "A light and refreshing dessert cake made of layers of soft orange parfait and crisp biscuits. Perfect for summer days, with a pronounced orange aroma and a gentle texture."
+    },
+    "it": {
+      "name": "Torta parfait all'arancia",
+      "description": "Torta leggera e rinfrescante composta da strati di morbido parfait all'arancia e biscotti croccanti. Ideale per l'estate, con un aroma intenso di arancia e una consistenza morbida."
+    }
   }
 }

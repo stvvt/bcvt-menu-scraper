@@ -430,6 +430,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "28/08",
+        "date": "2026-08-27",
+        "price": "3.00",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -932,12 +940,24 @@
         "currency": "лв",
         "weight": "195",
         "unit": "гр"
+      },
+      {
+        "dateText": "28/08",
+        "date": "2026-08-27",
+        "price": "1.60",
+        "currency": "EUR",
+        "weight": "195",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2026-06-26",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/59231e1c-200.jpg"
+      },
+      {
+        "date": "2026-08-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/59231e1c-200.webp"
       }
     ]
   },
@@ -8043,6 +8063,10 @@
       {
         "date": "2026-03-05",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bbd374af-200.jpg"
+      },
+      {
+        "date": "2026-08-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ba0673d5-200.webp"
       }
     ]
   },
@@ -8560,6 +8584,14 @@
         "date": "2025-11-12",
         "price": "8.00",
         "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "28/08",
+        "date": "2026-08-27",
+        "price": "4.30",
+        "currency": "EUR",
         "weight": "300",
         "unit": "гр"
       }
@@ -9953,12 +9985,22 @@
         "date": "2026-01-07",
         "price": "3.79",
         "currency": "лв"
+      },
+      {
+        "dateText": "28/08",
+        "date": "2026-08-27",
+        "price": "1.95",
+        "currency": "EUR"
       }
     ],
     "images": [
       {
         "date": "2025-07-21",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/21e2fe15-200.jpg"
+      },
+      {
+        "date": "2026-08-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e9c3e0a0-200.webp"
       }
     ]
   },
@@ -11131,6 +11173,10 @@
       {
         "date": "2025-07-28",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6e5961e2-200.jpg"
+      },
+      {
+        "date": "2026-08-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ec0be045-200.webp"
       }
     ]
   },
@@ -11629,6 +11675,10 @@
       {
         "date": "2025-11-10",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5e901474-200.jpg"
+      },
+      {
+        "date": "2026-08-27",
+        "imageUrl": "https://bcvt.eu/thumb_M/R/?t=OLEnzCo%2FmkU13up7cV8S3K9FrTUmSEzeZA%2BsD69C1mQZOXXR%2Bpis%2Bwk51NcSWXqQkxJwdS49DXO0OPGNFaiCOMeVmACX8GYRI4XBRuYy0sOBzbQc%2BztcdNXqkLX%2B04gQnHghIh0846UI28WVWeOHQukaacO9ohK2e9HnGMfvILwVRkxHG4JeecmQ9omcn76Gx4qTWYd3KE%2BDdoW9l3ZL0XtZstN22dsq6vqQNP9Un9WJk2iNDcdXLAIX0JMLUAewhiKZwwCwMEIbNzlF98baM6ogjRv5ko1bllXNbpzaC8zNwfK7Yy3KTzuDyjXF09duRZm4z%2Bcu9yqVOfdgYH7R0VeFQqLRczEmFi3vRSdTMhGCCvPjdkaxwnd85clYO%2BJR.webp"
       }
     ]
   },
@@ -13272,6 +13322,12 @@
         "date": "2025-11-21",
         "price": "6.20",
         "currency": "лв"
+      },
+      {
+        "dateText": "28/08",
+        "date": "2026-08-27",
+        "price": "3.20",
+        "currency": "EUR"
       }
     ],
     "images": []
@@ -13380,12 +13436,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "28/08",
+        "date": "2026-08-27",
+        "price": "3.55",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-09-03",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/439fce1b-200.jpg"
+      },
+      {
+        "date": "2026-08-27",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/439fce1b-200.webp"
       }
     ]
   },
@@ -15799,6 +15867,25 @@
       }
     ],
     "images": []
+  },
+  {
+    "name": "Торта портокалово парфе",
+    "prices": [
+      {
+        "dateText": "28/08",
+        "date": "2026-08-27",
+        "price": "2.05",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-08-27",
+        "imageUrl": "https://bcvt.eu/thumb_M/R/?t=Nz6x04%2B%2FcUWhyJa1dwFcrjBpmRGxr9PRnwnPdEBj5Q1sUfi%2FCx%2BccZuL0HKK2Bbv8c9211tvXMYAhojCUoBMMKFwer4a4Gv2qCBdDa7x0HI2reotTWK1544jTJvD5659HjFVTJs1u5kbVU0P7MjqHPRnW%2FFz%2BFL5jCiddKX2SeOc7%2B7jRVx5G%2FOfvmZFFBVYK5Qfhg8%2BeVq0RM%2BRMMD%2FKCB%2F0%2BSGzJ5y7d3QDHomIIOrMEcO2Ic%2FX%2FITothBAkGm5taYF8pfWuRV1%2BwmhPjPmgl7QZ%2BF2aGsG0dza%2BJqqJm0yYuPOOM4BkWaYy9fPKZrUi3W8c2x1zM9Zv3Cc8w00GQ8sCNpnD%2BHCX1kh6g6DGLhAdLv4WjQkw6opB%2BVshms.webp"
+      }
+    ]
   },
   {
     "name": "Торта Рафаело",
