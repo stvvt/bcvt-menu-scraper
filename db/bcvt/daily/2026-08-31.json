@@ -55,6 +55,15 @@
       "unit": "гр"
     },
     {
+      "name": "Боб на фурна",
+      "price": "1.80",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3fea5f6b-200.webp",
+      "ean": "6069",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
       "name": "Бургер с пилешко кюфте",
       "price": "5.20",
       "currency": "EUR",
@@ -89,15 +98,6 @@
       "unit": "гр"
     },
     {
-      "name": "Картофена яхния",
-      "price": "1.85",
-      "currency": "EUR",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ab78bb9a-200.webp",
-      "ean": "6054",
-      "weight": "250",
-      "unit": "гр"
-    },
-    {
       "name": "Кюфте",
       "price": "1.35",
       "currency": "EUR",
@@ -107,10 +107,12 @@
       "unit": "гр"
     },
     {
-      "name": "Пататник със сирене",
-      "price": "1.50",
+      "name": "Спаначено кюфте със сирене",
+      "price": "2.05",
       "currency": "EUR",
-      "weight": "250",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d3376e4e-200.webp",
+      "ean": "6314",
+      "weight": "200",
       "unit": "гр"
     },
     {
@@ -150,6 +152,13 @@
       "unit": "гр"
     },
     {
+      "name": "Кадаиф с ядки и сушени плодове",
+      "price": "2.70",
+      "currency": "EUR",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Мини еклери",
       "price": "1.50",
       "currency": "EUR",
@@ -175,11 +184,16 @@
       "unit": "гр"
     },
     {
+      "name": "Пъпеш с мед",
+      "price": "2.00",
+      "currency": "EUR",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
       "name": "Торта портокалово парфе",
       "price": "2.05",
       "currency": "EUR",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1b49234d-200.webp",
-      "ean": "8127",
       "weight": "150",
       "unit": "гр"
     },
