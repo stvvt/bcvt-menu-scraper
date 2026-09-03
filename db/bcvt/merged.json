@@ -2943,12 +2943,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "03/09",
+        "date": "2026-09-03",
+        "price": "1.50",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-14",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/00bcd1c5-200.jpg"
+      },
+      {
+        "date": "2026-09-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/00bcd1c5-200.webp"
       }
     ]
   },
@@ -6491,6 +6503,10 @@
       {
         "date": "2025-08-21",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/11c18ad9-200.jpg"
+      },
+      {
+        "date": "2026-09-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/11c18ad9-200.webp"
       }
     ]
   },
@@ -9885,12 +9901,24 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "03/09",
+        "date": "2026-09-03",
+        "price": "3.00",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bb44f9bd-200.jpg"
+      },
+      {
+        "date": "2026-09-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/bb44f9bd-200.webp"
       }
     ]
   },
@@ -11388,12 +11416,24 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "03/09",
+        "date": "2026-09-03",
+        "price": "5.60",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-11",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d480abd3-200.jpg"
+      },
+      {
+        "date": "2026-09-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d480abd3-200.webp"
       }
     ]
   },
@@ -11516,6 +11556,20 @@
         "date": "2026-07-14",
         "price": "3.70",
         "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Ризото със зеленчуци",
+    "prices": [
+      {
+        "dateText": "03/09",
+        "date": "2026-09-03",
+        "price": "2.90",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -12395,6 +12449,10 @@
       {
         "date": "2026-01-20",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8fe3130-200.jpg"
+      },
+      {
+        "date": "2026-09-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8fe3130-200.webp"
       }
     ]
   },

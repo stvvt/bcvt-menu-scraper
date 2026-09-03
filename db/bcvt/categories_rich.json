@@ -9616,5 +9616,19 @@
       "name": "Torta parfait all'arancia",
       "description": "Torta leggera e rinfrescante composta da strati di morbido parfait all'arancia e biscotti croccanti. Ideale per l'estate, con un aroma intenso di arancia e una consistenza morbida."
     }
+  },
+  "Ризото със зеленчуци": {
+    "bg": {
+      "name": "Ризото със зеленчуци",
+      "description": "Кремообразно италианско ястие, приготвено с ориз, който се вари бавно в бульон, допълнен с разнообразни зрелостни зеленчуци като моркови, грах и тиквички. Обикновено се поднася топло, с пармезан и маслини за вкус."
+    },
+    "en": {
+      "name": "Vegetable Risotto",
+      "description": "A creamy Italian dish made with rice cooked slowly in broth, combined with assorted fresh vegetables such as carrots, peas, and zucchini. Usually served warm, topped with Parmesan cheese and olives for added flavor."
+    },
+    "it": {
+      "name": "Risotto alle verdure",
+      "description": "Un piatto cremoso italiano preparato con riso cotto lentamente nel brodo, arricchito con diverse verdure come carote, piselli e zucchine. Di solito viene servito caldo, con parmigiano e olive per insaporire."
+    }
   }
 }
