@@ -10745,6 +10745,10 @@
       {
         "date": "2025-09-09",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a1c62b0c-200.png"
+      },
+      {
+        "date": "2026-09-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a1c62b0c-200.webp"
       }
     ]
   },
@@ -11857,6 +11861,10 @@
       {
         "date": "2026-08-27",
         "imageUrl": "https://bcvt.eu/thumb_M/R/?t=OLEnzCo%2FmkU13up7cV8S3K9FrTUmSEzeZA%2BsD69C1mQZOXXR%2Bpis%2Bwk51NcSWXqQkxJwdS49DXO0OPGNFaiCOMeVmACX8GYRI4XBRuYy0sOBzbQc%2BztcdNXqkLX%2B04gQnHghIh0846UI28WVWeOHQukaacO9ohK2e9HnGMfvILwVRkxHG4JeecmQ9omcn76Gx4qTWYd3KE%2BDdoW9l3ZL0XtZstN22dsq6vqQNP9Un9WJk2iNDcdXLAIX0JMLUAewhiKZwwCwMEIbNzlF98baM6ogjRv5ko1bllXNbpzaC8zNwfK7Yy3KTzuDyjXF09duRZm4z%2Bcu9yqVOfdgYH7R0VeFQqLRczEmFi3vRSdTMhGCCvPjdkaxwnd85clYO%2BJR.webp"
+      },
+      {
+        "date": "2026-09-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5e901474-200.webp"
       }
     ]
   },
@@ -15743,6 +15751,10 @@
       {
         "date": "2025-07-29",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6ba7b8f1-200.jpg"
+      },
+      {
+        "date": "2026-09-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6ba7b8f1-200.webp"
       }
     ]
   },
@@ -17184,6 +17196,14 @@
         "date": "2026-01-26",
         "price": "5.91",
         "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "04/09",
+        "date": "2026-09-04",
+        "price": "3.00",
+        "currency": "EUR",
         "weight": "150",
         "unit": "гр"
       }
