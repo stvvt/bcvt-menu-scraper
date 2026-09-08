@@ -673,12 +673,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/09",
+        "date": "2026-09-08",
+        "price": "1.30",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-09-18",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c55ffe5-200.jpg"
+      },
+      {
+        "date": "2026-09-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c55ffe5-200.webp"
       }
     ]
   },
@@ -2669,6 +2681,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/09",
+        "date": "2026-09-08",
+        "price": "1.50",
+        "currency": "EUR",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -2726,12 +2746,24 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/09",
+        "date": "2026-09-08",
+        "price": "1.60",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-27",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/936d8724-200.jpg"
+      },
+      {
+        "date": "2026-09-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/936d8724-200.webp"
       }
     ]
   },
@@ -3327,6 +3359,10 @@
       {
         "date": "2026-01-08",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b8fdfa49-200.jpg"
+      },
+      {
+        "date": "2026-09-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b8fdfa49-200.webp"
       }
     ]
   },
@@ -3409,12 +3445,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/09",
+        "date": "2026-09-08",
+        "price": "1.10",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-13",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c60ba305-200.jpg"
+      },
+      {
+        "date": "2026-09-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c60ba305-200.webp"
       }
     ]
   },
@@ -9692,7 +9740,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-09-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8a0cb63d-200.webp"
+      }
+    ]
   },
   {
     "name": "Пилешка супа",
@@ -11801,6 +11854,10 @@
       {
         "date": "2025-07-30",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/15110d45-200.jpg"
+      },
+      {
+        "date": "2026-09-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4fccdfc0-200.webp"
       }
     ]
   },
@@ -14015,12 +14072,24 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/09",
+        "date": "2026-09-08",
+        "price": "3.30",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-21",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cec6d4e3-200.png"
+      },
+      {
+        "date": "2026-09-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cec6d4e3-200.webp"
       }
     ]
   },
@@ -15674,6 +15743,10 @@
       {
         "date": "2025-08-05",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/14d4c146-200.jpg"
+      },
+      {
+        "date": "2026-09-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6fcd1a46-200.webp"
       }
     ]
   },
@@ -16270,12 +16343,24 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/09",
+        "date": "2026-09-08",
+        "price": "2.80",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-30",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eea8a209-200.jpg"
+      },
+      {
+        "date": "2026-09-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ac8afaae-200.webp"
       }
     ]
   },
