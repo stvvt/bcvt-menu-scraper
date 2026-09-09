@@ -1003,12 +1003,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/09",
+        "date": "2026-09-09",
+        "price": "1.65",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-10-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5a13565b-200.jpg"
+      },
+      {
+        "date": "2026-09-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5a13565b-200.webp"
       }
     ]
   },
@@ -5616,12 +5628,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/09",
+        "date": "2026-09-09",
+        "price": "1.50",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/65e75776-200.jpg"
+      },
+      {
+        "date": "2026-09-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fafa7e52-200.webp"
       }
     ]
   },
@@ -11201,12 +11225,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/09",
+        "date": "2026-09-09",
+        "price": "3.50",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/72a0fcca-200.jpg"
+      },
+      {
+        "date": "2026-09-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/72a0fcca-200.webp"
       }
     ]
   },
@@ -14360,6 +14396,14 @@
         "date": "2025-09-09",
         "price": "9.90",
         "currency": "лв",
+        "weight": "250",
+        "unit": "гр"
+      },
+      {
+        "dateText": "09/09",
+        "date": "2026-09-09",
+        "price": "5.10",
+        "currency": "EUR",
         "weight": "250",
         "unit": "гр"
       }
