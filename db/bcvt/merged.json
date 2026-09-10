@@ -5416,9 +5416,22 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "10/09",
+        "date": "2026-09-10",
+        "price": "1.40",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-09-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/892a2845-200.webp"
+      }
+    ]
   },
   {
     "name": "Крем пистачио",
@@ -8028,12 +8041,24 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "10/09",
+        "date": "2026-09-10",
+        "price": "1.70",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-01",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7674cf08-200.jpg"
+      },
+      {
+        "date": "2026-09-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7674cf08-200.webp"
       }
     ]
   },
@@ -11705,6 +11730,10 @@
       {
         "date": "2025-08-15",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1f0d9801-200.jpg"
+      },
+      {
+        "date": "2026-09-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/60779ece-200.webp"
       }
     ]
   },
@@ -12827,6 +12856,10 @@
       {
         "date": "2025-11-14",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fb008adf-200.jpg"
+      },
+      {
+        "date": "2026-09-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fb008adf-200.webp"
       }
     ]
   },
@@ -14516,6 +14549,10 @@
       {
         "date": "2025-07-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/40204047-200.jpg"
+      },
+      {
+        "date": "2026-09-10",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/54002ebf-200.webp"
       }
     ]
   },
