@@ -9630,5 +9630,19 @@
       "name": "Risotto alle verdure",
       "description": "Un piatto cremoso italiano preparato con riso cotto lentamente nel brodo, arricchito con diverse verdure come carote, piselli e zucchine. Di solito viene servito caldo, con parmigiano e olive per insaporire."
     }
+  },
+  "Патешко бутче с картофи": {
+    "bg": {
+      "name": "Патешко бутче с картофи",
+      "description": "Сочна и ароматна трапеза с пълноценна комбинация от печени патешки бутчета, сервирани с златисти, крехки картофи, обилно подправени с прости български подправки. Ястието е характерно със своята богата вкусова палитра и апетитен аромат."
+    },
+    "en": {
+      "name": "Duck thigh with potatoes",
+      "description": "Juicy and flavorful dish featuring roasted duck thighs served with golden, tender potatoes, generously seasoned with simple Bulgarian spices. This dish is known for its rich taste and appetizing aroma."
+    },
+    "it": {
+      "name": "Coscia d'anatra con patate",
+      "description": "Piacevole piatto ricco di gusto con cosce d'anatra arrostite, accompagnate da patate dorate e morbide, condite con spezie semplici della cucina bulgara. Caratterizzato da un sapore ricco e un aroma invitante."
+    }
   }
 }
