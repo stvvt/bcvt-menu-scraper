@@ -109,6 +109,15 @@
       "unit": "гр"
     },
     {
+      "name": "Лазаня със спанак и сирене",
+      "price": "4.55",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d8442d96-200.webp",
+      "ean": "6062",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
       "name": "Пилешко бутче с ориз",
       "price": "4.40",
       "currency": "EUR",
@@ -145,6 +154,24 @@
       "unit": "гр"
     },
     {
+      "name": "Ванилов пудинг",
+      "price": "1.50",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0af60874-200.webp",
+      "ean": "8117",
+      "weight": "120",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем пъпеш с мента",
+      "price": "1.80",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/aaba201d-200.webp",
+      "ean": "8105",
+      "weight": "120",
+      "unit": "гр"
+    },
+    {
       "name": "Крем с фибри",
       "price": "1.50",
       "currency": "EUR",
@@ -164,8 +191,6 @@
       "name": "Мини еклери",
       "price": "1.50",
       "currency": "EUR",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c8cf3403-200.webp",
-      "ean": "8130",
       "weight": "170",
       "unit": "гр"
     },
@@ -173,8 +198,20 @@
       "name": "Мляко с ориз",
       "price": "1.10",
       "currency": "EUR",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/821f4adc-200.webp",
-      "ean": "8043",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Пъпеш с мед",
+      "price": "2.00",
+      "currency": "EUR",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Торта с вишни и крем бискоф",
+      "price": "2.80",
+      "currency": "EUR",
       "weight": "150",
       "unit": "гр"
     },
@@ -182,8 +219,6 @@
       "name": "Чийзкейк с горски плодове",
       "price": "3.00",
       "currency": "EUR",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9eb87013-200.webp",
-      "ean": "8047",
       "weight": "150",
       "unit": "гр"
     },
