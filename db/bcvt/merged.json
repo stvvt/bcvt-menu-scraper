@@ -110,12 +110,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "17/09",
+        "date": "2026-09-17",
+        "price": "2.70",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-11-18",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b2a6bdd7-200.jpg"
+      },
+      {
+        "date": "2026-09-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b2a6bdd7-200.webp"
       }
     ]
   },
@@ -2470,6 +2482,14 @@
         "date": "2026-06-04",
         "price": "3.70",
         "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      },
+      {
+        "dateText": "17/09",
+        "date": "2026-09-17",
+        "price": "1.90",
+        "currency": "EUR",
         "weight": "100",
         "unit": "гр"
       }
@@ -6825,6 +6845,14 @@
         "date": "2026-06-04",
         "price": "5.91",
         "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "17/09",
+        "date": "2026-09-17",
+        "price": "3.00",
+        "currency": "EUR",
         "weight": "200",
         "unit": "гр"
       }
@@ -14162,6 +14190,10 @@
       {
         "date": "2025-07-25",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/dea40b7c-200.jpg"
+      },
+      {
+        "date": "2026-09-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/dea40b7c-200.webp"
       }
     ]
   },
@@ -14349,12 +14381,24 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "17/09",
+        "date": "2026-09-17",
+        "price": "4.20",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-04",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d09ed6b7-200.jpg"
+      },
+      {
+        "date": "2026-09-17",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d09ed6b7-200.webp"
       }
     ]
   },
