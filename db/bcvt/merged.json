@@ -606,6 +606,10 @@
       {
         "date": "2026-06-02",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3c2e6081-200.jpg"
+      },
+      {
+        "date": "2026-09-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/47866e35-200.webp"
       }
     ]
   },
@@ -1827,6 +1831,20 @@
         "price": "1.66",
         "currency": "лв",
         "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА варени картофи със сушен домат и каперси",
+    "prices": [
+      {
+        "dateText": "18/09",
+        "date": "2026-09-18",
+        "price": "1.80",
+        "currency": "EUR",
+        "weight": "150",
         "unit": "гр"
       }
     ],
@@ -5101,12 +5119,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "18/09",
+        "date": "2026-09-18",
+        "price": "2.80",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-09-04",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a79f5a79-200.jpg"
+      },
+      {
+        "date": "2026-09-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a79f5a79-200.webp"
       }
     ]
   },
@@ -8551,6 +8581,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "18/09",
+        "date": "2026-09-18",
+        "price": "2.50",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -8561,6 +8599,10 @@
       {
         "date": "2025-11-24",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/960f7fae-200.jpg"
+      },
+      {
+        "date": "2026-09-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/960f7fae-200.webp"
       }
     ]
   },
@@ -9914,6 +9956,10 @@
       {
         "date": "2025-09-11",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/836047bc-200.jpg"
+      },
+      {
+        "date": "2026-09-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/836047bc-200.webp"
       }
     ]
   },
@@ -11127,6 +11173,10 @@
       {
         "date": "2025-07-31",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0ed92b91-200.jpg"
+      },
+      {
+        "date": "2026-09-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0ed92b91-200.webp"
       }
     ]
   },
@@ -14479,6 +14529,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "18/09",
+        "date": "2026-09-18",
+        "price": "4.05",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -15719,12 +15777,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "18/09",
+        "date": "2026-09-18",
+        "price": "2.00",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-01",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1427be83-200.jpg"
+      },
+      {
+        "date": "2026-09-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1427be83-200.webp"
       }
     ]
   },
@@ -16574,6 +16644,10 @@
       {
         "date": "2025-10-17",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fd426d99-200.jpg"
+      },
+      {
+        "date": "2026-09-18",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/db894269-200.webp"
       }
     ]
   },

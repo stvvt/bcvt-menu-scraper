@@ -9644,5 +9644,19 @@
       "name": "Coscia d'anatra con patate",
       "description": "Piacevole piatto ricco di gusto con cosce d'anatra arrostite, accompagnate da patate dorate e morbide, condite con spezie semplici della cucina bulgara. Caratterizzato da un sapore ricco e un aroma invitante."
     }
+  },
+  "ГАРНИТУРА варени картофи със сушен домат и каперси": {
+    "bg": {
+      "name": "Гарнитура: варени картофи със сушен домат и каперси",
+      "description": "Този вариант на гарнитура включва нежно сварени картофи, подправени с наситен сушен домат и солени каперси, които добавят характерен вкус и аромат към ястието."
+    },
+    "en": {
+      "name": "Side Dish: boiled potatoes with dried tomato and capers",
+      "description": "This side dish features tender boiled potatoes seasoned with rich dried tomato and salty capers, adding distinctive flavor and aroma to the meal."
+    },
+    "it": {
+      "name": "Contorno: patate bollite con pomodoro secco e capperi",
+      "description": "Questa variante di contorno include patate bollite morbide, aromatizzate con pomodoro secco intensamente saporito e capperi salati, che conferiscono un caratteristico gusto e aroma al piatto."
+    }
   }
 }
