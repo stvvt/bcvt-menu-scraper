@@ -149,6 +149,15 @@
       "unit": "гр"
     },
     {
+      "name": "Крем панакота с ягоди",
+      "price": "1.40",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/892a2845-200.webp",
+      "ean": "8050",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Масленки с локум",
       "price": "1.30",
       "currency": "EUR",
@@ -165,11 +174,23 @@
       "unit": "гр"
     },
     {
+      "name": "Морковена торта",
+      "price": "2.15",
+      "currency": "EUR",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Торта Парфе",
       "price": "2.05",
       "currency": "EUR",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/db894269-200.webp",
-      "ean": "8054",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Торта с вишни и крем бискоф",
+      "price": "2.80",
+      "currency": "EUR",
       "weight": "150",
       "unit": "гр"
     },
