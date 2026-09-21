@@ -1386,6 +1386,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "21/09",
+        "date": "2026-09-21",
+        "price": "3.10",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -1716,6 +1724,14 @@
         "date": "2025-12-23",
         "price": "2.50",
         "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      },
+      {
+        "dateText": "21/09",
+        "date": "2026-09-21",
+        "price": "1.80",
+        "currency": "EUR",
         "weight": "100",
         "unit": "гр"
       }
@@ -6367,6 +6383,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "21/09",
+        "date": "2026-09-21",
+        "price": "1.30",
+        "currency": "EUR",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -8971,12 +8995,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "21/09",
+        "date": "2026-09-21",
+        "price": "4.05",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-09-01",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d033d5ef-200.jpg"
+      },
+      {
+        "date": "2026-09-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ecc2f216-200.webp"
       }
     ]
   },
@@ -12495,6 +12531,14 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "21/09",
+        "date": "2026-09-21",
+        "price": "2.70",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -12505,6 +12549,10 @@
       {
         "date": "2025-12-23",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9b8736c0-200.jpg"
+      },
+      {
+        "date": "2026-09-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9b8736c0-200.webp"
       }
     ]
   },
@@ -16644,6 +16692,10 @@
       {
         "date": "2025-10-17",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fd426d99-200.jpg"
+      },
+      {
+        "date": "2026-09-21",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/db894269-200.webp"
       }
     ]
   },
