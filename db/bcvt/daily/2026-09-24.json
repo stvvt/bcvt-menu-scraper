@@ -79,9 +79,27 @@
       "unit": "гр"
     },
     {
+      "name": "Задушени зеленчуци в масло",
+      "price": "2.00",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/be518dbf-200.webp",
+      "ean": "6088",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Зеленчуков гювеч с нахут",
       "price": "1.80",
       "currency": "EUR",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Паста с телешко и пармезан",
+      "price": "5.40",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1495de40-200.webp",
+      "ean": "6377",
       "weight": "250",
       "unit": "гр"
     },
@@ -100,6 +118,13 @@
       "currency": "EUR",
       "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e2db0801-200.webp",
       "ean": "6242",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Пържена пъстърва",
+      "price": "5.20",
+      "currency": "EUR",
       "weight": "300",
       "unit": "гр"
     },
@@ -140,6 +165,13 @@
       "unit": "гр"
     },
     {
+      "name": "Бял Гараш",
+      "price": "3.10",
+      "currency": "EUR",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Крем панакота с ягоди",
       "price": "1.40",
       "currency": "EUR",
@@ -152,8 +184,6 @@
       "name": "Крем с фибри",
       "price": "1.50",
       "currency": "EUR",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/636b66b2-200.webp",
-      "ean": "8064",
       "weight": "130",
       "unit": "гр"
     },
@@ -168,8 +198,6 @@
       "name": "Мини еклери",
       "price": "1.50",
       "currency": "EUR",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c8cf3403-200.webp",
-      "ean": "8130",
       "weight": "170",
       "unit": "гр"
     },
