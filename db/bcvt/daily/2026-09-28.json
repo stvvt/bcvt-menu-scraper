@@ -150,12 +150,12 @@
       "unit": "гр"
     },
     {
-      "name": "Крем с фибри",
-      "price": "1.50",
+      "name": "Крем с чия и бял шоколад",
+      "price": "1.85",
       "currency": "EUR",
-      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/636b66b2-200.webp",
-      "ean": "8064",
-      "weight": "130",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4214ae1e-200.webp",
+      "ean": "8040",
+      "weight": "120",
       "unit": "гр"
     },
     {
@@ -182,10 +182,24 @@
       "ean": "8133"
     },
     {
+      "name": "Торта Парфе",
+      "price": "2.05",
+      "currency": "EUR",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
       "name": "Френска селска торта",
       "price": "2.55",
       "currency": "EUR",
       "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадов мус",
+      "price": "1.60",
+      "currency": "EUR",
+      "weight": "80",
       "unit": "гр"
     },
     {
