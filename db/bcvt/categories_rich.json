@@ -9658,5 +9658,19 @@
       "name": "Contorno: patate bollite con pomodoro secco e capperi",
       "description": "Questa variante di contorno include patate bollite morbide, aromatizzate con pomodoro secco intensamente saporito e capperi salati, che conferiscono un caratteristico gusto e aroma al piatto."
     }
+  },
+  "Лазаня с морски дарове": {
+    "bg": {
+      "name": "Лазаня с морски дарове",
+      "description": "Класическо италианско ястие, приготвено с пластове нудъли (лазания), богато слой с морски дарове като раци, миди и скариди, обвити в кремообразен сос и сирене, печено до златиста коричка."
+    },
+    "en": {
+      "name": "Seafood Lasagna",
+      "description": "A classic Italian dish made with layered pasta sheets (lasagna), rich layers of seafood such as crab, mussels, and shrimp, covered in a creamy sauce and cheese, baked until golden brown."
+    },
+    "it": {
+      "name": "Lasagna ai frutti di mare",
+      "description": "Un piatto classico italiano preparato con strati di pasta (lasagna), ricco di frutti di mare come granchio, cozze e gamberi, coperto da una salsa cremosa e formaggio, cotto al forno fino a doratura."
+    }
   }
 }
