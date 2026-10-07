@@ -9672,5 +9672,19 @@
       "name": "Lasagna ai frutti di mare",
       "description": "Un piatto classico italiano preparato con strati di pasta (lasagna), ricco di frutti di mare come granchio, cozze e gamberi, coperto da una salsa cremosa e formaggio, cotto al forno fino a doratura."
     }
+  },
+  "Сладкиш със сини слива": {
+    "bg": {
+      "name": "Сладкиш със сини слива",
+      "description": "Това е сочен и ароматен български десерт, който се приготвя с пресни сини сливи, покрити със слой тесто и поръсени със захар. След изпичане, получава се топъл, златист сладкиш с ярък плоден вкус, перфектен за лятна почивка."
+    },
+    "en": {
+      "name": "Blue Plum Cake",
+      "description": "A moist and fragrant Bulgarian dessert made with fresh blue plums, topped with a layer of batter and sprinkled with sugar. Baked until golden, it becomes a warm, fruity cake ideal for summer indulgence."
+    },
+    "it": {
+      "name": "Torta alle prugne blu",
+      "description": "Un dolce bulgaro umido e aromatico, preparato con pru­g­ne blu fresche, coperto con uno strato di impasto e cosparso di zucchero. Cotta al forno fino a doratura, diventa una torta calda e fruttata, perfetta per l'estate."
+    }
   }
 }

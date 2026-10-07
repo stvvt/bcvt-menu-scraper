@@ -249,12 +249,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "1.99",
+        "currency": "EUR",
+        "weight": "120",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-17",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fefe4a0d-200.jpg"
+      },
+      {
+        "date": "2026-10-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fefe4a0d-200.webp"
       }
     ]
   },
@@ -2690,6 +2702,14 @@
         "date": "2026-02-03",
         "price": "2.09",
         "currency": "лв",
+        "weight": "80",
+        "unit": "гр"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "1.10",
+        "currency": "EUR",
         "weight": "80",
         "unit": "гр"
       }
@@ -6345,6 +6365,14 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "1.80",
+        "currency": "EUR",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -8898,12 +8926,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "3.00",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-13",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a4c82ae6-200.jpg"
+      },
+      {
+        "date": "2026-10-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a4c82ae6-200.webp"
       }
     ]
   },
@@ -11417,6 +11457,14 @@
         "currency": "EUR",
         "weight": "120",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "2.90",
+        "currency": "EUR",
+        "weight": "120",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -11815,6 +11863,14 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "3.70",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -11955,12 +12011,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "1.00",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-10-30",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1eb262aa-200.jpg"
+      },
+      {
+        "date": "2026-10-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/28cb82dd-200.webp"
       }
     ]
   },
@@ -12144,12 +12212,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "2.50",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-31",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a0287fde-200.jpg"
+      },
+      {
+        "date": "2026-10-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a0287fde-200.webp"
       }
     ]
   },
@@ -12326,12 +12406,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "1.80",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-10-07",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f7025e85-200.jpg"
+      },
+      {
+        "date": "2026-10-07",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f7025e85-200.webp"
       }
     ]
   },
@@ -15402,6 +15494,20 @@
     "images": []
   },
   {
+    "name": "Сладкиш със сини слива",
+    "prices": [
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "2.30",
+        "currency": "EUR",
+        "weight": "160",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Сотирани зеленчуци с копър и чесън",
     "prices": [
       {
@@ -17066,6 +17172,12 @@
         "date": "2025-10-02",
         "price": "4.50",
         "currency": "лв"
+      },
+      {
+        "dateText": "07/10",
+        "date": "2026-10-07",
+        "price": "2.70",
+        "currency": "EUR"
       }
     ],
     "images": [
