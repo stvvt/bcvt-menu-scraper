@@ -9686,5 +9686,19 @@
       "name": "Torta alle prugne blu",
       "description": "Un dolce bulgaro umido e aromatico, preparato con pru­g­ne blu fresche, coperto con uno strato di impasto e cosparso di zucchero. Cotta al forno fino a doratura, diventa una torta calda e fruttata, perfetta per l'estate."
     }
+  },
+  "ГАРНИТУРА зеле, моркови и червено цвекло": {
+    "bg": {
+      "name": "Гарнитура зеле, моркови и червено цвекло",
+      "description": "Задушени или сварени зеленчуци, съчетаващи зеле, моркови и червено цвекло, често сервират като странично ястие към основните месни деликатеси. Те имат свеж, леко сладък вкус и ярки цветове, които придават приятен визуален ефект към ястието."
+    },
+    "en": {
+      "name": "Side dish of cabbage, carrots, and red beet",
+      "description": "A cooked or boiled vegetable side dish comprising cabbage, carrots, and red beet. It is commonly served as a side to main meat dishes. The vegetables have a fresh, slightly sweet flavor and vibrant colors, making it visually appealing."
+    },
+    "it": {
+      "name": "Contorno di cavolo, carote e barbabietola rossa",
+      "description": "Verdure cotte o bollite che combinano cavolo, carote e barbabietola rossa, spesso servite come contorno a piatti di carne principali. Hanno un sapore fresco, leggermente dolce, e colori vivaci che rendono il piatto visivamente attraente."
+    }
   }
 }

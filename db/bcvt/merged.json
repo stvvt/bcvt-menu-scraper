@@ -2203,6 +2203,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА зеле, моркови и червено цвекло",
+    "prices": [
+      {
+        "dateText": "08/10",
+        "date": "2026-10-08",
+        "price": "0.80",
+        "currency": "EUR",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Гарнитура зеле, моркови, домат и краставица",
     "prices": [
       {
@@ -4570,12 +4584,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/10",
+        "date": "2026-10-08",
+        "price": "1.60",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-21",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ee189693-200.jpg"
+      },
+      {
+        "date": "2026-10-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ee189693-200.webp"
       }
     ]
   },
@@ -10985,6 +11011,10 @@
       {
         "date": "2026-08-13",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/dae41351-200.webp"
+      },
+      {
+        "date": "2026-10-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fc7c063f-200.webp"
       }
     ]
   },
@@ -12243,7 +12273,12 @@
         "currency": "EUR"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-10-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7424f881-200.webp"
+      }
+    ]
   },
   {
     "name": "Ризото със зеленчуци",
@@ -12953,12 +12988,24 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/10",
+        "date": "2026-10-08",
+        "price": "3.00",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-12",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/52a20ff2-200.jpg"
+      },
+      {
+        "date": "2026-10-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/52a20ff2-200.webp"
       }
     ]
   },
@@ -13219,12 +13266,24 @@
         "currency": "лв",
         "weight": "180",
         "unit": "гр"
+      },
+      {
+        "dateText": "08/10",
+        "date": "2026-10-08",
+        "price": "1.20",
+        "currency": "EUR",
+        "weight": "180",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-11-17",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6813ebc2-200.jpg"
+      },
+      {
+        "date": "2026-10-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6813ebc2-200.webp"
       }
     ]
   },
@@ -17184,6 +17243,10 @@
       {
         "date": "2026-03-23",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5990eea9-200.jpg"
+      },
+      {
+        "date": "2026-10-08",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5990eea9-200.webp"
       }
     ]
   },
