@@ -4703,6 +4703,25 @@
     "images": []
   },
   {
+    "name": "Кавърма от пилешко месо с яйце",
+    "prices": [
+      {
+        "dateText": "12/10",
+        "date": "2026-10-12",
+        "price": "3.80",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-10-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/836047bc-200.webp"
+      }
+    ]
+  },
+  {
     "name": "Кавърма с телешко месо и яйце",
     "prices": [
       {
@@ -4827,12 +4846,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "12/10",
+        "date": "2026-10-12",
+        "price": "1.40",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-12",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ce0cae0b-200.jpg"
+      },
+      {
+        "date": "2026-10-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ce0cae0b-200.webp"
       }
     ]
   },
@@ -6631,7 +6662,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-10-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/30798dbd-200.webp"
+      }
+    ]
   },
   {
     "name": "Кюфтета от моркови с мед и тиквени семки",
@@ -10559,12 +10595,24 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "12/10",
+        "date": "2026-10-12",
+        "price": "3.60",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-28",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c0614736-200.jpg"
+      },
+      {
+        "date": "2026-10-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c0614736-200.webp"
       }
     ]
   },

@@ -9700,5 +9700,19 @@
       "name": "Contorno di cavolo, carote e barbabietola rossa",
       "description": "Verdure cotte o bollite che combinano cavolo, carote e barbabietola rossa, spesso servite come contorno a piatti di carne principali. Hanno un sapore fresco, leggermente dolce, e colori vivaci che rendono il piatto visivamente attraente."
     }
+  },
+  "Кавърма от пилешко месо с яйце": {
+    "bg": {
+      "name": "Кавърма от пилешко месо с яйце",
+      "description": "Кавърмата от пилешко месо с яйце е топло ястие, приготвено от бавно сготвено пилешко месо, смесено със зеленчуци и подправки, с добавено сурово яйце, което се разбърква в топлото ястие за кремообразна текстура."
+    },
+    "en": {
+      "name": "Chicken Kavarma with Egg",
+      "description": "Chicken kavarma with egg is a warm dish prepared from slow-cooked chicken meat mixed with vegetables and spices, with a raw egg added and stirred into the hot dish for a creamy texture."
+    },
+    "it": {
+      "name": "Kavarma di pollo con uovo",
+      "description": "La kavarma di pollo con uovo è un piatto caldo preparato con carne di pollo cotta lentamente, mescolata con verdure e spezie, con un uovo crudo aggiunto e mescolato nel piatto caldo per una consistenza cremosa."
+    }
   }
 }
