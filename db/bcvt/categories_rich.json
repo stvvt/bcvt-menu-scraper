@@ -9714,5 +9714,33 @@
       "name": "Kavarma di pollo con uovo",
       "description": "La kavarma di pollo con uovo è un piatto caldo preparato con carne di pollo cotta lentamente, mescolata con verdure e spezie, con un uovo crudo aggiunto e mescolato nel piatto caldo per una consistenza cremosa."
     }
+  },
+  "Домашна баница със спанак и сирене": {
+    "bg": {
+      "name": "Домашна баница със спанак и сирене",
+      "description": "Традиционно българско ястие, приготвено от тънки кори, пълнени със смес от спанак, сирене и яйца, завити на руло и запечени до златиста коричка. Обикновено се сервира топла, като закуска или основно ястие."
+    },
+    "en": {
+      "name": "Homemade Spinach and Cheese Banitsa",
+      "description": "A traditional Bulgarian dish made of thin sheets of dough filled with a mixture of spinach, cheese, and eggs. The strips are rolled up and baked until golden and crispy. Usually served warm, as a breakfast or main course."
+    },
+    "it": {
+      "name": "Banitsa fatta in casa con spinaci e formaggio",
+      "description": "Un piatto tradizionale bulgaro preparato con sottili fogli di pasta ripieni di un mix di spinaci, formaggio e uova. Le strisce sono arrotolate e cotte al forno fino a doratura. Di solito servita calda, come colazione o piatto principale."
+    }
+  },
+  "Дърпано пуешко с ориз": {
+    "bg": {
+      "name": "Дърпано пуешко с ориз",
+      "description": "Това ястие представлява бавно печени парчета пуешко месо, които са разбъркани с ориз, подправки и малко мазнина. Месото е много крехко и ароматно, а комбинацията с мек и пухкав ориз го прави любимо както за семейни вечери, така и за специални поводи."
+    },
+    "en": {
+      "name": "Pulling Turkey with Rice",
+      "description": "This dish features slowly cooked shredded turkey meat combined with rice, spices, and a bit of fat. The meat is very tender and flavorful, and the blend with soft, fluffy rice makes it a favorite for both family dinners and special occasions."
+    },
+    "it": {
+      "name": "Tacchino tirato con riso",
+      "description": "Questo piatto consiste in pezzi di tacchino cotti lentamente e sminuzzati, mescolati con riso, spezie e un po' di grasso. La carne è molto tenera e aromatica, e la combinazione con il riso morbido e soffice lo rende un piatto molto amato sia per le cene in famiglia che per occasioni speciali."
+    }
   }
 }

@@ -352,12 +352,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/10",
+        "date": "2026-10-13",
+        "price": "1.90",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-27",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9df02074-200.jpg"
+      },
+      {
+        "date": "2026-10-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/9df02074-200.webp"
       }
     ]
   },
@@ -1765,6 +1777,10 @@
       {
         "date": "2025-07-17",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8dd64211-200.jpg"
+      },
+      {
+        "date": "2026-10-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8dd64211-200.webp"
       }
     ]
   },
@@ -3142,6 +3158,14 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/10",
+        "date": "2026-10-13",
+        "price": "1.50",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
@@ -3152,6 +3176,10 @@
       {
         "date": "2025-11-17",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3a73e832-200.jpg"
+      },
+      {
+        "date": "2026-10-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/3a73e832-200.webp"
       }
     ]
   },
@@ -3433,6 +3461,20 @@
     ]
   },
   {
+    "name": "Домашна баница със спанак и сирене",
+    "prices": [
+      {
+        "dateText": "13/10",
+        "date": "2026-10-13",
+        "price": "2.00",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Домашна бисквитена торта",
     "prices": [
       {
@@ -3554,6 +3596,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c7d2438d-200.webp"
       }
     ]
+  },
+  {
+    "name": "Дърпано пуешко с ориз",
+    "prices": [
+      {
+        "dateText": "13/10",
+        "date": "2026-10-13",
+        "price": "6.20",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Европейска салата",
@@ -7061,12 +7117,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/10",
+        "date": "2026-10-13",
+        "price": "2.70",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-13",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ac102471-200.jpg"
+      },
+      {
+        "date": "2026-10-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/ac102471-200.webp"
       }
     ]
   },
@@ -14678,6 +14746,10 @@
       {
         "date": "2025-07-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/d1280da4-200.jpg"
+      },
+      {
+        "date": "2026-10-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fde2cf4c-200.webp"
       }
     ]
   },
@@ -15876,7 +15948,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-10-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/30b98bca-200.webp"
+      }
+    ]
   },
   {
     "name": "Суджук на скара",
@@ -17260,6 +17337,10 @@
       {
         "date": "2026-08-27",
         "imageUrl": "https://bcvt.eu/thumb_M/R/?t=Nz6x04%2B%2FcUWhyJa1dwFcrjBpmRGxr9PRnwnPdEBj5Q1sUfi%2FCx%2BccZuL0HKK2Bbv8c9211tvXMYAhojCUoBMMKFwer4a4Gv2qCBdDa7x0HI2reotTWK1544jTJvD5659HjFVTJs1u5kbVU0P7MjqHPRnW%2FFz%2BFL5jCiddKX2SeOc7%2B7jRVx5G%2FOfvmZFFBVYK5Qfhg8%2BeVq0RM%2BRMMD%2FKCB%2F0%2BSGzJ5y7d3QDHomIIOrMEcO2Ic%2FX%2FITothBAkGm5taYF8pfWuRV1%2BwmhPjPmgl7QZ%2BF2aGsG0dza%2BJqqJm0yYuPOOM4BkWaYy9fPKZrUi3W8c2x1zM9Zv3Cc8w00GQ8sCNpnD%2BHCX1kh6g6DGLhAdLv4WjQkw6opB%2BVshms.webp"
+      },
+      {
+        "date": "2026-10-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1b49234d-200.webp"
       }
     ]
   },
@@ -18859,6 +18940,12 @@
         "date": "2026-06-11",
         "price": "6.49",
         "currency": "лв"
+      },
+      {
+        "dateText": "13/10",
+        "date": "2026-10-13",
+        "price": "3.30",
+        "currency": "EUR"
       }
     ],
     "images": []
