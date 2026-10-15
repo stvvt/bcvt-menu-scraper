@@ -9742,5 +9742,33 @@
       "name": "Tacchino tirato con riso",
       "description": "Questo piatto consiste in pezzi di tacchino cotti lentamente e sminuzzati, mescolati con riso, spezie e un po' di grasso. La carne è molto tenera e aromatica, e la combinazione con il riso morbido e soffice lo rende un piatto molto amato sia per le cene in famiglia che per occasioni speciali."
     }
+  },
+  "Крем супа от картофи,моркови и целина": {
+    "bg": {
+      "name": "Крем супа от картофи, моркови и целина",
+      "description": "Тази гладка и кремообразна супа е приготвена от млени картофи, моркови и целина, които се сваряват до омекване и след това се пасират до гладка консистенция. Обикновено се поднася топла, с добавка на масло или сметана, и е отлично студено или топло ястие за зимните месеци."
+    },
+    "en": {
+      "name": "Cream Soup of Potatoes, Carrots, and Celery",
+      "description": "This smooth and creamy soup is made from pureed potatoes, carrots, and celery that are cooked until tender and then blended into a smooth consistency. It is typically served hot, often with a touch of butter or cream, and is a great dish for cold days, enjoyed either hot or cold."
+    },
+    "it": {
+      "name": "Zuppa cremosa di patate, carote e sedano",
+      "description": "Questa zuppa liscia e cremosa è preparata con patate, carote e sedano frullati, cotti fino a diventare teneri e poi frullati fino a ottenere una consistenza liscia. Solitamente viene servita calda, con l'aggiunta di burro o panna, ed è un piatto ideale sia caldo che freddo durante i mesi invernali."
+    }
+  },
+  "Лютеница 100 гр": {
+    "bg": {
+      "name": "Лютеница 100 гр",
+      "description": "Лютеница е традиционна българска салца, приготвена от печени червени чушки, домати, баклади и чесън. Обикновено се използва като разядка или за овкусяване на ястия, като при това има богат вкус и лека пикантност."
+    },
+    "en": {
+      "name": "Lutenitsa 100 gr",
+      "description": "Lutenitsa is a traditional Bulgarian spread made from roasted red peppers, tomatoes, eggplants, and garlic. It is commonly used as a side dish or to flavor dishes, offering a rich taste with a mild spicy note."
+    },
+    "it": {
+      "name": "Lutenica 100 gr",
+      "description": "La lutenica è una salsa tradizionale bulgara preparata con peperoni rossi arrostiti, pomodori, melanzane e aglio. Di solito viene utilizzata come antipasto o per insaporire i piatti, offrendo un sapore ricco e una leggera nota piccante."
+    }
   }
 }
