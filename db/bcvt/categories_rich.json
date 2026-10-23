@@ -9770,5 +9770,19 @@
       "name": "Lutenica 100 gr",
       "description": "La lutenica è una salsa tradizionale bulgara preparata con peperoni rossi arrostiti, pomodori, melanzane e aglio. Di solito viene utilizzata come antipasto o per insaporire i piatti, offrendo un sapore ricco e una leggera nota piccante."
     }
+  },
+  "Скумрия на фурна с печени картофи": {
+    "bg": {
+      "name": "Скумрия на фурна с печени картофи",
+      "description": "Ястие от печени на фурна скумрии, сервирани с гарнитура от златисто печени картофи. Традиционно подправено с лимон, магданоз и зехтин, това ястие е популярна морска деликатесна опция за любителите на рибни ястия."
+    },
+    "en": {
+      "name": "Baked Mackerel with Roasted Potatoes",
+      "description": "A dish of baked mackerel served with a side of golden roasted potatoes. Typically seasoned with lemon, parsley, and olive oil, this dish is a popular seafood option for fish lovers."
+    },
+    "it": {
+      "name": "Sgombro al forno con patate arrosto",
+      "description": "Un piatto di sgombro cotto al forno accompagnato da patate arrosto dorate. Solitamente aromatizzato con limone, prezzemolo e olio d'oliva, questa portata è una scelta popolare di pesce per gli amanti del mare."
+    }
   }
 }

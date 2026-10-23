@@ -4785,12 +4785,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/10",
+        "date": "2026-10-23",
+        "price": "1.00",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-25",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8179fe7-200.jpg"
+      },
+      {
+        "date": "2026-10-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e8179fe7-200.webp"
       }
     ]
   },
@@ -7765,12 +7777,24 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/10",
+        "date": "2026-10-23",
+        "price": "1.50",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-10-29",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a179ec39-200.jpg"
+      },
+      {
+        "date": "2026-10-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a179ec39-200.webp"
       }
     ]
   },
@@ -8461,12 +8485,24 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/10",
+        "date": "2026-10-23",
+        "price": "1.80",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-23",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/137c5d2f-200.jpg"
+      },
+      {
+        "date": "2026-10-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/137c5d2f-200.webp"
       }
     ]
   },
@@ -11629,12 +11665,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "23/10",
+        "date": "2026-10-23",
+        "price": "2.50",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2026-03-05",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/87a76a21-200.jpg"
+      },
+      {
+        "date": "2026-10-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/87a76a21-200.webp"
       }
     ]
   },
@@ -15839,6 +15887,25 @@
     ]
   },
   {
+    "name": "Скумрия на фурна с печени картофи",
+    "prices": [
+      {
+        "dateText": "23/10",
+        "date": "2026-10-23",
+        "price": "4.80",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": [
+      {
+        "date": "2026-10-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/4d4ee68d-200.webp"
+      }
+    ]
+  },
+  {
     "name": "Скумрия на фурна с печни картофи",
     "prices": [
       {
@@ -16486,6 +16553,10 @@
       {
         "date": "2025-08-04",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c7173c0-200.jpg"
+      },
+      {
+        "date": "2026-10-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/5c7173c0-200.webp"
       }
     ]
   },
@@ -17413,7 +17484,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-10-23",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f233e7df-200.webp"
+      }
+    ]
   },
   {
     "name": "Торта мус",
