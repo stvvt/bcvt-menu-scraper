@@ -9784,5 +9784,33 @@
       "name": "Sgombro al forno con patate arrosto",
       "description": "Un piatto di sgombro cotto al forno accompagnato da patate arrosto dorate. Solitamente aromatizzato con limone, prezzemolo e olio d'oliva, questa portata è una scelta popolare di pesce per gli amanti del mare."
     }
+  },
+  "Торта Пистачио": {
+    "bg": {
+      "name": "Торта Пистачио",
+      "description": "Торта Пистачио е изкусителна сладкарска творба, създадена от слоеста бисквитена основа, задна и богата кремообразна пълнеж, съчетаваща вкусът на орехи, кафе и шоколад. Тази торта е популярна в Италианската кухня и е идеална за специални поводи и празници."
+    },
+    "en": {
+      "name": "Pistachio Cake",
+      "description": "Pistachio Cake is an exquisite pastry creation made with a layered biscuit base and a rich creamy filling, combining flavors of pistachios, coffee, and chocolate. This cake is popular in Italian cuisine and is perfect for special occasions and celebrations."
+    },
+    "it": {
+      "name": "Torta Pistacchio",
+      "description": "La Torta Pistacchio è una deliziosa creazione dolciaria composta da una base di biscotto a strati e una farcitura cremosa ricca, che unisce i sapori di pistacchi, caffè e cioccolato. Questa torta è popolare nella cucina italiana ed è ideale per occasioni speciali e festività."
+    }
+  },
+  "Шварцвалдска торта": {
+    "bg": {
+      "name": "Шварцвалдска торта",
+      "description": "Шварцвалдската торта е класически германски десерт, известен със своите слоеве шоколадов блат, сладко вишнево пюре и обилно количество бита сметана. Всяка част от тортата е внимателно изработена, за да съчетае богатия шоколадов вкус с киселинността на вишните, обгърнати в хрупкави шоколадови стърготини."
+    },
+    "en": {
+      "name": "Black Forest Cake",
+      "description": "The Black Forest Cake is a classic German dessert known for its layers of chocolate sponge cake, cherry jam, and generous amounts of whipped cream. Each layer is carefully assembled to combine rich chocolate flavor with the tartness of cherries, topped with chocolate shavings."
+    },
+    "it": {
+      "name": "Torta della Foresta Nera",
+      "description": "La Torta della Foresta Nera è un classico dessert tedesco, noto per i suoi strati di pan di Spagna al cioccolato, confettura di ciliegie e abbondante panna montata. Ogni strato è attentamente assemblato per unire il ricco gusto di cioccolato con l'acidità delle ciliegie, coperto di scaglie di cioccolato."
+    }
   }
 }

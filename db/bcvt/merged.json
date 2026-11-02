@@ -14499,12 +14499,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "02/11",
+        "date": "2026-11-02",
+        "price": "1.80",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-11",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f8355b1a-200.jpg"
+      },
+      {
+        "date": "2026-11-02",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/f8355b1a-200.webp"
       }
     ]
   },
@@ -17595,6 +17607,20 @@
     ]
   },
   {
+    "name": "Торта Пистачио",
+    "prices": [
+      {
+        "dateText": "02/11",
+        "date": "2026-11-02",
+        "price": "3.00",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Торта Пистачо",
     "prices": [
       {
@@ -18612,6 +18638,20 @@
         "price": "4.21",
         "currency": "лв",
         "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Шварцвалдска торта",
+    "prices": [
+      {
+        "dateText": "02/11",
+        "date": "2026-11-02",
+        "price": "3.20",
+        "currency": "EUR",
+        "weight": "120",
         "unit": "гр"
       }
     ],
