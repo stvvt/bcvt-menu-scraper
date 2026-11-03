@@ -7040,7 +7040,12 @@
         "currency": "EUR"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-11-03",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/45a8b898-200.webp"
+      }
+    ]
   },
   {
     "name": "Лазаня с морски дарове",
