@@ -8873,6 +8873,10 @@
       {
         "date": "2025-11-03",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e798497a-200.jpg"
+      },
+      {
+        "date": "2026-11-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/35ef8ecd-200.webp"
       }
     ]
   },
@@ -15043,6 +15047,14 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "04/11",
+        "date": "2026-11-04",
+        "price": "3.70",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -17663,9 +17675,22 @@
         "currency": "лв",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "04/11",
+        "date": "2026-11-04",
+        "price": "1.90",
+        "currency": "EUR",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-11-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/54d56935-200.webp"
+      }
+    ]
   },
   {
     "name": "Торта портокалово парфе",
@@ -18150,9 +18175,22 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "04/11",
+        "date": "2026-11-04",
+        "price": "3.70",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-11-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/882506bb-200.webp"
+      }
+    ]
   },
   {
     "name": "Фритата с моцарела и зеленчуци",
@@ -18817,6 +18855,10 @@
       {
         "date": "2025-11-04",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cff53ed0-200.jpg"
+      },
+      {
+        "date": "2026-11-04",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/b7439fd8-200.webp"
       }
     ]
   },
