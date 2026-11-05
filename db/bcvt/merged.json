@@ -7716,6 +7716,20 @@
     ]
   },
   {
+    "name": "Мини пай с тиква",
+    "prices": [
+      {
+        "dateText": "05/11",
+        "date": "2026-11-05",
+        "price": "0.80",
+        "currency": "EUR",
+        "weight": "60",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Миш-маш",
     "prices": [
       {
@@ -8563,6 +8577,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/91cbafdf-200.jpg"
       }
     ]
+  },
+  {
+    "name": "Ориз с гъби и спанак",
+    "prices": [
+      {
+        "dateText": "05/11",
+        "date": "2026-11-05",
+        "price": "1.80",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Ориз с кореноплодни зеленчуци",
@@ -10458,12 +10486,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "05/11",
+        "date": "2026-11-05",
+        "price": "3.90",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2026-02-26",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7962ee03-200.jpg"
+      },
+      {
+        "date": "2026-11-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/7962ee03-200.webp"
       }
     ]
   },
@@ -14250,12 +14290,24 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "05/11",
+        "date": "2026-11-05",
+        "price": "3.30",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-09-11",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/61dc5220-200.jpg"
+      },
+      {
+        "date": "2026-11-05",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/61dc5220-200.webp"
       }
     ]
   },
@@ -15180,6 +15232,14 @@
         "date": "2026-02-20",
         "price": "9.74",
         "currency": "лв",
+        "weight": "300",
+        "unit": "гр"
+      },
+      {
+        "dateText": "05/11",
+        "date": "2026-11-05",
+        "price": "5.00",
+        "currency": "EUR",
         "weight": "300",
         "unit": "гр"
       }

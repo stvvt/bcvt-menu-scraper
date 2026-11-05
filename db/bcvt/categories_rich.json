@@ -9812,5 +9812,33 @@
       "name": "Torta della Foresta Nera",
       "description": "La Torta della Foresta Nera è un classico dessert tedesco, noto per i suoi strati di pan di Spagna al cioccolato, confettura di ciliegie e abbondante panna montata. Ogni strato è attentamente assemblato per unire il ricco gusto di cioccolato con l'acidità delle ciliegie, coperto di scaglie di cioccolato."
     }
+  },
+  "Мини пай с тиква": {
+    "bg": {
+      "name": "Мини пай с тиква",
+      "description": "Малък печени пай с пълнеж от мека, сладка тиква, обикновено подправена със канела и захар. Идеално за десерт или лек закуска, този пай е богат на аромат и уют."
+    },
+    "en": {
+      "name": "Mini Pumpkin Pie",
+      "description": "A small baked pie filled with soft, sweet pumpkin, usually spiced with cinnamon and sugar. Perfect as a dessert or a light snack, this pie is rich in aroma and comfort."
+    },
+    "it": {
+      "name": "Mini torta di zucca",
+      "description": "Una piccola torta cotta al forno ripiena di zucca morbida e dolce, tipicamente aromatizzata con cannella e zucchero. Perfetta come dessert o spuntino leggero, questa torta è ricca di aroma e comfort."
+    }
+  },
+  "Ориз с гъби и спанак": {
+    "bg": {
+      "name": "Ориз с гъби и спанак",
+      "description": "Тази класическа ястие включва мек, ароматен ориз, комбиниран с пресни гъби и свеж спанак. Гъбите се задушават до златисто, а спанакът се добавя към края за свежест и цвят. Приготвя се с лек и здравословен подход, подходящ за всеки вкус."
+    },
+    "en": {
+      "name": "Rice with Mushrooms and Spinach",
+      "description": "This classic dish features tender, flavorful rice combined with fresh mushrooms and spinach. The mushrooms are sautéed until golden, then spinach is added at the end for freshness and color. It is prepared with a light and healthy approach, suitable for all tastes."
+    },
+    "it": {
+      "name": "Riso con funghi e spinaci",
+      "description": "Questo piatto classico include riso tenero e aromatico, combinato con funghi freschi e spinaci. I funghi vengono soffritti fino a diventare dorati, poi si aggiunge gli spinaci alla fine per freschezza e colore. È preparato in modo leggero e salutare, adatto a tutti i gusti."
+    }
   }
 }
