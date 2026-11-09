@@ -613,6 +613,10 @@
       {
         "date": "2026-01-19",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cf936690-200.jpg"
+      },
+      {
+        "date": "2026-11-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cf936690-200.webp"
       }
     ]
   },
@@ -16655,12 +16659,24 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "09/11",
+        "date": "2026-11-09",
+        "price": "2.80",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-20",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/777e40fd-200.png"
+      },
+      {
+        "date": "2026-11-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/777e40fd-200.webp"
       }
     ]
   },
@@ -18626,6 +18642,10 @@
       {
         "date": "2025-10-20",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/806ef3c7-200.jpg"
+      },
+      {
+        "date": "2026-11-09",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/806ef3c7-200.webp"
       }
     ]
   },
@@ -19172,6 +19192,14 @@
         "date": "2025-09-26",
         "price": "3.50",
         "currency": "лв",
+        "weight": "150",
+        "unit": "гр"
+      },
+      {
+        "dateText": "09/11",
+        "date": "2026-11-09",
+        "price": "1.80",
+        "currency": "EUR",
         "weight": "150",
         "unit": "гр"
       }
