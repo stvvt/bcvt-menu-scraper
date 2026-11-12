@@ -1455,6 +1455,20 @@
     "images": []
   },
   {
+    "name": "Бяла риба меньор с лимоново маслен сос",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "5.90",
+        "currency": "EUR",
+        "weight": "230",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Бяла риба пане",
     "prices": [
       {
@@ -2725,6 +2739,20 @@
     "images": []
   },
   {
+    "name": "ГАРНИТУРА микс салати с круши и орехи",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "2.10",
+        "currency": "EUR",
+        "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "ГАРНИТУРА моркови и ябълки",
     "prices": [
       {
@@ -2863,6 +2891,20 @@
         "price": "1.10",
         "currency": "EUR",
         "weight": "80",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "ГАРНИТУРА френска морковена салата",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "1.05",
+        "currency": "EUR",
+        "weight": "100",
         "unit": "гр"
       }
     ],
@@ -3051,6 +3093,20 @@
     ]
   },
   {
+    "name": "Говеждо бургиньон",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "8.40",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Градинска супа",
     "prices": [
       {
@@ -3079,6 +3135,20 @@
         "dateText": "28/09",
         "date": "2026-09-28",
         "price": "1.50",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Гратен от карфиол със сирене",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "3.20",
         "currency": "EUR",
         "weight": "300",
         "unit": "гр"
@@ -3837,6 +3907,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/823a3b23-200.webp"
       }
     ]
+  },
+  {
+    "name": "Задушени гъби с праз ,бяло вино и масло",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "3.00",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Задушени зеленчуци в масло",
@@ -5297,6 +5381,20 @@
     ]
   },
   {
+    "name": "Картофи гратен дофинoаз",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "2.50",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Картофи соте",
     "prices": [
       {
@@ -5762,12 +5860,24 @@
         "currency": "лв",
         "weight": "250",
         "unit": "гр"
+      },
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "5.35",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-11-04",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fdced80c-200.jpg"
+      },
+      {
+        "date": "2026-11-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fdced80c-200.webp"
       }
     ]
   },
@@ -5795,12 +5905,24 @@
         "currency": "лв",
         "weight": "150",
         "unit": "гр"
+      },
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "2.50",
+        "currency": "EUR",
+        "weight": "120",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-11-03",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/6bfc930b-200.jpg"
+      },
+      {
+        "date": "2026-11-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/20135085-200.webp"
       }
     ]
   },
@@ -6531,12 +6653,24 @@
         "currency": "лв",
         "weight": "70",
         "unit": "гр"
+      },
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "1.00",
+        "currency": "EUR",
+        "weight": "70",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-12-10",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1256a571-200.jpg"
+      },
+      {
+        "date": "2026-11-12",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/1256a571-200.webp"
       }
     ]
   },
@@ -7654,6 +7788,20 @@
         "date": "2026-07-14",
         "price": "5.10",
         "currency": "EUR"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Микс салати с круши и орехи",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "3.90",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -11430,6 +11578,20 @@
     ]
   },
   {
+    "name": "Пилешко филе с вино и розмарин",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "5.05",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Пилешко филе с картофено пюре и ементал",
     "prices": [
       {
@@ -12001,6 +12163,20 @@
         "price": "3.00",
         "currency": "лв",
         "weight": "100",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Профитероли с шоколадов сос",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "3.00",
+        "currency": "EUR",
+        "weight": "150",
         "unit": "гр"
       }
     ],
@@ -12666,6 +12842,20 @@
         "price": "3.21",
         "currency": "лв",
         "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Рататуй",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "2.20",
+        "currency": "EUR",
+        "weight": "250",
         "unit": "гр"
       }
     ],
@@ -14316,6 +14506,20 @@
     ]
   },
   {
+    "name": "Сандвич Крок мосю с шунка, кашкавал и бешамел",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "3.00",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Сандвич с бекон и кашкавал",
     "prices": [
       {
@@ -15245,6 +15449,20 @@
         "price": "5.00",
         "currency": "EUR",
         "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Свински котлет със сос Дижон",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "7.90",
+        "currency": "EUR",
+        "weight": "350",
         "unit": "гр"
       }
     ],
@@ -16998,6 +17216,20 @@
     ]
   },
   {
+    "name": "Тарт Татен",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "2.20",
+        "currency": "EUR",
+        "weight": "120",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Тас кебап с пилешко месо",
     "prices": [
       {
@@ -18205,6 +18437,48 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/94cafe0b-200.webp"
       }
     ]
+  },
+  {
+    "name": "Френска лучена супа",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "2.10",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Френска морковена салата",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "1.90",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Френска пилешка супа",
+    "prices": [
+      {
+        "dateText": "12/11",
+        "date": "2026-11-12",
+        "price": "2.50",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Френска селска торта",

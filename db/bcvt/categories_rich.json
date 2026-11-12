@@ -9840,5 +9840,243 @@
       "name": "Riso con funghi e spinaci",
       "description": "Questo piatto classico include riso tenero e aromatico, combinato con funghi freschi e spinaci. I funghi vengono soffritti fino a diventare dorati, poi si aggiunge gli spinaci alla fine per freschezza e colore. È preparato in modo leggero e salutare, adatto a tutti i gusti."
     }
+  },
+  "Бяла риба меньор с лимоново маслен сос": {
+    "bg": {
+      "name": "Бяла риба меньор с лимоново маслен сос",
+      "description": "Това е деликатесно ястие, което включва пресна бяла риба меньор, сварена или запечена до съвършенство. Тя е поднесена с богат лимоново-маслен сос, който допълва деликатния й вкус и придава свежест. Ястието е идеално за любителите на леки морски деликатеси."
+    },
+    "en": {
+      "name": "White seabream with lemon butter sauce",
+      "description": "This is a delicate dish featuring fresh white seabream, either boiled or baked to perfection. It is served with a rich lemon butter sauce that complements its delicate flavor and adds freshness. The dish is perfect for lovers of light seafood."
+    },
+    "it": {
+      "name": "Orata bianca con salsa al burro e limone",
+      "description": "Questo è un piatto delicato che include una fresca orata bianca, cucinata al vapore o al forno fino alla perfezione. Viene servita con una ricca salsa al burro e limone che valorizza il suo sapore delicato e aggiunge freschezza. È ideale per gli amanti dei delicati frutti di mare."
+    }
+  },
+  "ГАРНИТУРА микс салати с круши и орехи": {
+    "bg": {
+      "name": "Гарнитура: микс салати с круши и орехи",
+      "description": "Лека и освежаваща гарнитура, съчетаваща разнообразни свежи салати с добавени сочни круши и хрупкави орехи. Идеална за допълнение към месни ястия или като самостоятелен здравословен избор."
+    },
+    "en": {
+      "name": "Side dish: mixed salads with pears and walnuts",
+      "description": "A light and refreshing side dish combining a variety of fresh salads with added juicy pears and crunchy walnuts. Perfect as a complement to meat dishes or as a healthy standalone option."
+    },
+    "it": {
+      "name": "Contorno: insalate miste con pere e noci",
+      "description": "Un contorno leggero e rinfrescante che combina diverse insalate fresche con pere succose e noci croccanti. Ideale come accompagnamento a piatti di carne o come scelta salutare da solo."
+    }
+  },
+  "ГАРНИТУРА френска морковена салата": {
+    "bg": {
+      "name": "Френска морковена салата",
+      "description": "Тази салата е класическо французско ястие, което включва свежи моркови, нарязани на тънки ленти или настъргани. Обикновено се овкусява с лимонов сок, зехтин, сол и пипер, като може да се добавят и пресни подправки като магданоз или копър. Това е лека, освежаваща гарнитура, която отлично допълва основното ястие."
+    },
+    "en": {
+      "name": "French Carrot Salad",
+      "description": "This salad is a classic French dish that features fresh carrots, sliced into thin strips or grated. It is typically seasoned with lemon juice, olive oil, salt, and pepper, with optional additions of fresh herbs like parsley or dill. It is a light, refreshing side dish that complements main courses well."
+    },
+    "it": {
+      "name": "Insalata di carote francese",
+      "description": "Questa insalata è un piatto classico francese che include carote fresche, affettate a strisce sottili o grattugiate. Di solito è condita con succo di limone, olio d'oliva, sale e pepe, con aggiunte opzionali di erbe fresche come prezzemolo o aneto. È un contorno leggero e rinfrescante che si abbina bene ai piatti principali."
+    }
+  },
+  "Говеждо бургиньон": {
+    "bg": {
+      "name": "Говеждо Бургиньон",
+      "description": "Това е класическо френско ястие, приготвено с бавно варено говеждо месо в богата червена винена сосова база, обикновено с добавени зеленчуци като лук, моркови и гъби. Месото е крехко и ароматно, а сосът – богат и насыщен."
+    },
+    "en": {
+      "name": "Beef Bourguignon",
+      "description": "This is a classic French dish made with slowly braised beef in a rich red wine sauce, typically with added vegetables such as onions, carrots, and mushrooms. The meat is tender and flavorful, and the sauce is robust and hearty."
+    },
+    "it": {
+      "name": "Manzo alla Borgognona",
+      "description": "Questo è un piatto classico francese preparato con carne di manzo cotta lentamente in una ricca salsa di vino rosso, solitamente con verdure come cipolle, carote e funghi. La carne è tenera e saporita, e la salsa è ricca e sostanziosa."
+    }
+  },
+  "Гратен от карфиол със сирене": {
+    "bg": {
+      "name": "Гратен от карфиол със сирене",
+      "description": "Ястие, приготвено като печен карфиол, покрит с богат слой от разтопено сирене, които се пека до златисто зърнесто. Обикновено се сервира като апетитна гарнитура или вегетарианско основно ястие."
+    },
+    "en": {
+      "name": "Cauliflower Gratin with Cheese",
+      "description": "A dish made by baking cauliflower topped with a rich layer of melted cheese, baked until golden and bubbly. Usually served as a delicious side or a vegetarian main course."
+    },
+    "it": {
+      "name": "Gratin di cavolfiore e formaggio",
+      "description": "Un piatto preparato cuocendo al forno il cavolfiore coperto da uno spesso strato di formaggio fuso, fino a ottenere una crosta dorata e croccante. Tipicamente servito come contorno gustoso o piatto principale vegetariano."
+    }
+  },
+  "Задушени гъби с праз ,бяло вино и масло": {
+    "bg": {
+      "name": "Задушени гъби с праз, бяло вино и масло",
+      "description": "Това е ароматно ястие, приготвено като гъбите и празът се задушават в масло, след което се долива бяло вино и се готви, докато всичко се омекоти и усвои ароматите. Ястието е подходящо като гарнитура или основно ястие за любителите на земните и финни вкусове."
+    },
+    "en": {
+      "name": "Sauteed Mushrooms with Leeks, White Wine, and Butter",
+      "description": "This is a fragrant dish where mushrooms and leeks are sautéed in butter, then white wine is added and everything is cooked until tender and flavors merge. It is suitable as a side dish or a main course for those who enjoy earthy and delicate flavors."
+    },
+    "it": {
+      "name": "Funghi trifolati con porri, vino bianco e burro",
+      "description": "Questo è un piatto aromatico in cui funghi e porri vengono trifolati nel burro, dopodiché si aggiunge vino bianco e si cuoce tutto fino a diventare tenero e profumato. È ideale come contorno o piatto principale per gli amanti dei gusti terrosi e delicati."
+    }
+  },
+  "Картофи гратен дофинoаз": {
+    "bg": {
+      "name": "Картофи гратен дофиноаз",
+      "description": "Това е кремообразно ястие, приготвено с тънки филийки картофи, наситени с богат сос, обикновено от готварски сметана, сирене и подправки. Пече се до златисто коричка отгоре, като се получава нежна текстура и изразен вкус. Вариантът дофинoаз е класическо френско ястие, което е популярно и в България."
+    },
+    "en": {
+      "name": "Dauphinoise Potatoes",
+      "description": "This is a creamy dish made with thinly sliced potatoes soaked in a rich sauce, usually composed of cream, cheese, and spices. It is baked until golden brown on top, resulting in a tender texture and a flavorful taste. The dauphinoise style is a classic French dish that is also popular in Bulgaria."
+    },
+    "it": {
+      "name": "Patate alla dauphinoise",
+      "description": "Questo è un piatto cremoso preparato con fettine sottili di patate immerse in una salsa ricca, solitamente composta da panna, formaggio e spezie. Viene cotto in forno fino a quando sulla superficie si forma una crosticina dorata, ottenendo una consistenza morbida e un sapore intenso. La variante dauphinoise è un classico piatto francese molto apprezzato anche in Bulgaria."
+    }
+  },
+  "Микс салати с круши и орехи": {
+    "bg": {
+      "name": "Микс салати с круши и орехи",
+      "description": "Свежа и ароматна салата, съчетаваща разнообразие от зеленолистни салати, сочни круши и хрупкави орехи. Идеална за лека закуска или като допълнение към основното ястие, предлагайки баланс между сладко и горчиво, текстура и вкус."
+    },
+    "en": {
+      "name": "Mix Salad with Pears and Walnuts",
+      "description": "A fresh and fragrant salad combining a variety of leafy greens, juicy pears, and crunchy walnuts. Perfect as a light snack or as a side dish, offering a balance of sweet and bitter flavors, texture and taste."
+    },
+    "it": {
+      "name": "Insalata mista con pere e noci",
+      "description": "Un'insalata fresca e profumata che combina diverse foglie verdi, pere succose e noci croccanti. Ideale come spuntino leggero o come contorno, offrendo un equilibrio tra dolce e amaro, consistenza e sapore."
+    }
+  },
+  "Пилешко филе с вино и розмарин": {
+    "bg": {
+      "name": "Пилешко филе с вино и розмарин",
+      "description": "Ястие от златисто печени пилешки гърди, наситени с ароматите на бяло вино и свеж розмарин. Подходящо както за ежедневна вечеря, така и за по-специални поводи."
+    },
+    "en": {
+      "name": "Chicken fillet with wine and rosemary",
+      "description": "A dish of golden baked chicken breasts infused with the aroma of white wine and fresh rosemary. Suitable for both everyday dinners and special occasions."
+    },
+    "it": {
+      "name": "Filetto di pollo con vino e rosmarino",
+      "description": "Un piatto di petto di pollo dorato al forno, insaporito con l'aroma di vino bianco e rosmarino fresco. Ideale sia per cene quotidiane che per occasioni speciali."
+    }
+  },
+  "Профитероли с шоколадов сос": {
+    "bg": {
+      "name": "Профитероли с шоколадов сос",
+      "description": "Меки и леко хрупкави тестени топки, пълни с въздушен крем, които се поливат с плътен и гладък шоколадов сос. Това е десерт, който съчетава сочността и текстурата на шоколада с фината текстура на тестото."
+    },
+    "en": {
+      "name": "Profiteroles with Chocolate Sauce",
+      "description": "Soft and slightly crunchy pastry balls filled with airy cream, topped with a rich and smooth chocolate sauce. This dessert combines the moistness and texture of chocolate with the delicate texture of the pastry."
+    },
+    "it": {
+      "name": "Profiteroles con salsa al cioccolato",
+      "description": "Sfere di pasta leggera e croccante, ripiene di crema aerata, e ricoperte da una densa e liscia salsa al cioccolato. Questo dessert combina la morbidezza e la consistenza del cioccolato con la delicatezza della pasta."
+    }
+  },
+  "Рататуй": {
+    "bg": {
+      "name": "Рататуй",
+      "description": "Рататуй е цветна зеленчукова яхния от южна Франция, включваща домати, патладжан, тиквички, лук и чушки, задушени в ароматни подправки. Това ястие е предпочитано заради свежия си вкус и ярките цветове."
+    },
+    "en": {
+      "name": "Ratatouille",
+      "description": "Ratatouille is a colorful vegetable stew from southern France, including tomatoes, eggplants, zucchinis, onions, and peppers, cooked with aromatic herbs. It is popular for its fresh taste and vibrant colors."
+    },
+    "it": {
+      "name": "Ratatouille",
+      "description": "Il ratatouille è uno stufato di verdure colorato proveniente dalla Francia meridionale, composto da pomodori, melanzane, zucchine, cipolle e peperoni, cucinati con erbe aromatiche. È apprezzato per il suo sapore fresco e i suoi colori vivaci."
+    }
+  },
+  "Сандвич Крок мосю с шунка, кашкавал и бешамел": {
+    "bg": {
+      "name": "Сандвич Крок мосю с шунка, кашкавал и бешамел",
+      "description": "Този сандвич представлява топъл, апетитен сандвич, приготвен с мек хляб и плънка от деликатна шунка, разтопен кашкавал и богат бешамел сос. Той е комбинация от хрупкава коричка и кремообразна вътрешност, създавайки хармонично и вкусно изживяване."
+    },
+    "en": {
+      "name": "Croque Monsieur Sandwich with Ham, Cheese, and Béchamel",
+      "description": "This sandwich is a warm, appetizing creation made with soft bread filled with delicate ham, melted cheese, and a rich béchamel sauce. It offers a combination of a crispy crust and a creamy interior, providing a harmonious and tasty experience."
+    },
+    "it": {
+      "name": "Panino Croque Monsieur con prosciutto, formaggio e besciamella",
+      "description": "Questo panino caldo è preparato con pane morbido ripieno di prosciutto delicato, formaggio fuso e una ricca salsa besciamella. Offre un equilibrio tra una croccante crosta e un interno cremoso, garantendo un'esperienza gustosa e armoniosa."
+    }
+  },
+  "Свински котлет със сос Дижон": {
+    "bg": {
+      "name": "Свински котлет със сос Дижон",
+      "description": "Пилешки котлет, готвен до златисто и поднесен със сос Дижон, който е богат на вкус, с характерен аромат на горчица и малко от студеното и свежо усещане на дижонска горчица."
+    },
+    "en": {
+      "name": "Pork Chop with Dijon Sauce",
+      "description": "A pork chop cooked to a golden brown and served with a Dijon sauce, which is rich in flavor, with a distinctive mustard aroma and a slightly cold and fresh sensation of Dijon mustard."
+    },
+    "it": {
+      "name": "Chop di maiale con salsa Dijon",
+      "description": "Una bistecca di maiale cucinata fino a doratura, servita con una salsa Dijon, ricca di sapore, con un aroma caratteristico di senape e una leggera sensazione di freschezza tipica della senape di Digione."
+    }
+  },
+  "Тарт Татен": {
+    "bg": {
+      "name": "Тарт Татен",
+      "description": "Тарт Татен е популярен френски десерт, който представлява карамелизиран ябълков пай, приготвен с обръщане на тортата така, че плодовете да са отгоре. Ябълките са нарязани и карамелизирани в захар и масло, след което се покриват с тесто и се печат докато златисто покафенеят."
+    },
+    "en": {
+      "name": "Tarte Tatin",
+      "description": "Tarte Tatin is a popular French dessert that features caramelized apples baked under a pastry crust, then flipped over so the caramelized fruit is on top. The apples are sliced and caramelized with sugar and butter before being covered with pastry and baked until golden brown."
+    },
+    "it": {
+      "name": "Tarte Tatin",
+      "description": "La Tarte Tatin è un famoso dolce francese che consiste in una torta di mele caramellate cotte sotto una crosta di pasta, poi capovolta per far sì che la frutta caramellata sia in superficie. Le mele vengono affettate, caramellate con zucchero e burro, quindi coperte con la pasta e cotte in forno fino a doratura."
+    }
+  },
+  "Френска лучена супа": {
+    "bg": {
+      "name": "Френска лучена супа",
+      "description": "Това е класическа френска супа, приготвена от карамелизирани лук и богат бульон, гарнирана с хрупкави крутони и стопен сирене. Тя е топла, ароматна и идеална за зимните дни."
+    },
+    "en": {
+      "name": "French Onion Soup",
+      "description": "This is a classic French soup made from caramelized onions and rich broth, topped with crunchy croutons and melted cheese. It's warm, aromatic, and perfect for cold days."
+    },
+    "it": {
+      "name": "Zuppa di cipolle francese",
+      "description": "Questa è una classica zuppa francese fatta con cipolle caramellate e un brodo ricco, guarnita con crostini croccanti e formaggio fuso. È calda, aromatica e perfetta per i giorni freddi."
+    }
+  },
+  "Френска морковена салата": {
+    "bg": {
+      "name": "Френска морковена салата",
+      "description": "Тази салата е класическо френско ястие, в което сурови моркови са нарязани на тънки ивици и смесени с майонеза, горчица, лимонов сок и подправки. Обикновено се сервира студена като свежа и лека гарнитура или предястие."
+    },
+    "en": {
+      "name": "French Carrot Salad",
+      "description": "This salad is a classic French dish where raw carrots are thinly julienned and mixed with mayonnaise, mustard, lemon juice, and seasonings. It is typically served cold as a fresh and light appetizer or side dish."
+    },
+    "it": {
+      "name": "Insalata di carote alla francese",
+      "description": "Questa insalata è un piatto classico francese in cui carote crude sono tagliate a julienne sottili e mescolate con maionese, senape, succo di limone e condimenti. Di solito viene servita fredda come un antipasto fresco e leggero."
+    }
+  },
+  "Френска пилешка супа": {
+    "bg": {
+      "name": "Френска пилешка супа",
+      "description": "Тази супа е класическо френско ястие, приготвено с парчета пилешко месо, варени в ароматен бульон заедно с добре подправени зеленчуци като моркови, целина и лук. Обикновено се сервира топла, често с крутончета или тост, и е известна със своето леко и балансирано вкусово профил."
+    },
+    "en": {
+      "name": "French Chicken Soup",
+      "description": "This soup is a classic French dish made with pieces of chicken, cooked in a fragrant broth along with well-seasoned vegetables such as carrots, celery, and onions. It is typically served hot, often with croutons or toast, and is known for its light and balanced flavor."
+    },
+    "it": {
+      "name": "Zuppa di pollo francese",
+      "description": "Questa zuppa è un piatto classico francese preparato con pezzi di pollo, cotti in un brodo aromatico insieme a verdure ben condite come carote, sedano e cipolle. Solitamente viene servita calda, spesso con crostini o pane tostato, ed è nota per il suo gusto leggero e bilanciato."
+    }
   }
 }
