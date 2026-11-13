@@ -10078,5 +10078,47 @@
       "name": "Zuppa di pollo francese",
       "description": "Questa zuppa è un piatto classico francese preparato con pezzi di pollo, cotti in un brodo aromatico insieme a verdure ben condite come carote, sedano e cipolle. Solitamente viene servita calda, spesso con crostini o pane tostato, ed è nota per il suo gusto leggero e bilanciato."
     }
+  },
+  "Домашна баница с праз и кайма": {
+    "bg": {
+      "name": "Домашна баница с праз и кайма",
+      "description": "Това е традиционно българско ястие, състоящо се от тънки кори, пълнени със смес от нарязан праз и месо от кайма. Баницата е изпечатана до златисто и сервирана топла, често с кисело мляко или течен сироп."
+    },
+    "en": {
+      "name": "Homemade Banitsa with Leeks and Minced Meat",
+      "description": "This is a traditional Bulgarian dish consisting of thin layers of dough filled with a mixture of chopped leeks and minced meat. The banitsa is baked until golden and served hot, often accompanied by yogurt or a sweet syrup."
+    },
+    "it": {
+      "name": "Banitsa fatta in casa con porri e carne macinata",
+      "description": "Questo è un piatto tradizionale bulgaro composto da sottili strati di pasta ripieni con un mix di porri tritati e carne macinata. La banitza viene cotta fino a diventare dorata e servita calda, spesso accompagnata da yogurt o uno sciroppo dolce."
+    }
+  },
+  "Кроасан с два вида крем": {
+    "bg": {
+      "name": "Кроасан с два вида крем",
+      "description": "Хрупкав кроасан, напълнен с два вида крем – един сладък ванилов и друг плодово-етинов, създаващ богатство от вкусове и текстури във всяка хапка."
+    },
+    "en": {
+      "name": "Croissant with two types of cream",
+      "description": "Crispy croissant filled with two types of cream – a sweet vanilla and a fruit-flavored one, offering a rich blend of flavors and textures in each bite."
+    },
+    "it": {
+      "name": "Cornetto con due tipi di crema",
+      "description": "Cornetto croccante ripieno di due tipi di crema – una dolce alla vaniglia e l'altra al sapore di frutta, creando un'esperienza ricca di sapori e consistenze in ogni morso."
+    }
+  },
+  "Пандишпаново руло с шоколадов крем": {
+    "bg": {
+      "name": "Пандишпаново руло с шоколадов крем",
+      "description": "Класическо българско сладко изкушение, състоящо се от лек, пухкав блат от пандишпан, който се разтяга внимателно и се навива с богат шоколадов крем. Обикновено се украсява с шоколадов ганаш или какаови стърготини, предоставяйки изискана и вкусна завършваща нотка на всяко празненство или следобеден десерт."
+    },
+    "en": {
+      "name": "Sponge cake roll with chocolate cream",
+      "description": "A classic Bulgarian sweet treat consisting of a light, fluffy sponge cake layer that is carefully rolled with rich chocolate cream. Usually decorated with chocolate ganache or cocoa shavings, offering an elegant and tasty finish for any celebration or afternoon dessert."
+    },
+    "it": {
+      "name": "Rotolo di pan di Spagna con crema al cioccolato",
+      "description": "Tradizione dolciaria bulgara, composta da uno strato di pan di Spagna leggero e soffice, arrotolato con una ricca crema al cioccolato. Solitamente decorato con ganache al cioccolato o scaglie di cacao, rappresenta un elegante e delizioso modo di concludere un festeggiamento o una merenda."
+    }
   }
 }

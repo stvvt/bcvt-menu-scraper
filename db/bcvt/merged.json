@@ -1243,12 +1243,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/11",
+        "date": "2026-11-13",
+        "price": "5.10",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-10-01",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/15766933-200.jpg"
+      },
+      {
+        "date": "2026-11-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/15766933-200.webp"
       }
     ]
   },
@@ -2055,6 +2067,14 @@
         "date": "2026-02-10",
         "price": "2.89",
         "currency": "лв",
+        "weight": "100",
+        "unit": "гр"
+      },
+      {
+        "dateText": "13/11",
+        "date": "2026-11-13",
+        "price": "1.50",
+        "currency": "EUR",
         "weight": "100",
         "unit": "гр"
       }
@@ -3565,6 +3585,20 @@
     ]
   },
   {
+    "name": "Домашна баница с праз и кайма",
+    "prices": [
+      {
+        "dateText": "13/11",
+        "date": "2026-11-13",
+        "price": "2.30",
+        "currency": "EUR",
+        "weight": "150",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Домашна баница със спанак и сирене",
     "prices": [
       {
@@ -4093,12 +4127,24 @@
         "currency": "лв",
         "weight": "300",
         "unit": "гр"
+      },
+      {
+        "dateText": "13/11",
+        "date": "2026-11-13",
+        "price": "3.10",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-08-04",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0a7cb986-200.jpg"
+      },
+      {
+        "date": "2026-11-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/0a7cb986-200.webp"
       }
     ]
   },
@@ -6636,6 +6682,20 @@
     ]
   },
   {
+    "name": "Кроасан с два вида крем",
+    "prices": [
+      {
+        "dateText": "13/11",
+        "date": "2026-11-13",
+        "price": "2.50",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
     "name": "Кроасан с масло",
     "prices": [
       {
@@ -9069,6 +9129,20 @@
         "price": "3.89",
         "currency": "лв",
         "weight": "200",
+        "unit": "гр"
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": "Пандишпаново руло с шоколадов крем",
+    "prices": [
+      {
+        "dateText": "13/11",
+        "date": "2026-11-13",
+        "price": "2.30",
+        "currency": "EUR",
+        "weight": "150",
         "unit": "гр"
       }
     ],
@@ -12151,6 +12225,10 @@
       {
         "date": "2026-08-13",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/411f899c-200.webp"
+      },
+      {
+        "date": "2026-11-13",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/94ee5a41-200.webp"
       }
     ]
   },
