@@ -10120,5 +10120,33 @@
       "name": "Rotolo di pan di Spagna con crema al cioccolato",
       "description": "Tradizione dolciaria bulgara, composta da uno strato di pan di Spagna leggero e soffice, arrotolato con una ricca crema al cioccolato. Solitamente decorato con ganache al cioccolato o scaglie di cacao, rappresenta un elegante e delizioso modo di concludere un festeggiamento o una merenda."
     }
+  },
+  "Пуешко с ориз и сушен домат": {
+    "bg": {
+      "name": "Пуешко с ориз и сушен домат",
+      "description": "Това е вкусно ястие, при което крехко месо от пуяк се готви заедно с ароматен ориз и сушени домати. Месото е добре овкусено и запазва сочната си текстура, докато оризът абсорбира богатия вкус на сушените домати. Ястието се сервира топло и е популярно като уютен обяд или вечеря."
+    },
+    "en": {
+      "name": "Turkey with Rice and Dried Tomato",
+      "description": "This is a delicious dish where tender turkey meat is cooked together with fragrant rice and dried tomatoes. The meat is well seasoned and retains its juicy texture, while the rice absorbs the rich flavor of the dried tomatoes. The dish is served hot and is popular as a comforting lunch or dinner."
+    },
+    "it": {
+      "name": "Tacchino con riso e pomodori secchi",
+      "description": "Questo è un delizioso piatto in cui tenero carne di tacchino viene cucinata insieme a riso aromatico e pomodori secchi. La carne è ben condita e mantiene la sua consistenza succosa, mentre il riso assorbe il ricco sapore dei pomodori secchi. Il piatto viene servito caldo ed è popolare come un pasto confortevole a pranzo o cena."
+    }
+  },
+  "Салата домати, краставици и чушка": {
+    "bg": {
+      "name": "Салата домати, краставици и чушка",
+      "description": "Това е свежа салата, състояща се от нарязани пресни домати, краставици и чушки, обикновено подправена с малко сол, зехтин и пресен магданоз. Подходяща е като освежаващо предястие или гарнитура към основното ястие."
+    },
+    "en": {
+      "name": "Tomato, cucumber, and pepper salad",
+      "description": "A fresh salad consisting of sliced fresh tomatoes, cucumbers, and peppers, usually seasoned with a little salt, olive oil, and fresh parsley. It is suitable as a refreshing appetizer or a side dish for main courses."
+    },
+    "it": {
+      "name": "Insalata di pomodori, cetrioli e peperoni",
+      "description": "Un'insalata fresca composta da pomodori freschi tagliati, cetrioli e peperoni, solitamente condita con un po' di sale, olio d'oliva e prezzemolo fresco. Ideale come antipasto rinfrescante o contorno."
+    }
   }
 }

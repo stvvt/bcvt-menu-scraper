@@ -3444,12 +3444,24 @@
         "currency": "лв",
         "weight": "200",
         "unit": "гр"
+      },
+      {
+        "dateText": "16/11",
+        "date": "2026-11-16",
+        "price": "1.80",
+        "currency": "EUR",
+        "weight": "200",
+        "unit": "гр"
       }
     ],
     "images": [
       {
         "date": "2025-07-21",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a74b3fd5-200.jpg"
+      },
+      {
+        "date": "2026-11-16",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/a74b3fd5-200.webp"
       }
     ]
   },
@@ -11648,6 +11660,10 @@
       {
         "date": "2026-01-22",
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c9f0e937-200.jpg"
+      },
+      {
+        "date": "2026-11-16",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c9f0e937-200.webp"
       }
     ]
   },
@@ -12325,6 +12341,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eb290ed9-200.webp"
       }
     ]
+  },
+  {
+    "name": "Пуешко с ориз и сушен домат",
+    "prices": [
+      {
+        "dateText": "16/11",
+        "date": "2026-11-16",
+        "price": "4.20",
+        "currency": "EUR",
+        "weight": "300",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Пуешко филе на плоча",
@@ -13869,6 +13899,20 @@
         "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/24876855-200.webp"
       }
     ]
+  },
+  {
+    "name": "Салата домати, краставици и чушка",
+    "prices": [
+      {
+        "dateText": "16/11",
+        "date": "2026-11-16",
+        "price": "2.60",
+        "currency": "EUR",
+        "weight": "250",
+        "unit": "гр"
+      }
+    ],
+    "images": []
   },
   {
     "name": "Салата домати, краставици, печена чушка и маслини",
@@ -18175,7 +18219,12 @@
         "unit": "гр"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "date": "2026-11-16",
+        "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c9e3e745-200.webp"
+      }
+    ]
   },
   {
     "name": "Торта Сахер",
