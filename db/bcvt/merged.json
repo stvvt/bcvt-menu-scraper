@@ -2025,6 +2025,14 @@
         "currency": "EUR",
         "weight": "100",
         "unit": "гр"
+      },
+      {
+        "dateText": "19/11",
+        "date": "2026-11-19",
+        "price": "1.50",
+        "currency": "EUR",
+        "weight": "100",
+        "unit": "гр"
       }
     ],
     "images": []
@@ -5300,6 +5308,14 @@
         "date": "2026-01-12",
         "price": "3.89",
         "currency": "лв",
+        "weight": "200",
+        "unit": "гр"
+      },
+      {
+        "dateText": "19/11",
+        "date": "2026-11-19",
+        "price": "2.00",
+        "currency": "EUR",
         "weight": "200",
         "unit": "гр"
       }
@@ -9725,6 +9741,12 @@
         "date": "2025-07-09",
         "price": "7.90",
         "currency": "лв"
+      },
+      {
+        "dateText": "19/11",
+        "date": "2026-11-19",
+        "price": "4.05",
+        "currency": "EUR"
       }
     ],
     "images": []

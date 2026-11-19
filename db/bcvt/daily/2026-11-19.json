@@ -1,0 +1,253 @@
+{
+  "date": "19/11",
+  "meals": [
+    {
+      "name": "Клуб сандвич",
+      "price": "3.00",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/74c6dd4d-200.webp",
+      "ean": "2078",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Кроасан с два вида крем",
+      "price": "2.50",
+      "currency": "EUR",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Кроасан с шунка и кашкавал",
+      "price": "2.05",
+      "currency": "EUR"
+    },
+    {
+      "name": "Сандвич с моцарела и яйце",
+      "price": "2.10",
+      "currency": "EUR",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Гръцка салата",
+      "price": "2.80",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/e9add018-200.webp",
+      "ean": "4022",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Листна салата с моркови",
+      "price": "1.65",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/8923f701-200.webp",
+      "ean": "4040",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "ГАРНИТУРА Гръцка салата",
+      "price": "1.50",
+      "currency": "EUR",
+      "weight": "100",
+      "unit": "гр"
+    },
+    {
+      "name": "ГАРНИТУРА листна салата с моркови",
+      "price": "1.00",
+      "currency": "EUR",
+      "weight": "80",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем супа от грах",
+      "price": "1.50",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/fafa7e52-200.webp",
+      "ean": "5018",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Пуешка супа",
+      "price": "2.15",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/eb290ed9-200.webp",
+      "ean": "5017",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Задушени броколи",
+      "price": "2.05",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/823a3b23-200.webp",
+      "ean": "6291",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Картофени кюфтета с каперси и кашкавал",
+      "price": "2.00",
+      "currency": "EUR",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Кашкавал пане",
+      "price": "2.80",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c1c2d233-200.webp",
+      "ean": "6364",
+      "weight": "100",
+      "unit": "гр"
+    },
+    {
+      "name": "Лазаня със сос болонезе",
+      "price": "4.55",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/11c18ad9-200.webp",
+      "ean": "6004",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Ориз с чушка и лук",
+      "price": "1.70",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/12c79a3a-200.webp",
+      "ean": "6097",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Паста с пилешко и сирена",
+      "price": "4.05",
+      "currency": "EUR"
+    },
+    {
+      "name": "Пиле по мексикански",
+      "price": "4.60",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/440e7441-200.webp",
+      "ean": "6593",
+      "weight": "300",
+      "unit": "гр"
+    },
+    {
+      "name": "Пилешко шишче",
+      "price": "2.40",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/c9943d78-200.webp",
+      "ean": "6316",
+      "weight": "130",
+      "unit": "гр"
+    },
+    {
+      "name": "Свински шницел",
+      "price": "3.30",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/cec6d4e3-200.webp",
+      "ean": "6010",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Филе от скумрия със сос ропотамо",
+      "price": "4.55",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/94cafe0b-200.webp",
+      "ean": "6017",
+      "weight": "250",
+      "unit": "гр"
+    },
+    {
+      "name": "Баклава със сушени плодове",
+      "price": "2.25",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/711066e7-200.webp",
+      "ean": "8124",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Крем панакота с ягоди",
+      "price": "1.40",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/892a2845-200.webp",
+      "ean": "8050",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Масленки с локум",
+      "price": "1.30",
+      "currency": "EUR",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Профитероли с шоколадов сос",
+      "price": "3.00",
+      "currency": "EUR",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Руло \"Бяло кадифе\"",
+      "price": "2.50",
+      "currency": "EUR",
+      "imageUrl": "https://bcvt.eu/sbf/bgerp/_tb_/60779ece-200.webp",
+      "ean": "8139",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Сладкиш с праскови",
+      "price": "1.65",
+      "currency": "EUR",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Торта Карамел",
+      "price": "2.15",
+      "currency": "EUR",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадови топчета",
+      "price": "2.10",
+      "currency": "EUR",
+      "weight": "150",
+      "unit": "гр"
+    },
+    {
+      "name": "Шоколадово брауни",
+      "price": "2.00",
+      "currency": "EUR"
+    },
+    {
+      "name": "Ягодово тирамису",
+      "price": "2.05",
+      "currency": "EUR"
+    },
+    {
+      "name": "Чабата с крема сирене и пушена сьомга",
+      "price": "3.10",
+      "currency": "EUR",
+      "weight": "200",
+      "unit": "гр"
+    },
+    {
+      "name": "Чабата с шунка и пушен кашкавал",
+      "price": "2.60",
+      "currency": "EUR",
+      "weight": "200",
+      "unit": "гр"
+    }
+  ]
+}
